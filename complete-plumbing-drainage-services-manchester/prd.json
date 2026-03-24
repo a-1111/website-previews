@@ -1,0 +1,82 @@
+{
+  "business": {
+    "name": "Complete Plumbing & Drainage Services",
+    "slug": "complete-plumbing-drainage-services-manchester",
+    "category": "Plumber",
+    "tagline": "Fast, Reliable Plumbing & Drainage Solutions"
+  },
+  "contact": {
+    "phone": "0161 274 4150",
+    "address": "Unit 67, Cariocca Business Park, Ardwick, Manchester M12 4AH",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Salford",
+      "Stockport",
+      "Oldham",
+      "Trafford"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Emergency Plumbing Repairs",
+    "Drain Unblocking & Jetting",
+    "Boiler Installation & Servicing",
+    "Bathroom Fitting & Refurbishment",
+    "Leak Detection & Repair",
+    "CCTV Drain Surveys"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "David Hartley",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Called in the morning with a blocked drain and they had it sorted by lunchtime. Professional, tidy and reasonably priced.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah Maguire",
+        "rating": 5,
+        "text": "Had a leak under the kitchen sink that two other plumbers couldn't fix properly. Complete Plumbing found the root cause and sorted it in one visit. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "James Okafor",
+        "rating": 4,
+        "text": "Arrived on time, explained everything clearly and the work was done to a high standard. Will definitely be using them again for our next bathroom project.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "CHAS Accredited",
+      "24/7 Emergency Callout"
+    ]
+  },
+  "brand": {
+    "tone": "professional and reliable",
+    "usp": "From blocked drains to full bathroom fits, we cover every plumbing need across Greater Manchester with fast response times and transparent pricing. No hidden costs, no call-out surprises \u2014 just quality work done right first time.",
+    "hero_headline": "Manchester's Trusted Plumbing & Drainage Experts",
+    "about_paragraph": "We're Complete Plumbing & Drainage Services, based at Cariocca Business Park in Ardwick and proud to serve homeowners and businesses across Greater Manchester. With fully qualified engineers and a commitment to honest, transparent pricing, we tackle everything from emergency leaks and blocked drains to full bathroom installations. When you call us, you get experienced tradespeople who respect your property and get the job done properly.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2a9d8f",
+      "accent": "#f4a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  }
+}
