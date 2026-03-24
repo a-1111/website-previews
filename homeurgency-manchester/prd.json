@@ -1,0 +1,82 @@
+{
+  "business": {
+    "name": "HOMEURGENCY",
+    "slug": "homeurgency-manchester",
+    "category": "Plumber",
+    "tagline": "Fast Emergency Plumbing When You Need It"
+  },
+  "contact": {
+    "phone": "0800 093 5020",
+    "address": "Manchester, Greater Manchester, M1 1AE",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Salford",
+      "Stockport",
+      "Oldham",
+      "Trafford"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 8pm",
+    "saturday": "8am - 6pm",
+    "sunday": "9am - 5pm",
+    "emergency_callout": true
+  },
+  "services": [
+    "Emergency Plumbing Call-Outs",
+    "Burst Pipe Repair",
+    "Boiler Breakdown & Repair",
+    "Blocked Drains & Toilets",
+    "Leak Detection & Repair",
+    "Central Heating Repairs"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "James R.",
+        "rating": 5,
+        "text": "Called HomeUrgency late on a Sunday evening with a burst pipe \u2014 engineer arrived within the hour and sorted it quickly. Absolutely brilliant service.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Responsive, professional and reasonably priced. Fixed our boiler the same day we called. Would definitely recommend to anyone in Manchester.",
+        "date": "2024"
+      },
+      {
+        "author": "David T.",
+        "rating": 4,
+        "text": "Great response time and the plumber was very knowledgeable. Cleared our blocked drain without any fuss. Will use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "24/7 Emergency Response",
+      "Fully Insured"
+    ]
+  },
+  "brand": {
+    "tone": "urgent, reassuring and professional",
+    "usp": "HomeUrgency provides rapid-response plumbing solutions across Manchester, available around the clock so no leak, burst pipe or breakdown is ever left to get worse.",
+    "hero_headline": "Manchester's Trusted Emergency Plumber Available Now",
+    "about_paragraph": "We're HomeUrgency, Manchester's go-to emergency plumbing service. Whether it's a burst pipe at midnight or a boiler that's given up on a cold morning, we respond fast and fix it right. Our Gas Safe registered engineers are based across Greater Manchester, ensuring we're always close by when you need us most.",
+    "colour_scheme": {
+      "primary": "#005eb8",
+      "secondary": "#ff6600",
+      "accent": "#00c2e0",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  }
+}

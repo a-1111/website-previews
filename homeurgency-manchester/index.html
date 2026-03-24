@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HOMEURGENCY – Manchester's Trusted Emergency Plumber</title>
+  <meta name="description" content="HomeUrgency provides rapid-response plumbing solutions across Manchester. Emergency plumbing, burst pipes, boiler repairs – available 24/7. Call 0800 093 5020." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#005eb8',
+            secondary: '#ff6600',
+            accent: '#00c2e0',
+            textdark: '#1a1a2e',
+          },
+          fontFamily: {
+            sans: ['Inter', 'system-ui', 'sans-serif'],
+          },
+        },
+      },
+    }
+  </script>
+  <style>
+    html { scroll-behavior: smooth; }
+    * { font-family: 'Inter', system-ui, sans-serif; }
+    .hero-gradient {
+      background: linear-gradient(135deg, #005eb8 0%, #003d7a 50%, #cc5200 100%);
+    }
+    .card-hover {
+      transition: transform 0.25s ease, box-shadow 0.25s ease;
+    }
+    .card-hover:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 32px rgba(0, 94, 184, 0.18);
+    }
+    .nav-shadow {
+      box-shadow: 0 2px 16px rgba(0,0,0,0.10);
+    }
+    .pulse-btn {
+      animation: pulse-orange 2s infinite;
+    }
+    @keyframes pulse-orange {
+      0%, 100% { box-shadow: 0 0 0 0 rgba(255,102,0,0.5); }
+      50% { box-shadow: 0 0 0 10px rgba(255,102,0,0); }
+    }
+    .star { color: #f59e0b; }
+    .star-empty { color: #d1d5db; }
+  </style>
+</head>
+<body class="bg-white text-textdark antialiased">
+
+  <!-- ============================================================
+       1. STICKY NAVIGATION
+  ============================================================ -->
+  <nav class="sticky top-0 z-50 bg-white nav-shadow">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16 md:h-20">
+        <!-- Logo -->
+        <a href="#hero" class="flex items-center gap-2 no-underline">
+          <span class="text-primary font-black text-xl md:text-2xl tracking-tight">HOME<span class="text-secondary">URGENCY</span></span>
+        </a>
+        <!-- Phone + CTA -->
+        <div class="flex items-center gap-2 md:gap-4">
+          <a href="tel:08000935020" class="hidden sm:flex items-center gap-2 text-textdark font-semibold text-base md:text-lg hover:text-primary transition-colors">
+            <svg class="w-5 h-5 text-secondary" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24c1.12.37 2.33.57 3.58.57a1 1 0 011 1V20a1 1 0 01-1 1C10.61 21 3 13.39 3 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.25.2 2.46.57 3.58a1 1 0 01-.24 1.01l-2.21 2.2z"/></svg>
+            0800 093 5020
+          </a>
+          <a href="tel:08000935020" class="pulse-btn bg-secondary hover:bg-orange-700 text-white font-bold py-2 px-4 md:py-3 md:px-6 rounded-full text-sm md:text-base transition-colors duration-200 whitespace-nowrap">
+            📞 Call Now
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ============================================================
+       2. HERO
+  ============================================================ -->
+  <section id="hero" class="hero-gradient text-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 md:py-24 lg:py-32">
+      <div class="max-w-3xl mx-auto text-center">
+        <!-- Emergency badge -->
+        <div class="inline-flex items-center gap-2 bg-white/10 border border-white/25 rounded-full px-4 py-1.5 text-sm font-semibold mb-6 backdrop-blur-sm">
+          <span class="relative flex h-2.5 w-2.5">
+            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent opacity-75"></span>
+            <span class="relative inline-flex rounded-full h-2.5 w-2.5 bg-accent"></span>
+          </span>
+          Emergency Engineers Available Now – Manchester
+        </div>
+
+        <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black leading-tight mb-6">
+          Manchester's Trusted<br class="hidden sm:block" /> <span class="text-accent">Emergency Plumber</span><br class="hidden sm:block" /> Available Now
+        </h1>
+
+        <p class="text-lg md:text-xl text-blue-100 mb-8 leading-relaxed max-w-2xl mx-auto">
+          HomeUrgency provides rapid-response plumbing solutions across Manchester, available around the clock so no leak, burst pipe or breakdown is ever left to get worse.
+        </p>
+
+        <!-- Primary CTA -->
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4 mb-10">
+          <a href="tel:08000935020" class="w-full sm:w-auto pulse-btn bg-secondary hover:bg-orange-600 text-white font-black text-xl md:text-2xl py-4 px-10 rounded-full transition-all duration-200 flex items-center justify-center gap-3 shadow-lg">
+            <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24c1.12.37 2.33.57 3.58.57a1 1 0 011 1V20a1 1 0 01-1 1C10.61 21 3 13.39 3 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.25.2 2.46.57 3.58a1 1 0 01-.24 1.01l-2.21 2.2z"/></svg>
+            0800 093 5020
+          </a>
+          <a href="#services" class="w-full sm:w-auto border-2 border-white/50 hover:border-white text-white hover:bg-white/10 font-semibold text-lg py-4 px-8 rounded-full transition-all duration-200 text-center">
+            Our Services ↓
+          </a>
+        </div>
+
+        <!-- Trust Badges -->
+        <div class="flex flex-wrap items-center justify-center gap-3 md:gap-4">
+          <div class="flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-4 py-2 text-sm font-semibold">
+            <span class="text-accent">✓</span> Gas Safe Registered
+          </div>
+          <div class="flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-4 py-2 text-sm font-semibold">
+            <span class="text-accent">✓</span> 24/7 Emergency Response
+          </div>
+          <div class="flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-4 py-2 text-sm font-semibold">
+            <span class="text-accent">✓</span> Fully Insured
+          </div>
+          <div class="flex items-center gap-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-4 py-2 text-sm font-semibold">
+            <span class="text-yellow-300">★</span> 4.7/5 Google Rating (38 Reviews)
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Wave divider -->
+    <div class="w-full overflow-hidden leading-none">
+      <svg viewBox="0 0 1440 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" class="w-full h-10 md:h-14 block">
+        <path d="M0,40 C360,0 1080,80 1440,20 L1440,60 L0,60 Z" fill="#ffffff"/>
+      </svg>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       3. SERVICES GRID
+  ============================================================ -->
+  <section id="services" class="py-16 md:py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-12">
+        <span class="inline-block bg-primary/10 text-primary font-semibold text-sm px-4 py-1.5 rounded-full mb-3">What We Fix</span>
+        <h2 class="text-3xl md:text-4xl font-black text-textdark mb-4">Our Plumbing Services</h2>
+        <p class="text-gray-500 max-w-xl mx-auto text-lg">From emergency call-outs to boiler repairs — we cover every plumbing need across Greater Manchester.</p>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+
+        <!-- Emergency Plumbing Call-Outs -->
+        <div class="card-hover bg-white border border-gray-100 rounded-2xl p-6 shadow-md flex flex-col gap-3">
+          <div class="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center text-2xl">🚨</div>
+          <h3 class="text-xl font-bold text-textdark">Emergency Plumbing Call-Outs</h3>
+          <p class="text-gray-500 text-sm leading-relaxed flex-1">24/7 rapid response to plumbing emergencies throughout Manchester. Engineers on call day and night, including weekends and bank holidays.</p>
+          <a href="tel:08000935020" class="mt-2 text-secondary font-semibold text-sm hover:underline flex items-center gap-1">Call Now →</a>
+        </div>
+
+        <!-- Burst Pipe Repair -->
+        <div class="card-hover bg-white border border-gray-100 rounded-2xl p-6 shadow-md flex flex-col gap-3">
+          <div class="w-12 h-12 bg-secondary/10 rounded-xl flex items-center justify-center text-2xl">💧</div>
+          <h3 class="text-xl font-bold text-textdark">Burst Pipe Repair</h3>
+          <p class="text-gray-500 text-sm leading-relaxed flex-1">Don't let a burst pipe cause serious damage. Our engineers locate and repair burst pipes quickly, minimising disruption and water damage to your property.</p>
+          <a href="tel:08000935020" class="mt-2 text-secondary font-semibold text-sm hover:underline flex items-center gap-1">Call Now →</a>
+        </div>
+
+        <!-- Boiler Breakdown & Repair -->
+        <div class="card-hover bg-white border border-gray-100 rounded-2xl p-6 shadow-md flex flex-col gap-3">
+          <div class="w-12 h-12 bg-accent/10 rounded-xl flex items-center justify-center text-2xl">🔥</div>
+          <h3 class="text-xl font-bold text-textdark">Boiler Breakdown & Repair</h3>
+          <p class="text-gray-500 text-sm leading-relaxed flex-1">Gas Safe registered engineers for all boiler makes and models. Same-day repair service available — don't suffer with no heating or hot water.</p>
+          <a href="tel:08000935020" class="mt-2 text-secondary font-semibold text-sm hover:underline flex items-center gap-1">Call Now →</a>
+        </div>
+
+        <!-- Blocked Drains & Toilets -->
+        <div class="card-hover bg-white border border-gray-100 rounded-2xl p-6 shadow-md flex flex-col gap-3">
+          <div class="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center text-2xl">🚽</div>
+          <h3 class="text-xl font-bold text-textdark">Blocked Drains & Toilets</h3>
+          <p class="text-gray-500 text-sm leading-relaxed flex-1">Fast, hygienic unblocking of drains and toilets. We use professional equipment to clear even the most stubborn blockages without delay.</p>
+          <a href="tel:08000935020" class="mt-2 text-secondary font-semibold text-sm hover:underline flex items-center gap-1">Call Now →</a>
+        </div>
+
+        <!-- Leak Detection & Repair -->
+        <div class="card-hover bg-white border border-gray-100 rounded-2xl p-6 shadow-md flex flex-col gap-3">
+          <div class="w-12 h-12 bg-secondary/10 rounded-xl flex items-center justify-center text-2xl">🔍</div>
+          <h3 class="text-xl font-bold text-textdark">Leak Detection & Repair</h3>
+          <p class="text-gray-500 text-sm leading-relaxed flex-1">Hidden leaks can cause significant damage. We use advanced detection methods to find and fix leaks at the source, saving you money on water bills.</p>
+          <a href="tel:08000935020" class="mt-2 text-secondary font-semibold text-sm hover:underline flex items-center gap-1">Call Now →</a>
+        </div>
+
+        <!-- Central Heating Repairs -->
+        <div class="card-hover bg-white border border-gray-100 rounded-2xl p-6 shadow-md flex flex-col gap-3">
+          <div class="w-12 h-12 bg-accent/10 rounded-xl flex items-center justify-center text-2xl">🌡️</div>
+          <h3 class="text-xl font-bold text-textdark">Central Heating Repairs</h3>
+          <p class="text-gray-500 text-sm leading-relaxed flex-1">Radiators not heating? Pressure dropping? Our qualified engineers diagnose and repair central heating faults to restore warmth to your home fast.</p>
+          <a href="tel:08000935020" class="mt-2 text-secondary font-semibold text-sm hover:underline flex items-center gap-1">Call Now →</a>
+        </div>
+
+      </div>
+
+      <!-- Mid-page CTA -->
+      <div class="mt-12 text-center">
+        <p class="text-gray-600 mb-4 font-medium">Facing a plumbing emergency right now?</p>
+        <a href="tel:08000935020" class="inline-flex items-center gap-3 bg-primary hover:bg-blue-800 text-white font-bold text-lg py-4 px-10 rounded-full transition-colors duration-200 shadow-md">
+          <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 1 0 011.01-.24c1.12.37 2.33.57 3.58.57a1 1 0 011 1V20a1 1 0 01-1 1C10.61 21 3 13.39 3 4a1 1 0 011-1h3.5a1 1 0 011 1c0 1.25.2 2.46.57 3.58a1 1 0 01-.24 1.01l-2.21 2.2z"/></svg>
+          0800 093 5020 — Call Now
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       4. ABOUT SECTION
+  ============================================================ -->
+  <section id="about" class="py-16 md:py-24 bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 items-center">
+        <!-- Photo placeholder -->
+        <div class="relative">
+          <div class="bg-gray-200 rounded-2xl w-full aspect-[4/3] flex flex-col items-center justify-center text-gray-400 shadow-inner overflow-hidden">
+            <svg class="w-20 h-20 text-gray-300 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14M4 4h16a2 2 0 012 2v12a2 2 0 01-2 2H4a2 2 0 01-2-2V6a2 2 0 012-2z"/></svg>
+            <span class="text-sm font-medium text-gray-400">HOMEURGENCY Engineers</span>
+            <span class="text-xs text-gray-300 mt-1">Manchester, Greater Manchester</span>
+          </div>
+          <!-- Floating badge -->
+          <div class="absolute -bottom-5 -right-3 md:-right-6 bg-white rounded-2xl shadow-lg px-5 py-3 flex items-center gap-3 border border-gray-100">
+            <div class="text-3xl font-black text-primary leading-none">4.7</div>
+            <div>
+              <div class="flex gap-0.5 text-yellow-400 text-base leading-none mb-0.5">★★★★★</div>
+              <div class="text-xs text-gray-500 font-medium">38 Google Reviews</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- About content -->
+        <div>
+          <span class="inline-block bg-primary/10 text-primary font-semibold text-sm px-4 py-1.5 rounded-full mb-4">About Us</span>
+          <h2 class="text-3xl md:text-4xl font-black text-textdark mb-6 leading-tight">Manchester's Go-To <span class="text-primary">Emergency Plumbing</span> Service</h2>
+          <p class="text-gray-600 leading-relaxed text-lg mb-8">
+            We're HomeUrgency, Manchester's go-to emergency plumbing service. Whether it's a burst pipe at midnight or a boiler that's given up on a cold morning, we respond fast and fix it right. Our Gas Safe registered engineers are based across Greater Manchester, ensuring we're always close by when you need us most.
+          </p>
+
+          <!-- USP highlights -->
+          <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+            <div class="bg-white rounded-xl p-4 border border-gray-100 shadow-sm text-center">
+              <div class="text-3xl font-black text-secondary mb-1">24/7</div>
+              <div class="text-xs text-gray-500 font-medium uppercase tracking-wide">Emergency Response</div>
+            </div>
+            <div class="bg-white rounded-xl p-4 border border-gray-100 shadow-sm text-center">
+              <div class="text-3xl font-black text-primary mb-1">5+</div>
+              <div class="text-xs text-gray-500 font-medium uppercase tracking-wide">Areas Covered</div>
+            </div>
+            <div class="bg-white rounded-xl p-4 border border-gray-100 shadow-sm text-center">
+              <div class="text-3xl font-black text-accent mb-1">GS✓</div>
+              <div class="text-xs text-gray-500 font-medium uppercase tracking-wide">Gas Safe Registered</div>
+            </div>
+          </div>
+
+          <div class="mt-8 flex flex-wrap gap-3">
+            <div class="flex items-center gap-2 text-sm font-semibold text-textdark"><span class="w-5 h-5 rounded-full bg-primary flex items-center justify-center text-white text-xs">✓</span> Gas Safe Registered</div>
+            <div class="flex items-center gap-2 text-sm font-semibold text-textdark"><span class="w-5 h-5 rounded-full bg-secondary flex items-center justify-center text-white text-xs">✓</span> Fully Insured</div>
+            <div class="flex items-center gap-2 text-sm font-semibold text-textdark"><span class="w-5 h-5 rounded-full bg-accent flex items-center justify-center text-white text-xs">✓</span> 24/7 Emergency Response</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       5. REVIEWS / TESTIMONIALS
+  ============================================================ -->
+  <section id="reviews" class="py-16 md:py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-12">
+        <span class="inline-block bg-yellow-50 text-yellow-600 font-semibold text-sm px-4 py-1.5 rounded-full mb-3">Customer Reviews</span>
+        <h2 class="text-3xl md:text-4xl font-black text-textdark mb-3">What Manchester Customers Say</h2>
+        <div class="flex items-center justify-center gap-2 text-gray-500">
+          <span class="flex gap-0.5 text-yellow-400 text-xl">★★★★★</span>
+          <span class="font-bold text-textdark">4.7</span>
+          <span>from 38 Google reviews</span>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+
+        <!-- Review 1 -->
+        <div class="card-hover bg-white border border-gray-100 rounded-2xl p-6 shadow-md flex flex-col gap-4">
+          <div class="flex gap-0.5 text-yellow-400 text-xl">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+          </div>
+          <p class="text-gray-600 leading-relaxed text-sm flex-1 italic">"Called HomeUrgency late on a Sunday evening with a burst pipe — engineer arrived within the hour and sorted it quickly. Absolutely brilliant service."</p>
+          <div class="flex items-center gap-3 border-t border-gray-50 pt-4">
+            <div class="w-10 h-10 rounded-full bg-primary/10 flex items-center justify-center text-primary font-bold text-sm">JR</div>
+            <div>
+              <div class="font-semibold text-textdark text-sm">James R.</div>
+              <div class="text-xs text-gray-400">2024 · Google Review</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Review 2 -->
+        <div class="card-hover bg-white border border-gray-100 rounded-2xl p-6 shadow-md flex flex-col gap-4">
+          <div class="flex gap-0.5 text-yellow-400 text-xl">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span>★</span>
+          </div>
+          <p class="text-gray-600 leading-relaxed text-sm flex-1 italic">"Responsive, professional and reasonably priced. Fixed our boiler the same day we called. Would definitely recommend to anyone in Manchester."</p>
+          <div class="flex items-center gap-3 border-t border-gray-50 pt-4">
+            <div class="w-10 h-10 rounded-full bg-secondary/10 flex items-center justify-center text-secondary font-bold text-sm">SM</div>
+            <div>
+              <div class="font-semibold text-textdark text-sm">Sarah M.</div>
+              <div class="text-xs text-gray-400">2024 · Google Review</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Review 3 -->
+        <div class="card-hover bg-white border border-gray-100 rounded-2xl p-6 shadow-md flex flex-col gap-4">
+          <div class="flex gap-0.5 text-yellow-400 text-xl">
+            <span>★</span><span>★</span><span>★</span><span>★</span><span class="text-gray-300">★</span>
+          </div>
+          <p class="text-gray-600 leading-relaxed text-sm flex-1 italic">"Great response time and the plumber was very knowledgeable. Cleared our blocked drain without any fuss. Will use again."</p>
+          <div class="flex items-center gap-3 border-t border-gray-50 pt-4">
+            <div class="w-10 h-10 rounded-full bg-accent/10 flex items-center justify-center text-accent font-bold text-sm">DT</div>
+            <div>
+              <div class="font-semibold text-textdark text-sm">David T.</div>
+              <div class="text-xs text-gray-400">2024 · Google Review</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       6. CONTACT SECTION
+  ============================================================ -->
+  <section id="contact" class="py-16 md:py-24 bg-gray-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-12">
+        <span class="inline-block bg-primary/10 text-primary font-semibold text-sm px-4 py-1.5 rounded-full mb-3">Get In Touch</span>
+        <h2 class="text-3xl md:text-4xl font-black text-textdark mb-4">Contact HomeUrgency</h2>
+        <p class="text-gray-500 text-lg max-w-xl mx-auto">Available 24/7 for emergencies. Don't wait — call us now and we'll have an engineer with you as soon as possible.</p>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+
+        <!-- Phone & Address -->
+        <div class="lg:col-span-1 flex flex-col gap-6">
+          <!-- Phone CTA Card -->
+          <div class="bg-primary text-white rounded-2xl p-6 shadow-lg">
+            <div class="text-sm font-semibold text-blue-200 mb-2 uppercase tracking-wide">📞 Call Us Now</div>
+            <a href="tel:08000935020" class="text-3xl font-black hover:text-accent transition-colors block mb-3">0800 093 5020</a>
+            <p class="text-blue-100 text-sm">Freephone. Available for emergencies around the clock.</p>
+            <a href="tel:08000935020" class="mt-4 inline-flex items-center gap-2 bg-secondary hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-full transition-colors text-sm">
+              📞 Call Now — It's Free
+            </a>
+          </div>
+
+          <!-- Address -->
+          <div class="bg-white rounded-2xl p-6 border border-gray-100 shadow-sm">
+            <div class="text-sm font-semibold text-gray-400 mb-2 uppercase tracking-wide">📍 Location</div>
+            <div class="font-semibold text-textdark">Manchester, Greater Manchester</div>
+            <div class="text-gray-500 text-sm mt-1">M1 1AE</div>
+          </div>
+
+          <!-- Service Areas -->
+          <div class="bg-white rounded-2xl p-6 border border-gray-100 shadow-sm">
+            <div class="text-sm font
