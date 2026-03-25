@@ -1,0 +1,81 @@
+{
+  "business": {
+    "name": "Raja Plumbing Supplies",
+    "slug": "raja-plumbing-supplies-manchester",
+    "category": "Plumbers' Merchant",
+    "tagline": "Your Local Trade Plumbing Supplies Hub"
+  },
+  "contact": {
+    "phone": "07766 856708",
+    "address": "661 Stockport Rd, Levenshulme, Manchester M12 4QA",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Levenshulme",
+      "Stockport",
+      "Salford",
+      "Oldham"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 5:30pm",
+    "saturday": "8am - 1pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Plumbing Pipes & Fittings",
+    "Boiler & Heating Components",
+    "Bathroom Fixtures & Fittings",
+    "Radiators & Valves",
+    "Hot & Cold Water Systems",
+    "Trade & Retail Plumbing Sundries"
+  ],
+  "social_proof": {
+    "google_rating": 4.5,
+    "review_count": 22,
+    "sample_reviews": [
+      {
+        "author": "Tariq H",
+        "rating": 5,
+        "text": "Great local supplier \u2014 they always have what I need in stock and the prices are very competitive. Easy to deal with and helpful staff.",
+        "date": "2024"
+      },
+      {
+        "author": "Steve M",
+        "rating": 4,
+        "text": "Handy trade counter on Stockport Road. Good range of plumbing parts and fittings. Saves me a trip into town every time.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave R",
+        "rating": 5,
+        "text": "Been using Raja for my plumbing jobs around South Manchester for a couple of years. Reliable stock, good prices, and quick to serve.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Trade Counter Open to Public",
+      "Competitive Trade Pricing"
+    ]
+  },
+  "brand": {
+    "tone": "straightforward and trade-friendly",
+    "usp": "Raja Plumbing Supplies is Levenshulme's trusted local trade counter, offering a wide range of plumbing components and fittings at competitive prices. We serve both trade professionals and homeowners across South Manchester with expert product knowledge and reliable stock.",
+    "hero_headline": "Quality Plumbing Supplies on Your Doorstep",
+    "about_paragraph": "We're Raja Plumbing Supplies, based right on Stockport Road in Levenshulme \u2014 a convenient stop for plumbers and homeowners across South Manchester. We stock everything from pipes and fittings to heating components and bathroom fixtures, all at trade-friendly prices. Whether you're a sole trader or a busy plumbing firm, we're here to get you what you need, fast.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86c1",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  }
+}
