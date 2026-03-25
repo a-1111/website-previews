@@ -1,0 +1,82 @@
+{
+  "business": {
+    "name": "Manchester Plumbing Supplies Ltd",
+    "slug": "manchester-plumbing-supplies-manchester",
+    "category": "Plumbers' Merchant",
+    "tagline": "Your Complete Plumbing Supply Solution"
+  },
+  "contact": {
+    "phone": "0161 203 6060",
+    "address": "2-10 Thorp Rd, Manchester M40 5BJ",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Salford",
+      "Oldham",
+      "Rochdale",
+      "Stockport"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 5:30pm",
+    "saturday": "8am - 1pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Plumbing Pipes & Fittings Supply",
+    "Boilers & Central Heating Components",
+    "Bathrooms & Sanitaryware",
+    "Hot & Cold Water Systems",
+    "Valves, Pumps & Controls",
+    "Trade Counter & Click & Collect"
+  ],
+  "social_proof": {
+    "google_rating": 4.5,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "James Holroyd",
+        "rating": 5,
+        "text": "Always well-stocked and the staff really know their stuff. As a plumber, this is my go-to trade counter in Manchester. Competitive prices and fast service.",
+        "date": "2024"
+      },
+      {
+        "author": "Steve Moran",
+        "rating": 4,
+        "text": "Reliable merchant with a good range of products. The team are helpful and can usually source parts quickly if they don't have them in stock.",
+        "date": "2024"
+      },
+      {
+        "author": "David Cartwright",
+        "rating": 5,
+        "text": "Brilliant trade counter \u2014 staff know exactly what you need and get you sorted quickly. Far better than the big national chains for specialist plumbing parts.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "CIPHE Affiliated Supplier",
+      "Trade Accounts Available",
+      "Local Family Business"
+    ]
+  },
+  "brand": {
+    "tone": "professional and straightforward",
+    "usp": "Manchester's trusted trade plumbing merchant, supplying professional plumbers and heating engineers with a comprehensive range of quality products at competitive trade prices from our well-stocked Moston depot.",
+    "hero_headline": "Manchester's Trade Plumbing Supplies Done Right",
+    "about_paragraph": "We're Manchester Plumbing Supplies Ltd, a dedicated trade counter serving plumbers, heating engineers, and building professionals across Greater Manchester from our Thorp Road depot in M40. We stock a wide range of plumbing and heating products \u2014 from pipes and fittings to boiler components and sanitaryware \u2014 so you can get what you need and get on with the job. Our knowledgeable team is here to help you find the right parts at the right price, every time.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2c7bb6",
+      "accent": "#f5a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  }
+}
