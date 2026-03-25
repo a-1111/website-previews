@@ -1,0 +1,82 @@
+{
+  "business": {
+    "name": "PRK Gas & Plumbing 24/7 Ltd",
+    "slug": "prk-gas-plumbing-manchester",
+    "category": "Gas Engineer",
+    "tagline": "Gas & Plumbing Experts, Any Hour"
+  },
+  "contact": {
+    "phone": "0161 327 2477",
+    "address": "Manchester, Greater Manchester",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Salford",
+      "Stockport",
+      "Oldham",
+      "Trafford"
+    ]
+  },
+  "hours": {
+    "monday_friday": "24 hours",
+    "saturday": "24 hours",
+    "sunday": "24 hours",
+    "emergency_callout": true
+  },
+  "services": [
+    "Emergency Gas Repairs",
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Maintenance",
+    "Central Heating Installation",
+    "Gas Safety Certificates (CP12)",
+    "Emergency Plumbing Repairs"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Called PRK at 2am when my boiler broke down in the middle of winter. Engineer arrived within the hour and had us back up and running quickly. Fantastic 24/7 service.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Really professional team. Fitted a new boiler and sorted our central heating the same day. Competitive pricing and very tidy work. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "David R",
+        "rating": 4,
+        "text": "Used PRK for our annual gas safety certificate. Easy to book, arrived on time and very thorough. Will be using them again next year.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "24/7 Emergency Service",
+      "Fully Insured"
+    ]
+  },
+  "brand": {
+    "tone": "reliable and reassuring",
+    "usp": "PRK Gas & Plumbing 24/7 Ltd delivers round-the-clock gas and plumbing solutions across Manchester, with Gas Safe registered engineers ready to respond to emergencies any time of day or night.",
+    "hero_headline": "Manchester's Gas & Plumbing Experts, 24/7",
+    "about_paragraph": "We're PRK Gas & Plumbing 24/7 Ltd, a Manchester-based team of Gas Safe registered engineers dedicated to keeping your home warm and safe at any hour. Whether it's a boiler breakdown at midnight or a routine annual service, we respond fast and work to the highest standards. Our 24/7 availability means you're never left in the cold \u2014 no matter when you need us.",
+    "colour_scheme": {
+      "primary": "#e8400c",
+      "secondary": "#1c3a5e",
+      "accent": "#f5a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  }
+}
