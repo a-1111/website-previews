@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Plumbers Didsbury | Trusted Plumbers in South Manchester</title>
+  <meta name="description" content="My Plumbers Didsbury – Gas Safe registered plumbers serving Didsbury, Withington, Chorlton & South Manchester. Boiler repairs, leak detection, bathroom installation & 24/7 emergency callouts." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#1b4f8a',
+            'primary-dark': '#153d6b',
+            secondary: '#2e86c1',
+            accent: '#f0a500',
+            'accent-dark': '#d4920a',
+            dark: '#1a1a2e',
+          },
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+          },
+        },
+      },
+    };
+  </script>
+  <style>
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Inter', sans-serif; color: #1a1a2e; background: #F8FAFC; }
+
+    /* Frosted glass nav */
+    .nav-glass {
+      background: rgba(27, 79, 138, 0.92);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(255,255,255,0.12);
+    }
+
+    /* Fade-in animation */
+    .fade-in {
+      opacity: 0;
+      transform: translateY(24px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+    .fade-in.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    .fade-in-delay-1 { transition-delay: 0.1s; }
+    .fade-in-delay-2 { transition-delay: 0.2s; }
+    .fade-in-delay-3 { transition-delay: 0.3s; }
+    .fade-in-delay-4 { transition-delay: 0.4s; }
+    .fade-in-delay-5 { transition-delay: 0.5s; }
+    .fade-in-delay-6 { transition-delay: 0.6s; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .fade-in { opacity: 1; transform: none; transition: none; }
+    }
+
+    /* Service card hover */
+    .service-card {
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 32px rgba(27,79,138,0.14);
+    }
+
+    /* Star rating */
+    .star { color: #f0a500; }
+
+    /* Review card */
+    .review-card {
+      transition: transform 0.2s ease;
+    }
+    .review-card:hover {
+      transform: translateY(-2px);
+    }
+
+    /* CTA button focus */
+    a:focus-visible, button:focus-visible {
+      outline: 3px solid #f0a500;
+      outline-offset: 2px;
+      border-radius: 6px;
+    }
+
+    /* Hero gradient overlay */
+    .hero-bg {
+      background: linear-gradient(135deg, #0d2d52 0%, #1b4f8a 50%, #2e86c1 100%);
+      position: relative;
+    }
+    .hero-bg::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Ccircle cx='30' cy='30' r='20'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E") repeat;
+      pointer-events: none;
+    }
+
+    /* Hamburger */
+    .hamburger-line {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background: #fff;
+      margin: 4px 0;
+      transition: all 0.3s ease;
+    }
+
+    /* Mobile menu */
+    #mobile-menu {
+      transition: max-height 0.35s ease, opacity 0.3s ease;
+      max-height: 0;
+      overflow: hidden;
+      opacity: 0;
+    }
+    #mobile-menu.open {
+      max-height: 400px;
+      opacity: 1;
+    }
+
+    /* Input focus */
+    input:focus, textarea:focus, select:focus {
+      outline: none;
+      border-color: #2e86c1;
+      box-shadow: 0 0 0 3px rgba(46,134,193,0.2);
+    }
+
+    .accent-underline {
+      position: relative;
+      display: inline-block;
+    }
+    .accent-underline::after {
+      content: '';
+      position: absolute;
+      left: 0; bottom: -4px;
+      width: 60px; height: 4px;
+      background: #f0a500;
+      border-radius: 2px;
+    }
+  </style>
+
+  <!-- Schema.org LocalBusiness JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Plumber",
+    "name": "My Plumbers Didsbury",
+    "url": "https://myplumbersdidsbury.co.uk",
+    "telephone": "01614102470",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Didsbury",
+      "addressLocality": "Manchester",
+      "postalCode": "M20",
+      "addressCountry": "GB"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 53.4189,
+      "longitude": -2.2284
+    },
+    "areaServed": [
+      "Didsbury", "Withington", "Chorlton", "Burnage", "East Didsbury", "South Manchester"
+    ],
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+        "opens": "08:00",
+        "closes": "18:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "09:00",
+        "closes": "16:00"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "38",
+      "bestRating": "5"
+    },
+    "description": "My Plumbers Didsbury provides fast, reliable plumbing services to homes and businesses across South Manchester, with Gas Safe registered engineers available for emergencies seven days a week.",
+    "hasCredential": "Gas Safe Registered",
+    "priceRange": "££"
+  }
+  </script>
+</head>
+
+<body class="antialiased">
+
+  <!-- ========== NAVIGATION ========== -->
+  <nav class="nav-glass fixed top-0 left-0 right-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+
+        <!-- Logo -->
+        <a href="#" class="flex items-center gap-2.5 cursor-pointer" aria-label="My Plumbers Didsbury Home">
+          <div class="w-9 h-9 rounded-lg flex items-center justify-center flex-shrink-0" style="background:#f0a500;">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="#1b4f8a" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M3 3h4l2 4-2.5 1.5A11 11 0 0 0 14 16.5L15.5 14l4 2v4a2 2 0 0 1-2 2C7.6 22 2 16.4 2 5a2 2 0 0 1 2-2z"/>
+            </svg>
+          </div>
+          <div class="leading-tight">
+            <span class="block text-white font-800 text-sm font-bold tracking-tight">My Plumbers</span>
+            <span class="block text-blue-200 text-xs font-medium tracking-wide">Didsbury</span>
+          </div>
+        </a>
+
+        <!-- Desktop right -->
+        <div class="hidden md:flex items-center gap-6">
+          <div class="hidden lg:flex items-center gap-6 mr-2">
+            <a href="#services" class="text-blue-100 hover:text-white text-sm font-medium transition-colors duration-150 cursor-pointer">Services</a>
+            <a href="#about" class="text-blue-100 hover:text-white text-sm font-medium transition-colors duration-150 cursor-pointer">About</a>
+            <a href="#reviews" class="text-blue-100 hover:text-white text-sm font-medium transition-colors duration-150 cursor-pointer">Reviews</a>
+            <a href="#contact" class="text-blue-100 hover:text-white text-sm font-medium transition-colors duration-150 cursor-pointer">Contact</a>
+          </div>
+          <div class="flex items-center gap-2">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 text-accent flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M3 3h4l2 4-2.5 1.5A11 11 0 0 0 14 16.5L15.5 14l4 2v4a2 2 0 0 1-2 2C7.6 22 2 16.4 2 5a2 2 0 0 1 2-2z"/>
+            </svg>
+            <span class="text-white text-sm font-semibold">0161 410 2470</span>
+          </div>
+          <a href="tel:01614102470" class="cursor-pointer inline-flex items-center gap-1.5 px-4 py-2 rounded-lg text-sm font-semibold text-dark transition-colors duration-150 hover:opacity-90 focus:outline-none" style="background:#f0a500;">
+            Call Now
+          </a>
+        </div>
+
+        <!-- Hamburger -->
+        <button id="hamburger" class="md:hidden p-2 cursor-pointer" aria-label="Toggle menu" aria-expanded="false" aria-controls="mobile-menu">
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mobile menu -->
+    <div id="mobile-menu" role="navigation" aria-label="Mobile navigation">
+      <div class="px-4 pb-4 space-y-2" style="background:rgba(17,45,80,0.97);">
+        <a href="#services" class="block px-3 py-2 text-blue-100 hover:text-white text-sm font-medium rounded-lg hover:bg-white/10 transition-colors duration-150 cursor-pointer">Services</a>
+        <a href="#about" class="block px-3 py-2 text-blue-100 hover:text-white text-sm font-medium rounded-lg hover:bg-white/10 transition-colors duration-150 cursor-pointer">About</a>
+        <a href="#reviews" class="block px-3 py-2 text-blue-100 hover:text-white text-sm font-medium rounded-lg hover:bg-white/10 transition-colors duration-150 cursor-pointer">Reviews</a>
+        <a href="#contact" class="block px-3 py-2 text-blue-100 hover:text-white text-sm font-medium rounded-lg hover:bg-white/10 transition-colors duration-150 cursor-pointer">Contact</a>
+        <a href="tel:01614102470" class="flex items-center justify-center gap-2 w-full py-3 rounded-lg font-semibold text-dark cursor-pointer" style="background:#f0a500;">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M3 3h4l2 4-2.5 1.5A11 11 0 0 0 14 16.5L15.5 14l4 2v4a2 2 0 0 1-2 2C7.6 22 2 16.4 2 5a2 2 0 0 1 2-2z"/>
+          </svg>
+          0161 410 2470
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ========== HERO ========== -->
+  <section class="hero-bg min-h-screen flex items-center pt-16" aria-label="Hero">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full py-24">
+      <div class="max-w-3xl">
+
+        <!-- Badge -->
+        <div class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-semibold mb-6 fade-in" style="background:rgba(240,165,0,0.18); color:#f0a500; border:1px solid rgba(240,165,0,0.35);">
+          <span class="w-1.5 h-1.5 rounded-full inline-block flex-shrink-0" style="background:#f0a500;"></span>
+          Gas Safe Registered · Available for Emergencies 7 Days
+        </div>
+
+        <h1 class="text-white font-extrabold leading-tight mb-6 fade-in fade-in-delay-1" style="font-size:clamp(2.4rem,5vw,3.5rem); line-height:1.12;">
+          Trusted Plumbers<br />Serving Didsbury &amp;<br />
+          <span style="color:#f0a500;">South Manchester</span>
+        </h1>
+
+        <p class="text-blue-100 text-lg leading-relaxed mb-8 max-w-xl fade-in fade-in-delay-2">
+          Fast, reliable plumbing from Gas Safe registered engineers. Boiler repairs, leak detection, bathroom installation and 24/7 emergency callouts across Didsbury and South Manchester.
+        </p>
+
+        <!-- CTAs -->
+        <div class="flex flex-wrap gap-4 mb-12 fade-in fade-in-delay-3">
+          <a href="tel:01614102470"
+             class="inline-flex items-center gap-2.5 px-7 py-4 rounded-xl font-bold text-base cursor-pointer transition-opacity duration-150 hover:opacity-90 shadow-lg"
+             style="background:#f0a500; color:#1a1a2e;">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M3 3h4l2 4-2.5 1.5A11 11 0 0 0 14 16.5L15.5 14l4 2v4a2 2 0 0 1-2 2C7.6 22 2 16.4 2 5a2 2 0 0 1 2-2z"/>
+            </svg>
+            Call 0161 410 2470
+          </a>
+          <a href="#contact"
+             class="inline-flex items-center gap-2 px-7 py-4 rounded-xl font-bold text-base cursor-pointer transition-colors duration-150 border-2 text-white hover:bg-white hover:text-primary"
+             style="border-color:rgba(255,255,255,0.5);">
+            Get a Free Quote
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M5 12h14M12 5l7 7-7 7"/>
+            </svg>
+          </a>
+        </div>
+
+        <!-- Trust badges -->
+        <div class="flex flex-wrap gap-4 fade-in fade-in-delay-4">
+          <div class="flex items-center gap-2 px-4 py-2.5 rounded-lg" style="background:rgba(255,255,255,0.1); border:1px solid rgba(255,255,255,0.15);">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="#f0a500" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            </svg>
+            <span class="text-white text-sm font-semibold">Gas Safe Registered</span>
+          </div>
+          <div class="flex items-center gap-2 px-4 py-2.5 rounded-lg" style="background:rgba(255,255,255,0.1); border:1px solid rgba(255,255,255,0.15);">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="#f0a500" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+            <span class="text-white text-sm font-semibold">Fully Insured</span>
+          </div>
+          <div class="flex items-center gap-2 px-4 py-2.5 rounded-lg" style="background:rgba(255,255,255,0.1); border:1px solid rgba(255,255,255,0.15);">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 flex-shrink-0" viewBox="0 0 24 24" fill="none" stroke="#f0a500" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M17.657 16.657L13.414 20.9a2 2 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+              <path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+            </svg>
+            <span class="text-white text-sm font-semibold">Local to Didsbury</span>
+          </div>
+          <div class="flex items-center gap-2 px-4 py-2.5 rounded-lg" style="background:rgba(255,255,255,0.1); border:1px solid rgba(255,255,255,0.15);">
+            <div class="flex gap-0.5">
+              <svg class="w-4 h-4 star" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            </div>
+            <span class="text-white text-sm font-semibold">4.7★ Google Rating (38 reviews)</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== SERVICES ========== -->
+  <section id="services" class="py-24 bg-white" aria-label="Our Services">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-14 fade-in">
+        <p class="text-sm font-semibold uppercase tracking-widest mb-3" style="color:#2e86c1;">What We Do</p>
+        <h2 class="text-4xl font-bold text-dark mb-4 accent-underline" style="font-size:clamp(1.75rem,3vw,2.25rem);">Our Plumbing Services</h2>
+        <p class="text-gray-500 text-base max-w-xl mx-auto mt-6">From boiler breakdowns to brand new bathrooms — we handle it all, fast and professionally.</p>
+      </div>
+
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+
+        <!-- Boiler Repairs -->
+        <div class="service-card bg-gray-50 border border-gray-100 rounded-2xl p-7 cursor-default fade-in fade-in-delay-1">
+          <div class="w-12 h-12 rounded-xl flex items-center justify-center mb-5 flex-shrink-0" style="background:#e8f0fa;">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="#1b4f8a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M12 2a10 10 0 1 0 0 20A10 10 0 0 0 12 2z"/>
+              <path d="M12 6v6l4 2"/>
+            </svg>
+          </div>
+          <h3 class="text-lg font-bold text-dark mb-2">Boiler Repairs &amp; Servicing</h3>
+          <p class="text-gray-500 text-sm leading-relaxed">Expert boiler diagnostics, repairs and annual servicing by our Gas Safe certified engineers.</p>
+        </div>
+
+        <!-- Leak Detection -->
+        <div class="service-card bg-gray-50 border border-gray-100 rounded-2xl p-7 cursor-default fade-in fade-in-delay-2">
+          <div class="w-12 h-12 rounded-xl flex items-center justify-center mb-5 flex-shrink-0" style="background:#e8f0fa;">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="#1b4f8a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M12 2.69l5.66 5.66a8 8 0 11-11.31 0z"/>
+            </svg>
+          </div>
+          <h3 class="text-lg font-bold text-dark mb-2">Leak Detection &amp; Repair</h3>
+          <p class="text-gray-500 text-sm leading-relaxed">Rapid leak location and repair to prevent water damage and keep your home safe and dry.</p>
+        </div>
+
+        <!-- Bathroom Installation -->
+        <div class="service-card bg-gray-50 border border-gray-100 rounded-2xl p-7 cursor-default fade-in fade-in-delay-3">
+          <div class="w-12 h-12 rounded-xl flex items-center justify-center mb-5 flex-shrink-0" style="background:#e8f0fa;">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="#1b4f8a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <rect x="3" y="11" width="18" height="11" rx="2" ry="2"/>
+              <path d="M7 11V7a5 5 0 0110 0v4"/>
+            </svg>
+          </div>
+          <h3 class="text-lg font-bold text-dark mb-2">Bathroom Installation</h3>
+          <p class="text-gray-500 text-sm leading-relaxed">Full bathroom fitting and renovation, from design to immaculate finish — on time and on budget.</p>
+        </div>
+
+        <!-- Central Heating -->
+        <div class="service-card bg-gray-50 border border-gray-100 rounded-2xl p-7 cursor-default fade-in fade-in-delay-1">
+          <div class="w-12 h-12 rounded-xl flex items-center justify-center mb-5 flex-shrink-0" style="background:#e8f0fa;">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="#1b4f8a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M18 16.016c1.245.529 2 1.272 2 2.097C20 19.707 17.314 21 14 21s-6-1.293-6-2.887c0-.825.755-1.568 2-2.097"/>
+              <path d="M14 12c0 3-4 5-4 5h8s-4-2-4-5z"/>
+              <path d="M14 12V3"/>
+            </svg>
+          </div>
+          <h3 class="text-lg font-bold text-dark mb-2">Central Heating Systems</h3>
+          <p class="text-gray-500 text-sm leading-relaxed">Installation, repairs and upgrades to keep your home warm and your heating bills down.</p>
+        </div>
+
+        <!-- Blocked Drains -->
+        <div class="service-card bg-gray-50 border border-gray-100 rounded-2xl p-7 cursor-default fade-in fade-in-delay-2">
+          <div class="w-12 h-12 rounded-xl flex items-center justify-center mb-5 flex-shrink-0" style="background:#e8f0fa;">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="#1b4f8a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M12 22V12m0 0V2m0 10H2m10 0h10"/>
+              <circle cx="12" cy="12" r="3"/>
+            </svg>
+          </div>
+          <h3 class="text-lg font-bold text-dark mb-2">Blocked Drains &amp; Toilets</h3>
+          <p class="text-gray-500 text-sm leading-relaxed">Swift unblocking of drains and toilets using professional equipment — no mess, no fuss.</p>
+        </div>
+
+        <!-- Emergency Callouts -->
+        <div class="service-card rounded-2xl p-7 cursor-default fade-in fade-in-delay-3" style="background:linear-gradient(135deg,#1b4f8a,#2e86c1);">
+          <div class="w-12 h-12 rounded-xl flex items-center justify-center mb-5 flex-shrink-0" style="background:rgba(255,255,255,0.18);">
+            <svg
