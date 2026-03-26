@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Ali Plumbing and Building Ltd",
+    "slug": "ali-plumbing-and-building-manchester",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing and Building Solutions Manchester"
+  },
+  "contact": {
+    "phone": "07769 782690",
+    "address": "Heald Ave, Manchester M14 4HH",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Salford",
+      "Stretford",
+      "Didsbury",
+      "Stockport"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation and Servicing",
+    "Emergency Plumbing Repairs",
+    "Bathroom Fitting and Renovation",
+    "Central Heating Installation",
+    "Leak Detection and Repair",
+    "General Building Works"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Ali came out the same day for an emergency leak and sorted it quickly. Very professional and reasonably priced. Would definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Had a full bathroom fitted by Ali and the team. Brilliant workmanship, tidy workers and finished on time. Really happy with the result.",
+        "date": "2024"
+      },
+      {
+        "author": "Mohammed R",
+        "rating": 4,
+        "text": "Good honest plumber. Fixed our boiler issue and explained everything clearly. Fair pricing and turned up when he said he would.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Manchester Trader"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Ali Plumbing and Building Ltd delivers honest, high-quality plumbing and building services across Manchester, combining expert craftsmanship with transparent pricing and a prompt, reliable service every time.",
+    "hero_headline": "Manchester's Trusted Plumbing and Building Specialists",
+    "about_paragraph": "We are Ali Plumbing and Building Ltd, a trusted local trades company based in Manchester M14. We pride ourselves on delivering quality plumbing and building work at fair prices, whether it's a small repair or a full bathroom renovation. Our team is fully insured and Gas Safe registered, so you can have total confidence in every job we carry out.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#f5a623",
+      "accent": "#e8f0fe",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
