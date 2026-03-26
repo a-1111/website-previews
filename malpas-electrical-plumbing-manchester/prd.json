@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Malpas Electrical & Plumbing",
+    "slug": "malpas-electrical-plumbing-manchester",
+    "category": "Electrician",
+    "tagline": "Reliable Electrical & Plumbing Solutions Manchester"
+  },
+  "contact": {
+    "phone": "07451 287886",
+    "address": "55 Faulkner St, Manchester M1 4FF",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Salford",
+      "Stretford",
+      "Stockport",
+      "Oldham"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Electrical Installations & Rewiring",
+    "Fuse Board Upgrades & Consumer Units",
+    "Plumbing Repairs & Installations",
+    "Bathroom Fitting & Refurbishment",
+    "Boiler & Heating System Support",
+    "Emergency Electrical & Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James R.",
+        "rating": 5,
+        "text": "Fantastic service from Malpas \u2014 turned up on time, fixed our electrical fault quickly and left everything clean and tidy. Highly recommended.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Used Malpas for a bathroom plumbing job and couldn't be happier. Professional, reasonably priced and great communication throughout.",
+        "date": "2024"
+      },
+      {
+        "author": "Tom B.",
+        "rating": 4,
+        "text": "Reliable and knowledgeable team. Sorted our consumer unit upgrade with no fuss. Will definitely use again for future electrical work.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "NICEIC Approved",
+      "Part P Certified",
+      "Fully Insured"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Malpas Electrical & Plumbing combines expert electrical and plumbing trades under one roof, giving Manchester homeowners and businesses a reliable, single point of contact for all their property maintenance needs.",
+    "hero_headline": "Expert Electrical & Plumbing Services Across Manchester",
+    "about_paragraph": "We're Malpas Electrical & Plumbing, a trusted trades team based in the heart of Manchester. We cover everything from full rewires and fuse board upgrades to bathroom plumbing and emergency callouts \u2014 so you don't need to juggle multiple contractors. We take pride in honest pricing, tidy workmanship, and getting the job done right first time.",
+    "colour_scheme": {
+      "primary": "#1b3f6e",
+      "secondary": "#f4a825",
+      "accent": "#e8f0fe",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
