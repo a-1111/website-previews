@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "M16 Plumbing",
+    "slug": "m16-plumbing-manchester",
+    "category": "Plumber",
+    "tagline": "Fast, Reliable Plumbing Across Manchester"
+  },
+  "contact": {
+    "phone": "07767 780029",
+    "address": "189 Clarendon Rd, Manchester M16 0EF",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Stretford",
+      "Salford",
+      "Didsbury",
+      "Trafford"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Emergency Plumbing Repairs",
+    "Boiler Servicing & Installation",
+    "Leak Detection & Repair",
+    "Bathroom Fitting & Refurbishment",
+    "Radiator Installation & Power Flushing",
+    "Blocked Drains & Unblocking"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Called M16 Plumbing for a burst pipe late in the day and they were with me within the hour. Sorted quickly and at a fair price. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Really professional service from start to finish. Fitted a new bathroom suite and the work was clean and tidy. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "David R.",
+        "rating": 4,
+        "text": "Good reliable plumber, turned up on time and fixed our boiler issue without any fuss. Reasonable prices for the Manchester area.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Manchester Plumber"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "M16 Plumbing delivers fast, honest plumbing services across Manchester with no call-out surprises \u2014 just quality workmanship at fair prices.",
+    "hero_headline": "Your Local Manchester Plumber, Ready When You Need Us",
+    "about_paragraph": "I'm a fully qualified, Gas Safe registered plumber based in the M16 area of Manchester, offering reliable plumbing and heating services to homeowners and landlords across the city. Whether it's an emergency repair, a new bathroom installation, or a boiler service, I take pride in getting the job done right first time. I believe in clear, upfront pricing and leaving your home exactly as I found it \u2014 clean and tidy.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2d7dd2",
+      "accent": "#f4a31b",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
