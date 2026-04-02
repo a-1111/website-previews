@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Leo's Leaks LTD",
+    "slug": "leos-leaks-manchester",
+    "category": "Plumber",
+    "tagline": "Fast, Reliable Plumbing When You Need It"
+  },
+  "contact": {
+    "phone": "07518 489496",
+    "address": "Manchester, Greater Manchester",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Salford",
+      "Stockport",
+      "Oldham",
+      "Trafford"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Leak Detection & Repair",
+    "Burst Pipe Repair",
+    "Boiler Servicing & Repair",
+    "Bathroom Fitting & Installation",
+    "Drain Unblocking",
+    "Emergency Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Leo came out within the hour to fix a burst pipe. Brilliant service, very professional and left the place spotless. Highly recommend!",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Finally found a reliable plumber in Manchester! Fixed our leak quickly and at a fair price. Will definitely use Leo's Leaks again.",
+        "date": "2024"
+      },
+      {
+        "author": "David R.",
+        "rating": 4,
+        "text": "Really impressed with the speed and quality of work. Diagnosed the problem straight away and had it sorted the same day. Great value.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "24/7 Emergency Callout"
+    ]
+  },
+  "brand": {
+    "tone": "friendly and trustworthy",
+    "usp": "Leo's Leaks LTD offers fast-response, honest plumbing services across Greater Manchester \u2014 no hidden charges, no fuss, just quality work you can count on.",
+    "hero_headline": "Manchester's Trusted Plumber \u2014 Leaks Fixed Fast",
+    "about_paragraph": "Hi, I'm Leo, founder of Leo's Leaks LTD. I've been solving plumbing problems across Greater Manchester for years, and I built this business on one simple promise: to arrive on time, be upfront about costs, and fix the job right first time. Whether it's an emergency leak or a planned bathroom installation, I treat every home like my own.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86c1",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
