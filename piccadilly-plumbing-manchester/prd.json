@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Piccadilly Plumbing Ltd",
+    "slug": "piccadilly-plumbing-manchester",
+    "category": "Plumber",
+    "tagline": "Fast, Reliable Plumbing in Manchester"
+  },
+  "contact": {
+    "phone": "07836 333305",
+    "address": "5 Piccadilly, Manchester M1 3BP",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Salford",
+      "Stockport",
+      "Trafford",
+      "Oldham"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Emergency Plumbing Repairs",
+    "Boiler Installation & Servicing",
+    "Bathroom Fitting & Renovation",
+    "Leak Detection & Repair",
+    "Central Heating Installation",
+    "Drain Unblocking & Jetting"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "James Thornton",
+        "rating": 5,
+        "text": "Called Piccadilly Plumbing after a burst pipe and they were with me within the hour. Professional, tidy and reasonably priced. Couldn't recommend them more highly.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah Mitchell",
+        "rating": 5,
+        "text": "Had a new bathroom fitted from start to finish. The team were brilliant \u2014 kept me informed throughout and the quality of the work is fantastic. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "David Okafor",
+        "rating": 4,
+        "text": "Boiler service carried out quickly and efficiently. Friendly engineer who explained everything clearly. Good value for money in the city centre.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Manchester City Centre Based"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Based in the heart of Manchester, Piccadilly Plumbing Ltd delivers fast, no-fuss plumbing solutions for homes and businesses across the city \u2014 with transparent pricing and a same-day emergency response.",
+    "hero_headline": "Manchester's Trusted Plumbers, Ready When You Are",
+    "about_paragraph": "We're Piccadilly Plumbing Ltd, a Manchester-based plumbing company operating right from the city centre at Piccadilly. We take pride in offering honest, reliable plumbing services to homes and businesses across Greater Manchester, from routine boiler services to emergency call-outs. When you call us, you get a qualified, friendly professional who respects your property and gets the job done right first time.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86c1",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
