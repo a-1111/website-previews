@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Steve Sutton Plumbing and Heating Supplies",
+    "slug": "steve-sutton-plumbing-heating-supplies-manchester",
+    "category": "Building Materials Supplier",
+    "tagline": "Your Local Plumbing & Heating Experts"
+  },
+  "contact": {
+    "phone": "0161 947 0969",
+    "address": "110 Kenyon Ln, Moston, Manchester M40 9DH",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Oldham",
+      "Salford",
+      "Rochdale",
+      "Bury"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 5:30pm",
+    "saturday": "8am - 1pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Plumbing Supplies & Fittings",
+    "Central Heating Components",
+    "Boiler Parts & Spares",
+    "Bathroom & Sanitary Ware",
+    "Pipework & Valves",
+    "Trade & Retail Supply"
+  ],
+  "social_proof": {
+    "google_rating": 4.5,
+    "review_count": 28,
+    "sample_reviews": [
+      {
+        "author": "Dave Hartley",
+        "rating": 5,
+        "text": "Brilliant local supplier \u2014 always have what I need in stock. Prices are fair and the staff really know their stuff. My go-to for all plumbing parts.",
+        "date": "2024"
+      },
+      {
+        "author": "Karen Booth",
+        "rating": 4,
+        "text": "Really helpful team, managed to source a hard-to-find boiler part same day. Saved me a long wait from online suppliers. Would definitely recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Phil Norris",
+        "rating": 5,
+        "text": "Used Steve Sutton's for years as a plumber. Reliable stock, honest pricing and always good advice over the counter. Wouldn't go anywhere else in North Manchester.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Trade Counter Open to Public",
+      "Established Local Supplier",
+      "Knowledgeable Staff"
+    ]
+  },
+  "brand": {
+    "tone": "practical and straightforward",
+    "usp": "A trusted trade counter in the heart of Moston, supplying plumbers and heating engineers across North Manchester with quality parts, expert advice, and competitive pricing \u2014 all under one roof.",
+    "hero_headline": "Quality Plumbing & Heating Supplies in Manchester",
+    "about_paragraph": "We've been supplying plumbers, heating engineers, and DIY homeowners across North Manchester for years from our Moston trade counter. Whether you need boiler spares, pipework, valves, or bathroom fittings, we keep a comprehensive stock so you can get in and out without delays. We pride ourselves on knowing our products inside out and giving honest, practical advice to every customer who walks through our door.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e87722",
+      "accent": "#d1e8f5",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
