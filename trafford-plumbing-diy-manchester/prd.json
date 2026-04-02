@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Trafford Plumbing & DIY",
+    "slug": "trafford-plumbing-diy-manchester",
+    "category": "Plumber / DIY Store",
+    "tagline": "Your Local Plumbing & DIY Experts"
+  },
+  "contact": {
+    "phone": "0161 637 1519",
+    "address": "139 Ayres Rd, Old Trafford, Stretford, Manchester M16 9WR",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Salford",
+      "Stretford",
+      "Trafford",
+      "Eccles"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "8:30am - 5pm",
+    "sunday": "10am - 3pm",
+    "emergency_callout": true
+  },
+  "services": [
+    "Plumbing Repairs & Installations",
+    "DIY Supplies & Hardware",
+    "Boiler & Central Heating",
+    "Bathroom Fitting",
+    "Pipe Repairs & Leak Detection",
+    "Trade & DIY Tool Sales"
+  ],
+  "social_proof": {
+    "google_rating": 4.5,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James R.",
+        "rating": 5,
+        "text": "Really helpful local shop \u2014 had everything I needed for my bathroom repair and the staff gave great advice. Prices are fair and the service is friendly.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 4,
+        "text": "Brilliant little shop in Old Trafford. Popped in for some plumbing fittings and they had exactly what I needed. Much better than driving to a big DIY chain.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave T.",
+        "rating": 5,
+        "text": "As a local plumber I use Trafford Plumbing & DIY regularly. The stock is always well kept and they know their stuff. Reliable and quick \u2014 exactly what a trade needs.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Local Trusted Trader",
+      "Trade & Retail Supplier",
+      "Over 10 Years Serving Manchester"
+    ]
+  },
+  "brand": {
+    "tone": "friendly and knowledgeable",
+    "usp": "Trafford Plumbing & DIY is Old Trafford's go-to destination for plumbing supplies and DIY essentials, offering expert advice and quality products for both trade professionals and home improvers.",
+    "hero_headline": "Manchester's Trusted Local Plumbing & DIY Store",
+    "about_paragraph": "We're Trafford Plumbing & DIY, proudly serving Old Trafford and the wider Manchester area from our store on Ayres Road. Whether you're a seasoned tradesperson stocking up on plumbing supplies or a homeowner tackling a weekend project, we've got the products and the know-how to help you get the job done right. Pop in and see us \u2014 we're always happy to offer advice and find the right solution for your needs.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e87722",
+      "accent": "#f5c842",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
