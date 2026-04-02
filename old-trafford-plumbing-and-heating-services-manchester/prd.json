@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "Old Trafford Plumbing And Heating Services",
+    "slug": "old-trafford-plumbing-and-heating-services-manchester",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing And Heating You Can Trust"
+  },
+  "contact": {
+    "phone": "07727 475026",
+    "address": "3 Brindley Rd, Old Trafford, Stretford, Manchester M16 9TR",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Salford",
+      "Stretford",
+      "Trafford",
+      "Eccles"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation and Servicing",
+    "Central Heating Systems",
+    "Emergency Plumbing Repairs",
+    "Bathroom Fitting and Plumbing",
+    "Radiator Installation and Bleeding",
+    "Leak Detection and Repair"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James R.",
+        "rating": 5,
+        "text": "Fantastic service from start to finish. Called them out for a boiler breakdown and they arrived within the hour. Highly recommend to anyone in the Old Trafford area.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Very professional and reasonably priced. Fixed our leaking pipe quickly with no fuss. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "David T.",
+        "rating": 4,
+        "text": "Good reliable plumbers. Had our bathroom replumbed and they did a tidy job. Communication was great throughout the whole project.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Local Business Verified"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Based in the heart of Old Trafford, we deliver fast, reliable plumbing and heating solutions to homes and businesses across Greater Manchester. With transparent pricing and emergency cover, we're the local team you can count on.",
+    "hero_headline": "Your Local Manchester Plumbing And Heating Experts",
+    "about_paragraph": "We are Old Trafford Plumbing And Heating Services, a trusted local trade business serving Manchester and the surrounding areas. From emergency call-outs to full boiler installations, we pride ourselves on honest advice, quality workmanship, and fair pricing. Whether you need a quick repair or a complete heating system upgrade, we're here to help.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e87722",
+      "accent": "#5ba4cf",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
