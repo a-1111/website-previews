@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "Heat4U",
+    "slug": "heat4u-birmingham",
+    "category": "Plumber",
+    "tagline": "Keeping Birmingham Warm, Every Day"
+  },
+  "contact": {
+    "phone": "0121 274 3033",
+    "address": "56 Princip St, Birmingham B4 6LN",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Solihull",
+      "Sutton Coldfield",
+      "West Bromwich",
+      "Wolverhampton"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repairs",
+    "Central Heating Installation",
+    "Radiator Installation & Repair",
+    "Emergency Plumbing Callouts",
+    "Landlord Gas Safety Certificates"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Heat4U came out same day when our boiler broke down in the middle of winter. Fast, professional and very fairly priced. Would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Priya M.",
+        "rating": 5,
+        "text": "Excellent service from start to finish. The engineer was polite, tidy and explained everything clearly. New boiler installed without any fuss.",
+        "date": "2024"
+      },
+      {
+        "author": "David R.",
+        "rating": 4,
+        "text": "Reliable and trustworthy. Sorted out our central heating issue quickly. Will definitely use Heat4U again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Worcester Bosch Accredited Installer"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Heat4U delivers fast, reliable heating and plumbing solutions across Birmingham, with Gas Safe registered engineers available for emergency callouts seven days a week.",
+    "hero_headline": "Birmingham's Trusted Heating & Plumbing Experts",
+    "about_paragraph": "We're Heat4U, a Birmingham-based heating and plumbing company dedicated to keeping homes and businesses warm and comfortable all year round. Our Gas Safe registered engineers bring years of experience to every job, from routine boiler servicing to full central heating installations. We pride ourselves on honest pricing, prompt response times, and leaving every property exactly as we found it.",
+    "colour_scheme": {
+      "primary": "#E84A12",
+      "secondary": "#1C3D5A",
+      "accent": "#F5A623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
