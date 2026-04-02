@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Plumbing Heating Solutions Midlands Ltd",
+    "slug": "plumbing-heating-solutions-midlands-birmingham",
+    "category": "Central Heating Engineer",
+    "tagline": "Reliable Heating Solutions Across the Midlands"
+  },
+  "contact": {
+    "phone": "07864 834292",
+    "address": "First Floor, Unit 11, Middlemore Rd, Birmingham B66 2DZ",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Smethwick",
+      "West Bromwich",
+      "Wolverhampton",
+      "Solihull"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Central Heating Installation",
+    "Boiler Servicing & Repair",
+    "Gas Safety Certificates",
+    "Radiator Installation & Replacement",
+    "Underfloor Heating Systems",
+    "Emergency Heating Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "Mark T",
+        "rating": 5,
+        "text": "Fantastic service from start to finish. The engineer arrived on time, diagnosed the issue quickly and had our heating back up and running the same day. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah K",
+        "rating": 5,
+        "text": "Very professional team. They installed a brand new central heating system in our home and the whole job was clean, tidy and completed within the timeframe quoted. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave R",
+        "rating": 4,
+        "text": "Reliable and honest company. Gave us a fair quote and stuck to it. The engineer was knowledgeable and took the time to explain everything. Good local business.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Free Quotes Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "We deliver expert central heating installation, servicing and repairs across Birmingham and the wider Midlands \u2014 combining qualified craftsmanship with honest, transparent pricing on every job.",
+    "hero_headline": "Expert Heating Solutions for Birmingham Homes",
+    "about_paragraph": "We're Plumbing Heating Solutions Midlands Ltd, a Birmingham-based heating specialist serving homeowners and landlords across the West Midlands. Our Gas Safe registered engineers bring years of hands-on experience to every job, whether it's a routine boiler service or a full central heating installation. We pride ourselves on arriving on time, working cleanly, and giving you straightforward advice without the jargon.",
+    "colour_scheme": {
+      "primary": "#1a3d6e",
+      "secondary": "#e84c1e",
+      "accent": "#f5a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}

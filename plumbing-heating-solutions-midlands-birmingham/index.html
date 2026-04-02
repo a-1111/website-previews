@@ -1,0 +1,905 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Plumbing Heating Solutions Midlands Ltd | Central Heating Engineers Birmingham</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #dc2626;
+      --secondary: #7f1d1d;
+      --accent: #f97316;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ===== NAV ===== */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 16px 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      color: #fff;
+      text-decoration: none;
+      line-height: 1.2;
+    }
+
+    .nav-logo span {
+      display: block;
+      font-size: 12px;
+      font-weight: 400;
+      color: rgba(255,255,255,0.7);
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .nav-phone:hover {
+      color: var(--accent);
+    }
+
+    .btn-call-nav {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 10px 22px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 14px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .btn-call-nav:hover {
+      background: #ea6c00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 14px 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+      .nav-logo {
+        font-size: 15px;
+      }
+    }
+
+    /* ===== HERO ===== */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary-hero {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-primary-hero:hover {
+      background: #ea6c00;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary-hero {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-secondary-hero:hover {
+      background: rgba(255,255,255,0.12);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: 90vh;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 16px;
+      }
+      .hero-buttons {
+        flex-direction: column;
+      }
+      .btn-primary-hero, .btn-secondary-hero {
+        text-align: center;
+      }
+    }
+
+    /* ===== STATS BAR ===== */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 600px) {
+      .stats-bar {
+        gap: 28px;
+        padding: 24px 20px;
+      }
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* ===== SERVICES ===== */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .section-header {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .section-header h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .section-header p {
+      color: var(--muted);
+      font-size: 16px;
+      margin-top: 10px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 32px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== ABOUT ===== */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 15px;
+    }
+
+    .about-left .areas {
+      margin-top: 20px;
+    }
+
+    .about-left .areas strong {
+      color: var(--text);
+      font-size: 14px;
+    }
+
+    .about-left .areas p {
+      margin-top: 6px;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-num {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 800;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .about-stat-label {
+      display: block;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 8px;
+      line-height: 1.4;
+    }
+
+    @media (max-width: 900px) {
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+      .about {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== REVIEWS ===== */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+      transition: background 0.2s ease;
+    }
+
+    .review-card:hover {
+      background: rgba(255,255,255,0.08);
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 16px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .review-date {
+      color: rgba(148,163,184,0.6);
+      font-size: 13px;
+      margin-left: 6px;
+    }
+
+    .reviews-summary {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .reviews-summary .rating-big {
+      font-family: 'Poppins', sans-serif;
+      font-size: 48px;
+      font-weight: 800;
+      color: var(--accent);
+      line-height: 1;
+    }
+
+    .reviews-summary .rating-label {
+      color: rgba(255,255,255,0.6);
+      font-size: 14px;
+      margin-top: 6px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+      .reviews h2 {
+        font-size: 28px;
+      }
+    }
+
+    /* ===== CONTACT ===== */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+      id: contact;
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1000px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.12);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+      color: #fff;
+    }
+
+    .contact-left h2 {
+      font-size: 26px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 24px;
+      line-height: 1.3;
+    }
+
+    .contact-detail {
+      margin-bottom: 24px;
+    }
+
+    .contact-detail-label {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 6px;
+    }
+
+    .contact-detail-value {
+      font-size: 15px;
+      color: rgba(255,255,255,0.85);
+      line-height: 1.5;
+    }
+
+    .contact-phone-link {
+      font-size: 26px;
+      font-weight: 700;
+      color: var(--accent);
+      text-decoration: none;
+      transition: color 0.2s ease;
+      display: block;
+      margin-top: 4px;
+    }
+
+    .contact-phone-link:hover {
+      color: #fb923c;
+    }
+
+    .hours-list {
+      list-style: none;
+      margin-top: 4px;
+    }
+
+    .hours-list li {
+      font-size: 14px;
+      color: rgba(255,255,255,0.7);
+      padding: 3px 0;
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .hours-list li span:first-child {
+      color: rgba(255,255,255,0.5);
+    }
+
+    .emergency-badge {
+      margin-top: 24px;
+      background: rgba(220,38,38,0.2);
+      border: 1px solid rgba(220,38,38,0.4);
+      border-radius: 8px;
+      padding: 12px 16px;
+      font-size: 13px;
+      color: #fca5a5;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea,
+    .form-group select {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      transition: border-color 0.2s ease;
+      outline: none;
+      background: #fff;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .btn-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      font-size: 16px;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-submit:hover {
+      background: #ea6c00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        padding: 60px 20px;
+      }
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+      .contact-left {
+        padding: 36px 28px;
+      }
+      .contact-right {
+        padding: 36px 28px;
+      }
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    footer a {
+      color: #94a3b8;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    footer .footer-divider {
+      margin: 0 8px;
+      color: rgba(148,163,184,0.3);
+    }
+
+    @media (max-width: 600px) {
+      footer {
+        padding: 28px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <a href="#" class="nav-logo">
+      Plumbing Heating Solutions Midlands Ltd
+      <span>Central Heating Engineers · Birmingham</span>
+    </a>
+    <div class="nav-right">
+      <a href="tel:07864834292" class="nav-phone">07864 834292</a>
+      <a href="tel:07864834292" class="btn-call-nav">Book a Heating Engineer</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Expert Heating Solutions for Birmingham Homes</h1>
+      <p class="hero-sub">We deliver expert central heating installation, servicing and repairs across Birmingham and the wider Midlands — combining qualified craftsmanship with honest, transparent pricing on every job.</p>
+      <div class="hero-buttons">
+        <a href="tel:07864834292" class="btn-primary-hero">Book a Heating Engineer</a>
+        <a href="#contact" class="btn-secondary-hero">Get a Free Quote</a>
+      </div>
+      <div class="trust-badges">
+        <span class="badge">✓ Gas Safe Registered</span>
+        <span class="badge">✓ Worcester Bosch Accredited</span>
+        <span class="badge">✓ Fully Insured</span>
+        <span class="badge">✓ Free Quotes Available</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stat-item">
+      <span class="stat-number">4.7★</span>
+      <span class="stat-label">Google Rating</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">38+</span>
+      <span class="stat-label">Verified Reviews</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">5</span>
+      <span class="stat-label">Areas Served</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">24/7</span>
+      <span class="stat-label">Emergency Callouts</span>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services" id="services">
+    <div class="section-header">
+      <h2>Our Heating Services</h2>
+      <p>Comprehensive central heating solutions for homeowners and landlords across the West Midlands</p>
+    </div>
+    <div class="services-grid">
+      <div class="service-card">
+        <span class="service-icon">🔧</span>
+        <h3>Central Heating Installation</h3>
+        <p>Full central heating system design and installation for new builds and retrofits. Our Gas Safe engineers ensure every installation meets the highest safety and efficiency standards.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔥</span>
+        <h3>Boiler Servicing &amp; Repair</h3>
+        <p>Annual boiler services and fast, reliable repairs on all major boiler brands. Keep your boiler running safely and efficiently throughout the year with our expert care.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">📋</span>
+        <h3>Gas Safety Certificates</h3>
+        <p>Landlord gas safety certificates (CP12) issued by qualified Gas Safe registered engineers. Stay legally compliant and protect your tenants with our prompt certification service.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🏠</span>
+        <h3>Radiator Installation &amp; Replacement</h3>
+        <p>Supply and installation of new radiators or replacement of old, inefficient ones. We ensure correct sizing and balanced output for maximum comfort and energy savings.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🌡️</span>
+        <h3>Underfloor Heating Systems</h3>
+        <p>Professional installation of wet and electric underfloor heating systems. Ideal for extensions, new builds or renovations — providing even, comfortable warmth throughout your home.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🚨</span>
+        <h3>Emergency Heating Callouts</h3>
+        <p>When your heating fails unexpectedly, our engineers are on hand for emergency callouts across Birmingham and the wider Midlands. Don't suffer in the cold — call us now.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Birmingham's Trusted Heating Specialists</h2>
+        <p>We're Plumbing Heating Solutions Midlands Ltd, a Birmingham-based heating specialist serving homeowners and landlords across the West Midlands. Our Gas Safe registered engineers bring years of hands-on experience to every job, whether it's a routine boiler service or a full central heating installation.</p>
+        <p>We pride ourselves on arriving on time, working cleanly, and giving you straightforward advice without the jargon. Every quote is honest and transparent — no hidden costs, no nasty surprises.</p>
+        <div class="areas">
+          <strong>Areas We Cover:</strong>
+          <p>Birmingham, Smethwick, West Bromwich, Wolverhampton &amp; Solihull</p>
+        </div>
+      </div>
+      <div class="about-stats">
+        <div class="about-stat-box">
+          <span class="about-stat-num">4.7★</span>
+          <span class="about-stat-label">Average Google Rating</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-num">38+</span>
+          <span class="about-stat-label">Happy Customers Reviewed</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-num">5</span>
+          <span class="about-stat-label">Towns &amp; Cities Served</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-num">6</span>
+          <span class="about-stat-label">Core Heating Services</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews" id="reviews">
+    <h2>What Our Customers Say</h2>
+    <div class="reviews-summary">
+      <div class="rating-big">4.7 / 5</div>
+      <div class="rating-label">Based on 38 Google Reviews</div>
+    </div>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Fantastic service from start to finish. The engineer arrived on time, diagnosed the issue quickly and had our heating back up and running the same day. Highly recommend."</p>
+        <div class="review-author">Mark T <span class="review-date">· 2024</span></div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Very professional team. They installed a brand new central heating system in our home and the whole job was clean, tidy and completed within the timeframe quoted. Will definitely use again."</p>
+        <div class="review-author">Sarah K <span class="review-date">· 2024</span></div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★☆</div>
+        <p class="review-text">"Reliable and honest company. Gave us a fair quote and stuck to it. The engineer was knowledgeable and took the time to explain everything. Good local business."</p>
+        <div class="review-author">Dave R <span class="review-date">· 2024</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h2>Plumbing Heating Solutions Midlands Ltd</h2>
+        <div class="contact-detail">
+          <div class="contact-detail-label">Phone</div>
+          <a href="tel:07864834292" class="contact-phone-link">07864 834292</a>
+        </div>
+        <div class="contact-detail">
+          <div class="contact-detail-label">Address</div>
+          <div class="contact-detail-value">First Floor, Unit 11<br>Middlemore Rd<br>Birmingham B66 2DZ</div>
+        </div>
+        <div class="contact-detail">
+          <div class="contact-detail-label">Opening Hours</div>
+          <ul class="hours-list">
+            <li><span>Monday – Friday</span><span>8am – 6pm</span></li>
+            <li><span>Saturday</span><span>9am – 4pm</span></li>
+            <li><span>Sunday</span><span>Closed</span></li>
+          </ul>
+        </div>
+        <div class="emergency-badge">
+          🚨 Emergency callouts available — call us any time
+        </div>
+      </div>
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <div class="form-group">
+          <label for="name">Your Name</label>
+          <input type="text" id="name" placeholder="e.g. John Smith" />
+        </div>
+        <div class="form-group">
+          <label for="phone">Phone Number</label>
+          <input type="tel" id="phone" placeholder="e.g. 07700 900000" />
+        </div>
+        <div class="form-group">
+          <label for="message">How Can We Help?</label>
+          <textarea id="message" placeholder="Describe your heating issue or the service you need..."></textarea>
+        </div>
+        <button class="btn-submit" type="button">Book a Heating Engineer</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER
