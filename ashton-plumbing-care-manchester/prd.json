@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Ashton Plumbing Care",
+    "slug": "ashton-plumbing-care-manchester",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Greater Manchester"
+  },
+  "contact": {
+    "phone": "07480 487201",
+    "address": "959 Ashton Old Rd, Openshaw, Higher Openshaw, Manchester M11 2SL",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Openshaw",
+      "Droylsden",
+      "Gorton",
+      "Ashton-under-Lyne"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Emergency Plumbing Repairs",
+    "Boiler Installation & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Installation",
+    "Central Heating Systems",
+    "Drain Unblocking & Clearance"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "Daniel Hartley",
+        "rating": 5,
+        "text": "Called Ashton Plumbing Care after a burst pipe caused real damage. They arrived within the hour and sorted everything efficiently. Brilliant service, very professional.",
+        "date": "2024"
+      },
+      {
+        "author": "Sharon Mellor",
+        "rating": 5,
+        "text": "Had a new boiler fitted and couldn't be happier. The lads were tidy, on time and explained everything clearly. Great value for money too.",
+        "date": "2024"
+      },
+      {
+        "author": "Kevin Omotayo",
+        "rating": 4,
+        "text": "Very responsive and honest about pricing upfront. Fixed a dodgy radiator valve that two other plumbers couldn't sort. Would recommend to anyone in the area.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Family Business"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Ashton Plumbing Care delivers fast, honest and affordable plumbing services across Manchester, with a local team you can trust for both everyday repairs and emergency callouts.",
+    "hero_headline": "Expert Plumbing Care On Your Doorstep",
+    "about_paragraph": "I'm the owner of Ashton Plumbing Care, based right here on Ashton Old Road in Openshaw, and I've been keeping Manchester homes running smoothly for years. Whether it's a leaking tap, a new bathroom, or an emergency callout, my team arrives promptly, works cleanly, and always charges fairly. We take real pride in our local reputation \u2014 and we're always just one call away.",
+    "colour_scheme": {
+      "primary": "#1a5c8a",
+      "secondary": "#0e3d5f",
+      "accent": "#f4a924",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
