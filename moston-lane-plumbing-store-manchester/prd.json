@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "Moston Lane Plumbing Store",
+    "slug": "moston-lane-plumbing-store-manchester",
+    "category": "Plumbers' Merchant",
+    "tagline": "Your Local Plumbing Supplies, Ready Today"
+  },
+  "contact": {
+    "phone": "07706 552700",
+    "address": "215A Moston Ln, Manchester M9 4HE",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Oldham",
+      "Rochdale",
+      "Salford",
+      "Bury"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 5:30pm",
+    "saturday": "8am - 1pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Plumbing Pipes & Fittings Supply",
+    "Boiler Parts & Spares",
+    "Bathroom & Sanitary Ware",
+    "Central Heating Components",
+    "Copper & Plastic Pipework",
+    "Trade & DIY Customer Sales"
+  ],
+  "social_proof": {
+    "google_rating": 4.5,
+    "review_count": 22,
+    "sample_reviews": [
+      {
+        "author": "Gary T",
+        "rating": 5,
+        "text": "Great little trade counter, always have what I need in stock. Staff know their stuff and serve you quickly \u2014 perfect for a busy plumber.",
+        "date": "2024"
+      },
+      {
+        "author": "Steve M",
+        "rating": 5,
+        "text": "Really helpful team, competitive prices and good stock levels. Much easier than driving across town to the big merchants.",
+        "date": "2024"
+      },
+      {
+        "author": "Amir K",
+        "rating": 4,
+        "text": "Solid local merchant. They had the obscure fitting I needed and saved me a wasted journey. Will definitely be back.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Local Trade Specialist",
+      "DIY & Trade Welcome"
+    ]
+  },
+  "brand": {
+    "tone": "straightforward and trade-friendly",
+    "usp": "A trusted local plumbing merchant on Moston Lane, serving Manchester tradespeople and DIYers with a wide range of plumbing supplies, fittings and heating components \u2014 all available over the counter, same day.",
+    "hero_headline": "Manchester's Local Plumbing Merchant On Your Doorstep",
+    "about_paragraph": "We're Moston Lane Plumbing Store, your go-to trade counter right here in north Manchester. We stock everything from pipes and fittings to boiler spares and bathroom supplies, so whether you're a professional plumber on a tight schedule or a homeowner tackling a DIY job, we've got you covered. Pop in and see us \u2014 we're here to help you get the job done without the fuss.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86c1",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
