@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Stoney Lane Plumbers Merchant",
+    "slug": "stoney-lane-plumbers-merchant-birmingham",
+    "category": "Plumbers' Merchant",
+    "tagline": "Your Local Trade Plumbing Supplies Specialist"
+  },
+  "contact": {
+    "phone": "0121 773 6251",
+    "address": "116-118 Stoney Ln, Sparkbrook, Birmingham B12 8AQ",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Sparkbrook",
+      "Moseley",
+      "Small Heath",
+      "Bordesley Green"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 5:30pm",
+    "saturday": "8am - 1pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Copper and plastic pipework and fittings",
+    "Boilers and central heating components",
+    "Bathroom and sanitary ware",
+    "Radiators and valves",
+    "Hot and cold water cylinders",
+    "Plumbing tools and accessories"
+  ],
+  "social_proof": {
+    "google_rating": 4.4,
+    "review_count": 28,
+    "sample_reviews": [
+      {
+        "author": "Kevin T",
+        "rating": 5,
+        "text": "Great local merchant with everything you need. The staff know their trade inside out and always give solid advice. My go-to for all plumbing supplies.",
+        "date": "2024"
+      },
+      {
+        "author": "Mohammed A",
+        "rating": 4,
+        "text": "Really handy having a proper trade counter in Sparkbrook. Good stock levels and competitive prices. Been coming here for years.",
+        "date": "2024"
+      },
+      {
+        "author": "Dan W",
+        "rating": 5,
+        "text": "Friendly team, quick service and they always have the parts I need. Much better than trekking to a big merchant out of the city.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Established Local Merchant",
+      "Trade Account Available",
+      "Knowledgeable Staff"
+    ]
+  },
+  "brand": {
+    "tone": "practical and no-nonsense trade friendly",
+    "usp": "Stoney Lane Plumbers Merchant has been serving Birmingham's trade professionals and DIY customers from the heart of Sparkbrook, offering a wide range of quality plumbing supplies at competitive trade prices. Our experienced counter staff are on hand to help you find exactly what you need, fast.",
+    "hero_headline": "Birmingham's Trusted Trade Plumbing Supplies Counter",
+    "about_paragraph": "We're a dedicated plumbing merchant based on Stoney Lane in Sparkbrook, right in the heart of Birmingham. We stock everything from pipework and fittings to boiler parts, radiators and bathroom ware, all at trade prices that keep your jobs profitable. Whether you're a sole trader, a plumbing firm or a DIY homeowner, we're here to get you the right parts without the fuss.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e87722",
+      "accent": "#d0e8f7",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
