@@ -1,0 +1,86 @@
+{
+  "business": {
+    "name": "Vamos Plumbing & Electrical Services 24H Ltd",
+    "slug": "vamos-plumbing-electrical-services-birmingham",
+    "category": "Plumber / Electrician",
+    "tagline": "24-Hour Plumbing & Electrical Experts, Birmingham"
+  },
+  "contact": {
+    "phone": "07451 293430",
+    "address": "Birmingham, West Midlands",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Solihull",
+      "Wolverhampton",
+      "Coventry",
+      "Dudley"
+    ]
+  },
+  "hours": {
+    "monday_friday": "24 Hours",
+    "saturday": "24 Hours",
+    "sunday": "24 Hours",
+    "emergency_callout": true
+  },
+  "services": [
+    "Emergency Plumbing Repairs",
+    "Boiler Installation & Servicing",
+    "Leak Detection & Repair",
+    "Full & Partial Rewiring",
+    "Fuse Board Upgrades & Consumer Unit Installation",
+    "Emergency Electrical Fault Finding"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Called late at night with a burst pipe and Vamos were out within the hour. Professional, tidy and reasonably priced. Couldn't recommend more highly.",
+        "date": "2024"
+      },
+      {
+        "author": "Sandra M.",
+        "rating": 5,
+        "text": "Had both a plumbing and electrical issue at the same time \u2014 brilliant to have one company sort everything out. Fast, reliable and great value.",
+        "date": "2024"
+      },
+      {
+        "author": "Kieran B.",
+        "rating": 4,
+        "text": "Used Vamos for a boiler service and some electrical work. Turned up on time, explained everything clearly and got the job done without any fuss. Will use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "NICEIC Approved",
+      "24-Hour Emergency Service",
+      "Fully Insured"
+    ]
+  },
+  "brand": {
+    "tone": "professional and reassuring",
+    "usp": "Vamos Plumbing & Electrical Services offers round-the-clock plumbing and electrical solutions across Birmingham, combining two essential trades under one reliable, fully qualified team. Whether it's a midnight emergency or a planned installation, we're always ready to help.",
+    "hero_headline": "Birmingham's 24-Hour Plumbing & Electrical Specialists",
+    "about_paragraph": "We are Vamos Plumbing & Electrical Services, a Birmingham-based company built on the belief that essential home repairs shouldn't wait. We operate 24 hours a day, 7 days a week, handling everything from burst pipes and boiler breakdowns to rewiring and electrical faults. Our qualified team takes pride in arriving promptly, working cleanly, and getting the job done right first time.",
+    "colour_scheme": {
+      "primary": "#1a3a5c",
+      "secondary": "#e8a020",
+      "accent": "#2ecc71",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
