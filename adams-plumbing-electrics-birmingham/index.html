@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Adams Plumbing & Electrics – Birmingham's Trusted Plumbing & Electrical Specialists</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ── NAV ── */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto;
+      height: 68px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      color: #fff;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .btn-call-nav {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 8px;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-call-nav:hover {
+      background: #e08d00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 0 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+    }
+
+    /* ── HERO ── */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary-hero {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary-hero:hover {
+      background: #e08d00;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary-hero {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary-hero:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .trust-badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 16px;
+      border-radius: 999px;
+      white-space: nowrap;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: auto;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 16px;
+      }
+    }
+
+    /* ── STATS BAR ── */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+    }
+
+    .stats-inner {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      max-width: 1200px;
+      margin: 0 auto;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.1;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 600px) {
+      .stats-inner {
+        gap: 28px;
+      }
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* ── SERVICES ── */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .services-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .section-title {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 32px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ── ABOUT ── */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 15px;
+    }
+
+    .about-stats-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-num {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 800;
+      color: var(--primary);
+      line-height: 1.1;
+    }
+
+    .about-stat-label {
+      display: block;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ── REVIEWS ── */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      font-size: 36px;
+      font-weight: 700;
+      text-align: center;
+      margin-bottom: 12px;
+    }
+
+    .reviews-subtitle {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 15px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .review-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 16px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ── CONTACT ── */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+      scroll-margin-top: 68px;
+    }
+
+    .contact-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.12);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h2 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 28px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+
+    .contact-tagline {
+      color: #94a3b8;
+      font-size: 14px;
+      margin-bottom: 36px;
+    }
+
+    .contact-info-block {
+      margin-bottom: 28px;
+    }
+
+    .contact-info-label {
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--accent);
+      margin-bottom: 6px;
+    }
+
+    .contact-info-value {
+      color: #e2e8f0;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 26px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      text-decoration: none;
+      transition: color 0.2s ease;
+      display: block;
+      margin-top: 4px;
+    }
+
+    .contact-phone-link:hover {
+      color: #e08d00;
+    }
+
+    .hours-list {
+      list-style: none;
+    }
+
+    .hours-list li {
+      color: #e2e8f0;
+      font-size: 14px;
+      padding: 4px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .hours-list li span {
+      color: #94a3b8;
+    }
+
+    .emergency-tag {
+      display: inline-block;
+      background: rgba(245,158,11,0.15);
+      border: 1px solid rgba(245,158,11,0.3);
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 600;
+      padding: 6px 14px;
+      border-radius: 999px;
+      margin-top: 20px;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .contact-right p {
+      color: var(--muted);
+      font-size: 14px;
+      margin-bottom: 28px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      color: var(--text);
+      background: #fff;
+      transition: border-color 0.2s ease;
+      outline: none;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .btn-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-submit:hover {
+      background: #e08d00;
+      transform: translateY(-2px);
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        padding: 60px 20px;
+      }
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+      .contact-left,
+      .contact-right {
+        padding: 36px 28px;
+      }
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+    }
+
+    .footer-text {
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .footer-text a {
+      color: #94a3b8;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    .footer-text a:hover {
+      color: var(--accent);
+    }
+
+    .footer-divider {
+      margin: 0 8px;
+      color: #2d3e55;
+    }
+
+    @media (max-width: 480px) {
+      footer {
+        padding: 32px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav id="top">
+    <div class="nav-inner">
+      <a href="#top" class="nav-logo">Adams Plumbing &amp; Electrics</a>
+      <div class="nav-right">
+        <a href="tel:07716437025" class="nav-phone">07716 437025</a>
+        <a href="tel:07716437025" class="btn-call-nav">Call Now</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Birmingham's Trusted Plumbing &amp; Electrical Specialists</h1>
+      <p class="hero-sub">Adams Plumbing &amp; Electrics offers the rare combination of fully qualified plumbing and electrical services under one roof, saving Birmingham homeowners time, hassle and money.</p>
+      <div class="hero-buttons">
+        <a href="tel:07716437025" class="btn-primary-hero">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary-hero">Contact Us</a>
+      </div>
+      <div class="trust-badges">
+        <span class="trust-badge">✔ Gas Safe Registered</span>
+        <span class="trust-badge">✔ CHAS Accredited</span>
+        <span class="trust-badge">✔ NICEIC Approved</span>
+        <span class="trust-badge">✔ 24/7 Emergency Callout</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stats-inner">
+      <div class="stat-item">
+        <span class="stat-number">4.7★</span>
+        <span class="stat-label">Google Rating</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">38+</span>
+        <span class="stat-label">5-Star Reviews</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">10+</span>
+        <span class="stat-label">Years Trading</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">5</span>
+        <span class="stat-label">Areas Served</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services">
+    <div class="services-inner">
+      <h2 class="section-title">Our Services</h2>
+      <div class="services-grid">
+
+        <div class="service-card">
+          <span class="service-icon">🔥</span>
+          <h3>Boiler Installation &amp; Repair</h3>
+          <p>Expert boiler fitting, servicing and emergency repairs across Birmingham. We work with all major boiler brands to keep your home warm and safe.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🚨</span>
+          <h3>Emergency Plumbing Callouts</h3>
+          <p>Available 24/7 for urgent plumbing emergencies. Burst pipes, severe leaks or no hot water — we'll be there fast to get things sorted.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🛁</span>
+          <h3>Bathroom Fitting &amp; Refurbishment</h3>
+          <p>Complete bathroom transformations from design to installation. We handle all plumbing, tiling and finishing work to give you the bathroom you deserve.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">⚡</span>
+          <h3>Full &amp; Partial Rewiring</h3>
+          <p>NICEIC approved electrical rewiring for homes of all sizes. We ensure your electrics meet current regulations safely and efficiently.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🔌</span>
+          <h3>Consumer Unit Upgrades</h3>
+          <p>Upgrade your fuse box to a modern consumer unit for improved safety and reliability. All work fully certified and compliant with BS7671.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">💧</span>
+          <h3>Leak Detection &amp; Pipe Repairs</h3>
+          <p>Using advanced detection methods to pinpoint leaks with minimal disruption. Fast, tidy repairs to your pipework that last.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Your Local Plumbing &amp; Electrical Experts</h2>
+        <p>I'm Adam, and I've been keeping Birmingham homes safe, warm and running smoothly for over a decade. Whether you need an emergency plumber at short notice or a full electrical rewire, my team handles it all with professionalism and care.</p>
+        <p>We're proud of our reputation for honest pricing, clean workmanship and turning up when we say we will. As a combined plumbing and electrical service, we save you the hassle of dealing with multiple tradespeople for your home projects.</p>
+        <p>Serving Birmingham, Solihull, Sutton Coldfield, Wolverhampton and Coventry — we're always close by when you need us most.</p>
+      </div>
+      <div class="about-right">
+        <div class="about-stats-grid">
+          <div class="about-stat-box">
+            <span class="about-stat-num">10+</span>
+            <span class="about-stat-label">Years Experience</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-num">4.7★</span>
+            <span class="about-stat-label">Google Rating</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-num">38+</span>
+            <span class="about-stat-label">Happy Customers</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-num">5</span>
+            <span class="about-stat-label">Areas Covered</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews">
+    <div class="reviews-inner">
+      <h2>What Our Customers Say</h2>
+      <p class="reviews-subtitle">Rated 4.7 out of 5 from 38 Google reviews</p>
+      <div class="reviews-grid">
+
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"Adams sorted our boiler out within hours of calling. Friendly, professional and very fairly priced. Would highly recommend to anyone in Birmingham."</p>
+          <div class="review-author">Sarah M &mdash; 2024</div>
+        </div>
+
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"Had a leak under the kitchen sink that was getting worse. They came out same day and fixed it quickly. Great service and no mess left behind."</p>
+          <div class="review-author">James T &mdash; 2024</div>
+        </div>
+
+        <div class="review-card">
+          <div class="stars">★★★★</div>
+          <p class="review-text">"Very knowledgeable team — handled both our electrical upgrade and a bathroom plumbing job at the same time. Saved us time and money. Will use again."</p>
+          <div class="review-author">Priya K &mdash; 2024</div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h2>Adams Plumbing &amp; Electrics</h2>
+        <p class="contact-tagline">Your Local Plumbing &amp; Electrical Experts</p>
+
+        <div class="contact-info-block">
+          <div class="contact-info-label">Phone</div>
+          <a href="tel:07716437025" class="contact-phone-link">07716 437025</a>
+        </div>
+
+        <div class="contact-info-block">
+          <div class="contact-info-label">Address</div>
+          <div class="contact-info-value">Birmingham, West Midlands</div>
+        </div>
+
+        <div class="contact-info-block">
+          <div class="contact-info-label">Service Areas</div>
+          <div class="contact-info-value">Birmingham · Solihull · Sutton Coldfield · Wolverhampton · Coventry</div>
+        </div>
+
+        <div class="contact-info-block">
+          <div class="contact-info-label">Opening Hours</div>
+          <ul class="hours-list">
+            <li>Monday – Friday <span>8am – 6pm</span></li>
+            <li>Saturday <span>9am – 4pm</span></li>
+            <li>Sunday <span>Closed</span></li>
+          </ul>
+          <span class="emergency-tag">⚡ 24/7 Emergency Callout Available</span>
+        </div>
+      </div>
+
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <p>Fill in the form below and we'll get back to you as soon as possible.</p>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">How Can We Help?</label>
+            <textarea id="message" name="message" placeholder="Describe the job or issue you need help with..."></textarea>
+          </div>
+          <button type="submit" class="btn-submit">Get a Free Quote</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-text">
+      <strong style="color:#e2e8f0;">Adams Plumbing &amp; Electrics</strong>
+      <span class="footer-divider">|
