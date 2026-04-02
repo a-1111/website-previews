@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "Proflow Heating Solutions Ltd",
+    "slug": "proflow-heating-solutions-birmingham",
+    "category": "Plumber",
+    "tagline": "Reliable Heating & Plumbing Solutions Birmingham"
+  },
+  "contact": {
+    "phone": "07858 893212",
+    "address": "Birmingham, West Midlands",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Solihull",
+      "Wolverhampton",
+      "Coventry",
+      "Sutton Coldfield"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Central Heating Installation",
+    "Boiler Servicing & Repairs",
+    "Emergency Plumbing Callouts",
+    "Radiator Installation & Balancing",
+    "Underfloor Heating Systems"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James Thornton",
+        "rating": 5,
+        "text": "Proflow replaced our old boiler quickly and efficiently. Friendly team, clean work and great value. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sandra Mitchell",
+        "rating": 5,
+        "text": "Called them out for an emergency heating fault in the middle of winter. Responded fast and had us back up and running the same day. Brilliant service.",
+        "date": "2024"
+      },
+      {
+        "author": "David Okafor",
+        "rating": 4,
+        "text": "Very professional from start to finish. New central heating system installed to a high standard. Would use again without hesitation.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Worcester Bosch Accredited Installer"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Proflow Heating Solutions delivers expert boiler and central heating services across Birmingham, combining Gas Safe certified workmanship with fast response times and honest, transparent pricing.",
+    "hero_headline": "Birmingham's Trusted Heating & Plumbing Experts",
+    "about_paragraph": "We're Proflow Heating Solutions, a Birmingham-based heating and plumbing company dedicated to keeping your home warm and your water flowing. Whether it's a brand new boiler installation, a central heating upgrade or an emergency callout, we bring professional expertise and a friendly approach to every job. We're fully Gas Safe registered and proud to deliver reliable, high-quality work at fair prices across Birmingham and the surrounding areas.",
+    "colour_scheme": {
+      "primary": "#1a3a5c",
+      "secondary": "#e8611a",
+      "accent": "#3d9be9",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
