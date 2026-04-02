@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "KAPELES Heating and Plumbing Services",
+    "slug": "kapeles-heating-and-plumbing-services-birmingham",
+    "category": "Plumber",
+    "tagline": "Reliable Heating and Plumbing You Can Trust"
+  },
+  "contact": {
+    "phone": "0161 302 9772",
+    "address": "Birmingham, West Midlands",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Solihull",
+      "Sutton Coldfield",
+      "Wolverhampton",
+      "Coventry"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation and Replacement",
+    "Boiler Servicing and Repairs",
+    "Central Heating Installation",
+    "Emergency Plumbing Callouts",
+    "Radiator Installation and Balancing",
+    "Bathroom and Shower Plumbing"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James Holloway",
+        "rating": 5,
+        "text": "Kapeles sorted our boiler issue quickly and professionally. Arrived on time, diagnosed the problem fast and had it fixed within the hour. Highly recommended.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah Patel",
+        "rating": 5,
+        "text": "Fantastic service from start to finish. Very knowledgeable and tidied up after themselves. Will definitely be using again for our annual boiler service.",
+        "date": "2024"
+      },
+      {
+        "author": "Mark Griffiths",
+        "rating": 4,
+        "text": "Called them out for an emergency leak late in the day and they still came out promptly. Fair pricing and honest advice. Good local company.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Emergency Callouts Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Kapeles Heating and Plumbing Services brings dependable, expert heating and plumbing solutions to Birmingham and the surrounding areas. We pride ourselves on prompt response times, transparent pricing, and quality workmanship every time.",
+    "hero_headline": "Birmingham's Trusted Heating and Plumbing Experts",
+    "about_paragraph": "I'm the founder of Kapeles Heating and Plumbing Services, and I've been keeping Birmingham homes warm and running smoothly for years. We specialise in boiler installations, central heating, and emergency plumbing, delivering honest advice and quality results on every job. Our customers come back to us because we treat every home like our own.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e87722",
+      "accent": "#f5a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
