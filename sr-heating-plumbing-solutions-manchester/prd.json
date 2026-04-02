@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "SR Heating & Plumbing Solutions Ltd.",
+    "slug": "sr-heating-plumbing-solutions-manchester",
+    "category": "Central Heating Service",
+    "tagline": "Reliable Heating Solutions You Can Trust"
+  },
+  "contact": {
+    "phone": "07450 411749",
+    "address": "Manchester, Greater Manchester",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Salford",
+      "Stockport",
+      "Oldham",
+      "Trafford"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Central Heating System Servicing",
+    "Boiler Repairs",
+    "Radiator Installation & Bleeding",
+    "Landlord Gas Safety Certificates",
+    "Emergency Heating Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James Thornton",
+        "rating": 5,
+        "text": "SR Heating sorted our boiler out within hours of calling. Friendly, professional and very reasonably priced. Would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Karen Booth",
+        "rating": 5,
+        "text": "Excellent service from start to finish. The engineer arrived on time, explained everything clearly and left the place spotless. Very happy customer.",
+        "date": "2024"
+      },
+      {
+        "author": "Mohammed Iqbal",
+        "rating": 5,
+        "text": "Had a full central heating service done. Thorough job, great communication and fair pricing. Will definitely be using SR Heating again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Free Quotes Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "SR Heating & Plumbing Solutions delivers expert central heating and boiler services across Greater Manchester, combining quality workmanship with honest, transparent pricing and a prompt, reliable service every time.",
+    "hero_headline": "Manchester's Trusted Heating & Plumbing Experts",
+    "about_paragraph": "At SR Heating & Plumbing Solutions, we take pride in keeping Manchester homes warm, safe and comfortable all year round. We're Gas Safe registered engineers with extensive experience in boiler installations, central heating servicing and emergency repairs. Whether it's a routine annual service or an urgent breakdown, you can count on us to get there fast and get the job done right.",
+    "colour_scheme": {
+      "primary": "#c0392b",
+      "secondary": "#2c3e50",
+      "accent": "#e67e22",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
