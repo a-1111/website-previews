@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>InstantFix 24/7 Plumbing – Birmingham's Emergency Plumber</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ===== NAV ===== */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+      height: 68px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      color: #fff;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 6px;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .nav-cta:hover {
+      background: #d97706;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 0 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+      .nav-logo {
+        font-size: 16px;
+      }
+    }
+
+    /* ===== HERO ===== */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.7;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary:hover {
+      background: #d97706;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 50px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: auto;
+        padding-top: 80px;
+        padding-bottom: 80px;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 16px;
+      }
+    }
+
+    /* ===== STATS BAR ===== */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 600px) {
+      .stats-bar {
+        gap: 28px;
+        padding: 24px 20px;
+      }
+    }
+
+    /* ===== SERVICES ===== */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .section-title {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 28px;
+      margin-bottom: 14px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== ABOUT ===== */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 15px;
+    }
+
+    .about-right {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .stat-box-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 800;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .stat-box-label {
+      display: block;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ===== REVIEWS ===== */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 16px;
+    }
+
+    .reviews-subtitle {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 15px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .review-date {
+      color: rgba(148,163,184,0.6);
+      font-size: 12px;
+      margin-left: 8px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== CONTACT ===== */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+      id: contact;
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1100px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.1);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h3 {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 24px;
+      color: #fff;
+      margin-bottom: 32px;
+      line-height: 1.2;
+    }
+
+    .contact-detail {
+      margin-bottom: 24px;
+    }
+
+    .contact-detail-label {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 4px;
+    }
+
+    .contact-detail-value {
+      color: #cbd5e1;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 26px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      color: #d97706;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 22px;
+      color: var(--text);
+      margin-bottom: 28px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      outline: none;
+      transition: border-color 0.2s ease;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 110px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 15px;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .form-submit:hover {
+      background: #d97706;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        padding: 60px 20px;
+      }
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+      .contact-left {
+        padding: 36px 24px;
+      }
+      .contact-right {
+        padding: 36px 24px;
+      }
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    footer a {
+      color: #94a3b8;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    @media (max-width: 600px) {
+      footer {
+        padding: 32px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <a class="nav-logo" href="#">InstantFix 24/7 Plumbing</a>
+    <div class="nav-right">
+      <a class="nav-phone" href="tel:07309735598">07309 735598</a>
+      <a class="nav-cta" href="tel:07309735598">Call Now</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Birmingham's 24/7 Emergency Plumber, Always On Call</h1>
+      <p class="hero-sub">InstantFix 24/7 Plumbing delivers round-the-clock emergency plumbing across Birmingham, with fast response times and transparent pricing so you're never left in the dark.</p>
+      <div class="hero-buttons">
+        <a class="btn-primary" href="tel:07309735598">Get a Free Quote</a>
+        <a class="btn-secondary" href="#contact">Contact Us</a>
+      </div>
+      <div class="trust-badges">
+        <span class="badge">✔ Gas Safe Registered</span>
+        <span class="badge">✔ CHAS Accredited</span>
+        <span class="badge">✔ 24/7 Emergency Response</span>
+        <span class="badge">✔ No Call-Out Fee Quoted Upfront</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stat-item">
+      <span class="stat-number">4.7★</span>
+      <span class="stat-label">Google Rating</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">38</span>
+      <span class="stat-label">Verified Reviews</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">24/7</span>
+      <span class="stat-label">Always Available</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">5</span>
+      <span class="stat-label">Areas Served</span>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services" id="services">
+    <h2 class="section-title">Our Plumbing Services</h2>
+    <div class="services-grid">
+      <div class="service-card">
+        <span class="service-icon">🚨</span>
+        <h3>Emergency Plumbing Callouts</h3>
+        <p>Day or night, we respond fast to plumbing emergencies across Birmingham and surrounding areas. No call-out fee — just rapid, professional help when you need it most.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">💧</span>
+        <h3>Burst Pipe Repair</h3>
+        <p>A burst pipe can cause serious damage in minutes. Our engineers are equipped to locate and repair burst pipes quickly, minimising disruption and water damage to your property.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔥</span>
+        <h3>Boiler Servicing &amp; Repair</h3>
+        <p>Gas Safe registered engineers carry out full boiler services and repairs on all makes and models. We'll get your heating back up and running as quickly as possible.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔧</span>
+        <h3>Drain Unblocking &amp; Clearance</h3>
+        <p>Blocked drains cleared fast using professional equipment. Whether it's a kitchen sink, bathroom drain or external drain, we'll have it flowing freely again in no time.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔍</span>
+        <h3>Leak Detection &amp; Repair</h3>
+        <p>Hidden leaks can cause costly damage over time. We use specialist detection equipment to pinpoint leaks accurately and carry out long-lasting repairs with minimal disruption.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🛁</span>
+        <h3>Bathroom &amp; Shower Installation</h3>
+        <p>From new shower installations to full bathroom upgrades, our team provides expert fitting with a high-quality finish. All work is fully guaranteed and completed to the highest standard.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Birmingham's Most Reliable Round-the-Clock Plumber</h2>
+        <p>We're InstantFix 24/7 Plumbing, and we built this business around one simple idea — plumbing emergencies don't wait, so neither do we. Based in Birmingham, we're available every hour of every day to tackle everything from burst pipes to boiler breakdowns.</p>
+        <p>When you call us, you get a qualified, friendly engineer on your doorstep fast, with no hidden charges and no fuss. We cover Birmingham, Solihull, Wolverhampton, Coventry and Sutton Coldfield — so wherever you are in the region, help is never far away.</p>
+        <p>Our Gas Safe registered engineers bring the expertise, tools and professional approach needed to get every job done right first time. Transparent pricing, honest advice and a commitment to quality — that's the InstantFix promise.</p>
+      </div>
+      <div class="about-right">
+        <div class="stat-box">
+          <span class="stat-box-number">24/7</span>
+          <span class="stat-box-label">Available Every Day</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-box-number">4.7★</span>
+          <span class="stat-box-label">Google Rating</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-box-number">5</span>
+          <span class="stat-box-label">Areas Covered</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-box-number">38</span>
+          <span class="stat-box-label">Happy Customers</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews" id="reviews">
+    <h2>What Our Customers Say</h2>
+    <p class="reviews-subtitle">Rated 4.7 out of 5 from 38 Google reviews</p>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <span class="stars">★★★★★</span>
+        <p class="review-text">"Called at midnight with a burst pipe and the engineer arrived within the hour. Sorted the problem quickly and professionally. Absolute lifesaver!"</p>
+        <div>
+          <span class="review-author">Karen H</span>
+          <span class="review-date">2024</span>
+        </div>
+      </div>
+      <div class="review-card">
+        <span class="stars">★★★★★</span>
+        <p class="review-text">"Great service from start to finish. Fair pricing even for a Sunday callout. Would highly recommend InstantFix to anyone in Birmingham."</p>
+        <div>
+          <span class="review-author">James T</span>
+          <span class="review-date">2024</span>
+        </div>
+      </div>
+      <div class="review-card">
+        <span class="stars">★★★★☆</span>
+        <p class="review-text">"Very responsive and polite. Fixed our boiler the same day we called. Really pleased with how quickly they turned up and got things working again."</p>
+        <div>
+          <span class="review-author">Priya M</span>
+          <span class="review-date">2024</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h3>InstantFix 24/7 Plumbing</h3>
+        <div class="contact-detail">
+          <div class="contact-detail-label">Address</div>
+          <div class="contact-detail-value">Birmingham, West Midlands, B1</div>
+        </div>
+        <div class="contact-detail">
+          <div class="contact-detail-label">Phone</div>
+          <a class="contact-phone-link" href="tel:07309735598">07309 735598</a>
+        </div>
+        <div class="contact-detail">
+          <div class="contact-detail-label">Opening Hours</div>
+          <div class="contact-detail-value">
+            Monday – Friday: 24 Hours<br />
+            Saturday: 24 Hours<br />
+            Sunday: 24 Hours<br />
+            <strong style="color:#f59e0b;">24/7 Emergency Callout Available</strong>
+          </div>
+        </div>
+        <div class="contact-detail">
+          <div class="contact-detail-label">Areas Served</div>
+          <div class="contact-detail-value">Birmingham, Solihull, Wolverhampton, Coventry, Sutton Coldfield</div>
+        </div>
+      </div>
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">How Can We Help?</label>
+            <textarea id="message" name="message" placeholder="Describe your plumbing issue or enquiry..."></textarea>
+          </div>
+          <button type="submit" class="form-submit">Get a Free Quote</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>
+      <strong style="color:#fff;">InstantFix 24/7 Plumbing</strong> &nbsp;|&nbsp;
+      <a href="tel:07309735598">07309 735598</a> &nbsp;|&nbsp;
+      Birmingham, West Midlands, B1
+    </p>
+    <p style="margin-top:8px;">Gas Safe Registered &nbsp;|&nbsp; CHAS Accredited &nbsp;|&nbsp; 24/7 Emergency Plumber in Birmingham</p>
+    <p style="margin-top:8px;">&copy; 2024 InstantFix 24/7 Plumbing. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
