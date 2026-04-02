@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WM Gas & Plumbing | Birmingham's Trusted Gas & Plumbing Experts</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ===== NAV ===== */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto;
+      height: 68px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      color: #fff;
+      text-decoration: none;
+      letter-spacing: -0.3px;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 10px 22px;
+      border-radius: 6px;
+      font-weight: 700;
+      font-size: 14px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .nav-cta:hover {
+      background: #e08d00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 0 20px;
+      }
+
+      .nav-phone {
+        display: none;
+      }
+
+      .nav-logo {
+        font-size: 17px;
+      }
+    }
+
+    /* ===== HERO ===== */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+      letter-spacing: -1px;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.7;
+    }
+
+    .hero-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      margin-top: 36px;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary:hover {
+      background: #e08d00;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 32px;
+    }
+
+    .trust-badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: auto;
+      }
+
+      .hero h1 {
+        font-size: 36px;
+      }
+
+      .hero-sub {
+        font-size: 16px;
+      }
+
+      .hero-buttons {
+        flex-direction: column;
+      }
+
+      .btn-primary, .btn-secondary {
+        text-align: center;
+      }
+    }
+
+    /* ===== STATS BAR ===== */
+    .stats-bar {
+      background: var(--primary);
+      padding: 28px 40px;
+    }
+
+    .stats-inner {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      color: #fff;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      line-height: 1.1;
+    }
+
+    .stat-label {
+      display: block;
+      color: rgba(255,255,255,0.7);
+      font-size: 13px;
+      margin-top: 4px;
+    }
+
+    @media (max-width: 600px) {
+      .stats-inner {
+        gap: 28px;
+      }
+
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* ===== SERVICES ===== */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .section-header {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .section-header h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .section-header p {
+      color: var(--muted);
+      font-size: 16px;
+      margin-top: 12px;
+      max-width: 560px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 28px;
+      margin-bottom: 14px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== ABOUT ===== */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: center;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 15px;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-box .big-num {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1.1;
+    }
+
+    .about-stat-box .big-label {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 6px;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ===== REVIEWS ===== */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    .reviews-sub {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+      transition: background 0.2s ease;
+    }
+
+    .review-card:hover {
+      background: rgba(255,255,255,0.08);
+    }
+
+    .review-stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 14px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== CONTACT ===== */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1000px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.10);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 24px;
+    }
+
+    .contact-detail {
+      margin-bottom: 20px;
+    }
+
+    .contact-detail .detail-label {
+      color: rgba(255,255,255,0.5);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 4px;
+    }
+
+    .contact-detail .detail-value {
+      color: #fff;
+      font-size: 15px;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 26px;
+      font-weight: 700;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: color 0.2s ease;
+      display: block;
+    }
+
+    .contact-phone-link:hover {
+      color: #fbbf24;
+    }
+
+    .hours-list {
+      list-style: none;
+    }
+
+    .hours-list li {
+      color: rgba(255,255,255,0.75);
+      font-size: 14px;
+      padding: 3px 0;
+    }
+
+    .emergency-badge {
+      display: inline-block;
+      background: rgba(245,158,11,0.2);
+      border: 1px solid rgba(245,158,11,0.4);
+      color: var(--accent);
+      padding: 6px 14px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 600;
+      margin-top: 16px;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      color: var(--text);
+      background: #fff;
+      transition: border-color 0.2s ease;
+      outline: none;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .form-submit:hover {
+      background: #e08d00;
+      transform: translateY(-2px);
+    }
+
+    .contact-section-header {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .contact-section-header h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .contact-section-header p {
+      color: var(--muted);
+      margin-top: 10px;
+      font-size: 16px;
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        padding: 60px 20px;
+      }
+
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+
+      .contact-left, .contact-right {
+        padding: 36px 24px;
+      }
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+    }
+
+    .footer-text {
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .footer-text a {
+      color: #94a3b8;
+      text-decoration: none;
+    }
+
+    .footer-text a:hover {
+      color: var(--accent);
+    }
+
+    .footer-divider {
+      margin: 0 8px;
+      opacity: 1.4;
+    }
+
+    @media (max-width: 600px) {
+      footer {
+        padding: 24px 20px;
+      }
+    }
+
+    /* ===== SERVICE AREAS ===== */
+    .areas {
+      background: var(--primary);
+      padding: 40px;
+      text-align: center;
+    }
+
+    .areas p {
+      color: rgba(255,255,255,0.85);
+      font-size: 15px;
+    }
+
+    .areas strong {
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-inner">
+      <a href="#" class="nav-logo">WM Gas &amp; Plumbing</a>
+      <div class="nav-right">
+        <a href="tel:07400663330" class="nav-phone">07400 663330</a>
+        <a href="tel:07400663330" class="nav-cta">Call Now</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Birmingham's Trusted Gas &amp; Plumbing Experts</h1>
+      <p class="hero-sub">Safe, Reliable Gas &amp; Plumbing Solutions across Birmingham and the West Midlands. Gas Safe registered engineers — honest prices, first-time fixes.</p>
+      <div class="hero-buttons">
+        <a href="tel:07400663330" class="btn-primary">Get in Touch Today</a>
+        <a href="#contact" class="btn-secondary">Request a Free Quote</a>
+      </div>
+      <div class="trust-badges">
+        <span class="trust-badge">✔ Fully Insured</span>
+        <span class="trust-badge">✔ Free Quotes</span>
+        <span class="trust-badge">✔ Local &amp; Reliable</span>
+        <span class="trust-badge">✔ Gas Safe Registered</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stats-inner">
+      <div class="stat-item">
+        <span class="stat-number">4.8★</span>
+        <span class="stat-label">Google Rating</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">34+</span>
+        <span class="stat-label">5-Star Reviews</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">5</span>
+        <span class="stat-label">Areas Covered</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">24/7</span>
+        <span class="stat-label">Emergency Call-Outs</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services" id="services">
+    <div class="section-header">
+      <h2>Our Services</h2>
+      <p>From boiler installations to emergency call-outs, we cover all your gas and plumbing needs across Birmingham and the West Midlands.</p>
+    </div>
+    <div class="services-grid">
+      <div class="service-card">
+        <span class="service-icon">🔥</span>
+        <h3>Boiler Installation &amp; Replacement</h3>
+        <p>Reliable, efficient boiler installations using quality-approved units. We'll help you choose the right boiler for your home and budget, installed to the highest standards.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔧</span>
+        <h3>Boiler Servicing &amp; Repairs</h3>
+        <p>Keep your boiler running safely and efficiently with our expert servicing. Fast diagnosis and repairs to get your heating back up and running quickly.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">📋</span>
+        <h3>Gas Safety Certificates</h3>
+        <p>Legally required gas safety checks carried out by our Gas Safe registered engineer. We issue your certificate promptly on the day of inspection.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🏠</span>
+        <h3>Central Heating Installation</h3>
+        <p>Full central heating system installations for new builds and upgrades. We design and fit systems that deliver warmth and efficiency throughout your property.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🏢</span>
+        <h3>Landlord Gas Safety Inspections</h3>
+        <p>Meet your legal obligations with our comprehensive landlord gas safety inspections. We work around tenants' schedules and provide documentation quickly.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🚨</span>
+        <h3>Emergency Plumbing Call-Outs</h3>
+        <p>Gas leak? Burst pipe? We offer emergency call-outs across Birmingham and the West Midlands — fast response times when you need us most.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Why Choose WM Gas &amp; Plumbing?</h2>
+        <p>Hi, I'm the engineer behind WM Gas &amp; Plumbing, serving homeowners and landlords across Birmingham and the wider West Midlands. I'm Gas Safe registered and take real pride in delivering safe, high-quality work at honest prices.</p>
+        <p>Whether you need a new boiler, a gas safety check, or an emergency call-out, I'm here to help and always on time. WM Gas &amp; Plumbing delivers honest, reliable gas and plumbing services with transparent pricing and getting the job done right first time.</p>
+        <p>No hidden charges, no cut corners — just professional work you can trust, every single time.</p>
+      </div>
+      <div class="about-stats">
+        <div class="about-stat-box">
+          <span class="big-num">4.8★</span>
+          <span class="big-label">Google Rating</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="big-num">34+</span>
+          <span class="big-label">Happy Customers</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="big-num">100%</span>
+          <span class="big-label">Gas Safe Registered</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="big-num">5</span>
+          <span class="big-label">Areas Served</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews" id="reviews">
+    <h2>What Our Customers Say</h2>
+    <p class="reviews-sub">Rated 4.8 out of 5 based on 34 Google reviews</p>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"WM Gas &amp; Plumbing did a fantastic job replacing our old boiler. Quick, tidy and very professional throughout. Highly recommended!"</p>
+        <span class="review-author">James T — 2024</span>
+      </div>
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"Called them out for an emergency and they arrived within the hour. Fixed the issue quickly and at a very fair price. Will definitely use again."</p>
+        <span class="review-author">Sarah M — 2024</span>
+      </div>
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"Brilliant service for our annual gas safety certificate. Prompt, knowledgeable and great value. Exactly what you want from a local gas engineer."</p>
+        <span class="review-author">David R — 2024</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICE AREAS -->
+  <div class="areas">
+    <p><strong>Areas We Cover:</strong> Birmingham &nbsp;•&nbsp; Solihull &nbsp;•&nbsp; Wolverhampton &nbsp;•&nbsp; Coventry &nbsp;•&nbsp; Dudley</p>
+  </div>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <div class="contact-section-header">
+      <h2>Get In Touch</h2>
+      <p>Request a free quote or book a call-out — we're ready to help.</p>
+    </div>
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h3>WM Gas &amp; Plumbing</h3>
+        <div class="contact-detail">
+          <div class="detail-label">Address</div>
+          <div class="detail-value">Birmingham, West Midlands</div>
+        </div>
+        <div class="contact-detail">
+          <div class="detail-label">Phone</div>
+          <a href="tel:07400663330" class="contact-phone-link">07400 663330</a>
+        </div>
+        <div class="contact-detail">
+          <div class="detail-label">Opening Hours</div>
+          <ul class="hours-list">
+            <li>Monday – Friday: 8am – 6pm</li>
+            <li>Saturday: 9am – 4pm</li>
+            <li>Sunday: Closed</li>
+          </ul>
+        </div>
+        <span class="emergency-badge">⚡ Emergency Call-Outs Available</span>
+      </div>
+      <div class="contact-right">
+        <h3>Send Us a Message</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">How Can We Help?</label>
+            <textarea id="message" name="message" placeholder="Tell us about your gas or plumbing requirements..."></textarea>
+          </div>
+          <button type="submit" class="form-submit">Get in Touch Today</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-text">
+      <strong style="color:#fff;">WM Gas &amp; Plumbing</strong>

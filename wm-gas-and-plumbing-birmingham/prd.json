@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "WM Gas & Plumbing",
+    "slug": "wm-gas-and-plumbing-birmingham",
+    "category": "Gas Engineer",
+    "tagline": "Safe, Reliable Gas & Plumbing Solutions"
+  },
+  "contact": {
+    "phone": "07400 663330",
+    "address": "Birmingham, West Midlands",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Solihull",
+      "Wolverhampton",
+      "Coventry",
+      "Dudley"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repairs",
+    "Gas Safety Certificates",
+    "Central Heating Installation",
+    "Landlord Gas Safety Inspections",
+    "Emergency Plumbing Call-Outs"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "WM Gas & Plumbing did a fantastic job replacing our old boiler. Quick, tidy and very professional throughout. Highly recommended!",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Called them out for an emergency and they arrived within the hour. Fixed the issue quickly and at a very fair price. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "David R",
+        "rating": 5,
+        "text": "Brilliant service for our annual gas safety certificate. Prompt, knowledgeable and great value. Exactly what you want from a local gas engineer.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Free Quotes Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "WM Gas & Plumbing delivers honest, reliable gas and plumbing services across Birmingham and the West Midlands, with Gas Safe registered engineers you can trust. We pride ourselves on transparent pricing and getting the job done right first time.",
+    "hero_headline": "Birmingham's Trusted Gas & Plumbing Experts",
+    "about_paragraph": "Hi, I'm the engineer behind WM Gas & Plumbing, serving homeowners and landlords across Birmingham and the wider West Midlands. I'm Gas Safe registered and take real pride in delivering safe, high-quality work at honest prices. Whether you need a new boiler, a gas safety check, or an emergency call-out, I'm here to help and always on time.",
+    "colour_scheme": {
+      "primary": "#1a3c5e",
+      "secondary": "#e87722",
+      "accent": "#4fa3d1",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
