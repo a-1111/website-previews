@@ -1,0 +1,866 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ABS Heating & Plumbing Supplies | Trade Counter Birmingham</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ── NAV ── */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 68px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      color: #fff;
+      text-decoration: none;
+      line-height: 1.2;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 24px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .nav-cta:hover {
+      background: #d97706;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 0 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+      .nav-logo {
+        font-size: 15px;
+      }
+    }
+
+    /* ── HERO ── */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      font-family: 'Poppins', sans-serif;
+      text-decoration: none;
+      display: inline-block;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-primary:hover {
+      background: #d97706;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      font-family: 'Poppins', sans-serif;
+      text-decoration: none;
+      display: inline-block;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 40px;
+    }
+
+    .trust-badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 16px;
+      border-radius: 50px;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: auto;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 16px;
+      }
+    }
+
+    /* ── STATS BAR ── */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 600px) {
+      .stats-bar {
+        gap: 28px;
+        padding: 24px 20px;
+      }
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* ── SERVICES ── */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .section-header {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .section-header h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .section-header p {
+      color: var(--muted);
+      font-size: 16px;
+      margin-top: 10px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 28px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ── ABOUT ── */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      font-size: 15px;
+      margin-bottom: 16px;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-box .big-num {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .about-stat-box .stat-desc {
+      display: block;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ── REVIEWS ── */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    .reviews-sub {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 15px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 16px;
+      margin-bottom: 14px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .review-date {
+      color: rgba(148,163,184,0.6);
+      font-size: 12px;
+      margin-top: 2px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ── CONTACT ── */
+    #contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    #contact .section-header h2 {
+      color: var(--text);
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1000px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.1);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 28px;
+    }
+
+    .contact-detail {
+      margin-bottom: 24px;
+    }
+
+    .contact-detail .label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: rgba(255,255,255,0.45);
+      margin-bottom: 4px;
+    }
+
+    .contact-detail .value {
+      color: #e2e8f0;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 24px;
+      font-weight: 700;
+      font-family: 'Poppins', sans-serif;
+      text-decoration: none;
+      display: block;
+      transition: color 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      color: #fbbf24;
+    }
+
+    .hours-list {
+      list-style: none;
+    }
+
+    .hours-list li {
+      color: #e2e8f0;
+      font-size: 14px;
+      padding: 4px 0;
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+
+    .hours-list li:last-child {
+      border-bottom: none;
+    }
+
+    .hours-day {
+      color: rgba(255,255,255,0.55);
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      background: #fff;
+      transition: border-color 0.2s ease;
+      outline: none;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      font-family: 'Poppins', sans-serif;
+      font-size: 15px;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .form-submit:hover {
+      background: #d97706;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      #contact {
+        padding: 60px 20px;
+      }
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+      .contact-left, .contact-right {
+        padding: 36px 28px;
+      }
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+    }
+
+    footer p {
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    footer a {
+      color: #94a3b8;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    .footer-sep {
+      margin: 0 10px;
+      color: rgba(148,163,184,0.35);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <a href="#" class="nav-logo">ABS Heating &amp; Plumbing Supplies</a>
+    <div class="nav-right">
+      <a href="tel:01215234743" class="nav-phone">0121 523 4743</a>
+      <a href="tel:01215234743" class="nav-cta">Get a Free Quote</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Quality Heating &amp; Plumbing Parts, Ready Today</h1>
+      <p class="hero-sub">ABS Heating &amp; Plumbing Supplies is Handsworth's trusted local trade counter, providing heating engineers and plumbers across Birmingham with quality parts and materials at competitive prices, without the queues of the big chains.</p>
+      <div class="hero-buttons">
+        <a href="tel:01215234743" class="btn-primary">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary">Visit Our Trade Counter</a>
+      </div>
+      <div class="trust-badges">
+        <span class="trust-badge">Gas Safe Registered</span>
+        <span class="trust-badge">CHAS Accredited</span>
+        <span class="trust-badge">Trade Accounts Available</span>
+        <span class="trust-badge">Same-Day Collection</span>
+        <span class="trust-badge">Local Independent Merchant</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stat-item">
+      <span class="stat-number">4.3★</span>
+      <span class="stat-label">Google Rating</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">22+</span>
+      <span class="stat-label">Verified Reviews</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">5</span>
+      <span class="stat-label">Areas Served</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">6</span>
+      <span class="stat-label">Product Categories</span>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services" id="services">
+    <div class="section-header">
+      <h2>What We Supply</h2>
+      <p>Everything the trade needs, over the counter — no waiting, no hassle.</p>
+    </div>
+    <div class="services-grid">
+      <div class="service-card">
+        <span class="service-icon">🔥</span>
+        <h3>Boilers &amp; Central Heating Parts</h3>
+        <p>A comprehensive range of boiler components and central heating parts to keep your jobs moving. We stock leading brands so you can get in and out fast.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔧</span>
+        <h3>Copper &amp; Plastic Pipework</h3>
+        <p>Full range of copper and plastic pipework in all standard sizes and lengths. Pick up exactly what you need for domestic or commercial installations.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">♨️</span>
+        <h3>Radiators &amp; Valves</h3>
+        <p>Standard and designer radiators alongside a wide selection of TRVs, lockshield valves and associated fittings at competitive trade prices.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🚿</span>
+        <h3>Bathroom Fittings &amp; Accessories</h3>
+        <p>From basins and baths to taps, shower fittings and accessories — we carry the products you need to complete bathroom installations efficiently.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">💧</span>
+        <h3>Hot &amp; Cold Water Systems Supplies</h3>
+        <p>Everything required for hot and cold water system installations including cylinders, tanks, pumps and associated pipework fittings.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🛠️</span>
+        <h3>Plumbing Tools &amp; Consumables</h3>
+        <p>A solid selection of plumbing tools, PTFE tape, flux, solder, pipe clips and other consumables — pick up what you need while you're collecting your parts.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Your Trusted Local Trade Counter in Handsworth</h2>
+        <p>We've been serving the trade from our Handsworth branch for years, supplying local plumbers and heating engineers with everything they need to get the job done. At ABS Heating &amp; Plumbing Supplies, we stock a wide range of boiler parts, pipework, radiators, bathroom fittings and tools — all available over the counter so you're never left waiting.</p>
+        <p>We're proud to be the reliable, friendly local merchant that Birmingham's tradespeople come back to time and again. Our team knows the trade and understands what you need — no fuss, no nonsense, just the right parts at the right price.</p>
+        <p>Based at 60 Oxhill Road in Handsworth, we serve plumbers and heating engineers across Birmingham, West Bromwich, Smethwick, Wolverhampton and the surrounding areas. Open early Monday to Friday and Saturday mornings for your convenience.</p>
+      </div>
+      <div class="about-stats">
+        <div class="about-stat-box">
+          <span class="big-num">4.3★</span>
+          <span class="stat-desc">Google Rating</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="big-num">22+</span>
+          <span class="stat-desc">Happy Customers</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="big-num">5</span>
+          <span class="stat-desc">Areas Covered</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="big-num">6+</span>
+          <span class="stat-desc">Product Lines</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews" id="reviews">
+    <h2>What the Trade Says</h2>
+    <p class="reviews-sub">Rated 4.3 out of 5 from 22 Google reviews</p>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Great trade counter, always have the parts I need in stock. The staff know their stuff and are really helpful. My go-to merchant in Handsworth."</p>
+        <div class="review-author">Mohammed R.</div>
+        <div class="review-date">2024</div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★</div>
+        <p class="review-text">"Competitive prices and friendly service. A decent local alternative to the big national merchants. Easy parking too which is a bonus."</p>
+        <div class="review-author">Dave T.</div>
+        <div class="review-date">2024</div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Brilliant little merchant, been using them for years. They always sort me out with the right parts quickly so I can get on with the job. Highly recommended."</p>
+        <div class="review-author">Karl B.</div>
+        <div class="review-date">2023</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="section-header">
+      <h2>Get in Touch</h2>
+      <p>Visit our trade counter or send us a message — we're here to help.</p>
+    </div>
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h3>ABS Heating &amp; Plumbing Supplies</h3>
+
+        <div class="contact-detail">
+          <div class="label">Phone</div>
+          <a href="tel:01215234743" class="contact-phone-link">0121 523 4743</a>
+        </div>
+
+        <div class="contact-detail">
+          <div class="label">Address</div>
+          <div class="value">60 Oxhill Rd, Handsworth<br>Birmingham B21 9RH</div>
+        </div>
+
+        <div class="contact-detail">
+          <div class="label">Opening Hours</div>
+          <ul class="hours-list">
+            <li><span class="hours-day">Monday – Friday</span><span>7:30am – 5:30pm</span></li>
+            <li><span class="hours-day">Saturday</span><span>8am – 1pm</span></li>
+            <li><span class="hours-day">Sunday</span><span>Closed</span></li>
+          </ul>
+        </div>
+
+        <div class="contact-detail">
+          <div class="label">Service Areas</div>
+          <div class="value">Birmingham · Handsworth · West Bromwich · Smethwick · Wolverhampton</div>
+        </div>
+      </div>
+
+      <div class="contact-right">
+        <h3>Send Us a Message</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" placeholder="Tell us what parts or supplies you need..."></textarea>
+          </div>
+          <button type="submit" class="form-submit">Get a Free Quote</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>
+      <strong style="color:#e2e8f0;">ABS Heating &amp; Plumbing Supplies</strong>
+      <span class="footer-sep">|</span>
+      <a href="tel:01215234743">0121 523 4743</a>
+      <span class="footer-sep">|</span>
+      60 Oxhill Rd, Handsworth, Birmingham B21 9RH
+    </p>
+    <p style="margin-top:8px;">&copy; 2024 ABS Heating &amp; Plumbing Supplies. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>

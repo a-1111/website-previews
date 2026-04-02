@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "ABS Heating & Plumbing Supplies",
+    "slug": "abs-heating-plumbing-supplies-birmingham",
+    "category": "Plumbers' Merchant",
+    "tagline": "Your Local Trade Counter in Birmingham"
+  },
+  "contact": {
+    "phone": "0121 523 4743",
+    "address": "60 Oxhill Rd, Handsworth, Birmingham B21 9RH",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Handsworth",
+      "West Bromwich",
+      "Smethwick",
+      "Wolverhampton"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 5:30pm",
+    "saturday": "8am - 1pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Boilers & Central Heating Parts",
+    "Copper & Plastic Pipework",
+    "Radiators & Valves",
+    "Bathroom Fittings & Accessories",
+    "Hot & Cold Water Systems Supplies",
+    "Plumbing Tools & Consumables"
+  ],
+  "social_proof": {
+    "google_rating": 4.3,
+    "review_count": 22,
+    "sample_reviews": [
+      {
+        "author": "Mohammed R.",
+        "rating": 5,
+        "text": "Great trade counter, always have the parts I need in stock. The staff know their stuff and are really helpful. My go-to merchant in Handsworth.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave T.",
+        "rating": 4,
+        "text": "Competitive prices and friendly service. A decent local alternative to the big national merchants. Easy parking too which is a bonus.",
+        "date": "2024"
+      },
+      {
+        "author": "Karl B.",
+        "rating": 5,
+        "text": "Brilliant little merchant, been using them for years. They always sort me out with the right parts quickly so I can get on with the job. Highly recommended.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Trade Accounts Available",
+      "Local Independent Merchant",
+      "Same-Day Collection"
+    ]
+  },
+  "brand": {
+    "tone": "straightforward and trade-focused",
+    "usp": "ABS Heating & Plumbing Supplies is Handsworth's trusted local trade counter, providing heating engineers and plumbers across Birmingham with quality parts and materials at competitive prices, without the queues of the big chains.",
+    "hero_headline": "Quality Heating & Plumbing Parts, Ready Today",
+    "about_paragraph": "We've been serving the trade from our Handsworth branch for years, supplying local plumbers and heating engineers with everything they need to get the job done. At ABS Heating & Plumbing Supplies, we stock a wide range of boiler parts, pipework, radiators, bathroom fittings and tools \u2014 all available over the counter so you're never left waiting. We're proud to be the reliable, friendly local merchant that Birmingham's tradespeople come back to time and again.",
+    "colour_scheme": {
+      "primary": "#1a3a5c",
+      "secondary": "#e87722",
+      "accent": "#4a90d9",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
