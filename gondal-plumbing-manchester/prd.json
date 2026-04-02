@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Gondal Plumbing",
+    "slug": "gondal-plumbing-manchester",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Manchester"
+  },
+  "contact": {
+    "phone": "07747 033244",
+    "address": "233 Woodlands Rd, Manchester M8 0GH",
+    "city": "Manchester",
+    "service_area": [
+      "Manchester",
+      "Salford",
+      "Prestwich",
+      "Cheetham Hill",
+      "Oldham"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Emergency Plumbing Repairs",
+    "Boiler Installation & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Fitting & Renovation",
+    "Central Heating Installation",
+    "Drain Unblocking & Clearance"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Gondal Plumbing were fast, professional and very fairly priced. Fixed our burst pipe within hours of calling. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Turned up on time, explained everything clearly and left the place spotless. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Ahmed R.",
+        "rating": 4,
+        "text": "Good, reliable plumber. Sorted our bathroom installation without any fuss. Competitive pricing and very tidy work.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Trusted Trader"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Gondal Plumbing delivers fast, reliable plumbing services across Manchester with transparent pricing and a commitment to quality workmanship. From emergency call-outs to full bathroom installations, we get the job done right first time.",
+    "hero_headline": "Manchester's Trusted Plumber, Ready When You Need Us",
+    "about_paragraph": "I'm the founder of Gondal Plumbing, based right here in Manchester, and I take real pride in delivering honest, high-quality plumbing services to homes and businesses across the city. Whether it's an emergency leak or a full bathroom renovation, I bring the same dedication and attention to detail to every job. My goal is simple \u2014 to be the plumber you trust and call back every time.",
+    "colour_scheme": {
+      "primary": "#005f9e",
+      "secondary": "#0a3d62",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}

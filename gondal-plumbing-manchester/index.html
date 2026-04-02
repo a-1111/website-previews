@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gondal Plumbing – Manchester's Trusted Plumber</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ─── NAV ─── */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto;
+      height: 68px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: opacity 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .nav-cta:hover {
+      opacity: 1.88;
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 0 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+    }
+
+    /* ─── HERO ─── */
+    #hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero-inner h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: opacity 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary:hover {
+      opacity: 1.88;
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, color 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.12);
+    }
+
+    .hero-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 18px;
+      border-radius: 999px;
+    }
+
+    @media (max-width: 768px) {
+      #hero {
+        padding: 60px 20px;
+      }
+      .hero-inner h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 16px;
+      }
+    }
+
+    /* ─── STATS BAR ─── */
+    #stats {
+      background: var(--primary);
+      padding: 24px 40px;
+    }
+
+    .stats-inner {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.1;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 480px) {
+      .stats-inner {
+        gap: 28px;
+      }
+    }
+
+    /* ─── SERVICES ─── */
+    #services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .services-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .services-inner h2 {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 28px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      #services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ─── ABOUT ─── */
+    #about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      align-items: center;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      font-size: 16px;
+      margin-bottom: 16px;
+    }
+
+    .about-right {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1.1;
+    }
+
+    .about-stat-label {
+      display: block;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+      line-height: 1.4;
+    }
+
+    @media (max-width: 768px) {
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+      #about {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ─── REVIEWS ─── */
+    #reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .reviews-inner h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 16px;
+    }
+
+    .reviews-subheading {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 16px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      #reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ─── CONTACT ─── */
+    #contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.10);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 52px 44px;
+    }
+
+    .contact-left h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 24px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 32px;
+    }
+
+    .contact-info-item {
+      margin-bottom: 24px;
+    }
+
+    .contact-info-label {
+      display: block;
+      font-size: 12px;
+      font-weight: 600;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 6px;
+    }
+
+    .contact-info-value {
+      color: #e2e8f0;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 26px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      text-decoration: none;
+      transition: opacity 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      opacity: 1.85;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 52px 44px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 28px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      color: var(--text);
+      outline: none;
+      transition: border-color 0.2s ease;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      min-height: 120px;
+      resize: vertical;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      font-family: 'Poppins', sans-serif;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      transition: opacity 0.2s ease;
+    }
+
+    .form-submit:hover {
+      opacity: 1.88;
+    }
+
+    @media (max-width: 768px) {
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+      #contact {
+        padding: 60px 20px;
+      }
+      .contact-left, .contact-right {
+        padding: 40px 28px;
+      }
+    }
+
+    /* ─── FOOTER ─── */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+    }
+
+    .footer-text {
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .footer-text a {
+      color: #94a3b8;
+      text-decoration: none;
+    }
+
+    .footer-text a:hover {
+      color: var(--accent);
+    }
+
+    .footer-sep {
+      margin: 0 8px;
+      color: #374151;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-inner">
+      <a href="#hero" class="nav-logo">Gondal Plumbing</a>
+      <div class="nav-right">
+        <a href="tel:07747033244" class="nav-phone">07747 033244</a>
+        <a href="tel:07747033244" class="nav-cta">Get a Free Quote</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section id="hero">
+    <div class="hero-inner">
+      <h1>Manchester's Trusted Plumber, Ready When You Need Us</h1>
+      <p class="hero-sub">Reliable Plumbing Solutions Across Manchester — fast call-outs, transparent pricing and quality workmanship, every time.</p>
+      <div class="hero-buttons">
+        <a href="tel:07747033244" class="btn-primary">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary">Contact Us</a>
+      </div>
+      <div class="hero-badges">
+        <span class="badge">✔ Gas Safe Registered</span>
+        <span class="badge">✔ CHAS Accredited</span>
+        <span class="badge">✔ Fully Insured</span>
+        <span class="badge">✔ Local Trusted Trader</span>
+        <span class="badge">✔ 24/7 Emergency Call-Out</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <section id="stats">
+    <div class="stats-inner">
+      <div class="stat-item">
+        <span class="stat-number">4.7★</span>
+        <span class="stat-label">Google Rating</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">32+</span>
+        <span class="stat-label">Verified Reviews</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">5</span>
+        <span class="stat-label">Areas Served</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">24/7</span>
+        <span class="stat-label">Emergency Call-Out</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section id="services">
+    <div class="services-inner">
+      <h2>Our Plumbing Services</h2>
+      <div class="services-grid">
+
+        <div class="service-card">
+          <span class="service-icon">🚨</span>
+          <h3>Emergency Plumbing Repairs</h3>
+          <p>Burst pipes, severe leaks or sudden plumbing failures — we respond fast across Manchester to minimise damage and restore your water supply quickly.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🔥</span>
+          <h3>Boiler Installation & Servicing</h3>
+          <p>Gas Safe registered boiler installations, replacements and annual servicing to keep your heating running safely and efficiently all year round.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🔍</span>
+          <h3>Leak Detection & Repair</h3>
+          <p>Using expert techniques to locate hidden leaks quickly — saving you time, money and preventing long-term structural damage to your property.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🛁</span>
+          <h3>Bathroom Fitting & Renovation</h3>
+          <p>Complete bathroom installations and full renovations, from design to finish. Quality fixtures, tidy workmanship and minimal disruption to your home.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🌡️</span>
+          <h3>Central Heating Installation</h3>
+          <p>Full central heating system installations and upgrades — keeping your home warm and energy-efficient with properly sized radiators and pipework.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🚿</span>
+          <h3>Drain Unblocking & Clearance</h3>
+          <p>Blocked sinks, toilets or drains cleared promptly and effectively. We use professional tools to get water flowing freely again with no mess left behind.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Manchester's Local Plumber You Can Rely On</h2>
+        <p>I'm the founder of Gondal Plumbing, based right here in Manchester, and I take real pride in delivering honest, high-quality plumbing services to homes and businesses across the city. Whether it's an emergency leak or a full bathroom renovation, I bring the same dedication and attention to detail to every job.</p>
+        <p>My goal is simple — to be the plumber you trust and call back every time. From Cheetham Hill to Prestwich, Salford to Oldham, Gondal Plumbing delivers fast, reliable plumbing services with transparent pricing and a commitment to quality workmanship. We get the job done right, first time.</p>
+      </div>
+      <div class="about-right">
+        <div class="about-stat-box">
+          <span class="about-stat-number">4.7★</span>
+          <span class="about-stat-label">Average Google Rating</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-number">32+</span>
+          <span class="about-stat-label">Happy Customers Reviewed</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-number">5</span>
+          <span class="about-stat-label">Areas Across Manchester</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-number">24/7</span>
+          <span class="about-stat-label">Emergency Call-Out Available</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section id="reviews">
+    <div class="reviews-inner">
+      <h2>What Our Customers Say</h2>
+      <p class="reviews-subheading">Rated 4.7 out of 5 across 32 Google reviews</p>
+      <div class="reviews-grid">
+
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"Gondal Plumbing were fast, professional and very fairly priced. Fixed our burst pipe within hours of calling. Highly recommend."</p>
+          <span class="review-author">James T. — 2024</span>
+        </div>
+
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"Brilliant service from start to finish. Turned up on time, explained everything clearly and left the place spotless. Will definitely use again."</p>
+          <span class="review-author">Sarah M. — 2024</span>
+        </div>
+
+        <div class="review-card">
+          <div class="stars">★★★★☆</div>
+          <p class="review-text">"Good, reliable plumber. Sorted our bathroom installation without any fuss. Competitive pricing and very tidy work."</p>
+          <span class="review-author">Ahmed R. — 2024</span>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h3>Gondal Plumbing</h3>
+
+        <div class="contact-info-item">
+          <span class="contact-info-label">Phone</span>
+          <a href="tel:07747033244" class="contact-phone-link">07747 033244</a>
+        </div>
+
+        <div class="contact-info-item">
+          <span class="contact-info-label">Address</span>
+          <span class="contact-info-value">233 Woodlands Rd<br>Manchester, M8 0GH</span>
+        </div>
+
+        <div class="contact-info-item">
+          <span class="contact-info-label">Service Areas</span>
+          <span class="contact-info-value">Manchester, Salford, Prestwich,<br>Cheetham Hill &amp; Oldham</span>
+        </div>
+
+        <div class="contact-info-item">
+          <span class="contact-info-label">Opening Hours</span>
+          <span class="contact-info-value">
+            Mon – Fri: 8am – 6pm<br>
+            Saturday: 9am – 4pm<br>
+            Sunday: Closed<br>
+            <strong style="color: var(--accent);">24/7 Emergency Call-Out Available</strong>
+          </span>
+        </div>
+      </div>
+
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">How Can We Help?</label>
+            <textarea id="message" name="message" placeholder="Tell us about the job — e.g. blocked drain, boiler service, bathroom installation..."></textarea>
+          </div>
+          <button type="submit" class="form-submit">Get a Free Quote</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p class="footer-text">
+      <strong style="color:#e2e8f0;">Gondal Plumbing</strong>
+      <span class="footer-sep">|</span>
+      <a href="tel:07747033244">07747 033244</a>
+      <span class="footer-sep">|</span>
+      233 Woodlands Rd, Manchester M8 0GH
+      <br style="margin-bottom: 8px;" />
+      &copy; 2024 Gondal Plumbing. All rights reserved.
+      <span class="footer-sep">|</span>
+      Gas Safe Registered
+      <span class="footer-sep">|</span>
+      Fully Insured
+    </p>
+  </footer>
+
+</body>
+</html>
