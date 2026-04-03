@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Concept Plumbing & Drainage",
+    "slug": "concept-plumbing-drainage-birmingham",
+    "category": "Plumber",
+    "tagline": "Expert Plumbing & Drainage Solutions Birmingham"
+  },
+  "contact": {
+    "phone": "07968 545753",
+    "address": "70 Meriden Dr, Birmingham B37 6BL",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Solihull",
+      "Coventry",
+      "Sutton Coldfield",
+      "Tamworth"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Blocked Drains & Drain Clearance",
+    "Leak Detection & Repair",
+    "Boiler Installation & Servicing",
+    "Bathroom Fitting & Refurbishment",
+    "Central Heating Installation",
+    "CCTV Drain Surveys"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James H",
+        "rating": 5,
+        "text": "Concept Plumbing sorted our blocked drain within an hour of calling. Polite, professional and great value \u2014 couldn't recommend them more highly.",
+        "date": "2024"
+      },
+      {
+        "author": "Sandra M",
+        "rating": 5,
+        "text": "Had a leak under the kitchen sink that two other plumbers couldn't find. These guys diagnosed it straight away and had it fixed the same day. Brilliant service.",
+        "date": "2024"
+      },
+      {
+        "author": "Darren T",
+        "rating": 4,
+        "text": "Reliable and honest. Came out quickly to replace a faulty radiator and the price was fair. Will definitely use again for any future plumbing work.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Trusted Trader"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Concept Plumbing & Drainage delivers fast, reliable plumbing and drainage solutions across Birmingham with honest pricing and no hidden extras. From stubborn blockages to full bathroom installations, we bring a professional finish to every job.",
+    "hero_headline": "Birmingham's Trusted Plumbing & Drainage Experts",
+    "about_paragraph": "We're Concept Plumbing & Drainage, a Birmingham-based team passionate about delivering high-quality plumbing and drainage services to homes and businesses across the region. Whether it's an emergency callout or a planned installation, we pride ourselves on turning up on time, communicating clearly, and leaving every job to the highest standard. Your satisfaction is at the heart of everything we do.",
+    "colour_scheme": {
+      "primary": "#0a4f8c",
+      "secondary": "#1a8fd1",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
