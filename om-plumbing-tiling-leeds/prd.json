@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "OM Plumbing & Tiling",
+    "slug": "om-plumbing-tiling-leeds",
+    "category": "Plumber",
+    "tagline": "Expert Plumbing & Tiling Across Leeds"
+  },
+  "contact": {
+    "phone": "07922 561110",
+    "address": "Leeds, West Yorkshire",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Bradford",
+      "Wakefield",
+      "Harrogate",
+      "York"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Plumbing Repairs & Installations",
+    "Bathroom Tiling",
+    "Kitchen Tiling",
+    "Boiler & Heating System Checks",
+    "Leak Detection & Repairs",
+    "Full Bathroom Refurbishments"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "OM Plumbing & Tiling did a fantastic job on our bathroom. The tiling is immaculate and all the plumbing was done cleanly and efficiently. Highly recommend!",
+        "date": "2024"
+      },
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Called them out for a leak under the sink \u2014 they arrived quickly, fixed the problem at a fair price, and left the place spotless. Great service.",
+        "date": "2024"
+      },
+      {
+        "author": "Priya K.",
+        "rating": 4,
+        "text": "Really pleased with the tiling work in our kitchen. Very professional, tidy, and finished on time. Would definitely use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Free Quotes Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "OM Plumbing & Tiling combines quality plumbing expertise with precision tiling craftsmanship, giving Leeds homeowners a reliable one-stop solution for beautiful, fully functional bathrooms and kitchens.",
+    "hero_headline": "Leeds' Trusted Plumbing & Tiling Specialists",
+    "about_paragraph": "Hi, I'm the team behind OM Plumbing & Tiling, proudly serving Leeds and the surrounding areas. We specialise in both plumbing and tiling, so whether you need a leaking pipe fixed or a full bathroom transformation, we've got you covered. We take pride in delivering high-quality workmanship, turning up on time, and leaving your home cleaner than we found it.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e7d9e",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
