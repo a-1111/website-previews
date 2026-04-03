@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "Flaxley DIY & Plumbing",
+    "slug": "flaxley-diy-plumbing-birmingham",
+    "category": "Building materials supplier",
+    "tagline": "Everything You Need, Close to Home"
+  },
+  "contact": {
+    "phone": "0121 714 1879",
+    "address": "131 Flaxley Rd, Stechford, Birmingham B33 9HQ",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Stechford",
+      "Sheldon",
+      "Hodge Hill",
+      "Yardley"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 5:30pm",
+    "saturday": "8am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Plumbing Supplies & Fittings",
+    "Building Materials & Aggregates",
+    "DIY Tools & Hardware",
+    "Timber & Sheet Materials",
+    "Bathroom & Sanitary Ware",
+    "Fixings, Adhesives & Sealants"
+  ],
+  "social_proof": {
+    "google_rating": 4.4,
+    "review_count": 28,
+    "sample_reviews": [
+      {
+        "author": "Dean T",
+        "rating": 5,
+        "text": "Great little trade counter \u2014 always have what I need in stock and the staff know their stuff. Saves me a trip to the big sheds.",
+        "date": "2024"
+      },
+      {
+        "author": "Mohammed R",
+        "rating": 4,
+        "text": "Good range of plumbing bits at fair prices. Handy location if you're working in Stechford or nearby. Happy to recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Karen B",
+        "rating": 5,
+        "text": "Popped in for some DIY bits and the staff were really helpful pointing me in the right direction. Friendly local shop, will definitely be back.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Locally Trusted Supplier",
+      "Trade & Retail Welcome"
+    ]
+  },
+  "brand": {
+    "tone": "practical and approachable",
+    "usp": "Flaxley DIY & Plumbing is Stechford's go-to local supplier for plumbing materials, building essentials, and DIY hardware \u2014 serving tradespeople and homeowners with the right products at competitive prices.",
+    "hero_headline": "Your Local Trade Counter in Stechford",
+    "about_paragraph": "We're Flaxley DIY & Plumbing, based right here on Flaxley Road in Stechford, Birmingham. We stock a wide range of plumbing supplies, building materials, and DIY essentials to keep tradespeople and home improvers moving. Whether you're a plumber needing fittings fast or a homeowner tackling a weekend project, we've got you covered with helpful, no-nonsense service.",
+    "colour_scheme": {
+      "primary": "#1a4f8a",
+      "secondary": "#e87722",
+      "accent": "#f4c430",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}

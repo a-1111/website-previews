@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flaxley DIY & Plumbing | Your Local Trade Counter in Stechford, Birmingham</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ===== NAV ===== */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 14px 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      color: #fff;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 8px;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: opacity 0.2s ease;
+    }
+
+    .nav-cta:hover {
+      opacity: 1.88;
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 14px 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+    }
+
+    /* ===== HERO ===== */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: opacity 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary:hover {
+      opacity: 1.88;
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+    }
+
+    .trust-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 32px;
+    }
+
+    .trust-badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 18px;
+      border-radius: 100px;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: 80vh;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 16px;
+      }
+    }
+
+    /* ===== STATS BAR ===== */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.1;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 600px) {
+      .stats-bar {
+        gap: 28px;
+        padding: 24px 20px;
+      }
+    }
+
+    /* ===== SERVICES ===== */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .section-title {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 28px;
+      margin-bottom: 14px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== ABOUT ===== */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 15px;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-num {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1.1;
+    }
+
+    .about-stat-label {
+      display: block;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ===== REVIEWS ===== */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      font-size: 36px;
+      font-weight: 700;
+      text-align: center;
+      margin-bottom: 12px;
+    }
+
+    .reviews-sub {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 15px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+    }
+
+    .review-stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 14px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== CONTACT ===== */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1000px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.12);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 28px;
+    }
+
+    .contact-detail {
+      margin-bottom: 24px;
+    }
+
+    .contact-detail-label {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 6px;
+      display: block;
+    }
+
+    .contact-detail p,
+    .contact-detail a {
+      color: #cbd5e1;
+      font-size: 15px;
+      line-height: 1.6;
+      text-decoration: none;
+    }
+
+    .contact-phone-link {
+      color: var(--accent) !important;
+      font-size: 22px !important;
+      font-weight: 700;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    .contact-hours-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 14px;
+      color: #94a3b8;
+      margin-bottom: 6px;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 28px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea,
+    .form-group select {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      background: #fff;
+      transition: border-color 0.2s ease;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      font-size: 16px;
+      font-family: 'Poppins', sans-serif;
+      transition: opacity 0.2s ease;
+    }
+
+    .form-submit:hover {
+      opacity: 1.88;
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        padding: 60px 20px;
+      }
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    footer a {
+      color: #94a3b8;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    .footer-sep {
+      margin: 0 8px;
+      color: #334155;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <a class="nav-logo" href="#">Flaxley DIY &amp; Plumbing</a>
+    <div class="nav-right">
+      <a class="nav-phone" href="tel:01217141879">0121 714 1879</a>
+      <a class="nav-cta" href="tel:01217141879">Call Now</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Your Local Trade Counter in Stechford</h1>
+      <p class="hero-sub">Flaxley DIY &amp; Plumbing is Stechford's go-to local supplier for plumbing materials, building essentials, and DIY hardware — serving tradespeople and homeowners with the right products at competitive prices.</p>
+      <div class="hero-buttons">
+        <a class="btn-primary" href="tel:01217141879">Get in Touch Today</a>
+        <a class="btn-secondary" href="#contact">Visit Us</a>
+      </div>
+      <div class="trust-badges">
+        <span class="trust-badge">✔ Fully Insured</span>
+        <span class="trust-badge">✔ Free Quotes</span>
+        <span class="trust-badge">✔ Local &amp; Reliable</span>
+        <span class="trust-badge">✔ Trade &amp; Retail Welcome</span>
+        <span class="trust-badge">✔ Locally Trusted Supplier</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stat-item">
+      <span class="stat-number">4.4★</span>
+      <span class="stat-label">Google Rating</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">28</span>
+      <span class="stat-label">Customer Reviews</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">5</span>
+      <span class="stat-label">Areas Served</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">6+</span>
+      <span class="stat-label">Product Categories</span>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services" id="services">
+    <h2 class="section-title">What We Stock</h2>
+    <div class="services-grid">
+      <div class="service-card">
+        <span class="service-icon">🔧</span>
+        <h3>Plumbing Supplies &amp; Fittings</h3>
+        <p>A comprehensive range of plumbing fittings, pipes, valves, and accessories for trade and domestic use — all in stock and ready to go.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🧱</span>
+        <h3>Building Materials &amp; Aggregates</h3>
+        <p>Quality building materials including aggregates, sand, cement, and essential supplies to keep your projects moving on site.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔨</span>
+        <h3>DIY Tools &amp; Hardware</h3>
+        <p>Everything from hand tools and power tool accessories to fixings and hardware for home improvers and seasoned tradespeople alike.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🪵</span>
+        <h3>Timber &amp; Sheet Materials</h3>
+        <p>Structural timber, sheet materials, and panel products available for a wide range of construction and joinery applications.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🛁</span>
+        <h3>Bathroom &amp; Sanitary Ware</h3>
+        <p>Browse a selection of bathroom fittings and sanitary ware to suit renovations, new builds, and replacement projects.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🧴</span>
+        <h3>Fixings, Adhesives &amp; Sealants</h3>
+        <p>Stocked with a full range of fixings, adhesives, sealants, and fillers — the essentials every trade and DIY job depends on.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Everything You Need, Close to Home</h2>
+        <p>We're Flaxley DIY &amp; Plumbing, based right here on Flaxley Road in Stechford, Birmingham. We stock a wide range of plumbing supplies, building materials, and DIY essentials to keep tradespeople and home improvers moving.</p>
+        <p>Whether you're a plumber needing fittings fast or a homeowner tackling a weekend project, we've got you covered with helpful, no-nonsense service. Our team knows their products inside out, so you'll always get honest advice and find what you need without the hassle of a big-shed run.</p>
+        <p>We proudly serve Birmingham, Stechford, Sheldon, Hodge Hill, and Yardley — your community trade counter, open six days a week.</p>
+      </div>
+      <div class="about-stats">
+        <div class="about-stat-box">
+          <span class="about-stat-num">4.4★</span>
+          <span class="about-stat-label">Google Rating</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-num">28</span>
+          <span class="about-stat-label">Reviews</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-num">6</span>
+          <span class="about-stat-label">Days Open</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-num">5</span>
+          <span class="about-stat-label">Areas Served</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews" id="reviews">
+    <h2>What Our Customers Say</h2>
+    <p class="reviews-sub">Rated 4.4 out of 5 on Google from 28 reviews</p>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"Great little trade counter — always have what I need in stock and the staff know their stuff. Saves me a trip to the big sheds."</p>
+        <span class="review-author">Dean T &mdash; 2024</span>
+      </div>
+      <div class="review-card">
+        <div class="review-stars">★★★★</div>
+        <p class="review-text">"Good range of plumbing bits at fair prices. Handy location if you're working in Stechford or nearby. Happy to recommend."</p>
+        <span class="review-author">Mohammed R &mdash; 2024</span>
+      </div>
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"Popped in for some DIY bits and the staff were really helpful pointing me in the right direction. Friendly local shop, will definitely be back."</p>
+        <span class="review-author">Karen B &mdash; 2023</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <h2>Find Us &amp; Get in Touch</h2>
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h3>Flaxley DIY &amp; Plumbing</h3>
+        <div class="contact-detail">
+          <span class="contact-detail-label">Address</span>
+          <p>131 Flaxley Rd, Stechford<br>Birmingham B33 9HQ</p>
+        </div>
+        <div class="contact-detail">
+          <span class="contact-detail-label">Phone</span>
+          <a class="contact-phone-link" href="tel:01217141879">0121 714 1879</a>
+        </div>
+        <div class="contact-detail">
+          <span class="contact-detail-label">Opening Hours</span>
+          <div class="contact-hours-row">
+            <span>Monday – Friday</span>
+            <span>7:30am – 5:30pm</span>
+          </div>
+          <div class="contact-hours-row">
+            <span>Saturday</span>
+            <span>8am – 4pm</span>
+          </div>
+          <div class="contact-hours-row">
+            <span>Sunday</span>
+            <span>Closed</span>
+          </div>
+        </div>
+        <div class="contact-detail">
+          <span class="contact-detail-label">Areas Served</span>
+          <p>Birmingham, Stechford, Sheldon, Hodge Hill, Yardley</p>
+        </div>
+      </div>
+      <div class="contact-right">
+        <h3>Send Us a Message</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" placeholder="Tell us what you need or ask us a question..."></textarea>
+          </div>
+          <button type="submit" class="form-submit">Get in Touch Today</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>
+      <strong style="color:#fff;">Flaxley DIY &amp; Plumbing</strong>
+      <span class="footer-sep">|</span>
+      <a href="tel:01217141879">0121 714 1879</a>
+      <span class="footer-sep">|</span>
+      131 Flaxley Rd, Stechford, Birmingham B33 9HQ
+    </p>
+    <p style="margin-top:8px;">&copy; 2025 Flaxley DIY &amp; Plumbing. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
