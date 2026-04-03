@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Edwards Bathroom Plumbing & Heating Supplies Ltd",
+    "slug": "edwards-bathroom-plumbing-heating-supplies-birmingham",
+    "category": "Plumbers' Merchant",
+    "tagline": "Your Local Plumbing & Heating Experts"
+  },
+  "contact": {
+    "phone": "0121 783 1353",
+    "address": "18 Kyngsford Rd, Birmingham B33 0BW",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Solihull",
+      "Coventry",
+      "Wolverhampton",
+      "West Bromwich"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 5:30pm",
+    "saturday": "8am - 1pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Bathroom Supplies & Fittings",
+    "Plumbing Materials & Pipework",
+    "Heating Systems & Components",
+    "Boiler Parts & Accessories",
+    "Radiators & Valves",
+    "Trade Counter Sales"
+  ],
+  "social_proof": {
+    "google_rating": 4.5,
+    "review_count": 28,
+    "sample_reviews": [
+      {
+        "author": "Mark T",
+        "rating": 5,
+        "text": "Great local merchant with a solid range of plumbing and heating supplies. Staff are knowledgeable and always happy to help. My go-to trade counter in Birmingham.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah H",
+        "rating": 4,
+        "text": "Really helpful team who know their products inside out. Good stock levels and competitive pricing. Would recommend to any local tradespeople.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave W",
+        "rating": 5,
+        "text": "Been using Edwards for years \u2014 reliable, friendly and they always have what I need. Saved me a trip into the city centre more times than I can count.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Established Local Supplier",
+      "Trade & Retail Welcome",
+      "Specialist Heating Supplies"
+    ]
+  },
+  "brand": {
+    "tone": "practical and reliable",
+    "usp": "Edwards Bathroom Plumbing & Heating Supplies is a trusted local merchant in Birmingham, offering a comprehensive range of plumbing, bathroom and heating products for both trade professionals and domestic customers. We pride ourselves on expert product knowledge and friendly, efficient service from our well-stocked trade counter.",
+    "hero_headline": "Birmingham's Trusted Plumbing & Heating Merchant",
+    "about_paragraph": "We're Edwards Bathroom Plumbing & Heating Supplies, a family-run trade merchant based in Bordesley Green, Birmingham. We stock a wide range of plumbing, bathroom and heating products to keep your projects moving, whether you're a sole trader or a large contracting firm. Come and visit our trade counter at Kyngsford Road \u2014 we're here to make sure you always leave with exactly what you need.",
+    "colour_scheme": {
+      "primary": "#1b5e8c",
+      "secondary": "#e87722",
+      "accent": "#f5f5f5",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}

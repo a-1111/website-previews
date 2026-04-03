@@ -1,0 +1,932 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Edwards Bathroom Plumbing & Heating Supplies Ltd | Birmingham</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ===================== NAV ===================== */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto;
+      height: 68px;
+      gap: 16px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      color: #fff;
+      text-decoration: none;
+      line-height: 1.2;
+      max-width: 280px;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 8px;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .nav-cta:hover {
+      background: #e08d00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 0 20px;
+      }
+
+      .nav-phone {
+        display: none;
+      }
+
+      .nav-logo {
+        font-size: 14px;
+        max-width: 200px;
+      }
+    }
+
+    /* ===================== HERO ===================== */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      display: inline-block;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-primary:hover {
+      background: #e08d00;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      display: inline-block;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 40px;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 50px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: auto;
+        padding-top: 80px;
+        padding-bottom: 80px;
+      }
+
+      .hero h1 {
+        font-size: 36px;
+      }
+
+      .hero-sub {
+        font-size: 16px;
+      }
+
+      .hero-buttons {
+        flex-direction: column;
+      }
+
+      .btn-primary, .btn-secondary {
+        text-align: center;
+      }
+    }
+
+    /* ===================== STATS BAR ===================== */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+    }
+
+    .stats-inner {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      max-width: 1200px;
+      margin: 0 auto;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: #fff;
+      display: block;
+      line-height: 1.1;
+    }
+
+    .stat-label {
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+      display: block;
+    }
+
+    @media (max-width: 768px) {
+      .stats-bar {
+        padding: 24px 20px;
+      }
+
+      .stats-inner {
+        gap: 28px;
+      }
+
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* ===================== SERVICES ===================== */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .services-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .section-title {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 32px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===================== ABOUT ===================== */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      font-size: 15px;
+      margin-bottom: 16px;
+    }
+
+    .about-right {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .stat-box-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--primary);
+      display: block;
+      line-height: 1.1;
+    }
+
+    .stat-box-label {
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+      display: block;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ===================== REVIEWS ===================== */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 16px;
+    }
+
+    .reviews-subtitle {
+      text-align: center;
+      color: #94a3b8;
+      margin-bottom: 48px;
+      font-size: 15px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+      transition: background 0.2s ease;
+    }
+
+    .review-card:hover {
+      background: rgba(255,255,255,0.08);
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===================== CONTACT ===================== */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.1);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h2 {
+      font-size: 24px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 32px;
+      line-height: 1.2;
+    }
+
+    .contact-detail {
+      margin-bottom: 24px;
+    }
+
+    .contact-detail-label {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: rgba(255,255,255,0.5);
+      margin-bottom: 6px;
+      display: block;
+    }
+
+    .contact-detail-value {
+      color: #e2e8f0;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 26px;
+      font-weight: 700;
+      font-family: 'Poppins', sans-serif;
+      text-decoration: none;
+      display: block;
+      margin-top: 4px;
+      transition: color 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      color: #e08d00;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      color: var(--text);
+      background: #fff;
+      transition: border-color 0.2s ease;
+      outline: none;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      font-family: 'Poppins', sans-serif;
+      font-size: 15px;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .form-submit:hover {
+      background: #e08d00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        padding: 60px 20px;
+      }
+
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+
+      .contact-left {
+        padding: 36px 28px;
+      }
+
+      .contact-right {
+        padding: 36px 28px;
+      }
+    }
+
+    /* ===================== FOOTER ===================== */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+    }
+
+    .footer-text {
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .footer-text a {
+      color: #94a3b8;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    .footer-text a:hover {
+      color: var(--accent);
+    }
+
+    .footer-divider {
+      margin: 0 10px;
+      color: rgba(148,163,184,0.4);
+    }
+
+    @media (max-width: 768px) {
+      footer {
+        padding: 32px 20px;
+      }
+
+      .footer-text {
+        font-size: 13px;
+      }
+    }
+
+    /* ===================== SERVICE AREA TAG ===================== */
+    .service-areas {
+      margin-top: 24px;
+    }
+
+    .service-areas-title {
+      font-size: 13px;
+      font-weight: 600;
+      color: rgba(255,255,255,0.6);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 10px;
+      display: block;
+    }
+
+    .area-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .area-tag {
+      background: rgba(255,255,255,0.1);
+      border: 1px solid rgba(255,255,255,0.15);
+      color: #cbd5e1;
+      font-size: 12px;
+      padding: 4px 12px;
+      border-radius: 50px;
+    }
+
+    /* Hours table */
+    .hours-table {
+      margin-top: 4px;
+    }
+
+    .hours-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 14px;
+      color: #cbd5e1;
+      padding: 3px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+
+    .hours-row:last-child {
+      border-bottom: none;
+    }
+
+    .hours-day {
+      color: rgba(255,255,255,0.6);
+    }
+
+    .hours-time {
+      color: #e2e8f0;
+      font-weight: 500;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ===================== NAV ===================== -->
+  <nav>
+    <div class="nav-inner">
+      <a href="#" class="nav-logo">Edwards Bathroom Plumbing &amp; Heating Supplies Ltd</a>
+      <div class="nav-right">
+        <a href="tel:01217831353" class="nav-phone">0121 783 1353</a>
+        <a href="tel:01217831353" class="nav-cta">Get a Free Quote</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Birmingham's Trusted Plumbing &amp; Heating Merchant</h1>
+      <p class="hero-sub">Your local trade counter in Bordesley Green — stocking a full range of plumbing, bathroom and heating supplies for trade professionals and domestic customers alike.</p>
+      <div class="hero-buttons">
+        <a href="tel:01217831353" class="btn-primary">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary">Contact Us</a>
+      </div>
+      <div class="trust-badges">
+        <span class="badge">Gas Safe Registered</span>
+        <span class="badge">CHAS Accredited</span>
+        <span class="badge">Established Local Supplier</span>
+        <span class="badge">Trade &amp; Retail Welcome</span>
+        <span class="badge">Specialist Heating Supplies</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== STATS BAR ===================== -->
+  <div class="stats-bar">
+    <div class="stats-inner">
+      <div class="stat-item">
+        <span class="stat-number">4.5★</span>
+        <span class="stat-label">Google Rating</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">28+</span>
+        <span class="stat-label">Verified Reviews</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">5</span>
+        <span class="stat-label">Areas Served</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">6</span>
+        <span class="stat-label">Product Categories</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" id="services">
+    <div class="services-inner">
+      <h2 class="section-title">Our Products &amp; Services</h2>
+      <div class="services-grid">
+
+        <div class="service-card">
+          <span class="service-icon">🛁</span>
+          <h3>Bathroom Supplies &amp; Fittings</h3>
+          <p>A comprehensive range of bathroom supplies and fittings for every project — from taps and showers to full suite installations, sourced from trusted manufacturers.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🔧</span>
+          <h3>Plumbing Materials &amp; Pipework</h3>
+          <p>All the plumbing materials and pipework you need, available from our well-stocked trade counter. Copper, plastic, push-fit and more — ready to take away today.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🔥</span>
+          <h3>Heating Systems &amp; Components</h3>
+          <p>Specialist heating system components for domestic and commercial installations. We stock the parts that keep your heating projects on schedule and on budget.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">⚙️</span>
+          <h3>Boiler Parts &amp; Accessories</h3>
+          <p>Boiler parts and accessories from leading brands. Whether it's a service or a full replacement, we'll have the components you need in stock at competitive prices.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🌡️</span>
+          <h3>Radiators &amp; Valves</h3>
+          <p>A wide selection of radiators, thermostatic radiator valves and lockshield valves to suit every system type — available for immediate collection from our counter.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🏪</span>
+          <h3>Trade Counter Sales</h3>
+          <p>Visit our friendly trade counter at Kyngsford Road, Birmingham. We welcome both trade professionals and domestic customers — our knowledgeable staff are always on hand to help.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== ABOUT ===================== -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Your Local Plumbing &amp; Heating Experts in Birmingham</h2>
+        <p>We're Edwards Bathroom Plumbing &amp; Heating Supplies, a family-run trade merchant based in Bordesley Green, Birmingham. We stock a wide range of plumbing, bathroom and heating products to keep your projects moving, whether you're a sole trader or a large contracting firm.</p>
+        <p>Come and visit our trade counter at Kyngsford Road — we're here to make sure you always leave with exactly what you need. Our team combines expert product knowledge with friendly, efficient service to keep Birmingham's tradespeople working.</p>
+        <p>We serve customers across Birmingham, Solihull, Coventry, Wolverhampton and West Bromwich, providing a one-stop shop for all your plumbing, heating and bathroom supply needs.</p>
+      </div>
+      <div class="about-right">
+        <div class="stat-box">
+          <span class="stat-box-number">4.5★</span>
+          <span class="stat-box-label">Google Rating</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-box-number">28+</span>
+          <span class="stat-box-label">Happy Customers</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-box-number">5</span>
+          <span class="stat-box-label">Areas Covered</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-box-number">6</span>
+          <span class="stat-box-label">Product Lines</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== REVIEWS ===================== -->
+  <section class="reviews" id="reviews">
+    <div class="reviews-inner">
+      <h2>What Our Customers Say</h2>
+      <p class="reviews-subtitle">Rated 4.5 out of 5 on Google — trusted by tradespeople across Birmingham</p>
+      <div class="reviews-grid">
+
+        <div class="review-card">
+          <span class="stars">★★★★★</span>
+          <p class="review-text">"Great local merchant with a solid range of plumbing and heating supplies. Staff are knowledgeable and always happy to help. My go-to trade counter in Birmingham."</p>
+          <span class="review-author">Mark T &mdash; 2024</span>
+        </div>
+
+        <div class="review-card">
+          <span class="stars">★★★★☆</span>
+          <p class="review-text">"Really helpful team who know their products inside out. Good stock levels and competitive pricing. Would recommend to any local tradespeople."</p>
+          <span class="review-author">Sarah H &mdash; 2024</span>
+        </div>
+
+        <div class="review-card">
+          <span class="stars">★★★★★</span>
+          <p class="review-text">"Been using Edwards for years — reliable, friendly and they always have what I need. Saved me a trip into the city centre more times than I can count."</p>
+          <span class="review-author">Dave W &mdash; 2023</span>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CONTACT ===================== -->
+  <section class="contact" id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h2>Edwards Bathroom Plumbing &amp; Heating Supplies Ltd</h2>
+
+        <div class="contact-detail">
+          <span class="contact-detail-label">Phone</span>
+          <a href="tel:01217831353" class="contact-phone-link">0121 783 1353</a>
+        </div>
+
+        <div class="contact-detail">
+          <span class="contact-detail-label">Address</span>
+          <span class="contact-detail-value">18 Kyngsford Rd<br>Birmingham, B33 0BW</span>
+        </div>
+
+        <div class="contact-detail">
+          <span class="contact-detail-label">Opening Hours</span>
+          <div class="hours-table">
+            <div class="hours-row">
+              <span class="hours-day">Monday – Friday</span>
+              <span class="hours-time">7:30am – 5:30pm</span>
+            </div>
+            <div class="hours-row">
+              <span class="hours-day">Saturday</span>
+              <span class="hours-time">8am – 1pm</span>
+            </div>
+            <div class="hours-row">
+              <span class="hours-day">Sunday</span>
+              <span class="hours-time">Closed</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="service-areas">
+          <span class="service-areas-title">Areas We Serve</span>
+          <div class="area-tags">
+            <span class="area-tag">Birmingham</span>
+            <span class="area-tag">Solihull</span>
+            <span class="area-tag">Coventry</span>
+            <span class="area-tag">Wolverhampton</span>
+            <span class="area-tag">West
