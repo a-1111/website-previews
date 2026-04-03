@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "H 2 O Plumbing & Trade Bathrooms Ltd",
+    "slug": "h2o-plumbing-trade-bathrooms-birmingham",
+    "category": "Plumbers' Merchant",
+    "tagline": "Your Local Plumbing & Bathroom Trade Experts"
+  },
+  "contact": {
+    "phone": "0121 778 5358",
+    "address": "968 Stratford Road (opposite the College Arms Pub), Birmingham B11 4BU",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Solihull",
+      "Coventry",
+      "Wolverhampton",
+      "West Bromwich"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 5:30pm",
+    "saturday": "8am - 1pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Plumbing Supplies & Materials",
+    "Trade Bathroom Showroom",
+    "Bathroom Design & Planning",
+    "Heating Components & Parts",
+    "Boiler & Central Heating Supplies",
+    "Tiles, Sanitaryware & Accessories"
+  ],
+  "social_proof": {
+    "google_rating": 4.5,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Great trade counter \u2014 always have the parts I need in stock. Staff know their stuff and give solid advice. My go-to for all plumbing supplies in Birmingham.",
+        "date": "2024"
+      },
+      {
+        "author": "Karen M",
+        "rating": 5,
+        "text": "Absolutely stunning bathroom showroom. Helped us choose a full suite at a really competitive price. Installation team was recommended too and did a brilliant job.",
+        "date": "2024"
+      },
+      {
+        "author": "David H",
+        "rating": 4,
+        "text": "Reliable local merchant with good stock levels and fair trade pricing. Parking is easy and the staff are always helpful and friendly.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Company Registered",
+      "Trade Account Available",
+      "Trusted Local Supplier"
+    ]
+  },
+  "brand": {
+    "tone": "professional and straightforward",
+    "usp": "H 2 O Plumbing & Trade Bathrooms Ltd is Birmingham's trusted local plumbing merchant and bathroom showroom, offering trade-quality supplies and stunning bathroom designs all under one roof.",
+    "hero_headline": "Birmingham's Trusted Trade Plumbing & Bathroom Specialists",
+    "about_paragraph": "We're H 2 O Plumbing & Trade Bathrooms Ltd, based right here on Stratford Road in Birmingham. We supply trade professionals and homeowners alike with everything from everyday plumbing materials to full bathroom suites and design services. Whether you're a plumber needing reliable stock at trade prices or a homeowner planning a full bathroom renovation, we've got you covered.",
+    "colour_scheme": {
+      "primary": "#005f8e",
+      "secondary": "#0097c4",
+      "accent": "#f4a000",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
