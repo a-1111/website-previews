@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "DAB Plumbing Leeds",
+    "slug": "dab-plumbing-leeds",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Leeds"
+  },
+  "contact": {
+    "phone": "07835 029060",
+    "address": "3 Penda's Dr, Leeds LS15 8HT",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Crossgates",
+      "Seacroft",
+      "Garforth",
+      "Wetherby"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Repairs & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Installation",
+    "Central Heating Installation",
+    "Blocked Drains & Toilets",
+    "General Plumbing Maintenance"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 23,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "DAB Plumbing came out the same day to fix a burst pipe. Professional, tidy, and reasonably priced. Would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Really impressed with the service. Fixed our leaking radiator quickly and explained everything clearly. Great value for money.",
+        "date": "2024"
+      },
+      {
+        "author": "Kevin R",
+        "rating": 4,
+        "text": "Solid work on our bathroom installation. Turned up on time and left everything spotless. Will use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Leeds Plumber"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "DAB Plumbing Leeds delivers fast, honest plumbing services across East Leeds with no hidden charges and same-day callouts available for emergencies.",
+    "hero_headline": "Your Trusted Local Plumber in Leeds",
+    "about_paragraph": "I'm a fully qualified plumber based in Leeds, serving homeowners and businesses across LS15 and the wider East Leeds area. Whether it's a dripping tap or a full bathroom fit-out, I take pride in delivering reliable, affordable plumbing with minimal fuss. Every job is treated with the same care and attention \u2014 no hidden costs, just great workmanship.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86de",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
