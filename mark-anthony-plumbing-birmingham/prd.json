@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Mark Anthony Plumbing",
+    "slug": "mark-anthony-plumbing-birmingham",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Birmingham"
+  },
+  "contact": {
+    "phone": "07400 919931",
+    "address": "5 Wood End Rd, Erdington, Birmingham B24 8AA",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Erdington",
+      "Sutton Coldfield",
+      "Aston",
+      "Solihull"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Central Heating Repairs",
+    "Leak Detection & Repair",
+    "Bathroom Fitting & Installation",
+    "Emergency Plumbing Callouts",
+    "Radiator Installation & Balancing"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 23,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Mark arrived quickly and sorted our burst pipe with no fuss. Very professional and tidy \u2014 would definitely recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Fair pricing and Mark clearly knows his stuff. Our new bathroom looks fantastic.",
+        "date": "2024"
+      },
+      {
+        "author": "David H",
+        "rating": 4,
+        "text": "Called Mark out for a boiler issue and he had it fixed the same day. Good communication and honest about the costs.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Birmingham Tradesman"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Mark Anthony Plumbing delivers honest, reliable plumbing and heating services across Birmingham with prompt response times and transparent pricing. No call-out surprises \u2014 just quality workmanship you can trust.",
+    "hero_headline": "Your Trusted Plumber in Birmingham, Ready Now",
+    "about_paragraph": "I'm Mark, a fully qualified and Gas Safe registered plumber based in Erdington, Birmingham. With years of hands-on experience across plumbing and central heating, I take pride in delivering a reliable, tidy, and honest service to every customer. Whether it's an emergency callout or a planned bathroom installation, I'm here to get the job done right.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2980b9",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
