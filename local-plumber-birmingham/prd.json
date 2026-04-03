@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Local Plumber Birmingham",
+    "slug": "local-plumber-birmingham",
+    "category": "Plumber",
+    "tagline": "Fast, Reliable Plumbing Across Birmingham"
+  },
+  "contact": {
+    "phone": "07584 190570",
+    "address": "Birmingham, West Midlands",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Solihull",
+      "Sutton Coldfield",
+      "Smethwick",
+      "Wolverhampton"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 6pm",
+    "saturday": "8am - 4pm",
+    "sunday": "Emergency Only",
+    "emergency_callout": true
+  },
+  "services": [
+    "Emergency Plumbing Repairs",
+    "Boiler Installation & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Fitting & Installation",
+    "Blocked Drains & Toilets",
+    "Central Heating Installation & Repairs"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Called in a panic with a burst pipe and they arrived within the hour. Sorted it quickly and tidied up after themselves. Brilliant service, highly recommend!",
+        "date": "2024"
+      },
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Really professional and honest. Gave me a clear quote before starting and stuck to it. Will definitely be using them again for our bathroom renovation.",
+        "date": "2024"
+      },
+      {
+        "author": "Priya K",
+        "rating": 4,
+        "text": "Great local plumber \u2014 turned up on time, knew exactly what the problem was and fixed it the same day. Very reasonable pricing too.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Birmingham Plumber"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "We're your trusted local Birmingham plumber, offering fast response times, transparent pricing, and quality workmanship on every job \u2014 big or small.",
+    "hero_headline": "Your Trusted Local Plumber in Birmingham",
+    "about_paragraph": "I'm a fully qualified and Gas Safe registered plumber based right here in Birmingham, with years of hands-on experience across domestic and commercial properties. Whether it's a dripping tap, a full bathroom installation, or an emergency boiler repair, I take pride in turning up on time, being upfront about costs, and leaving every job to the highest standard. When you call Local Plumber Birmingham, you're getting a reliable tradesperson who genuinely cares about your home.",
+    "colour_scheme": {
+      "primary": "#1a5276",
+      "secondary": "#2e86c1",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
