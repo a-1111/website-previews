@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Templar's Plumbing",
+    "slug": "templars-plumbing-leeds",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Leeds"
+  },
+  "contact": {
+    "phone": "07824 990701",
+    "address": "Leeds, West Yorkshire",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Bradford",
+      "Wakefield",
+      "Harrogate",
+      "Wetherby"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Emergency Leak Repairs",
+    "Bathroom Fitting & Refurbishment",
+    "Central Heating Installation",
+    "Blocked Drains & Toilets",
+    "Hot & Cold Water Systems"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Fantastic service from start to finish. Arrived on time, sorted our burst pipe quickly and left everything spotless. Would highly recommend Templar's Plumbing.",
+        "date": "2024"
+      },
+      {
+        "author": "James H",
+        "rating": 5,
+        "text": "Called them out on an emergency and they were with us within the hour. Professional, friendly and very fairly priced. Brilliant company.",
+        "date": "2024"
+      },
+      {
+        "author": "Karen B",
+        "rating": 4,
+        "text": "Had a new bathroom fitted and the quality of work was excellent. Very tidy and kept us informed throughout the whole job. Will definitely use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Emergency Call-Out Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Templar's Plumbing brings honest, reliable plumbing expertise to homes across Leeds with fast response times and transparent pricing. We take pride in treating every customer's home with the same care and respect we'd give our own.",
+    "hero_headline": "Leeds Plumbers You Can Trust Every Time",
+    "about_paragraph": "I'm the tradesperson behind Templar's Plumbing, serving homeowners and businesses across Leeds and the surrounding areas. With years of hands-on experience in everything from emergency repairs to full bathroom installations, I pride myself on arriving when I say I will and getting the job done right first time. Whether it's a dripping tap or a complete central heating overhaul, you can count on me for honest advice and quality workmanship.",
+    "colour_scheme": {
+      "primary": "#1a3c5e",
+      "secondary": "#c8102e",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
