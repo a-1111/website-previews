@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Stanks Plumbing Leeds",
+    "slug": "stanks-plumbing-leeds-leeds",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Leeds"
+  },
+  "contact": {
+    "phone": "07451 287490",
+    "address": "56 Vicar Ln, Leeds LS1 7AB",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Morley",
+      "Pudsey",
+      "Horsforth",
+      "Garforth"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Emergency Plumbing Repairs",
+    "Bathroom Fitting & Renovation",
+    "Leak Detection & Repair",
+    "Central Heating Installation",
+    "Blocked Drains & Toilets"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Stanks Plumbing came out the same day to fix a burst pipe. Fast, professional and very reasonably priced. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Had my bathroom fully refitted and couldn't be happier. Clean work, great communication throughout, and finished on time. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "David R",
+        "rating": 4,
+        "text": "Sorted out our boiler issue quickly and explained everything clearly. Good value for money and very tidy. Would use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Emergency Callout Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Stanks Plumbing Leeds delivers fast, reliable plumbing and heating services across Leeds, with honest pricing and no call-out surprises. From emergency repairs to full bathroom installations, we get the job done right first time.",
+    "hero_headline": "Your Trusted Local Plumber in Leeds",
+    "about_paragraph": "I'm the founder of Stanks Plumbing Leeds, and I've been serving homeowners and businesses across Leeds for years. Based in the city centre on Vicar Lane, I pride myself on turning up on time, keeping things tidy, and being straight with customers about costs. Whether it's a dripping tap or a full central heating installation, I treat every job as if it were my own home.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86de",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
