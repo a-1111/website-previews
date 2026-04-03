@@ -1,0 +1,882 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cooper & Co Plumbing & Heating | Leeds</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* NAV */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 16px 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      color: #fff;
+      text-decoration: none;
+      line-height: 1.2;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .nav-cta:hover {
+      background: #d97706;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 14px 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+      .nav-logo {
+        font-size: 16px;
+      }
+    }
+
+    /* HERO */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary:hover {
+      background: #d97706;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 36px;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: 85vh;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 15px;
+      }
+      .hero-buttons {
+        flex-direction: column;
+      }
+      .btn-primary, .btn-secondary {
+        text-align: center;
+      }
+    }
+
+    /* STATS BAR */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 600px) {
+      .stats-bar {
+        gap: 28px;
+        padding: 24px 20px;
+      }
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* SERVICES */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .section-title {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 28px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ABOUT */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      font-size: 15px;
+      margin-bottom: 16px;
+    }
+
+    .about-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .about-badge {
+      background: var(--primary);
+      color: #fff;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-num {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 800;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .about-stat-label {
+      display: block;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+      line-height: 1.4;
+    }
+
+    @media (max-width: 900px) {
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+      .about {
+        padding: 60px 20px;
+      }
+    }
+
+    /* REVIEWS */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    .reviews-subtitle {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 16px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .review-date {
+      color: rgba(148,163,184,0.6);
+      font-size: 12px;
+      margin-top: 2px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* CONTACT */
+    #contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1100px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.1);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h2 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 26px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 24px;
+      line-height: 1.3;
+    }
+
+    .contact-detail {
+      margin-bottom: 20px;
+    }
+
+    .contact-detail-label {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 4px;
+    }
+
+    .contact-detail-value {
+      color: #e2e8f0;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 26px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      text-decoration: none;
+      display: block;
+      margin-top: 4px;
+      transition: color 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      color: #d97706;
+    }
+
+    .hours-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .hours-row {
+      display: flex;
+      justify-content: space-between;
+      color: #94a3b8;
+      font-size: 13px;
+    }
+
+    .hours-day {
+      color: #cbd5e1;
+    }
+
+    .emergency-note {
+      margin-top: 24px;
+      padding: 12px 16px;
+      background: rgba(245,158,11,0.15);
+      border: 1px solid rgba(245,158,11,0.3);
+      border-radius: 8px;
+      color: var(--accent);
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      transition: border-color 0.2s ease;
+      outline: none;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      font-family: 'Poppins', sans-serif;
+      font-size: 15px;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .form-submit:hover {
+      background: #d97706;
+      transform: translateY(-2px);
+    }
+
+    @media (max-width: 900px) {
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+      #contact {
+        padding: 60px 20px;
+      }
+      .contact-left, .contact-right {
+        padding: 36px 28px;
+      }
+    }
+
+    /* FOOTER */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    footer a {
+      color: #94a3b8;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    .footer-sep {
+      margin: 0 8px;
+      color: rgba(148,163,184,0.4);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <a class="nav-logo" href="#">Cooper &amp; Co Plumbing &amp; Heating</a>
+    <div class="nav-right">
+      <a class="nav-phone" href="tel:01133451330">0113 345 1330</a>
+      <a class="nav-cta" href="tel:01133451330">Call Now</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Expert Heating Solutions for Leeds Homes</h1>
+      <p class="hero-sub">Keeping Leeds Homes Warm Year Round. Gas Safe registered engineers delivering reliable, transparent central heating services across Leeds, Pudsey, Farsley, Bradford and Horsforth.</p>
+      <div class="hero-buttons">
+        <a class="btn-primary" href="tel:01133451330">Get in Touch Today</a>
+        <a class="btn-secondary" href="#contact">Request a Free Quote</a>
+      </div>
+      <div class="trust-badges">
+        <span class="badge">✓ Fully Insured</span>
+        <span class="badge">✓ Free Quotes</span>
+        <span class="badge">✓ Local &amp; Reliable</span>
+        <span class="badge">✓ Gas Safe Registered</span>
+        <span class="badge">✓ Worcester Bosch Accredited</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stat-item">
+      <span class="stat-number">4.7★</span>
+      <span class="stat-label">Google Rating</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">38</span>
+      <span class="stat-label">Verified Reviews</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">5</span>
+      <span class="stat-label">Areas Served</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">24/7</span>
+      <span class="stat-label">Emergency Callout</span>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services">
+    <h2 class="section-title">Our Services</h2>
+    <div class="services-grid">
+      <div class="service-card">
+        <span class="service-icon">🔧</span>
+        <h3>Central Heating Installation &amp; Servicing</h3>
+        <p>Full central heating system design, installation and ongoing servicing for homes across Leeds and the surrounding areas. Keep your home warm and efficient year round.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔥</span>
+        <h3>Boiler Repair &amp; Replacement</h3>
+        <p>Fast diagnosis and repair of all boiler makes and models. When repair isn't the best option, we'll provide honest advice and a competitive quote for a new boiler.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">📋</span>
+        <h3>Annual Boiler Service</h3>
+        <p>Regular servicing extends your boiler's life, maintains efficiency and ensures your warranty stays valid. Booked at a time to suit you.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">♨️</span>
+        <h3>Radiator Installation &amp; Repair</h3>
+        <p>Whether you need a new radiator fitted, a faulty one repaired, or your system balanced for even heat distribution, our engineers have you covered.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🌡️</span>
+        <h3>Underfloor Heating</h3>
+        <p>Specialist installation of wet and electric underfloor heating systems. A luxurious, efficient heating solution for new builds, extensions and renovations.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🛡️</span>
+        <h3>Gas Safety Inspections</h3>
+        <p>Certified Gas Safe inspections for landlords and homeowners. Receive your Gas Safety Record promptly and keep your property and occupants safe.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Leeds' Trusted Heating Specialists</h2>
+        <p>We're Cooper &amp; Co Plumbing &amp; Heating, based right here in Pudsey, Leeds, and we've been keeping local homes warm and safe for years. From boiler installations and annual servicing to emergency callouts, our Gas Safe registered engineers bring honest advice and quality workmanship every time.</p>
+        <p>We're proud to serve families and businesses across Leeds, Bradford, and the surrounding areas with care and reliability. With transparent pricing, same-day emergency response, and a commitment to doing the job right first time, we're the local team you can count on.</p>
+        <div class="about-badges">
+          <span class="about-badge">Gas Safe Registered</span>
+          <span class="about-badge">Worcester Bosch Accredited Installer</span>
+        </div>
+      </div>
+      <div class="about-right">
+        <div class="about-stats">
+          <div class="about-stat-box">
+            <span class="about-stat-num">4.7★</span>
+            <span class="about-stat-label">Average Google Rating</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-num">38</span>
+            <span class="about-stat-label">Happy Customer Reviews</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-num">5+</span>
+            <span class="about-stat-label">Areas Across West Yorkshire</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-num">6</span>
+            <span class="about-stat-label">Core Heating Services</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews">
+    <h2>What Our Customers Say</h2>
+    <p class="reviews-subtitle">Rated 4.7 out of 5 from 38 Google reviews</p>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Brilliant service from start to finish. Cooper &amp; Co had my boiler replaced quickly and at a fair price. Very professional and tidy workers."</p>
+        <div class="review-author">James Thornton</div>
+        <div class="review-date">2024</div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Called them out when our heating packed in during winter. They were there within a couple of hours and had us back up and running the same day. Highly recommend."</p>
+        <div class="review-author">Sarah Mitchell</div>
+        <div class="review-date">2024</div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★</div>
+        <p class="review-text">"Very knowledgeable team. Serviced our boiler and spotted a fault we didn't know about. Sorted it out there and then. Good value for money in the Leeds area."</p>
+        <div class="review-author">David Kaur</div>
+        <div class="review-date">2024</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h2>Cooper &amp; Co Plumbing &amp; Heating</h2>
+        <div class="contact-detail">
+          <div class="contact-detail-label">Address</div>
+          <div class="contact-detail-value">Unit 40 B2 Springfield Commercial Centre,<br>Bagley Lane, Pudsey, Farsley,<br>Leeds LS28 5LY</div>
+        </div>
+        <div class="contact-detail">
+          <div class="contact-detail-label">Phone</div>
+          <a class="contact-phone-link" href="tel:01133451330">0113 345 1330</a>
+        </div>
+        <div class="contact-detail">
+          <div class="contact-detail-label">Opening Hours</div>
+          <div class="hours-grid">
+            <div class="hours-row">
+              <span class="hours-day">Monday – Friday</span>
+              <span>8am – 6pm</span>
+            </div>
+            <div class="hours-row">
+              <span class="hours-day">Saturday</span>
+              <span>9am – 1pm</span>
+            </div>
+            <div class="hours-row">
+              <span class="hours-day">Sunday</span>
+              <span>Closed</span>
+            </div>
+          </div>
+        </div>
+        <div class="emergency-note">⚡ Emergency callout available — call anytime</div>
+      </div>
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">How Can We Help?</label>
+            <textarea id="message" name="message" placeholder="Tell us about your heating requirements…"></textarea>
+          </div>
+          <button type="submit" class="form-submit">Get in Touch Today</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>
+      <strong style="color:#e2e8f0;">Cooper &amp; Co Plumbing &amp; Heating</strong>
+      <span class="footer-sep">|</span>
+      <a href="tel:01133451330">0113 345 1330</a>
+      <span class="footer-sep">|</span>
+      Unit 40 B2 Springfield Commercial Centre, Bagley Lane, Pudsey, Farsley, Leeds LS28 5LY
+    </p>
+    <p style="margin-top:8px;">Serving Leeds, Pudsey, Farsley, Bradford &amp; Horsforth &nbsp;|&nbsp; Gas Safe Registered &nbsp;|&nbsp; Worcester Bosch Accredited Installer</p>
+    <p style="margin-top:8px;">&copy; 2024 Cooper &amp; Co Plumbing &amp; Heating. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>

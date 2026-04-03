@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "Cooper & Co Plumbing & Heating",
+    "slug": "cooper-and-co-plumbing-heating-leeds",
+    "category": "Central Heating Service",
+    "tagline": "Keeping Leeds Homes Warm Year Round"
+  },
+  "contact": {
+    "phone": "0113 345 1330",
+    "address": "Unit 40 B2 Springfield Commercial Centre, Bagley Lane, Pudsey, Farsley, Leeds LS28 5LY",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Pudsey",
+      "Farsley",
+      "Bradford",
+      "Horsforth"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 1pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Central Heating Installation & Servicing",
+    "Boiler Repair & Replacement",
+    "Annual Boiler Service",
+    "Radiator Installation & Repair",
+    "Underfloor Heating",
+    "Gas Safety Inspections"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "James Thornton",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Cooper & Co had my boiler replaced quickly and at a fair price. Very professional and tidy workers.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah Mitchell",
+        "rating": 5,
+        "text": "Called them out when our heating packed in during winter. They were there within a couple of hours and had us back up and running the same day. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "David Kaur",
+        "rating": 4,
+        "text": "Very knowledgeable team. Serviced our boiler and spotted a fault we didn't know about. Sorted it out there and then. Good value for money in the Leeds area.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Worcester Bosch Accredited Installer"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Cooper & Co Plumbing & Heating delivers reliable, expert central heating solutions across Leeds and surrounding areas, with a commitment to transparent pricing and same-day emergency response.",
+    "hero_headline": "Expert Heating Solutions for Leeds Homes",
+    "about_paragraph": "We're Cooper & Co Plumbing & Heating, based right here in Pudsey, Leeds, and we've been keeping local homes warm and safe for years. From boiler installations and annual servicing to emergency callouts, our Gas Safe registered engineers bring honest advice and quality workmanship every time. We're proud to serve families and businesses across Leeds, Bradford, and the surrounding areas with care and reliability.",
+    "colour_scheme": {
+      "primary": "#1a3c6e",
+      "secondary": "#e87722",
+      "accent": "#4da8da",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
