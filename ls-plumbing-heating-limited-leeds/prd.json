@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "LS Plumbing & Heating Limited",
+    "slug": "ls-plumbing-heating-limited-leeds",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing & Heating Across Leeds"
+  },
+  "contact": {
+    "phone": "0113 370 7959",
+    "address": "Leeds, West Yorkshire",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Bradford",
+      "Wakefield",
+      "Harrogate",
+      "Wetherby"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repairs",
+    "Central Heating System Installation",
+    "Plumbing Repairs & Maintenance",
+    "Bathroom Installation",
+    "Emergency Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James H",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Boiler packed in on a cold morning and LS Plumbing had someone out to us within a couple of hours. Would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Very professional and tidy. They fitted a new bathroom for us and the quality of the work was excellent. Fair pricing and great communication throughout.",
+        "date": "2024"
+      },
+      {
+        "author": "David T",
+        "rating": 4,
+        "text": "Used LS Plumbing for a boiler service and a leaking radiator repair. Turned up on time, got the job done quickly and left everything clean. Good value.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Free Quotes Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "LS Plumbing & Heating Limited delivers reliable, high-quality plumbing and heating solutions across Leeds with prompt response times and transparent pricing. Whether it's a boiler breakdown or a full bathroom fit, we get the job done right first time.",
+    "hero_headline": "Expert Plumbing & Heating Solutions Across Leeds",
+    "about_paragraph": "Here at LS Plumbing & Heating Limited, we're passionate about providing Leeds homeowners with a plumbing and heating service they can truly rely on. We're fully Gas Safe registered and bring years of hands-on experience to every job, from boiler installations to emergency call-outs. Our goal is simple \u2014 to treat every home like our own and leave every customer completely satisfied.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e8f1fb",
+      "accent": "#f4a31b",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
