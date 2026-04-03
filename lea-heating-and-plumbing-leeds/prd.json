@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "Lea Heating and Plumbing",
+    "slug": "lea-heating-and-plumbing-leeds",
+    "category": "Gas Engineer",
+    "tagline": "Reliable Heating and Plumbing in Leeds"
+  },
+  "contact": {
+    "phone": "07833 798457",
+    "address": "Winding Way, Leeds LS17 7RA",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Harrogate",
+      "Wetherby",
+      "Moortown",
+      "Chapel Allerton"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation and Replacement",
+    "Boiler Servicing and Repairs",
+    "Central Heating System Installation",
+    "Gas Safety Certificates",
+    "Radiator Installation and Repairs",
+    "Plumbing Repairs and Maintenance"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Lea came out quickly to fix our boiler in the middle of winter. Professional, tidy and reasonably priced. Would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Excellent service from start to finish. New boiler installed efficiently and at a great price. Very knowledgeable and friendly.",
+        "date": "2024"
+      },
+      {
+        "author": "Patricia H",
+        "rating": 4,
+        "text": "Prompt, reliable and honest. Carried out our annual boiler service without any fuss. Will be using again next year.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Lea Heating and Plumbing brings honest, expert gas and plumbing services to homes across Leeds, with a personal touch and reliable workmanship you can count on.",
+    "hero_headline": "Your Trusted Gas Engineer in Leeds",
+    "about_paragraph": "I'm a Gas Safe registered engineer based in LS17, providing heating and plumbing services across Leeds and the surrounding areas. Whether you need a new boiler fitted, an annual service, or an urgent plumbing repair, I pride myself on turning up on time, keeping things tidy, and getting the job done right first time. With years of experience in the trade, I offer honest advice and competitive pricing with no hidden costs.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e87722",
+      "accent": "#5bc4f5",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
