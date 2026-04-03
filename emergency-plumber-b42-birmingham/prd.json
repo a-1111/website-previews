@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Emergency Plumber B42",
+    "slug": "emergency-plumber-b42-birmingham",
+    "category": "Plumber",
+    "tagline": "Fast Emergency Plumbing, Day or Night"
+  },
+  "contact": {
+    "phone": "07432 699710",
+    "address": "18 Brushfield Rd, Birmingham B42 2QJ",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Great Barr",
+      "Perry Barr",
+      "Sutton Coldfield",
+      "Walsall"
+    ]
+  },
+  "hours": {
+    "monday_friday": "24 Hours",
+    "saturday": "24 Hours",
+    "sunday": "24 Hours",
+    "emergency_callout": true
+  },
+  "services": [
+    "Emergency Plumbing Call-Outs",
+    "Burst Pipe Repair",
+    "Boiler Breakdown & Repair",
+    "Blocked Drains & Toilets",
+    "Leak Detection & Repair",
+    "Radiator & Central Heating Repair"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Arrived within the hour on a Sunday night for a burst pipe. Sorted it quickly and at a fair price. Absolute lifesaver!",
+        "date": "2024"
+      },
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Called at 11pm with no hot water. Engineer was friendly, professional and had us sorted before midnight. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Priya K",
+        "rating": 4,
+        "text": "Prompt response, honest pricing and tidy work. Will definitely use again for any plumbing issues. Very reliable.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "24/7 Emergency Response",
+      "Local Birmingham Plumber"
+    ]
+  },
+  "brand": {
+    "tone": "reliable and reassuring",
+    "usp": "Available 24 hours a day, 7 days a week across Birmingham and the surrounding areas, we get to you fast when plumbing emergencies can't wait.",
+    "hero_headline": "Birmingham's 24/7 Emergency Plumber, Always Ready",
+    "about_paragraph": "I'm a local emergency plumber based in Great Barr, B42, covering Birmingham and the surrounding areas around the clock. Whether it's a burst pipe at midnight or a boiler failure on a bank holiday, I'm just one call away and aim to be with you within the hour. I take pride in honest pricing, clean work and getting your home back to normal as quickly as possible.",
+    "colour_scheme": {
+      "primary": "#1a3c6e",
+      "secondary": "#2e7dcc",
+      "accent": "#f5a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
