@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "WTC Heating & Plumbing Ltd",
+    "slug": "wtc-heating-plumbing-birmingham",
+    "category": "Heating Equipment Supplier & Plumber",
+    "tagline": "Reliable Heating Solutions For Every Home"
+  },
+  "contact": {
+    "phone": "0808 135 0953",
+    "address": "34 Brixham Rd, Birmingham B16 0JY",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Smethwick",
+      "Wolverhampton",
+      "Solihull",
+      "West Bromwich"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 2pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Supply & Installation",
+    "Central Heating Systems",
+    "Radiator Supply & Fitting",
+    "Plumbing Repairs & Maintenance",
+    "Underfloor Heating",
+    "Emergency Heating Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.6,
+    "review_count": 28,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Excellent service from WTC \u2014 sourced a hard-to-find boiler part quickly and the team were really helpful throughout. Would definitely recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Priya M",
+        "rating": 5,
+        "text": "Friendly and knowledgeable staff. Got great advice on upgrading our central heating system and the pricing was very competitive.",
+        "date": "2024"
+      },
+      {
+        "author": "David K",
+        "rating": 4,
+        "text": "Good range of heating equipment in stock and quick turnaround on our order. Will be using WTC again for our next project.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Worcestershire Trading Standards Approved"
+    ]
+  },
+  "brand": {
+    "tone": "professional and approachable",
+    "usp": "WTC Heating & Plumbing Ltd offers expert heating equipment supply and professional installation services across Birmingham, combining quality products with reliable, knowledgeable support for homeowners and trade professionals alike.",
+    "hero_headline": "Birmingham's Trusted Heating & Plumbing Specialists",
+    "about_paragraph": "At WTC Heating & Plumbing Ltd, we're passionate about keeping Birmingham homes warm and comfortable all year round. Based in the heart of Edgbaston, we supply and install a wide range of heating equipment, from boilers and radiators to full central heating systems. Whether you're a homeowner or a fellow trade professional, we're here to provide honest advice, quality products, and dependable service you can count on.",
+    "colour_scheme": {
+      "primary": "#c0392b",
+      "secondary": "#2c3e50",
+      "accent": "#e67e22",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
