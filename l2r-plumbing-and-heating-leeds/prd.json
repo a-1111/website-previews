@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "L2R Plumbing and Heating Ltd",
+    "slug": "l2r-plumbing-and-heating-leeds",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing and Heating Across Leeds"
+  },
+  "contact": {
+    "phone": "07825 973012",
+    "address": "Leeds, West Yorkshire",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Bradford",
+      "Wakefield",
+      "Harrogate",
+      "Wetherby"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation and Servicing",
+    "Central Heating System Installation",
+    "Radiator Installation and Repair",
+    "Emergency Plumbing Call-Outs",
+    "Bathroom and Shower Installation",
+    "Leak Detection and Repair"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "L2R came out same day when our boiler broke down in winter. Friendly, professional and had it fixed within the hour. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Fitted a new bathroom suite and the workmanship was excellent. Tidy workers and great value.",
+        "date": "2024"
+      },
+      {
+        "author": "David K",
+        "rating": 5,
+        "text": "Used L2R for a full central heating installation. On time, on budget and no mess left behind. Will definitely use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Leeds Business"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "L2R Plumbing and Heating Ltd delivers fast, reliable plumbing and heating solutions across Leeds and the surrounding areas. We combine expert craftsmanship with honest, transparent pricing so you always know what to expect.",
+    "hero_headline": "Leeds Plumbing and Heating You Can Trust",
+    "about_paragraph": "We're L2R Plumbing and Heating Ltd, a Leeds-based plumbing and heating company dedicated to delivering high-quality work at fair prices. From emergency call-outs to full boiler installations, we treat every job with the same care and professionalism. Our team is Gas Safe registered and fully insured, so you can have complete peace of mind when you choose us.",
+    "colour_scheme": {
+      "primary": "#1b3f6e",
+      "secondary": "#e8f0fe",
+      "accent": "#f97316",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
