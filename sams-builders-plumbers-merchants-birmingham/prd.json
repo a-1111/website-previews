@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "SAM's Builders & Plumbers Merchants",
+    "slug": "sams-builders-plumbers-merchants-birmingham",
+    "category": "Building materials supplier",
+    "tagline": "Your Local Trade Merchant in Birmingham"
+  },
+  "contact": {
+    "phone": "0121 773 2280",
+    "address": "1 Hob Moor Rd, Small Heath, Birmingham B10 9AY",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Solihull",
+      "Coventry",
+      "West Bromwich",
+      "Sutton Coldfield"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 5:30pm",
+    "saturday": "8am - 1pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Building Materials Supply",
+    "Plumbing Supplies & Fittings",
+    "Timber & Sheet Materials",
+    "Bricks, Blocks & Aggregates",
+    "Drainage & Pipework",
+    "Trade & Retail Counter Sales"
+  ],
+  "social_proof": {
+    "google_rating": 4.3,
+    "review_count": 28,
+    "sample_reviews": [
+      {
+        "author": "Tariq M",
+        "rating": 5,
+        "text": "Great local merchant with a solid range of building and plumbing supplies. Staff are helpful and prices are competitive. My go-to in Small Heath.",
+        "date": "2024"
+      },
+      {
+        "author": "James R",
+        "rating": 4,
+        "text": "Handy location for tradesmen working in the Birmingham area. Good stock of plumbing fittings and always have what I need in a hurry.",
+        "date": "2024"
+      },
+      {
+        "author": "Amjad K",
+        "rating": 5,
+        "text": "SAM's has been reliable for our building projects. Fair prices, friendly counter staff and quick service. Highly recommend to local trades.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Trusted Local Merchant",
+      "Trade Accounts Available"
+    ]
+  },
+  "brand": {
+    "tone": "straightforward and trade-focused",
+    "usp": "SAM's Builders & Plumbers Merchants has been serving the Birmingham trade community with competitively priced building and plumbing supplies from our Small Heath branch. Whether you're a sole trader or a larger contractor, we stock what you need to get the job done.",
+    "hero_headline": "Trade Supplies Ready When You Need Them",
+    "about_paragraph": "At SAM's Builders & Plumbers Merchants, we're proud to be a trusted local supplier for tradespeople and self-builders across Birmingham. Based in Small Heath, we stock a wide range of building materials, plumbing fittings, drainage, and more \u2014 all at competitive trade prices. We keep things simple: quality products, knowledgeable staff, and a fast, friendly service that keeps your projects moving.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#f4a01c",
+      "accent": "#e8f0fe",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
