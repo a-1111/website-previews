@@ -1,0 +1,825 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Adel Plumbing and Heating Ltd | Expert Heating & Plumbing in Leeds</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ─── NAV ─── */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+      height: 68px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      color: #ffffff;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #ffffff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 6px;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .nav-cta:hover {
+      background: #e08d00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 0 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+      .nav-logo {
+        font-size: 15px;
+      }
+    }
+
+    /* ─── HERO ─── */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #ffffff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary-hero {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary-hero:hover {
+      background: #e08d00;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary-hero {
+      border: 2px solid #ffffff;
+      color: #ffffff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary-hero:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #ffffff;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 16px;
+      border-radius: 50px;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: 85vh;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 16px;
+      }
+    }
+
+    /* ─── STATS BAR ─── */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: #ffffff;
+      display: block;
+    }
+
+    .stat-label {
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 2px;
+      display: block;
+    }
+
+    @media (max-width: 600px) {
+      .stats-bar {
+        gap: 28px;
+        padding: 24px 20px;
+      }
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* ─── SERVICES ─── */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .services-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .section-heading {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .service-card {
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 28px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ─── ABOUT ─── */
+    .about {
+      background: #ffffff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      align-items: center;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 15px;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-num {
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--primary);
+      display: block;
+    }
+
+    .about-stat-label {
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 4px;
+      display: block;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ─── REVIEWS ─── */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .reviews h2 {
+      color: #ffffff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 16px;
+    }
+
+    .reviews-subtext {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 24px;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+      transition: background 0.2s ease;
+    }
+
+    .review-card:hover {
+      background: rgba(255,255,255,0.08);
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 16px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ─── CONTACT ─── */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.1);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h2 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 24px;
+      font-weight: 700;
+      color: #ffffff;
+      margin-bottom: 32px;
+    }
+
+    .contact-detail {
+      margin-bottom: 24px;
+    }
+
+    .contact-detail-label {
+      font-size: 12px;
+      font-weight: 600;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 6px;
+      display: block;
+    }
+
+    .contact-detail-value {
+      color: #e2e8f0;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-family: 'Poppins', sans-serif;
+      font-size: 26px;
+      font-weight: 700;
+      text-decoration: none;
+      display: block;
+      margin-top: 4px;
+      transition: color 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      color: #e08d00;
+    }
+
+    .contact-right {
+      background: #ffffff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 28px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      color: var(--text);
+      background: #fff;
+      transition: border-color 0.2s ease;
+      outline: none;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .form-submit:hover {
+      background: #e08d00;
+      transform: translateY(-2px);
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        padding: 60px 20px;
+      }
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* ─── FOOTER ─── */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    footer a {
+      color: #94a3b8;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    @media (max-width: 768px) {
+      footer {
+        padding: 32px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ─── NAV ─── -->
+  <nav>
+    <a href="#" class="nav-logo">Adel Plumbing and Heating Ltd</a>
+    <div class="nav-right">
+      <a href="tel:07889285673" class="nav-phone">07889 285673</a>
+      <a href="tel:07889285673" class="nav-cta">Get a Free Quote</a>
+    </div>
+  </nav>
+
+  <!-- ─── HERO ─── -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Expert Heating &amp; Plumbing Right Across Leeds</h1>
+      <p class="hero-sub">Reliable, honest and professional heating and plumbing services across Leeds and surrounding areas. From boiler installations to emergency call-outs — we've got you covered.</p>
+      <div class="hero-buttons">
+        <a href="tel:07889285673" class="btn-primary-hero">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary-hero">Contact Us</a>
+      </div>
+      <div class="trust-badges">
+        <span class="badge">✓ Gas Safe Registered</span>
+        <span class="badge">✓ CHAS Accredited</span>
+        <span class="badge">✓ Fully Insured</span>
+        <span class="badge">✓ Local Family Business</span>
+        <span class="badge">✓ Emergency Call-Outs Available</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── STATS BAR ─── -->
+  <div class="stats-bar">
+    <div class="stat-item">
+      <span class="stat-number">4.8★</span>
+      <span class="stat-label">Google Rating</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">34+</span>
+      <span class="stat-label">Verified Reviews</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">5</span>
+      <span class="stat-label">Areas Served</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">24/7</span>
+      <span class="stat-label">Emergency Call-Outs</span>
+    </div>
+  </div>
+
+  <!-- ─── SERVICES ─── -->
+  <section class="services" id="services">
+    <div class="services-inner">
+      <h2 class="section-heading">Our Services</h2>
+      <div class="services-grid">
+        <div class="service-card">
+          <span class="service-icon">🔧</span>
+          <h3>Central Heating Servicing &amp; Repair</h3>
+          <p>Keep your central heating system running at peak efficiency. We carry out thorough servicing and fault diagnosis to get your system performing its best.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">🔥</span>
+          <h3>Boiler Installation &amp; Replacement</h3>
+          <p>Supplying and fitting high-quality boilers from leading manufacturers. We'll recommend the right boiler for your home and install it to the highest standard.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">🛡️</span>
+          <h3>Gas Safety Inspections</h3>
+          <p>Annual gas safety checks and certificates for landlords and homeowners. All work carried out by our Gas Safe Registered engineers.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">♨️</span>
+          <h3>Radiator Installation &amp; Balancing</h3>
+          <p>New radiator installations, replacements and full system balancing to ensure even heat distribution throughout your home.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">🪠</span>
+          <h3>Plumbing Repairs &amp; Maintenance</h3>
+          <p>From leaking taps to burst pipes, we handle all manner of plumbing repairs quickly and efficiently to minimise disruption to your home.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">💧</span>
+          <h3>Powerflush &amp; System Cleaning</h3>
+          <p>Remove sludge, rust and debris from your heating system with a professional powerflush, improving efficiency and extending the life of your boiler.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── ABOUT ─── -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Leeds' Trusted Heating &amp; Plumbing Specialists</h2>
+        <p>We're Adel Plumbing and Heating Ltd, a local Leeds-based business dedicated to keeping your home warm, safe and comfortable all year round. Whether it's a routine boiler service, a full heating system installation or an emergency call-out, we bring the same level of care and professionalism to every job.</p>
+        <p>Based in Holt Park, we're proud to serve homeowners across Leeds and the surrounding areas including Headingley, Horsforth, Otley and Ilkley. We combine years of local experience with a reliable, honest approach that puts customers first.</p>
+        <p>As a Gas Safe Registered business, you can trust that every job we undertake meets the highest safety standards. We're a family business — your satisfaction matters to us personally.</p>
+      </div>
+      <div class="about-stats">
+        <div class="about-stat-box">
+          <span class="about-stat-num">4.8★</span>
+          <span class="about-stat-label">Google Rating</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-num">34+</span>
+          <span class="about-stat-label">Happy Customers</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-num">5</span>
+          <span class="about-stat-label">Areas Covered</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-num">100%</span>
+          <span class="about-stat-label">Gas Safe Registered</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── REVIEWS ─── -->
+  <section class="reviews" id="reviews">
+    <div class="reviews-inner">
+      <h2>What Our Customers Say</h2>
+      <p class="reviews-subtext">Rated 4.8 out of 5 from 34 Google reviews</p>
+      <div class="reviews-grid">
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"Fantastic service from start to finish. The engineer was punctual, professional and sorted our boiler issue quickly. Would highly recommend Adel Plumbing to anyone in the Leeds area."</p>
+          <span class="review-author">Sarah M — 2024</span>
+        </div>
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"Used Adel Plumbing for our annual boiler service. Excellent communication, arrived on time and very reasonably priced. Gave us helpful advice on keeping the heating system running efficiently."</p>
+          <span class="review-author">James T — 2024</span>
+        </div>
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"Called out for an emergency with no heating in winter. They responded quickly and had us back up and running the same day. Couldn't be happier with the service."</p>
+          <span class="review-author">Karen B — 2023</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── CONTACT ─── -->
+  <section class="contact" id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h2>Adel Plumbing and Heating Ltd</h2>
+        <div class="contact-detail">
+          <span class="contact-detail-label">Phone</span>
+          <a href="tel:07889285673" class="contact-phone-link">07889 285673</a>
+        </div>
+        <div class="contact-detail">
+          <span class="contact-detail-label">Address</span>
+          <span class="contact-detail-value">18 Holt Park Rd<br>Leeds LS16 7QS</span>
+        </div>
+        <div class="contact-detail">
+          <span class="contact-detail-label">Service Areas</span>
+          <span class="contact-detail-value">Leeds, Headingley, Horsforth, Otley, Ilkley</span>
+        </div>
+        <div class="contact-detail">
+          <span class="contact-detail-label">Opening Hours</span>
+          <span class="contact-detail-value">
+            Monday – Friday: 8am – 6pm<br>
+            Saturday: 9am – 4pm<br>
+            Sunday: Closed<br>
+            <strong style="color: var(--accent);">Emergency call-outs available</strong>
+          </span>
+        </div>
+      </div>
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">How Can We Help?</label>
+            <textarea id="message" name="message" placeholder="Please describe the work you need..."></textarea>
+          </div>
+          <button type="submit" class="form-submit">Get a Free Quote</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── FOOTER ─── -->
+  <footer>
+    <p>
+      <strong style="color: #e2e8f0;">Adel Plumbing and Heating Ltd</strong> &nbsp;|&nbsp;
+      <a href="tel:07889285673">07889 285673</a> &nbsp;|&nbsp;
+      18 Holt Park Rd, Leeds LS16 7QS
+    </p>
+    <p style="margin-top: 8px;">Gas Safe Registered &nbsp;|&nbsp; Fully Insured &nbsp;|&nbsp; Serving Leeds &amp; Surrounding Areas</p>
+    <p style="margin-top: 8px;">&copy; 2024 Adel Plumbing and Heating Ltd. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>

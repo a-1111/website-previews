@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Adel Plumbing and Heating Ltd",
+    "slug": "adel-plumbing-and-heating-leeds",
+    "category": "Plumber & Central Heating Engineer",
+    "tagline": "Reliable Heating Solutions Across Leeds"
+  },
+  "contact": {
+    "phone": "07889 285673",
+    "address": "18 Holt Park Rd, Leeds LS16 7QS",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Headingley",
+      "Horsforth",
+      "Otley",
+      "Ilkley"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Central Heating Servicing & Repair",
+    "Boiler Installation & Replacement",
+    "Gas Safety Inspections",
+    "Radiator Installation & Balancing",
+    "Plumbing Repairs & Maintenance",
+    "Powerflush & System Cleaning"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Fantastic service from start to finish. The engineer was punctual, professional and sorted our boiler issue quickly. Would highly recommend Adel Plumbing to anyone in the Leeds area.",
+        "date": "2024"
+      },
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Used Adel Plumbing for our annual boiler service. Excellent communication, arrived on time and very reasonably priced. Gave us helpful advice on keeping the heating system running efficiently.",
+        "date": "2024"
+      },
+      {
+        "author": "Karen B",
+        "rating": 5,
+        "text": "Called out for an emergency with no heating in winter. They responded quickly and had us back up and running the same day. Couldn't be happier with the service.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Family Business"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "We provide expert central heating and plumbing services across Leeds, combining years of local experience with a reliable, honest approach that puts customers first.",
+    "hero_headline": "Expert Heating & Plumbing Right Across Leeds",
+    "about_paragraph": "We're Adel Plumbing and Heating Ltd, a local Leeds-based business dedicated to keeping your home warm, safe and comfortable all year round. Whether it's a routine boiler service, a full heating system installation or an emergency call-out, we bring the same level of care and professionalism to every job. Based in Holt Park, we're proud to serve homeowners across Leeds and the surrounding areas.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e8531d",
+      "accent": "#f4a523",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
