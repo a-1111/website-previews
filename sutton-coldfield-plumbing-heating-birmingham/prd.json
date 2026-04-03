@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Sutton Coldfield Plumbing & Heating",
+    "slug": "sutton-coldfield-plumbing-heating-birmingham",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing & Heating You Can Trust"
+  },
+  "contact": {
+    "phone": "07985 734176",
+    "address": "Sutton Coldfield, Birmingham, B72",
+    "city": "Birmingham",
+    "service_area": [
+      "Sutton Coldfield",
+      "Birmingham",
+      "Lichfield",
+      "Tamworth",
+      "Solihull"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repairs",
+    "Central Heating Systems",
+    "Leak Detection & Repairs",
+    "Bathroom & En-suite Fitting",
+    "Emergency Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "Karen Whitfield",
+        "rating": 5,
+        "text": "Fantastic service from start to finish. Boiler broke on a cold morning and they were with us within two hours. Really professional and tidy too.",
+        "date": "2024"
+      },
+      {
+        "author": "James Thornton",
+        "rating": 5,
+        "text": "Highly recommend. Fixed a stubborn leak under the kitchen sink quickly and at a fair price. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah Brownlie",
+        "rating": 5,
+        "text": "Had a full bathroom fitted and I couldn't be happier. Great workmanship, kept the house clean and finished on time. Brilliant.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "24/7 Emergency Callout"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Local Sutton Coldfield plumbers delivering fast, reliable heating and plumbing solutions with Gas Safe registered engineers and honest, upfront pricing every time.",
+    "hero_headline": "Sutton Coldfield's Trusted Plumbing & Heating Experts",
+    "about_paragraph": "We're a local plumbing and heating business proudly serving Sutton Coldfield and the wider Birmingham area. Whether it's a boiler breakdown, a dripping tap, or a full bathroom installation, I bring years of hands-on experience to every job. I believe in honest pricing, quality workmanship, and turning up when I say I will \u2014 every time.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e87722",
+      "accent": "#5ba4d4",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
