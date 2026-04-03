@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "M A Building & Plumbing Supplies",
+    "slug": "ma-building-plumbing-supplies-birmingham",
+    "category": "Plumbers' Merchant",
+    "tagline": "Your Local Trade Supplies Partner"
+  },
+  "contact": {
+    "phone": "0121 771 2882",
+    "address": "485 Coventry Rd, Birmingham B10 0JS",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Solihull",
+      "Coventry",
+      "Wolverhampton",
+      "West Bromwich"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 5:30pm",
+    "saturday": "8am - 1pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Plumbing Supplies & Fittings",
+    "Heating & Boiler Components",
+    "Bathrooms & Sanitaryware",
+    "Pipes, Valves & Fittings",
+    "Building Materials & Fixings",
+    "Trade Accounts & Bulk Orders"
+  ],
+  "social_proof": {
+    "google_rating": 4.3,
+    "review_count": 28,
+    "sample_reviews": [
+      {
+        "author": "Tariq M",
+        "rating": 5,
+        "text": "Great local merchant with a solid range of plumbing and building supplies. Always helpful staff and competitive prices for trade.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave H",
+        "rating": 4,
+        "text": "Good stock levels and the team know their stuff. Handy location on the Coventry Road. Will keep coming back.",
+        "date": "2024"
+      },
+      {
+        "author": "Jas B",
+        "rating": 5,
+        "text": "My go-to supplier in Birmingham. They always have what I need and the prices are fair. Highly recommend to any local tradespeople.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Established Local Merchant",
+      "Trade Accounts Available",
+      "Competitive Trade Pricing"
+    ]
+  },
+  "brand": {
+    "tone": "practical and trade-focused",
+    "usp": "M A Building & Plumbing Supplies is a trusted local merchant on Coventry Road, providing Birmingham's tradespeople and DIY enthusiasts with a comprehensive range of plumbing and building materials at competitive prices.",
+    "hero_headline": "Birmingham's Trusted Trade Supplies On Your Doorstep",
+    "about_paragraph": "We are M A Building & Plumbing Supplies, a dedicated trade merchant serving Birmingham and the surrounding areas from our well-stocked premises on Coventry Road. We supply a wide range of plumbing fittings, heating components, bathrooms, and building materials to both trade professionals and domestic customers. Whether you need a single fitting or a full project's worth of supplies, we're here to help you get the job done.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#f4a620",
+      "accent": "#e8f0fe",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
