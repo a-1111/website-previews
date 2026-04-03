@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Oakstone",
+    "slug": "oakstone-leeds",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Leeds"
+  },
+  "contact": {
+    "phone": "07917 113493",
+    "address": "49 Vesper Walk, Hawksworth, Leeds LS5 3NQ",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Bradford",
+      "Pudsey",
+      "Horsforth",
+      "Headingley"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "General Plumbing Repairs",
+    "Boiler Servicing & Repairs",
+    "Bathroom Installations",
+    "Leak Detection & Repair",
+    "Central Heating Systems",
+    "Emergency Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James Thornton",
+        "rating": 5,
+        "text": "Oakstone were brilliant \u2014 turned up on time, sorted our burst pipe quickly and left no mess. Couldn't recommend more highly.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah Mitchell",
+        "rating": 5,
+        "text": "Really professional service from start to finish. Fixed our boiler the same day we called. Fair pricing too. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "David Hartley",
+        "rating": 4,
+        "text": "Good reliable plumber based locally in Leeds. Arrived when they said they would and did a solid job replacing our bathroom taps.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Leeds Tradesman"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Oakstone delivers honest, reliable plumbing across Leeds with prompt response times and transparent pricing \u2014 no hidden costs, just quality workmanship you can trust.",
+    "hero_headline": "Your Trusted Local Plumber in Leeds",
+    "about_paragraph": "I'm the team behind Oakstone, a local plumbing business based in Hawksworth, Leeds. I take pride in offering a reliable, friendly service whether it's a small repair or a full bathroom installation. My goal is simple \u2014 to get the job done right, on time, and at a fair price.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e7dc5",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
