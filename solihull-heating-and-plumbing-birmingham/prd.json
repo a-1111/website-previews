@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Solihull Heating & Plumbing",
+    "slug": "solihull-heating-and-plumbing-birmingham",
+    "category": "Plumber",
+    "tagline": "Reliable Heating & Plumbing Solutions You Trust"
+  },
+  "contact": {
+    "phone": "07554 958236",
+    "address": "Solihull, Birmingham, West Midlands",
+    "city": "Birmingham",
+    "service_area": [
+      "Solihull",
+      "Birmingham",
+      "Coventry",
+      "Shirley",
+      "Sutton Coldfield"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repairs",
+    "Central Heating Installation",
+    "Emergency Plumbing Callouts",
+    "Bathroom Fitting & Plumbing",
+    "Radiator Installation & Repairs"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Absolutely brilliant service. Called in the morning about a boiler fault and it was fixed the same afternoon. Very professional and tidy \u2014 would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Had a new boiler fitted last month. Great price, clean installation and explained everything clearly. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Linda K",
+        "rating": 5,
+        "text": "Responded quickly to an emergency leak. Sorted the problem fast and left everything spotless. Friendly, honest and fairly priced.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Family Business"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Solihull Heating & Plumbing delivers fast, reliable heating and plumbing services across Birmingham and Solihull, with Gas Safe registered engineers you can trust at honest, transparent prices.",
+    "hero_headline": "Expert Heating & Plumbing Across Birmingham & Solihull",
+    "about_paragraph": "We're a locally based heating and plumbing company serving Solihull, Birmingham and the surrounding areas. Whether you need a new boiler, an emergency repair or a full bathroom installation, I bring years of hands-on experience and a genuine commitment to getting the job done right. I take pride in honest pricing, quality workmanship and making sure every customer is left happy.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e8f0fb",
+      "accent": "#f4821f",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
