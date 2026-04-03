@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Plumber Walmley",
+    "slug": "plumber-walmley-birmingham",
+    "category": "Plumber",
+    "tagline": "Your Local Plumber in Walmley"
+  },
+  "contact": {
+    "phone": "07710 645974",
+    "address": "3 Oldacre Cl, The Royal Town of Sutton Coldfield, Birmingham, Sutton Coldfield B76 1WF",
+    "city": "Birmingham",
+    "service_area": [
+      "Walmley",
+      "Sutton Coldfield",
+      "Birmingham",
+      "Erdington",
+      "Solihull"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Repairs & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Installation",
+    "Central Heating Installation",
+    "Emergency Plumbing",
+    "Radiator Installation & Replacement"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Arrived quickly and sorted our burst pipe with no fuss. Very professional and reasonably priced. Would highly recommend to anyone in Walmley.",
+        "date": "2024"
+      },
+      {
+        "author": "Sandra M.",
+        "rating": 5,
+        "text": "Excellent service from start to finish. Called in the morning and the job was done by lunchtime. Great local plumber \u2014 will use again.",
+        "date": "2024"
+      },
+      {
+        "author": "David H.",
+        "rating": 5,
+        "text": "Fixed our boiler just before winter set in. Knowledgeable, tidy and honest about costs. Couldn't ask for more from a local tradesman.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Trusted Tradesman"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "A trusted, locally based plumber serving Walmley and Sutton Coldfield with fast response times, honest pricing, and quality workmanship you can rely on.",
+    "hero_headline": "Reliable Plumbing Services Across Walmley & Sutton Coldfield",
+    "about_paragraph": "I'm a local plumber based in Walmley, Sutton Coldfield, with years of hands-on experience covering everything from emergency call-outs to full bathroom installations. I pride myself on turning up on time, keeping things tidy, and always being upfront about costs before any work begins. Whether you've got a dripping tap or a broken boiler, I'm here to help \u2014 just give me a call.",
+    "colour_scheme": {
+      "primary": "#1a5276",
+      "secondary": "#2e86c1",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}

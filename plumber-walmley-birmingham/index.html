@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Plumber Walmley – Reliable Plumbing in Walmley & Sutton Coldfield</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ===== NAV ===== */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 16px 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      color: #fff;
+      text-decoration: none;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: opacity 0.2s ease;
+    }
+
+    .nav-cta:hover {
+      opacity: 1.88;
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 14px 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+    }
+
+    /* ===== HERO ===== */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: opacity 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary:hover {
+      opacity: 1.88;
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+    }
+
+    .trust-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 32px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 8px 16px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 16px;
+      }
+    }
+
+    /* ===== STATS BAR ===== */
+    .stats-bar {
+      background: var(--primary);
+      padding: 28px 40px;
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-label {
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 600px) {
+      .stats-bar {
+        gap: 28px;
+        padding: 24px 20px;
+      }
+    }
+
+    /* ===== SERVICES ===== */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .services h2 {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 32px;
+      margin-bottom: 16px;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== ABOUT ===== */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 15px;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .about-stat-label {
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 8px;
+      line-height: 1.4;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ===== REVIEWS ===== */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    .reviews-sub {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 15px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+    }
+
+    .review-stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 16px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== CONTACT ===== */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+      id: contact;
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1000px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.12);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+      color: #fff;
+    }
+
+    .contact-left h2 {
+      font-size: 24px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 24px;
+    }
+
+    .contact-info-item {
+      margin-bottom: 24px;
+    }
+
+    .contact-info-label {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 4px;
+    }
+
+    .contact-info-value {
+      color: rgba(255,255,255,0.85);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 26px;
+      font-weight: 700;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: opacity 0.2s ease;
+      display: block;
+    }
+
+    .contact-phone-link:hover {
+      opacity: 1.8;
+    }
+
+    .hours-list {
+      list-style: none;
+    }
+
+    .hours-list li {
+      font-size: 14px;
+      color: rgba(255,255,255,0.75);
+      padding: 4px 0;
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      background: #fff;
+      transition: border-color 0.2s ease;
+      outline: none;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      font-size: 15px;
+      font-family: 'Poppins', sans-serif;
+      transition: opacity 0.2s ease;
+    }
+
+    .form-submit:hover {
+      opacity: 1.88;
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        padding: 60px 20px;
+      }
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+      .contact-left, .contact-right {
+        padding: 36px 24px;
+      }
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    footer a {
+      color: #94a3b8;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    .footer-sep {
+      margin: 0 8px;
+      opacity: 1.4;
+    }
+
+    /* ===== SECTION HEADER UTILITY ===== */
+    .section-label {
+      text-align: center;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-bottom: 12px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <a href="/" class="nav-logo">Plumber Walmley</a>
+    <div class="nav-right">
+      <a href="tel:07710645974" class="nav-phone">07710 645974</a>
+      <a href="tel:07710645974" class="nav-cta">Get a Free Quote</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Reliable Plumbing Services Across Walmley &amp; Sutton Coldfield</h1>
+      <p class="hero-sub">A trusted, locally based plumber serving Walmley and Sutton Coldfield with fast response times, honest pricing, and quality workmanship you can rely on.</p>
+      <div class="hero-buttons">
+        <a href="tel:07710645974" class="btn-primary">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary">Contact Us</a>
+      </div>
+      <div class="trust-badges">
+        <span class="badge">✓ Gas Safe Registered</span>
+        <span class="badge">✓ CHAS Accredited</span>
+        <span class="badge">✓ Fully Insured</span>
+        <span class="badge">✓ Local Trusted Tradesman</span>
+        <span class="badge">✓ 24/7 Emergency Callout</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stat-item">
+      <div class="stat-number">4.8★</div>
+      <div class="stat-label">Google Rating</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">34+</div>
+      <div class="stat-label">5-Star Reviews</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">5+</div>
+      <div class="stat-label">Areas Served</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">24/7</div>
+      <div class="stat-label">Emergency Callout</div>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services" id="services">
+    <p class="section-label">What We Do</p>
+    <h2>Our Plumbing Services</h2>
+    <div class="services-grid">
+      <div class="service-card">
+        <div class="service-icon">🔥</div>
+        <h3>Boiler Repairs &amp; Servicing</h3>
+        <p>Fast, reliable boiler repairs and annual servicing to keep your heating running safely and efficiently all year round.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">💧</div>
+        <h3>Leak Detection &amp; Repair</h3>
+        <p>Expert detection and repair of leaks — from minor drips to hidden pipe bursts — before they cause costly damage.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🛁</div>
+        <h3>Bathroom Installation</h3>
+        <p>Complete bathroom fitting and installation, from en-suites to full bathroom renovations, carried out to the highest standard.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">♨️</div>
+        <h3>Central Heating Installation</h3>
+        <p>Full central heating system design and installation for new builds and replacement systems, ensuring reliable warmth throughout your home.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🚨</div>
+        <h3>Emergency Plumbing</h3>
+        <p>Available for emergency call-outs across Walmley and Sutton Coldfield. Quick response times when you need a plumber most.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🔧</div>
+        <h3>Radiator Installation &amp; Replacement</h3>
+        <p>Supply and fitting of new radiators, or replacement of old, inefficient units to improve your home's heating performance.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <p class="section-label">About Us</p>
+        <h2>Your Local Plumber in Walmley</h2>
+        <p>I'm a local plumber based in Walmley, Sutton Coldfield, with years of hands-on experience covering everything from emergency call-outs to full bathroom installations. I pride myself on turning up on time, keeping things tidy, and always being upfront about costs before any work begins.</p>
+        <p>Whether you've got a dripping tap or a broken boiler, I'm here to help — just give me a call. Serving Walmley, Sutton Coldfield, Birmingham, Erdington, and Solihull.</p>
+      </div>
+      <div class="about-stats">
+        <div class="about-stat-box">
+          <div class="about-stat-number">4.8★</div>
+          <div class="about-stat-label">Average Google Rating</div>
+        </div>
+        <div class="about-stat-box">
+          <div class="about-stat-number">34+</div>
+          <div class="about-stat-label">Verified Customer Reviews</div>
+        </div>
+        <div class="about-stat-box">
+          <div class="about-stat-number">5+</div>
+          <div class="about-stat-label">Areas Covered Locally</div>
+        </div>
+        <div class="about-stat-box">
+          <div class="about-stat-number">24/7</div>
+          <div class="about-stat-label">Emergency Availability</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews" id="reviews">
+    <h2>What Our Customers Say</h2>
+    <p class="reviews-sub">Rated 4.8 out of 5 from 34 Google reviews</p>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"Arrived quickly and sorted our burst pipe with no fuss. Very professional and reasonably priced. Would highly recommend to anyone in Walmley."</p>
+        <div class="review-author">James T. &mdash; 2024</div>
+      </div>
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"Excellent service from start to finish. Called in the morning and the job was done by lunchtime. Great local plumber — will use again."</p>
+        <div class="review-author">Sandra M. &mdash; 2024</div>
+      </div>
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"Fixed our boiler just before winter set in. Knowledgeable, tidy and honest about costs. Couldn't ask for more from a local tradesman."</p>
+        <div class="review-author">David H. &mdash; 2023</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h2>Plumber Walmley</h2>
+        <div class="contact-info-item">
+          <div class="contact-info-label">Phone</div>
+          <a href="tel:07710645974" class="contact-phone-link">07710 645974</a>
+        </div>
+        <div class="contact-info-item">
+          <div class="contact-info-label">Address</div>
+          <div class="contact-info-value">3 Oldacre Cl, The Royal Town of Sutton Coldfield,<br>Birmingham, Sutton Coldfield B76 1WF</div>
+        </div>
+        <div class="contact-info-item">
+          <div class="contact-info-label">Service Areas</div>
+          <div class="contact-info-value">Walmley, Sutton Coldfield, Birmingham, Erdington, Solihull</div>
+        </div>
+        <div class="contact-info-item">
+          <div class="contact-info-label">Opening Hours</div>
+          <ul class="hours-list">
+            <li><span>Monday – Friday</span><span>8am – 6pm</span></li>
+            <li><span>Saturday</span><span>9am – 4pm</span></li>
+            <li><span>Sunday</span><span>Closed</span></li>
+            <li><span>Emergency</span><span>24/7 Callout</span></li>
+          </ul>
+        </div>
+      </div>
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">How Can We Help?</label>
+            <textarea id="message" name="message" placeholder="Tell us about the job — e.g. boiler repair, leak, bathroom install..."></textarea>
+          </div>
+          <button type="submit" class="form-submit">Send My Enquiry</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>
+      <strong style="color:#fff;">Plumber Walmley</strong>
+      <span class="footer-sep">|</span>
+      <a href="tel:07710645974">07710 645974</a>
+      <span class="footer-sep">|</span>
+      3 Oldacre Cl, Sutton Coldfield, Birmingham B76 1WF
+    </p>
+    <p style="margin-top:8px;">
+      Serving Walmley, Sutton Coldfield, Birmingham, Erdington &amp; Solihull
+      <span class="footer-sep">|</span>
+      Gas Safe Registered &amp; Fully Insured
+    </p>
+    <p style="margin-top:8px;">&copy; 2025 Plumber Walmley. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
