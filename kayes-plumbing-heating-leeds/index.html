@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kayes Plumbing & Heating | Local Leeds Plumber</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    /* ===== NAV ===== */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 16px 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      color: #fff;
+      letter-spacing: -0.3px;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 6px;
+      transition: opacity 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .nav-cta:hover {
+      opacity: 1.88;
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 14px 20px;
+      }
+
+      .nav-phone {
+        display: none;
+      }
+
+      .nav-logo {
+        font-size: 16px;
+      }
+    }
+
+    /* ===== HERO ===== */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      transition: opacity 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary:hover {
+      opacity: 1.88;
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      transition: background 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+    }
+
+    .trust-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 32px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 16px;
+      border-radius: 999px;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+      }
+
+      .hero h1 {
+        font-size: 36px;
+      }
+
+      .hero-sub {
+        font-size: 16px;
+      }
+    }
+
+    /* ===== STATS BAR ===== */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 480px) {
+      .stats-bar {
+        gap: 28px;
+        padding: 24px 20px;
+      }
+    }
+
+    /* ===== SERVICES ===== */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .section-heading {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 12px;
+    }
+
+    .section-sub {
+      text-align: center;
+      color: var(--muted);
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 28px;
+      margin-bottom: 14px;
+      display: block;
+    }
+
+    .service-title {
+      font-family: 'Poppins', sans-serif;
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-desc {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== ABOUT ===== */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 15px;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .about-stat-label {
+      display: block;
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 6px;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ===== REVIEWS ===== */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    .reviews-sub {
+      text-align: center;
+      color: #94a3b8;
+      margin-bottom: 48px;
+      font-size: 16px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+    }
+
+    .review-stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 14px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== CONTACT ===== */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+      id: contact;
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1000px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 40px rgba(0,0,0,0.1);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 24px;
+    }
+
+    .contact-info-item {
+      margin-bottom: 20px;
+    }
+
+    .contact-info-label {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: rgba(255,255,255,0.5);
+      margin-bottom: 4px;
+    }
+
+    .contact-info-value {
+      color: #e2e8f0;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-family: 'Poppins', sans-serif;
+      font-size: 24px;
+      font-weight: 700;
+      display: block;
+      margin-top: 4px;
+      transition: opacity 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      opacity: 1.8;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      transition: border-color 0.2s ease;
+      outline: none;
+      background: #fff;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 15px;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      transition: opacity 0.2s ease;
+    }
+
+    .form-submit:hover {
+      opacity: 1.88;
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        padding: 60px 20px;
+      }
+
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+
+      .contact-left, .contact-right {
+        padding: 36px 24px;
+      }
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+    }
+
+    .footer-text {
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .footer-text a {
+      color: #94a3b8;
+      transition: color 0.2s ease;
+    }
+
+    .footer-text a:hover {
+      color: var(--accent);
+    }
+
+    @media (max-width: 768px) {
+      footer {
+        padding: 24px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-logo">Kayes Plumbing &amp; Heating</div>
+    <div class="nav-right">
+      <a href="tel:07958383049" class="nav-phone">07958 383049</a>
+      <a href="tel:07958383049" class="nav-cta">Get a Free Quote</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Your Local Leeds Plumber &amp; Heating Expert</h1>
+      <p class="hero-sub">A trusted, Gas Safe registered plumber based in Cookridge, Leeds, delivering honest, high-quality plumbing and heating solutions with a personal touch. No call centres — just reliable, local service when you need it most.</p>
+      <div class="hero-buttons">
+        <a href="tel:07958383049" class="btn-primary">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary">Contact Us</a>
+      </div>
+      <div class="trust-badges">
+        <span class="badge">✓ Gas Safe Registered</span>
+        <span class="badge">✓ CHAS Accredited</span>
+        <span class="badge">✓ Fully Insured</span>
+        <span class="badge">✓ Local Leeds Trader</span>
+        <span class="badge">✓ Emergency Callout Available</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stat-item">
+      <span class="stat-number">4.8★</span>
+      <span class="stat-label">Google Rating</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">34</span>
+      <span class="stat-label">5-Star Reviews</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">5+</span>
+      <span class="stat-label">Areas Served</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">24/7</span>
+      <span class="stat-label">Emergency Callout</span>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services">
+    <h2 class="section-heading">Our Services</h2>
+    <p class="section-sub">Expert plumbing and heating solutions across Leeds and surrounding areas</p>
+    <div class="services-grid">
+      <div class="service-card">
+        <span class="service-icon">🔥</span>
+        <div class="service-title">Boiler Installation &amp; Servicing</div>
+        <p class="service-desc">Professional boiler installation, replacement and annual servicing to keep your home warm and your system running efficiently all year round.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🏠</span>
+        <div class="service-title">Central Heating Systems</div>
+        <p class="service-desc">Full central heating system design, installation and upgrades. From new builds to full system overhauls, we ensure reliable warmth throughout your home.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🚨</span>
+        <div class="service-title">Emergency Plumbing Repairs</div>
+        <p class="service-desc">Fast-response emergency plumbing for burst pipes, leaks and urgent faults. We aim to reach you quickly and resolve the problem first time.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🛁</span>
+        <div class="service-title">Bathroom Fitting &amp; Plumbing</div>
+        <p class="service-desc">Complete bathroom fitting and plumbing services, from new bathroom installations to shower and tap replacements, finished to a high standard.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔧</span>
+        <div class="service-title">Radiator Installation &amp; Repair</div>
+        <p class="service-desc">Radiator fitting, replacement, bleeding and repair. We ensure every room in your home heats evenly and efficiently.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">📋</span>
+        <div class="service-title">Landlord Gas Safety Certificates</div>
+        <p class="service-desc">Fully qualified Gas Safe engineer providing CP12 landlord gas safety certificates — essential for rental properties and peace of mind for landlords.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>About Kayes Plumbing &amp; Heating</h2>
+        <p>I'm Kaye, a Gas Safe registered plumber and heating engineer based in Cookridge, Leeds. I've built my reputation on turning up on time, being straight with customers, and getting the job done right first time. Whether it's a leaky tap, a new boiler, or a full heating system, I bring the same care and attention to every home I work in.</p>
+        <p>With a strong focus on honest, transparent pricing and quality workmanship, I pride myself on delivering a service that puts the customer first. No hidden charges, no unnecessary upsells — just straightforward, reliable plumbing and heating you can count on.</p>
+        <p>Serving Leeds, Cookridge, Horsforth, Headingley, Otley and surrounding areas, I'm your local tradesperson who is always just a phone call away.</p>
+      </div>
+      <div class="about-stats">
+        <div class="about-stat-box">
+          <span class="about-stat-number">4.8</span>
+          <span class="about-stat-label">Google Rating</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-number">34</span>
+          <span class="about-stat-label">Happy Customers</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-number">5</span>
+          <span class="about-stat-label">Areas Covered</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="about-stat-number">24/7</span>
+          <span class="about-stat-label">Emergency Cover</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews">
+    <h2>What Our Customers Say</h2>
+    <p class="reviews-sub">Rated 4.8 out of 5 based on 34 Google reviews</p>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"Kaye was brilliant — arrived on time, diagnosed the boiler fault quickly and had it fixed the same day. Very reasonably priced and tidy worker. Highly recommend!"</p>
+        <div class="review-author">Sarah M &mdash; 2024</div>
+      </div>
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"Used Kayes Plumbing &amp; Heating for a full central heating upgrade. Professional job from start to finish, great communication throughout. Will definitely use again."</p>
+        <div class="review-author">James T &mdash; 2024</div>
+      </div>
+      <div class="review-card">
+        <div class="review-stars">★★★★★</div>
+        <p class="review-text">"Called out for an emergency leak late in the afternoon and Kaye was with us within the hour. Friendly, efficient and honest pricing. Couldn't ask for more."</p>
+        <div class="review-author">Linda R &mdash; 2023</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h3>Kayes Plumbing &amp; Heating</h3>
+        <div class="contact-info-item">
+          <div class="contact-info-label">Address</div>
+          <div class="contact-info-value">17 Mavis Ave, Cookridge<br>Leeds LS16 7LJ</div>
+        </div>
+        <div class="contact-info-item">
+          <div class="contact-info-label">Phone</div>
+          <a href="tel:07958383049" class="contact-phone-link">07958 383049</a>
+        </div>
+        <div class="contact-info-item">
+          <div class="contact-info-label">Opening Hours</div>
+          <div class="contact-info-value">
+            Mon – Fri: 8am – 6pm<br>
+            Saturday: 9am – 4pm<br>
+            Sunday: Closed<br>
+            <span style="color: var(--accent); font-weight: 600; font-size: 13px;">⚡ Emergency callout available</span>
+          </div>
+        </div>
+        <div class="contact-info-item">
+          <div class="contact-info-label">Service Areas</div>
+          <div class="contact-info-value">Leeds, Cookridge, Horsforth,<br>Headingley, Otley</div>
+        </div>
+      </div>
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">How Can We Help?</label>
+            <textarea id="message" name="message" placeholder="Tell us about your plumbing or heating requirements..."></textarea>
+          </div>
+          <button type="submit" class="form-submit">Get a Free Quote</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p class="footer-text">
+      <strong style="color: #fff;">Kayes Plumbing &amp; Heating</strong><br>
+      <a href="tel:07958383049">07958 383049</a> &nbsp;|&nbsp; 17 Mavis Ave, Cookridge, Leeds LS16 7LJ<br>
+      Gas Safe Registered &nbsp;|&nbsp; Fully Insured &nbsp;|&nbsp; Serving Leeds &amp; Surrounding Areas<br>
+      &copy; 2024 Kayes Plumbing &amp; Heating. All rights reserved.
+    </p>
+  </footer>
+
+</body>
+</html>
