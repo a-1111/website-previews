@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "PD Smith Plumbing Services",
+    "slug": "pdsmith-plumbing-services-leeds",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Leeds"
+  },
+  "contact": {
+    "phone": "07796 565133",
+    "address": "Leeds, West Yorkshire",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Bradford",
+      "Wakefield",
+      "Harrogate",
+      "Wetherby"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Repairs & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Fitting & Installation",
+    "Central Heating Installation",
+    "Emergency Plumbing Callouts",
+    "Radiator Repairs & Replacement"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Paul came out the same day to fix a burst pipe. Friendly, professional and very fairly priced. Would absolutely recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Sorted our boiler out quickly and explained everything clearly. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Rachel H",
+        "rating": 5,
+        "text": "Really impressed with the work done on our bathroom. Tidy, on time and great value. Highly recommend PD Smith Plumbing.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Leeds Tradesman"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "A trusted local Leeds plumber with years of hands-on experience, delivering honest pricing and quality workmanship every time. From emergency call-outs to full bathroom installations, PD Smith Plumbing Services has you covered.",
+    "hero_headline": "Your Trusted Leeds Plumber, Ready When You Need Us",
+    "about_paragraph": "I'm Paul Smith, a fully qualified and Gas Safe registered plumber based in Leeds with years of experience serving homeowners and businesses across West Yorkshire. I pride myself on turning up on time, keeping things tidy, and getting the job done right first time. Whether it's a dripping tap or a full central heating installation, you'll always get a fair price and honest advice from me.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2980b9",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
