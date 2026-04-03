@@ -1,0 +1,843 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Playford Plumbing – Your Local Leeds Plumber</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ── NAV ── */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+    }
+
+    .nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 68px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      color: #fff;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .btn-call-nav {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 8px;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: background 0.2s ease, transform 0.2s ease;
+      border: none;
+      cursor: pointer;
+      display: inline-block;
+    }
+
+    .btn-call-nav:hover {
+      background: #e08c00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 0 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+    }
+
+    /* ── HERO ── */
+    #hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero-inner h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      font-family: 'Poppins', sans-serif;
+      text-decoration: none;
+      display: inline-block;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-primary:hover {
+      background: #e08c00;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      font-family: 'Poppins', sans-serif;
+      text-decoration: none;
+      display: inline-block;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    @media (max-width: 768px) {
+      #hero {
+        padding: 60px 20px;
+        min-height: auto;
+      }
+      .hero-inner h1 {
+        font-size: 38px;
+      }
+      .hero-sub {
+        font-size: 16px;
+      }
+    }
+
+    /* ── STATS BAR ── */
+    #stats {
+      background: var(--primary);
+      padding: 24px 40px;
+    }
+
+    .stats-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-label {
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 600px) {
+      #stats {
+        padding: 24px 20px;
+      }
+      .stats-inner {
+        gap: 28px;
+      }
+      .stat-number {
+        font-size: 28px;
+      }
+    }
+
+    /* ── SERVICES ── */
+    #services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .section-heading {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 32px;
+      margin-bottom: 16px;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      #services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ── ABOUT ── */
+    #about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      align-items: center;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 15px;
+    }
+
+    .about-right {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+
+    .stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .stat-box-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 800;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .stat-box-label {
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+
+    @media (max-width: 768px) {
+      #about {
+        padding: 60px 20px;
+      }
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ── REVIEWS ── */
+    #reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews-heading {
+      font-size: 36px;
+      font-weight: 700;
+      color: #fff;
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+      transition: background 0.2s ease;
+    }
+
+    .review-card:hover {
+      background: rgba(255,255,255,0.08);
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 16px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      #reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ── CONTACT ── */
+    #contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.10);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 24px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 28px;
+    }
+
+    .contact-detail {
+      margin-bottom: 22px;
+    }
+
+    .contact-detail-label {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 4px;
+    }
+
+    .contact-detail-value {
+      color: #cbd5e1;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 26px;
+      font-weight: 700;
+      font-family: 'Poppins', sans-serif;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      color: #e08c00;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      color: var(--text);
+      background: #fff;
+      transition: border-color 0.2s ease;
+      outline: none;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      height: 120px;
+      resize: vertical;
+    }
+
+    .btn-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      font-family: 'Poppins', sans-serif;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-submit:hover {
+      background: #e08c00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      #contact {
+        padding: 60px 20px;
+      }
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+      .contact-left, .contact-right {
+        padding: 36px 24px;
+      }
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    footer a {
+      color: #94a3b8;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    .footer-sep {
+      margin: 0 8px;
+      color: rgba(148,163,184,0.4);
+    }
+
+    @media (max-width: 600px) {
+      footer {
+        padding: 32px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ── NAV ── -->
+  <nav>
+    <div class="nav-inner">
+      <a href="#hero" class="nav-logo">Playford Plumbing</a>
+      <div class="nav-right">
+        <a href="tel:07886103287" class="nav-phone">07886 103287</a>
+        <a href="tel:07886103287" class="btn-call-nav">Call Now</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ── HERO ── -->
+  <section id="hero">
+    <div class="hero-inner">
+      <h1>Your Local Leeds Plumber, Ready When You Need</h1>
+      <p class="hero-sub">Reliable Plumbing Solutions Across Leeds — honest pricing, prompt call-outs, and no hidden costs. Based in Cookridge, serving Leeds and surrounding areas.</p>
+      <div class="hero-buttons">
+        <a href="tel:07886103287" class="btn-primary">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary">Contact Us</a>
+      </div>
+      <div class="trust-badges">
+        <span class="badge">✓ Gas Safe Registered</span>
+        <span class="badge">✓ CHAS Accredited</span>
+        <span class="badge">✓ Fully Insured</span>
+        <span class="badge">✓ Emergency Callouts Available</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── STATS BAR ── -->
+  <section id="stats">
+    <div class="stats-inner">
+      <div class="stat-item">
+        <div class="stat-number">4.8★</div>
+        <div class="stat-label">Google Rating</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">32</div>
+        <div class="stat-label">5-Star Reviews</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">5+</div>
+        <div class="stat-label">Areas Served</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">24/7</div>
+        <div class="stat-label">Emergency Callouts</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── SERVICES ── -->
+  <section id="services">
+    <h2 class="section-heading">Our Plumbing Services</h2>
+    <div class="services-grid">
+
+      <div class="service-card">
+        <div class="service-icon">🔧</div>
+        <h3>Boiler Repairs &amp; Servicing</h3>
+        <p>Keeping your boiler running safely and efficiently. We diagnose faults fast and carry out reliable repairs and annual servicing across Leeds.</p>
+      </div>
+
+      <div class="service-card">
+        <div class="service-icon">🏠</div>
+        <h3>Central Heating Installation</h3>
+        <p>Full central heating system installations for new builds and home upgrades. We design and fit systems tailored to your property's needs.</p>
+      </div>
+
+      <div class="service-card">
+        <div class="service-icon">💧</div>
+        <h3>Leaks &amp; Burst Pipe Repairs</h3>
+        <p>Swift response to leaks and burst pipes to minimise damage to your home. Available for emergency call-outs throughout the Leeds area.</p>
+      </div>
+
+      <div class="service-card">
+        <div class="service-icon">🛁</div>
+        <h3>Bathroom Fitting &amp; Plumbing</h3>
+        <p>From a single tap replacement to a full bathroom transformation. Professional fitting with attention to detail and a tidy finish guaranteed.</p>
+      </div>
+
+      <div class="service-card">
+        <div class="service-icon">🌡️</div>
+        <h3>Radiator Installation &amp; Replacement</h3>
+        <p>New radiator installations, replacements and upgrades. We ensure your heating system is balanced and working at maximum efficiency.</p>
+      </div>
+
+      <div class="service-card">
+        <div class="service-icon">🚨</div>
+        <h3>Emergency Plumbing Callouts</h3>
+        <p>Plumbing emergencies don't wait. We offer rapid response call-outs for urgent issues — day or evening, Monday to Saturday.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ── ABOUT ── -->
+  <section id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>A Trusted Local Plumber Based in Cookridge, Leeds</h2>
+        <p>I'm a fully qualified plumber based in Cookridge, Leeds, and I've been serving homeowners and businesses across the local area for years. Whether it's a dripping tap, a full bathroom fit-out or a heating emergency, I take pride in getting the job done right first time.</p>
+        <p>I offer honest pricing, reliable call-out times and always leave your home as clean as I found it. No hidden costs, no unnecessary upselling — just straightforward, quality plumbing from someone who genuinely cares about the work they deliver.</p>
+        <p>Covering Leeds, Cookridge, Horsforth, Headingley, Otley and surrounding areas. Get in touch today for a free, no-obligation quote.</p>
+      </div>
+      <div class="about-right">
+        <div class="stat-box">
+          <div class="stat-box-number">4.8★</div>
+          <div class="stat-box-label">Google Rating</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-box-number">32+</div>
+          <div class="stat-box-label">Happy Customers</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-box-number">5</div>
+          <div class="stat-box-label">Areas Covered</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-box-number">100%</div>
+          <div class="stat-box-label">Fully Insured</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── REVIEWS ── -->
+  <section id="reviews">
+    <h2 class="reviews-heading">What Our Customers Say</h2>
+    <div class="reviews-grid">
+
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Playford Plumbing came out the same day to fix a burst pipe. Professional, tidy and great value. Would highly recommend to anyone in Leeds."</p>
+        <div class="review-author">James T &mdash; 2024</div>
+      </div>
+
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Had a new boiler fitted and the whole job was done to a really high standard. Very knowledgeable and kept us informed throughout. Brilliant service."</p>
+        <div class="review-author">Sarah M &mdash; 2024</div>
+      </div>
+
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Called on a Saturday morning with a plumbing emergency and they were with us within the hour. Couldn't ask for better. Will definitely use again."</p>
+        <div class="review-author">David H &mdash; 2023</div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ── CONTACT ── -->
+  <section id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h3>Playford Plumbing</h3>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Phone</div>
+          <a href="tel:07886103287" class="contact-phone-link">07886 103287</a>
+        </div>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Address</div>
+          <div class="contact-detail-value">8 Grove Farm Cl, Cookridge<br>Leeds, LS16 6DB</div>
+        </div>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Opening Hours</div>
+          <div class="contact-detail-value">
+            Monday – Friday: 8am – 6pm<br>
+            Saturday: 9am – 4pm<br>
+            Sunday: Closed<br>
+            <span style="color: var(--accent); font-weight: 600;">Emergency callouts available</span>
+          </div>
+        </div>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Areas Covered</div>
+          <div class="contact-detail-value">Leeds, Cookridge, Horsforth, Headingley, Otley</div>
+        </div>
+      </div>
+
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">How Can We Help?</label>
+            <textarea id="message" name="message" placeholder="Briefly describe your plumbing issue or what you need…"></textarea>
+          </div>
+          <button type="submit" class="btn-submit">Get a Free Quote</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── FOOTER ── -->
+  <footer>
+    <div>
+      <strong style="color:#fff;">Playford Plumbing</strong>
+      <span class="footer-sep">|</span>
+      <a href="tel:07886103287">07886 103287</a>
+      <span class="footer-sep">|</span>
+      8 Grove Farm Cl, Cookridge, Leeds, LS16 6DB
+    </div>
+    <div style="margin-top: 8px;">
+      &copy; 2024 Playford Plumbing. All rights reserved. Gas Safe Registered &middot; Fully Insured
+    </div>
+  </footer>
+
+</body>
+</html>

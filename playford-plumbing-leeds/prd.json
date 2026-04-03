@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "Playford Plumbing",
+    "slug": "playford-plumbing-leeds",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Leeds"
+  },
+  "contact": {
+    "phone": "07886 103287",
+    "address": "8 Grove Farm Cl, Cookridge, Leeds LS16 6DB",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Cookridge",
+      "Horsforth",
+      "Headingley",
+      "Otley"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Repairs & Servicing",
+    "Central Heating Installation",
+    "Leaks & Burst Pipe Repairs",
+    "Bathroom Fitting & Plumbing",
+    "Radiator Installation & Replacement",
+    "Emergency Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Playford Plumbing came out the same day to fix a burst pipe. Professional, tidy and great value. Would highly recommend to anyone in Leeds.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Had a new boiler fitted and the whole job was done to a really high standard. Very knowledgeable and kept us informed throughout. Brilliant service.",
+        "date": "2024"
+      },
+      {
+        "author": "David H",
+        "rating": 5,
+        "text": "Called on a Saturday morning with a plumbing emergency and they were with us within the hour. Couldn't ask for better. Will definitely use again.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "A trusted local plumber based in Cookridge, Leeds, offering prompt, reliable plumbing and heating services with no hidden costs and a personal touch.",
+    "hero_headline": "Your Local Leeds Plumber, Ready When You Need",
+    "about_paragraph": "I'm a fully qualified plumber based in Cookridge, Leeds, and I've been serving homeowners and businesses across the local area for years. Whether it's a dripping tap, a full bathroom fit-out or a heating emergency, I take pride in getting the job done right first time. I offer honest pricing, reliable call-out times and always leave your home as clean as I found it.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2d7dd2",
+      "accent": "#f4a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
