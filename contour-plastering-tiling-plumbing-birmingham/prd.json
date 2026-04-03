@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Contour Plastering Tiling & Plumbing",
+    "slug": "contour-plastering-tiling-plumbing-birmingham",
+    "category": "Tile Contractor / Plasterer / Plumber",
+    "tagline": "Expert Tiling, Plastering & Plumbing Done Right"
+  },
+  "contact": {
+    "phone": "07528 803324",
+    "address": "9a Park Rd, Moseley, Birmingham B13 8AB",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Moseley",
+      "Kings Heath",
+      "Solihull",
+      "Selly Oak"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Wall & Floor Tiling",
+    "Plastering & Skimming",
+    "Bathroom Plumbing & Fitting",
+    "Wet Room Installation",
+    "Kitchen Splashback Tiling",
+    "Tile Repair & Grouting"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 23,
+    "sample_reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Brilliant job on our bathroom \u2014 the tiling is immaculate and the plastering is perfectly smooth. Very tidy, professional team.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Had our wet room fully fitted by Contour. Excellent workmanship, great communication throughout and finished on time.",
+        "date": "2024"
+      },
+      {
+        "author": "David R.",
+        "rating": 4,
+        "text": "Good value for money and a high standard of work. The tiling in our kitchen looks fantastic. Would definitely recommend.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Multi-Trade Specialist",
+      "Local Birmingham Business",
+      "Free Quotations"
+    ]
+  },
+  "brand": {
+    "tone": "professional and reliable",
+    "usp": "Contour Plastering Tiling & Plumbing brings together three essential trades under one roof, delivering seamless, high-quality finishes for bathrooms, kitchens and living spaces across Birmingham.",
+    "hero_headline": "Quality Tiling, Plastering & Plumbing in Birmingham",
+    "about_paragraph": "We are Contour Plastering Tiling & Plumbing, a multi-trade specialist business based in Moseley, Birmingham. I take pride in delivering high-quality tiling, plastering and plumbing services to homeowners across the city, ensuring every job is finished to the highest standard. Whether you need a full bathroom renovation, a fresh plaster skim, or a stunning new tiled splashback, we have the skills and experience to get it done right.",
+    "colour_scheme": {
+      "primary": "#2c5f8a",
+      "secondary": "#4a9a8c",
+      "accent": "#e8a020",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
