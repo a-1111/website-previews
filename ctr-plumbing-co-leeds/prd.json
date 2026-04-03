@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "CTR Plumbing CO",
+    "slug": "ctr-plumbing-co-leeds",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Leeds"
+  },
+  "contact": {
+    "phone": "07451 282217",
+    "address": "10 Leeds and Bradford Rd, Kirkstall, Leeds LS5 3BL",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Kirkstall",
+      "Bradford",
+      "Headingley",
+      "Horsforth"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Emergency Plumbing Repairs",
+    "Leak Detection & Repair",
+    "Bathroom Installation",
+    "Central Heating Systems",
+    "Radiator Installation & Repair"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "CTR Plumbing sorted our burst pipe quickly and efficiently. Arrived within the hour and had everything fixed before it caused any major damage. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Really professional service from start to finish. New bathroom installed to a great standard and the team kept everything tidy throughout. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Mark R",
+        "rating": 4,
+        "text": "Good honest plumber based locally in Kirkstall. Fair pricing and explained exactly what needed doing before starting. Boiler service done quickly and efficiently.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Leeds Plumber"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "CTR Plumbing CO offers fast, reliable plumbing and heating services across Leeds, with honest pricing and no hidden costs. Based in Kirkstall, we're your local plumber for everything from emergency callouts to full bathroom installations.",
+    "hero_headline": "Your Trusted Local Plumber in Leeds",
+    "about_paragraph": "We're CTR Plumbing CO, a local plumbing business based in Kirkstall, Leeds. We pride ourselves on turning up on time, getting the job done right first time, and treating every home as if it were our own. Whether you need an emergency repair or a planned installation, we're here to help with honest advice and competitive pricing.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2c84c7",
+      "accent": "#f5a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}

@@ -1,0 +1,811 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CTR Plumbing CO – Trusted Local Plumber in Leeds</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    /* ── NAV ── */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 16px 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      color: #fff;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 24px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 8px;
+      transition: opacity 0.2s ease;
+    }
+
+    .nav-cta:hover {
+      opacity: 1.88;
+    }
+
+    @media (max-width: 767px) {
+      nav {
+        padding: 14px 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+    }
+
+    /* ── HERO ── */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      transition: opacity 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary:hover {
+      opacity: 1.88;
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      transition: background 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+    }
+
+    .trust-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 32px;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    @media (max-width: 767px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: 80vh;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 15px;
+      }
+      .btn-primary, .btn-secondary {
+        padding: 14px 24px;
+        font-size: 15px;
+      }
+    }
+
+    /* ── STATS BAR ── */
+    .stats-bar {
+      background: var(--primary);
+      padding: 28px 40px;
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 800;
+      color: #fff;
+      display: block;
+    }
+
+    .stat-label {
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+      display: block;
+    }
+
+    @media (max-width: 767px) {
+      .stats-bar {
+        gap: 28px;
+        padding: 24px 20px;
+      }
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* ── SERVICES ── */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .section-header {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .section-header h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .section-header p {
+      color: var(--muted);
+      font-size: 16px;
+      margin-top: 12px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 32px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 767px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ── ABOUT ── */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      font-size: 16px;
+      margin-bottom: 16px;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-num {
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 800;
+      color: var(--primary);
+      display: block;
+    }
+
+    .about-stat-label {
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 6px;
+      display: block;
+    }
+
+    @media (max-width: 767px) {
+      .about {
+        padding: 60px 20px;
+      }
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ── REVIEWS ── */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      font-size: 36px;
+      font-weight: 700;
+      text-align: center;
+      margin-bottom: 12px;
+    }
+
+    .reviews-sub {
+      color: #94a3b8;
+      text-align: center;
+      font-size: 15px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      letter-spacing: 2px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 767px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ── CONTACT ── */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1100px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.12);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h2 {
+      font-size: 26px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 28px;
+    }
+
+    .contact-detail {
+      margin-bottom: 24px;
+    }
+
+    .contact-detail-label {
+      font-size: 12px;
+      font-weight: 600;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 6px;
+      display: block;
+    }
+
+    .contact-detail-value {
+      color: #cbd5e1;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 26px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      display: block;
+      margin-top: 4px;
+      transition: opacity 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      opacity: 1.8;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 20px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      color: var(--text);
+      background: #fff;
+      transition: border-color 0.2s ease;
+      outline: none;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      font-family: 'Poppins', sans-serif;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      transition: opacity 0.2s ease;
+    }
+
+    .form-submit:hover {
+      opacity: 1.88;
+    }
+
+    @media (max-width: 767px) {
+      .contact {
+        padding: 60px 20px;
+      }
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+      .contact-left, .contact-right {
+        padding: 36px 24px;
+      }
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    footer a {
+      color: #94a3b8;
+      transition: color 0.2s ease;
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    @media (max-width: 767px) {
+      footer {
+        padding: 28px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-logo">CTR Plumbing CO</div>
+    <div class="nav-right">
+      <a class="nav-phone" href="tel:07451282217">07451 282217</a>
+      <a class="nav-cta" href="tel:07451282217">Get a Free Quote</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Your Trusted Local Plumber in Leeds</h1>
+      <p class="hero-sub">CTR Plumbing CO offers fast, reliable plumbing and heating services across Leeds, with honest pricing and no hidden costs. Based in Kirkstall, we're your local plumber for everything from emergency callouts to full bathroom installations.</p>
+      <div class="hero-buttons">
+        <a class="btn-primary" href="tel:07451282217">Get a Free Quote</a>
+        <a class="btn-secondary" href="#contact">Contact Us</a>
+      </div>
+      <div class="trust-badges">
+        <span class="badge">✓ Gas Safe Registered</span>
+        <span class="badge">✓ CHAS Accredited</span>
+        <span class="badge">✓ Fully Insured</span>
+        <span class="badge">✓ Local Leeds Plumber</span>
+        <span class="badge">✓ Emergency Callouts Available</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stat-item">
+      <span class="stat-number">4.7★</span>
+      <span class="stat-label">Google Rating</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">32+</span>
+      <span class="stat-label">Verified Reviews</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">5</span>
+      <span class="stat-label">Areas Served</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">24/7</span>
+      <span class="stat-label">Emergency Callout</span>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services" id="services">
+    <div class="section-header">
+      <h2>Our Plumbing Services</h2>
+      <p>Covering Leeds, Kirkstall, Bradford, Headingley, Horsforth and surrounding areas.</p>
+    </div>
+    <div class="services-grid">
+      <div class="service-card">
+        <span class="service-icon">🔥</span>
+        <h3>Boiler Installation &amp; Servicing</h3>
+        <p>Full boiler installations, annual servicing and safety checks to keep your heating system running efficiently and reliably all year round.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🚨</span>
+        <h3>Emergency Plumbing Repairs</h3>
+        <p>Fast response emergency plumbing across Leeds. Burst pipes, leaks, no hot water — we're on hand when you need us most.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔍</span>
+        <h3>Leak Detection &amp; Repair</h3>
+        <p>Professional leak detection using specialist equipment to locate hidden leaks quickly, minimising damage and disruption to your property.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🛁</span>
+        <h3>Bathroom Installation</h3>
+        <p>Complete bathroom fit-outs from design to completion. We install everything from showers and baths to toilets and sinks with a high-quality finish.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🏠</span>
+        <h3>Central Heating Systems</h3>
+        <p>New central heating system installations, power flushing and system upgrades to improve efficiency and reduce your energy bills.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔧</span>
+        <h3>Radiator Installation &amp; Repair</h3>
+        <p>Radiator fitting, replacement, balancing and bleeding. We ensure even heat distribution throughout your home or commercial property.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>About CTR Plumbing CO</h2>
+        <p>We're CTR Plumbing CO, a local plumbing business based in Kirkstall, Leeds. We pride ourselves on turning up on time, getting the job done right first time, and treating every home as if it were our own.</p>
+        <p>Whether you need an emergency repair or a planned installation, we're here to help with honest advice and competitive pricing. No hidden costs, no unnecessary upselling — just straightforward, reliable plumbing from people who genuinely care about the quality of their work.</p>
+        <p>We cover Leeds and the surrounding areas including Kirkstall, Bradford, Headingley and Horsforth. Get in touch today for a free, no-obligation quote.</p>
+      </div>
+      <div class="about-right">
+        <div class="about-stats">
+          <div class="about-stat-box">
+            <span class="about-stat-num">4.7★</span>
+            <span class="about-stat-label">Google Rating</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-num">32+</span>
+            <span class="about-stat-label">Happy Customers</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-num">5</span>
+            <span class="about-stat-label">Areas Covered</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-num">24/7</span>
+            <span class="about-stat-label">Emergency Cover</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews" id="reviews">
+    <h2>What Our Customers Say</h2>
+    <p class="reviews-sub">Rated 4.7 out of 5 from 32 Google reviews</p>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <span class="stars">★★★★★</span>
+        <p class="review-text">"CTR Plumbing sorted our burst pipe quickly and efficiently. Arrived within the hour and had everything fixed before it caused any major damage. Highly recommend."</p>
+        <span class="review-author">— James T, 2024</span>
+      </div>
+      <div class="review-card">
+        <span class="stars">★★★★★</span>
+        <p class="review-text">"Really professional service from start to finish. New bathroom installed to a great standard and the team kept everything tidy throughout. Will definitely use again."</p>
+        <span class="review-author">— Sarah M, 2024</span>
+      </div>
+      <div class="review-card">
+        <span class="stars">★★★★☆</span>
+        <p class="review-text">"Good honest plumber based locally in Kirkstall. Fair pricing and explained exactly what needed doing before starting. Boiler service done quickly and efficiently."</p>
+        <span class="review-author">— Mark R, 2024</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h2>CTR Plumbing CO</h2>
+        <div class="contact-detail">
+          <span class="contact-detail-label">Phone</span>
+          <a class="contact-phone-link" href="tel:07451282217">07451 282217</a>
+        </div>
+        <div class="contact-detail">
+          <span class="contact-detail-label">Address</span>
+          <span class="contact-detail-value">10 Leeds and Bradford Rd<br>Kirkstall, Leeds LS5 3BL</span>
+        </div>
+        <div class="contact-detail">
+          <span class="contact-detail-label">Opening Hours</span>
+          <span class="contact-detail-value">
+            Monday – Friday: 8am – 6pm<br>
+            Saturday: 9am – 4pm<br>
+            Sunday: Closed<br>
+            <strong style="color: var(--accent);">Emergency callouts available</strong>
+          </span>
+        </div>
+        <div class="contact-detail">
+          <span class="contact-detail-label">Areas Covered</span>
+          <span class="contact-detail-value">Leeds · Kirkstall · Bradford · Headingley · Horsforth</span>
+        </div>
+      </div>
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">How Can We Help?</label>
+            <textarea id="message" name="message" placeholder="Describe the job or issue you need help with..."></textarea>
+          </div>
+          <button type="submit" class="form-submit">Send My Enquiry</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>
+      <strong style="color:#fff;">CTR Plumbing CO</strong> &nbsp;|&nbsp;
+      <a href="tel:07451282217">07451 282217</a> &nbsp;|&nbsp;
+      10 Leeds and Bradford Rd, Kirkstall, Leeds LS5 3BL
+    </p>
+    <p style="margin-top: 8px;">&copy; 2024 CTR Plumbing CO. All rights reserved. &nbsp;|&nbsp; Gas Safe Registered &nbsp;|&nbsp; Fully Insured</p>
+  </footer>
+
+</body>
+</html>
