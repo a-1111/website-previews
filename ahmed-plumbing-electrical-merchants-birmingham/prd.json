@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Ahmed Plumbing & Electrical Merchants",
+    "slug": "ahmed-plumbing-electrical-merchants-birmingham",
+    "category": "Plumbers' Merchant",
+    "tagline": "Your Local Trade Merchant in Birmingham"
+  },
+  "contact": {
+    "phone": "0121 446 4200",
+    "address": "435 Moseley Rd, Balsall Heath, Birmingham B12 9BX",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Moseley",
+      "Balsall Heath",
+      "Sparkhill",
+      "Edgbaston"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 5:30pm",
+    "saturday": "8am - 1pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Plumbing Supplies & Materials",
+    "Electrical Supplies & Components",
+    "Heating & Boiler Parts",
+    "Bathroom Fittings & Accessories",
+    "Pipework & Fittings",
+    "Trade Counter Sales"
+  ],
+  "social_proof": {
+    "google_rating": 4.3,
+    "review_count": 28,
+    "sample_reviews": [
+      {
+        "author": "Tariq H",
+        "rating": 5,
+        "text": "Brilliant local merchant \u2014 always have the parts I need in stock. Staff are knowledgeable and helpful. Great prices too.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave M",
+        "rating": 4,
+        "text": "Solid trade counter with a good range of plumbing and electrical stock. Quick service and they know their stuff.",
+        "date": "2024"
+      },
+      {
+        "author": "Yasmin B",
+        "rating": 5,
+        "text": "Really helpful team, sourced a hard-to-find part for my boiler same day. Will definitely be coming back.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Local Trade Specialist",
+      "Heating Parts Stockist",
+      "Same-Day Collection Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and straightforward",
+    "usp": "A trusted local trade counter serving Birmingham's plumbers and electricians with a wide range of quality supplies at competitive prices. Conveniently located on Moseley Road with friendly, expert staff ready to help.",
+    "hero_headline": "Quality Trade Supplies Right Here in Birmingham",
+    "about_paragraph": "We are Ahmed Plumbing & Electrical Merchants, a well-established trade counter based on Moseley Road in Balsall Heath, Birmingham. We stock a comprehensive range of plumbing, heating, and electrical supplies to keep local tradespeople working efficiently. Whether you need a specific fitting, a boiler part, or a full bathroom suite, we're here to help you get the job done.",
+    "colour_scheme": {
+      "primary": "#1a3c6e",
+      "secondary": "#e8701a",
+      "accent": "#f5a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
