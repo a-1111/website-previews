@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Usman Builders & Plumbers",
+    "slug": "usman-builders-plumbers-birmingham",
+    "category": "Plumbers' Merchant / Builder",
+    "tagline": "Your Trusted Local Building & Plumbing Experts"
+  },
+  "contact": {
+    "phone": "0121 766 6858",
+    "address": "612 Coventry Rd, Small Heath, Birmingham B10 0UT",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Small Heath",
+      "Sparkhill",
+      "Bordesley Green",
+      "Coventry"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "8am - 5pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Plumbing Supplies & Materials",
+    "General Building Work",
+    "Boiler Installation & Repair",
+    "Bathroom Fitting & Renovation",
+    "Central Heating Systems",
+    "Emergency Plumbing Call-Outs"
+  ],
+  "social_proof": {
+    "google_rating": 4.4,
+    "review_count": 28,
+    "sample_reviews": [
+      {
+        "author": "Tariq M",
+        "rating": 5,
+        "text": "Great local merchant \u2014 always have the parts I need in stock. Staff are very helpful and prices are fair. Will keep coming back.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah B",
+        "rating": 4,
+        "text": "Handy place on Coventry Road for trade supplies. Quick service and friendly team. Sorted my plumbing emergency the same day.",
+        "date": "2024"
+      },
+      {
+        "author": "Imran K",
+        "rating": 5,
+        "text": "Really reliable builders and plumbers. Usman's team did a fantastic job on our bathroom renovation \u2014 neat work and on time.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Local Trade Specialist",
+      "Emergency Call-Out Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and community-focused",
+    "usp": "Based in the heart of Small Heath, Usman Builders & Plumbers combines a well-stocked trade counter with skilled on-site building and plumbing services \u2014 giving you a one-stop solution for all your property needs.",
+    "hero_headline": "Birmingham's Trusted Builders & Plumbing Specialists",
+    "about_paragraph": "We are Usman Builders & Plumbers, proudly serving Small Heath and the wider Birmingham community from our Coventry Road base. Whether you need trade supplies, a full bathroom renovation, or an emergency plumbing call-out, our experienced team is here to help. We take pride in delivering honest, reliable service at competitive prices to both homeowners and trade professionals.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#f4a820",
+      "accent": "#e84545",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
