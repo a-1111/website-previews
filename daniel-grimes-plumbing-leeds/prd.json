@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Daniel Grimes Plumbing",
+    "slug": "daniel-grimes-plumbing-leeds",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Leeds"
+  },
+  "contact": {
+    "phone": "07458 351733",
+    "address": "29 Gamble Hill Chase, Leeds LS13 4SY",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Bramley",
+      "Pudsey",
+      "Horsforth",
+      "Armley"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Installation",
+    "Central Heating Systems",
+    "Emergency Plumbing Call-Outs",
+    "Radiator Installation & Replacement"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Daniel arrived on time, sorted our leaking pipe quickly and left everything clean and tidy. Really professional service \u2014 would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Had a boiler issue on a cold morning and Daniel came out the same day. Honest pricing and great work. Definitely our go-to plumber in Leeds.",
+        "date": "2024"
+      },
+      {
+        "author": "Karen B",
+        "rating": 5,
+        "text": "Excellent service from start to finish. Daniel explained everything clearly and the bathroom installation looks fantastic. Very happy customer!",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Leeds Tradesman"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Daniel Grimes Plumbing delivers prompt, reliable plumbing services across Leeds with honest pricing and a personal touch. From emergency call-outs to full bathroom fits, no job is too big or too small.",
+    "hero_headline": "Leeds Plumber You Can Actually Rely On",
+    "about_paragraph": "I'm Daniel, a fully qualified and Gas Safe registered plumber based in Bramley, Leeds. I take pride in offering a friendly, no-nonsense service to homeowners and landlords across the Leeds area. Whether you've got a dripping tap or need a full boiler replacement, I'll get the job done right, on time, and at a fair price.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2980b9",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}

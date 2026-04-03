@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daniel Grimes Plumbing – Leeds Plumber</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    /* ===== NAV ===== */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 16px 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 20px;
+      color: #fff;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 8px;
+      transition: background 0.2s ease, transform 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .nav-cta:hover {
+      background: #e08e00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 14px 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+      .nav-logo {
+        font-size: 16px;
+      }
+    }
+
+    /* ===== HERO ===== */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary:hover {
+      background: #e08e00;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 36px;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: 85vh;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 16px;
+      }
+    }
+
+    /* ===== STATS BAR ===== */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-label {
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 600px) {
+      .stats-bar {
+        gap: 28px;
+        padding: 20px;
+      }
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* ===== SERVICES ===== */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .section-heading {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 28px;
+      margin-bottom: 14px;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== ABOUT ===== */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 15px;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .about-stat-label {
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ===== REVIEWS ===== */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 16px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== CONTACT ===== */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+      id: contact;
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1000px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.10);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 28px;
+    }
+
+    .contact-detail {
+      margin-bottom: 20px;
+    }
+
+    .contact-detail-label {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 4px;
+    }
+
+    .contact-detail-value {
+      color: rgba(255,255,255,0.85);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 22px;
+      font-weight: 700;
+      font-family: 'Poppins', sans-serif;
+      transition: color 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      color: #e08e00;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 28px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      background: #fff;
+      transition: border-color 0.2s ease;
+      outline: none;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      font-family: 'Poppins', sans-serif;
+      font-size: 15px;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .form-submit:hover {
+      background: #e08e00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        padding: 60px 20px;
+      }
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    footer a {
+      color: #94a3b8;
+      transition: color 0.2s ease;
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    @media (max-width: 600px) {
+      footer {
+        padding: 24px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ===== NAV ===== -->
+  <nav>
+    <div class="nav-logo">Daniel Grimes Plumbing</div>
+    <div class="nav-right">
+      <a href="tel:07458351733" class="nav-phone">07458 351733</a>
+      <a href="tel:07458351733" class="nav-cta">Get a Free Quote</a>
+    </div>
+  </nav>
+
+  <!-- ===== HERO ===== -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Leeds Plumber You Can Actually Rely On</h1>
+      <p class="hero-sub">Reliable Plumbing Solutions Across Leeds — from emergency call-outs to full bathroom fits, no job is too big or too small.</p>
+      <div class="hero-buttons">
+        <a href="tel:07458351733" class="btn-primary">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary">Contact Us</a>
+      </div>
+      <div class="trust-badges">
+        <span class="badge">✓ Gas Safe Registered</span>
+        <span class="badge">✓ CHAS Accredited</span>
+        <span class="badge">✓ Fully Insured</span>
+        <span class="badge">✓ Local Leeds Tradesman</span>
+        <span class="badge">✓ Emergency Call-Outs Available</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== STATS BAR ===== -->
+  <div class="stats-bar">
+    <div class="stat-item">
+      <div class="stat-number">4.8★</div>
+      <div class="stat-label">Google Rating</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">34+</div>
+      <div class="stat-label">5-Star Reviews</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">5</div>
+      <div class="stat-label">Areas Served</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">24/7</div>
+      <div class="stat-label">Emergency Call-Outs</div>
+    </div>
+  </div>
+
+  <!-- ===== SERVICES ===== -->
+  <section class="services" id="services">
+    <h2 class="section-heading">Our Services</h2>
+    <div class="services-grid">
+
+      <div class="service-card">
+        <div class="service-icon">🔥</div>
+        <h3>Boiler Installation &amp; Servicing</h3>
+        <p>Expert boiler installations and annual servicing to keep your home warm and your energy bills down. Gas Safe registered and fully qualified.</p>
+      </div>
+
+      <div class="service-card">
+        <div class="service-icon">💧</div>
+        <h3>Leak Detection &amp; Repair</h3>
+        <p>Fast, accurate leak detection using professional equipment. We'll locate and fix leaks quickly, preventing further damage to your property.</p>
+      </div>
+
+      <div class="service-card">
+        <div class="service-icon">🛁</div>
+        <h3>Bathroom Installation</h3>
+        <p>Full bathroom fitting and refurbishment services, from design to completion. Quality workmanship with minimal disruption to your home.</p>
+      </div>
+
+      <div class="service-card">
+        <div class="service-icon">🏠</div>
+        <h3>Central Heating Systems</h3>
+        <p>Installation, repair and maintenance of full central heating systems. Keep your home comfortable and efficient all year round.</p>
+      </div>
+
+      <div class="service-card">
+        <div class="service-icon">🚨</div>
+        <h3>Emergency Plumbing Call-Outs</h3>
+        <p>Plumbing emergencies don't wait — and neither do we. Available for urgent call-outs across Leeds when you need help fast.</p>
+      </div>
+
+      <div class="service-card">
+        <div class="service-icon">🌡️</div>
+        <h3>Radiator Installation &amp; Replacement</h3>
+        <p>Supply and fit of new radiators, or replacement of old, inefficient ones. Improve your home's heating performance quickly and affordably.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ===== ABOUT ===== -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>A Plumber Who Does Things Right</h2>
+        <p>I'm Daniel, a fully qualified and Gas Safe registered plumber based in Bramley, Leeds. I take pride in offering a friendly, no-nonsense service to homeowners and landlords across the Leeds area.</p>
+        <p>Whether you've got a dripping tap or need a full boiler replacement, I'll get the job done right, on time, and at a fair price. Daniel Grimes Plumbing delivers prompt, reliable plumbing services with honest pricing and a personal touch.</p>
+        <p>Covering Leeds, Bramley, Pudsey, Horsforth, Armley and surrounding areas — I'm your local plumber who actually picks up the phone.</p>
+      </div>
+      <div class="about-stats">
+        <div class="about-stat-box">
+          <div class="about-stat-number">4.8★</div>
+          <div class="about-stat-label">Google Rating</div>
+        </div>
+        <div class="about-stat-box">
+          <div class="about-stat-number">34+</div>
+          <div class="about-stat-label">Happy Customers</div>
+        </div>
+        <div class="about-stat-box">
+          <div class="about-stat-number">5</div>
+          <div class="about-stat-label">Areas Covered</div>
+        </div>
+        <div class="about-stat-box">
+          <div class="about-stat-number">100%</div>
+          <div class="about-stat-label">Gas Safe Registered</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== REVIEWS ===== -->
+  <section class="reviews" id="reviews">
+    <h2>What Our Customers Say</h2>
+    <div class="reviews-grid">
+
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Daniel arrived on time, sorted our leaking pipe quickly and left everything clean and tidy. Really professional service — would highly recommend."</p>
+        <div class="review-author">Sarah M &mdash; Leeds, 2024</div>
+      </div>
+
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Had a boiler issue on a cold morning and Daniel came out the same day. Honest pricing and great work. Definitely our go-to plumber in Leeds."</p>
+        <div class="review-author">James T &mdash; Leeds, 2024</div>
+      </div>
+
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Excellent service from start to finish. Daniel explained everything clearly and the bathroom installation looks fantastic. Very happy customer!"</p>
+        <div class="review-author">Karen B &mdash; Leeds, 2024</div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ===== CONTACT ===== -->
+  <section class="contact" id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h3>Daniel Grimes Plumbing</h3>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Phone</div>
+          <a href="tel:07458351733" class="contact-phone-link">07458 351733</a>
+        </div>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Address</div>
+          <div class="contact-detail-value">29 Gamble Hill Chase<br>Leeds, LS13 4SY</div>
+        </div>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Areas Covered</div>
+          <div class="contact-detail-value">Leeds, Bramley, Pudsey,<br>Horsforth &amp; Armley</div>
+        </div>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Opening Hours</div>
+          <div class="contact-detail-value">
+            Mon–Fri: 8am – 6pm<br>
+            Saturday: 9am – 4pm<br>
+            Sunday: Closed<br>
+            <span style="color: var(--accent); font-weight: 600;">Emergency call-outs available</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">How Can We Help?</label>
+            <textarea id="message" name="message" placeholder="Describe your plumbing issue or job..."></textarea>
+          </div>
+          <button type="submit" class="form-submit">Get a Free Quote</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer>
+    <p>
+      <strong style="color:#fff;">Daniel Grimes Plumbing</strong> &nbsp;|&nbsp;
+      <a href="tel:07458351733">07458 351733</a> &nbsp;|&nbsp;
+      29 Gamble Hill Chase, Leeds LS13 4SY
+    </p>
+    <p style="margin-top:8px;">
+      Gas Safe Registered &nbsp;|&nbsp; Serving Leeds, Bramley, Pudsey, Horsforth &amp; Armley
+    </p>
+    <p style="margin-top:8px;">&copy; 2024 Daniel Grimes Plumbing. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
