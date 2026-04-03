@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Anchor Plumbing",
+    "slug": "anchor-plumbing-birmingham",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Birmingham"
+  },
+  "contact": {
+    "phone": "07404 368506",
+    "address": "Birmingham, West Midlands",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Solihull",
+      "Sutton Coldfield",
+      "Wolverhampton",
+      "Coventry"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Repairs & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Installations",
+    "Central Heating Systems",
+    "Emergency Plumbing Callouts",
+    "Pipe Fitting & Replacement"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James H",
+        "rating": 5,
+        "text": "Anchor Plumbing sorted our burst pipe quickly and professionally. Would highly recommend to anyone in Birmingham.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Fantastic service from start to finish. Arrived on time, fixed the boiler issue same day. Great value for money.",
+        "date": "2024"
+      },
+      {
+        "author": "David T",
+        "rating": 4,
+        "text": "Very reliable and honest. Gave a clear quote upfront and stuck to it. Will definitely use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Birmingham Tradesman"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Anchor Plumbing delivers fast, reliable plumbing services across Birmingham with transparent pricing and no hidden costs. From emergency callouts to full bathroom installations, we're the local team you can trust.",
+    "hero_headline": "Birmingham's Trusted Plumber, Ready When You Need",
+    "about_paragraph": "I'm the owner of Anchor Plumbing and I've been serving homes and businesses across Birmingham for years. I take pride in offering honest, high-quality plumbing work at fair prices, whether it's a small leak or a full central heating installation. When you call Anchor Plumbing, you get a tradesman who turns up on time, does the job right, and leaves your home clean and tidy.",
+    "colour_scheme": {
+      "primary": "#003f7f",
+      "secondary": "#0077c2",
+      "accent": "#f5a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
