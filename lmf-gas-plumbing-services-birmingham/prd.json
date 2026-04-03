@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "L M F Gas & Plumbing Services Ltd.",
+    "slug": "lmf-gas-plumbing-services-birmingham",
+    "category": "Gas Engineer / Plumber",
+    "tagline": "Reliable Gas & Plumbing Solutions in Birmingham"
+  },
+  "contact": {
+    "phone": "07515 129273",
+    "address": "Birmingham, West Midlands",
+    "city": "Birmingham",
+    "service_area": [
+      "Birmingham",
+      "Solihull",
+      "Sutton Coldfield",
+      "Wolverhampton",
+      "West Bromwich"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repairs",
+    "Gas Safety Certificates (CP12)",
+    "Central Heating Installation & Repairs",
+    "Landlord Gas Safety Inspections",
+    "Emergency Plumbing & Leak Repairs"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "LMF Gas sorted our boiler out quickly and professionally. Turned up on time, explained everything clearly and left the place spotless. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Really impressed with the service. Called in the morning about a gas leak and they were with us within the hour. Friendly, knowledgeable and fairly priced.",
+        "date": "2024"
+      },
+      {
+        "author": "David K.",
+        "rating": 4,
+        "text": "Used LMF for our annual boiler service and gas safety certificate. Straightforward, professional job done at a good price. Will use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Birmingham Business"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "LMF Gas & Plumbing Services delivers fast, reliable, and affordable gas and plumbing solutions across Birmingham, with fully Gas Safe registered engineers you can trust in your home.",
+    "hero_headline": "Birmingham's Trusted Gas & Plumbing Experts",
+    "about_paragraph": "We are LMF Gas & Plumbing Services Ltd., a Birmingham-based team of Gas Safe registered engineers with a passion for quality workmanship and honest, straightforward service. Whether you need a new boiler, a gas safety certificate, or an emergency plumbing fix, we're here to help when it matters most. We pride ourselves on turning up on time, keeping you informed, and leaving every job completed to the highest standard.",
+    "colour_scheme": {
+      "primary": "#1a3c6e",
+      "secondary": "#e87722",
+      "accent": "#4a9fd4",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
