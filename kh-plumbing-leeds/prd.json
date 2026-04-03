@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "KH Plumbing Ltd",
+    "slug": "kh-plumbing-leeds",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Leeds"
+  },
+  "contact": {
+    "phone": "07508 828358",
+    "address": "Leeds, West Yorkshire",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Bradford",
+      "Wakefield",
+      "Harrogate",
+      "York"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Installation",
+    "Central Heating Systems",
+    "Emergency Plumbing",
+    "Radiator Installation & Replacement"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "KH Plumbing sorted our boiler issue quickly and at a fair price. Very professional and tidy \u2014 would definitely recommend to anyone in Leeds.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Called them out for an emergency leak and they arrived within the hour. Brilliant service, really put our minds at ease. Great value too.",
+        "date": "2024"
+      },
+      {
+        "author": "David R",
+        "rating": 4,
+        "text": "Had a new bathroom fitted by KH Plumbing. The work was done to a high standard and they kept the mess to a minimum. Happy with the result.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Leeds Business"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "KH Plumbing Ltd delivers fast, reliable plumbing and heating services across Leeds with transparent pricing and no call-out surprises. From emergency repairs to full bathroom installations, we get the job done right first time.",
+    "hero_headline": "Leeds Plumbers You Can Rely On",
+    "about_paragraph": "I'm the director of KH Plumbing Ltd, a Leeds-based plumbing and heating company committed to delivering honest, high-quality work at fair prices. Whether it's a dripping tap, a new boiler, or a complete bathroom refit, my team and I take pride in turning up on time and leaving every job spotless. We cover Leeds and the surrounding areas, and we're always on hand for those unexpected emergencies.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86c1",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
