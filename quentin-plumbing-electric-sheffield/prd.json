@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Quentin Plumbing & Electric",
+    "slug": "quentin-plumbing-electric-sheffield",
+    "category": "Plumber / Electrician",
+    "tagline": "Your Local Sheffield Plumbing & Electrical Experts"
+  },
+  "contact": {
+    "phone": "07451 277862",
+    "address": "304 Twentywell Ln, Bradway, Sheffield S17 4QH",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Dronfield",
+      "Chesterfield",
+      "Rotherham",
+      "Bakewell"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Plumbing Repairs & Installations",
+    "Boiler Servicing & Repairs",
+    "Electrical Installations & Rewiring",
+    "Leak Detection & Repair",
+    "Bathroom Fitting",
+    "Fuse Board Upgrades"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Quentin was punctual, professional and sorted our leaking pipe within the hour. Brilliant service at a fair price \u2014 highly recommend!",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Called in the morning about a electrical fault and he came out same day. Very knowledgeable and tidy worker. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "David H.",
+        "rating": 4,
+        "text": "Good honest tradesman. Fitted our new bathroom suite to a high standard. Communication was great throughout the job.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "NICEIC Approved",
+      "Fully Insured"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "We combine expert plumbing and electrical services under one roof, saving Sheffield homeowners time and hassle. Based locally in Bradway, we offer fast response times and honest, transparent pricing on every job.",
+    "hero_headline": "Sheffield's Trusted Plumbing & Electrical Specialists",
+    "about_paragraph": "I'm Quentin, a fully qualified plumber and electrician based in Bradway, Sheffield. With years of hands-on experience, I take pride in delivering reliable, high-quality work for homeowners and landlords across South Sheffield and beyond. Whether it's a dripping tap or a full electrical rewire, I bring the same care and professionalism to every job.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e87722",
+      "accent": "#3da5d9",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
