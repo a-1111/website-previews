@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "JMC Plumbing and Maintenance",
+    "slug": "jmc-plumbing-and-maintenance-sheffield",
+    "category": "Gas Engineer",
+    "tagline": "Your trusted gas and plumbing experts"
+  },
+  "contact": {
+    "phone": "07512 746702",
+    "address": "Sheffield, South Yorkshire",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Rotherham",
+      "Barnsley",
+      "Chesterfield",
+      "Doncaster"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repairs",
+    "Gas Safety Certificates (CP12)",
+    "Central Heating System Installation",
+    "Landlord Gas Safety Inspections",
+    "General Plumbing & Maintenance"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "David H",
+        "rating": 5,
+        "text": "JMC fitted a new boiler for us at short notice. Professional, tidy and great value. Highly recommended.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah T",
+        "rating": 5,
+        "text": "Really reliable and friendly service. Sorted our heating issue quickly and explained everything clearly. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Mark R",
+        "rating": 5,
+        "text": "Used JMC for our annual boiler service and gas safety certificate. Prompt, professional and reasonably priced. Couldn't ask for more.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Free Quotes Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "JMC Plumbing and Maintenance delivers reliable, Gas Safe certified plumbing and heating services across Sheffield and surrounding areas. We combine honest pricing with quality workmanship to keep your home safe and warm.",
+    "hero_headline": "Sheffield's Trusted Gas & Plumbing Specialists",
+    "about_paragraph": "Hi, I'm the engineer behind JMC Plumbing and Maintenance, proudly serving Sheffield and the surrounding South Yorkshire area. I'm Gas Safe registered and committed to delivering high-quality plumbing and heating solutions \u2014 from boiler installations to full central heating systems \u2014 at honest, transparent prices. Whether it's a routine service or an emergency callout, I'm here to help keep your home running safely and efficiently.",
+    "colour_scheme": {
+      "primary": "#1a3a5c",
+      "secondary": "#e87722",
+      "accent": "#4a9fd4",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
