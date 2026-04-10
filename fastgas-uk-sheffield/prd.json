@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "FastGas UK",
+    "slug": "fastgas-uk-sheffield",
+    "category": "Gas Engineer",
+    "tagline": "Fast, Safe Gas Solutions Across Sheffield"
+  },
+  "contact": {
+    "phone": "07850 972060",
+    "address": "15 Carr Forge Ln, Sheffield S12 4FB",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Rotherham",
+      "Barnsley",
+      "Doncaster",
+      "Chesterfield"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repairs",
+    "Gas Safety Certificates (CP12)",
+    "Central Heating System Installation",
+    "Gas Leak Detection & Repair",
+    "Landlord Gas Safety Inspections"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "FastGas UK came out the same day when our boiler broke down in the middle of winter. Sorted it quickly and professionally, great value too.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Really reliable and honest engineer. Serviced our boiler and gave us a clear explanation of everything. Will definitely be using again.",
+        "date": "2024"
+      },
+      {
+        "author": "David K",
+        "rating": 4,
+        "text": "Booked in for a gas safety certificate for my rental property. Turned up on time, very professional and the certificate was emailed over same day.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Free Quotes Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and reliable",
+    "usp": "Sheffield-based Gas Safe registered engineers offering fast response times, honest pricing, and quality workmanship on all gas and heating installations.",
+    "hero_headline": "Sheffield's Trusted Gas Engineers, Ready Fast",
+    "about_paragraph": "We're FastGas UK, a Sheffield-based gas engineering business committed to delivering fast, safe, and affordable gas services across the city and surrounding areas. Whether you need a boiler installed, a gas safety certificate, or an emergency repair, we're here to help with no fuss and no hidden costs. We're fully Gas Safe registered and take pride in the quality and safety of every job we carry out.",
+    "colour_scheme": {
+      "primary": "#0057A8",
+      "secondary": "#FF6B00",
+      "accent": "#00AEEF",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
