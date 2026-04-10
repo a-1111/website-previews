@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Bristol Plumbing Co.",
+    "slug": "bristol-plumbing-co-bristol",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Bristol"
+  },
+  "contact": {
+    "phone": "07972 176630",
+    "address": "114 Jacob St, Bristol BS2 0AF",
+    "city": "Bristol",
+    "service_area": [
+      "Bristol",
+      "Clifton",
+      "Bedminster",
+      "Filton",
+      "Keynsham"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Installation",
+    "Central Heating Systems",
+    "Emergency Plumbing",
+    "Radiator Installation & Repair"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Arrived on time, diagnosed the issue quickly and fixed our burst pipe with no fuss. Highly recommend Bristol Plumbing Co.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Had a new bathroom fitted and the team were tidy, professional and finished ahead of schedule. Really pleased with the quality of work.",
+        "date": "2024"
+      },
+      {
+        "author": "David R.",
+        "rating": 4,
+        "text": "Called them out for an emergency leak late on a Friday. They came within two hours and sorted it. Fair pricing and very professional.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Emergency Callouts Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Bristol Plumbing Co. delivers fast, reliable plumbing services across Bristol with transparent pricing and no hidden charges. From routine maintenance to emergency callouts, we get the job done right first time.",
+    "hero_headline": "Bristol's Trusted Plumbers, Ready When You Need Us",
+    "about_paragraph": "We're Bristol Plumbing Co., a dedicated local plumbing team based in the heart of Bristol at Jacob Street. We pride ourselves on delivering honest, high-quality plumbing work to homeowners and businesses throughout the city and surrounding areas. Whether it's a dripping tap or a full bathroom installation, we treat every job with the same care and professionalism.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86c1",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
