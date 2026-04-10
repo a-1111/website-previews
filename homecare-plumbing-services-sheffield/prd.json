@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Homecare Plumbing Services",
+    "slug": "homecare-plumbing-services-sheffield",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions For Your Home"
+  },
+  "contact": {
+    "phone": "07789 717047",
+    "address": "25 Falcon Way, Dinnington, North Anston, Sheffield S25 2NX",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Rotherham",
+      "Dinnington",
+      "Worksop",
+      "Chesterfield"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Emergency Plumbing Repairs",
+    "Bathroom Fitting & Installation",
+    "Leaks & Pipe Repairs",
+    "Central Heating Systems",
+    "Radiator Installation & Balancing"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "Karen M",
+        "rating": 5,
+        "text": "Called Homecare Plumbing after a burst pipe and they arrived within the hour. Brilliant service, very professional and left everything clean and tidy. Highly recommend!",
+        "date": "2024"
+      },
+      {
+        "author": "David T",
+        "rating": 5,
+        "text": "Had a new boiler fitted and the whole job was done neatly and at a fair price. Really friendly and knowledgeable. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah L",
+        "rating": 4,
+        "text": "Great local plumber who actually turns up when he says he will! Fixed a leaking radiator quickly and the price was very reasonable. Would recommend to anyone in the Sheffield area.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local & Reliable"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Homecare Plumbing Services delivers fast, reliable plumbing and heating solutions across Sheffield and the surrounding areas, with transparent pricing and a commitment to quality workmanship on every job.",
+    "hero_headline": "Sheffield's Trusted Local Plumber On Call",
+    "about_paragraph": "I'm a fully qualified, Gas Safe registered plumber based in Dinnington, serving homeowners across Sheffield, Rotherham, and the surrounding areas. Whether you need an emergency repair, a new boiler, or a full bathroom installation, I take pride in delivering honest, reliable service at a fair price. No call-out surprises \u2014 just straightforward plumbing done right, first time.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86c1",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
