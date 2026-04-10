@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Rotherplumb Ltd",
+    "slug": "rotherplumb-sheffield",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing & Heating in Sheffield"
+  },
+  "contact": {
+    "phone": "07446 885887",
+    "address": "Sheffield, South Yorkshire",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Rotherham",
+      "Barnsley",
+      "Doncaster",
+      "Chesterfield"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Central Heating Systems",
+    "Emergency Plumbing Repairs",
+    "Bathroom Fitting & Renovation",
+    "Leak Detection & Repair",
+    "Radiator Installation & Balancing"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James H",
+        "rating": 5,
+        "text": "Rotherplumb came out same day to fix a burst pipe. Quick, tidy and very reasonably priced. Would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Had a new boiler installed by Rotherplumb Ltd. Professional from start to finish, explained everything clearly and left no mess at all.",
+        "date": "2024"
+      },
+      {
+        "author": "David T",
+        "rating": 5,
+        "text": "Brilliant service \u2014 turned up on time, sorted our heating issue quickly and the price was exactly as quoted. Very happy customer.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Family Business"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Rotherplumb Ltd delivers fast, reliable plumbing and heating solutions across Sheffield and South Yorkshire, combining expert workmanship with honest, upfront pricing. As a dedicated local business, we treat every home like our own.",
+    "hero_headline": "Sheffield's Trusted Plumbing & Heating Experts",
+    "about_paragraph": "We're Rotherplumb Ltd, a Sheffield-based plumbing and heating company proud to serve homeowners across South Yorkshire. We pride ourselves on turning up when we say we will, getting the job done right first time, and leaving your home exactly as we found it. Whether it's an emergency call-out or a full boiler installation, you can count on us for quality work at a fair price.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e8f0f7",
+      "accent": "#e85d04",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
