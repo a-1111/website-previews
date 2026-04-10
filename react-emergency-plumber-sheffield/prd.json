@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "React Emergency Plumber Sheffield",
+    "slug": "react-emergency-plumber-sheffield",
+    "category": "Plumber",
+    "tagline": "Fast Emergency Plumbing, Day or Night"
+  },
+  "contact": {
+    "phone": "07540 582986",
+    "address": "Sheffield, South Yorkshire",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Rotherham",
+      "Barnsley",
+      "Doncaster",
+      "Chesterfield"
+    ]
+  },
+  "hours": {
+    "monday_friday": "24 Hours",
+    "saturday": "24 Hours",
+    "sunday": "24 Hours",
+    "emergency_callout": true
+  },
+  "services": [
+    "Emergency Plumbing Call-Outs",
+    "Burst Pipe Repair",
+    "Boiler Breakdown & Repair",
+    "Blocked Drains & Toilets",
+    "Leak Detection & Repair",
+    "Tap & Toilet Repairs"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James H",
+        "rating": 5,
+        "text": "Brilliant service \u2014 arrived within 45 minutes of my call at midnight with a burst pipe. Professional, fast and reasonably priced. Would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "React Plumber came out on a Sunday morning when our boiler packed in. Sorted everything within an hour. Fantastic service, won't use anyone else now.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave T",
+        "rating": 5,
+        "text": "Called React after our kitchen flooded on a Bank Holiday. They were with us in under an hour and had it all fixed quickly. Really put our minds at ease.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "24/7 Emergency Response",
+      "No Call-Out Fee After Hours"
+    ]
+  },
+  "brand": {
+    "tone": "urgent, reliable and reassuring",
+    "usp": "Sheffield's go-to emergency plumber, available 24 hours a day, 7 days a week \u2014 with fast response times and transparent pricing so you're never left in a crisis.",
+    "hero_headline": "Sheffield's 24/7 Emergency Plumber On Call Now",
+    "about_paragraph": "I'm the team behind React Emergency Plumber Sheffield, and we built this service because we know plumbing disasters never happen at a convenient time. Whether it's a burst pipe at 2am or a broken boiler on Christmas Day, I'm on hand to get to you fast and fix the problem properly. I pride myself on honest pricing, rapid response, and leaving your home better than I found it.",
+    "colour_scheme": {
+      "primary": "#003087",
+      "secondary": "#e8232a",
+      "accent": "#f5a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
