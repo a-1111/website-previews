@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Rivelin Plumbing & Heating",
+    "slug": "rivelin-plumbing-heating-sheffield",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing & Heating You Can Trust"
+  },
+  "contact": {
+    "phone": "07779 624529",
+    "address": "2 Rivelin Park Dr, Sheffield S6 5GG",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Hillsborough",
+      "Walkley",
+      "Crookes",
+      "Stocksbridge"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repairs",
+    "Central Heating Installation",
+    "Plumbing Repairs & Maintenance",
+    "Bathroom Installation",
+    "Emergency Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Turned up on time, fixed our boiler quickly and left everything clean and tidy. Would definitely recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Called Rivelin Plumbing & Heating after a leak in our bathroom. They arrived within a couple of hours and sorted it efficiently. Very professional and reasonably priced.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave H",
+        "rating": 5,
+        "text": "Had a new boiler installed and the whole job was done neatly and to a very high standard. Great local company, will use again without hesitation.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Local Family Business",
+      "Emergency Callouts Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "A trusted local plumbing and heating specialist serving Sheffield's S6 area and beyond, delivering honest, high-quality workmanship at competitive prices. From emergency callouts to full boiler installations, we treat every home as if it were our own.",
+    "hero_headline": "Sheffield's Trusted Plumbing & Heating Experts",
+    "about_paragraph": "I'm the tradesperson behind Rivelin Plumbing & Heating, based right here in the Rivelin Valley area of Sheffield. I take real pride in offering honest, reliable plumbing and heating services to homeowners across S6 and the surrounding areas. Whether it's a dripping tap, a broken boiler, or a full bathroom fit-out, I bring the same level of care and quality to every job.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e8f1fa",
+      "accent": "#f5a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
