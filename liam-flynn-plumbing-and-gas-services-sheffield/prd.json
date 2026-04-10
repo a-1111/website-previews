@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "Liam Flynn Plumbing and Gas Services",
+    "slug": "liam-flynn-plumbing-and-gas-services-sheffield",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing and Gas You Can Trust"
+  },
+  "contact": {
+    "phone": "07507 669423",
+    "address": "755 Ecclesall Rd, Sheffield S11 8TH",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Rotherham",
+      "Barnsley",
+      "Chesterfield",
+      "Dronfield"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation and Servicing",
+    "Gas Safety Certificates",
+    "Central Heating Repairs",
+    "Leak Detection and Repair",
+    "Bathroom and Shower Installations",
+    "Emergency Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Liam fixed our boiler the same day we called \u2014 brilliant service, very professional and reasonably priced. Would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Great local plumber. Turned up on time, sorted our leaking pipe quickly and left everything tidy. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Rachel B",
+        "rating": 5,
+        "text": "Had a new bathroom fitted by Liam and the finish is excellent. Very tidy worker and kept us informed throughout. Couldn't be happier.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Based on Ecclesall Road, Liam Flynn delivers honest, expert plumbing and gas services across Sheffield with a focus on reliability, fair pricing, and getting the job done right first time.",
+    "hero_headline": "Sheffield's Trusted Plumber and Gas Engineer",
+    "about_paragraph": "I'm Liam Flynn, a Gas Safe registered plumber and heating engineer based in Sheffield. I've built my business on honest advice, quality workmanship, and treating every customer's home with the same care I'd give my own. Whether it's a leaking pipe or a full boiler installation, you can count on me to get it sorted quickly and at a fair price.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86c1",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
