@@ -1,0 +1,919 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Golden Plumbing & Heating Services | Bristol's Trusted Plumbers</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ── NAV ── */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto;
+      height: 68px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      color: #fff;
+      text-decoration: none;
+      line-height: 1.2;
+    }
+
+    .nav-logo span {
+      display: block;
+      font-size: 12px;
+      font-weight: 400;
+      color: rgba(255,255,255,0.65);
+      font-family: 'Inter', sans-serif;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 10px 22px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 14px;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .nav-cta:hover {
+      background: #e08c00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 0 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+    }
+
+    /* ── HERO ── */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary:hover {
+      background: #e08c00;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .hero-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 40px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 500;
+      font-family: 'Inter', sans-serif;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: auto;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 16px;
+      }
+      .btn-primary, .btn-secondary {
+        padding: 14px 24px;
+        font-size: 15px;
+      }
+    }
+
+    /* ── STATS BAR ── */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+    }
+
+    .stats-inner {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      max-width: 1200px;
+      margin: 0 auto;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+      font-family: 'Inter', sans-serif;
+    }
+
+    @media (max-width: 768px) {
+      .stats-bar {
+        padding: 24px 20px;
+      }
+      .stats-inner {
+        gap: 28px;
+      }
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* ── SERVICES ── */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .services h2 {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 12px;
+    }
+
+    .section-sub {
+      text-align: center;
+      color: var(--muted);
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 28px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+      .services h2 {
+        font-size: 28px;
+      }
+    }
+
+    /* ── ABOUT ── */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 15px;
+    }
+
+    .about-left .areas {
+      margin-top: 24px;
+    }
+
+    .about-left .areas h4 {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 10px;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    .area-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .area-tag {
+      background: var(--light);
+      border: 1px solid #e2e8f0;
+      color: var(--muted);
+      padding: 5px 14px;
+      border-radius: 999px;
+      font-size: 13px;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-box .big-num {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .about-stat-box .stat-lbl {
+      display: block;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+      .about-left h2 {
+        font-size: 28px;
+      }
+    }
+
+    /* ── REVIEWS ── */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    .reviews-sub {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .review-card:hover {
+      background: rgba(255,255,255,0.08);
+      transform: translateY(-3px);
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 16px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .review-date {
+      color: rgba(148,163,184,0.6);
+      font-size: 12px;
+      margin-left: 8px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+      .reviews h2 {
+        font-size: 28px;
+      }
+    }
+
+    /* ── CONTACT ── */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+      id: contact;
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1000px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.12);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+      display: flex;
+      flex-direction: column;
+      gap: 28px;
+    }
+
+    .contact-left h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 4px;
+    }
+
+    .contact-detail {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .contact-detail-label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: rgba(255,255,255,0.45);
+      font-weight: 600;
+    }
+
+    .contact-detail-value {
+      color: rgba(255,255,255,0.85);
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 26px;
+      font-weight: 700;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: color 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      color: #e08c00;
+    }
+
+    .hours-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .hours-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+    }
+
+    .hours-row .day {
+      color: rgba(255,255,255,0.5);
+    }
+
+    .emergency-note {
+      background: rgba(245,158,11,0.15);
+      border: 1px solid rgba(245,158,11,0.3);
+      border-radius: 8px;
+      padding: 12px 16px;
+      font-size: 13px;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .contact-right p {
+      color: var(--muted);
+      font-size: 14px;
+      margin-bottom: 28px;
+    }
+
+    .form-group {
+      margin-bottom: 16px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      background: #fff;
+      transition: border-color 0.2s ease;
+      outline: none;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .form-submit:hover {
+      background: #e08c00;
+      transform: translateY(-2px);
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        padding: 60px 20px;
+      }
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+      .contact-left {
+        padding: 36px 28px;
+      }
+      .contact-right {
+        padding: 36px 28px;
+      }
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+      color: #94a3b8;
+      font-size: 14px;
+      font-family: 'Inter', sans-serif;
+    }
+
+    footer a {
+      color: #94a3b8;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    .footer-sep {
+      margin: 0 10px;
+      opacity: 1.4;
+    }
+
+    @media (max-width: 768px) {
+      footer {
+        padding: 28px 20px;
+      }
+      footer .footer-line {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+      }
+      .footer-sep {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-inner">
+      <a href="#" class="nav-logo">
+        Golden Plumbing &amp; Heating
+        <span>Bristol's Trusted Plumbers</span>
+      </a>
+      <div class="nav-right">
+        <a href="tel:07529342116" class="nav-phone">07529 342116</a>
+        <a href="tel:07529342116" class="nav-cta">Get a Free Quote</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Bristol's Trusted Plumbing &amp; Heating Experts</h1>
+      <p class="hero-sub">Reliable Plumbing &amp; Heating You Can Trust — fast response, fair prices and quality workmanship across Bristol and surrounding areas.</p>
+      <div class="hero-buttons">
+        <a href="tel:07529342116" class="btn-primary">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary">Contact Us</a>
+      </div>
+      <div class="hero-badges">
+        <span class="badge">✓ Gas Safe Registered</span>
+        <span class="badge">✓ CHAS Accredited</span>
+        <span class="badge">✓ Fully Insured</span>
+        <span class="badge">✓ Emergency Call-Out Available</span>
+        <span class="badge">✓ Local Bristol Plumber</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stats-inner">
+      <div class="stat-item">
+        <span class="stat-number">4.7★</span>
+        <span class="stat-label">Google Rating</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">34</span>
+        <span class="stat-label">Verified Reviews</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">5</span>
+        <span class="stat-label">Areas Served</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">24/7</span>
+        <span class="stat-label">Emergency Call-Out</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services" id="services">
+    <h2>Our Services</h2>
+    <p class="section-sub">Professional plumbing &amp; heating services across Bristol and surrounding areas</p>
+    <div class="services-grid">
+      <div class="service-card">
+        <span class="service-icon">🔥</span>
+        <h3>Boiler Installation &amp; Repair</h3>
+        <p>Expert boiler installations and repairs for all major brands. Whether you need a new boiler fitted or an existing one serviced and repaired, our Gas Safe engineers are here to help.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🌡️</span>
+        <h3>Central Heating Systems</h3>
+        <p>Full central heating installation, upgrades and maintenance. Keep your home warm and efficient with a professionally installed and maintained heating system.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔍</span>
+        <h3>Leak Detection &amp; Repair</h3>
+        <p>Fast and accurate leak detection using modern equipment, followed by prompt and reliable repairs to minimise water damage and disruption to your home.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🚿</span>
+        <h3>Bathroom Installation</h3>
+        <p>Complete bathroom fitting services from initial design through to final installation. We handle all plumbing work to give you a beautiful, fully functioning bathroom.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🚨</span>
+        <h3>Emergency Plumbing</h3>
+        <p>Plumbing emergencies don't wait for convenient times. We offer emergency call-out services across Bristol to get your problem sorted quickly and professionally.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">💧</span>
+        <h3>Power Flushing</h3>
+        <p>Restore your central heating system's efficiency with professional power flushing. Remove sludge, rust and debris to improve heat output and extend system life.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Bristol's Local Plumbing &amp; Heating Specialists</h2>
+        <p>I'm the founder of Golden Plumbing &amp; Heating Services, based right here in Southmead, Bristol. We've built our reputation on honest advice, quality workmanship and turning up when we say we will — because we know how disruptive plumbing problems can be.</p>
+        <p>Whether it's a dripping tap or a full boiler replacement, you can count on us to get the job done properly, first time. Golden Plumbing &amp; Heating Services brings fast, reliable and fairly priced plumbing and heating solutions to homes across Bristol, with a local presence in Southmead and emergency call-out availability.</p>
+        <p>We're the trusted name when it matters most. Gas Safe Registered, fully insured and committed to your complete satisfaction on every job we undertake.</p>
+        <div class="areas">
+          <h4>Areas We Cover</h4>
+          <div class="area-tags">
+            <span class="area-tag">Bristol</span>
+            <span class="area-tag">Southmead</span>
+            <span class="area-tag">Filton</span>
+            <span class="area-tag">Westbury-on-Trym</span>
+            <span class="area-tag">Henleaze</span>
+          </div>
+        </div>
+      </div>
+      <div class="about-stats">
+        <div class="about-stat-box">
+          <span class="big-num">4.7</span>
+          <span class="stat-lbl">Google Star Rating</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="big-num">34</span>
+          <span class="stat-lbl">Happy Customers</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="big-num">6</span>
+          <span class="stat-lbl">Services Offered</span>
+        </div>
+        <div class="about-stat-box">
+          <span class="big-num">5</span>
+          <span class="stat-lbl">Areas Covered</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews" id="reviews">
+    <h2>What Our Customers Say</h2>
+    <p class="reviews-sub">Rated 4.7 out of 5 based on 34 Google Reviews</p>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Brilliant service from start to finish. Called in the morning with a leaking pipe and the team were out within a couple of hours. Very professional and tidy. Would highly recommend Golden Plumbing to anyone in Bristol."</p>
+        <div>
+          <span class="review-author">James T</span>
+          <span class="review-date">2024</span>
+        </div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Had a new boiler fitted last month and couldn't be happier. Fair price, clean work and they explained everything clearly. Will definitely be using them again for any future plumbing needs."</p>
+        <div>
+          <span class="review-author">Sarah M</span>
+          <span class="review-date">2024</span>
+        </div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★☆</div>
+        <p class="review-text">"Responded quickly to my emergency call out late on a Friday evening. Fixed the problem efficiently and the price was very reasonable. Friendly and trustworthy — great local company."</p>
+        <div>
+          <span class="review-author">David R</span>
+          <span class="review-date">2024</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <div>
+          <h3>Golden Plumbing &amp; Heating Services</h3

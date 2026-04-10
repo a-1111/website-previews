@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Golden Plumbing & Heating Services",
+    "slug": "golden-plumbing-heating-services-bristol",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing & Heating You Can Trust"
+  },
+  "contact": {
+    "phone": "07529 342116",
+    "address": "35 Trowbridge Rd, Southmead, Bristol BS10 5PA",
+    "city": "Bristol",
+    "service_area": [
+      "Bristol",
+      "Southmead",
+      "Filton",
+      "Westbury-on-Trym",
+      "Henleaze"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Repair",
+    "Central Heating Systems",
+    "Leak Detection & Repair",
+    "Bathroom Installation",
+    "Emergency Plumbing",
+    "Power Flushing"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Called in the morning with a leaking pipe and the team were out within a couple of hours. Very professional and tidy. Would highly recommend Golden Plumbing to anyone in Bristol.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Had a new boiler fitted last month and couldn't be happier. Fair price, clean work and they explained everything clearly. Will definitely be using them again for any future plumbing needs.",
+        "date": "2024"
+      },
+      {
+        "author": "David R",
+        "rating": 4,
+        "text": "Responded quickly to my emergency call out late on a Friday evening. Fixed the problem efficiently and the price was very reasonable. Friendly and trustworthy \u2014 great local company.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Bristol Plumber"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Golden Plumbing & Heating Services brings fast, reliable and fairly priced plumbing and heating solutions to homes across Bristol. With a local presence in Southmead and emergency call-out availability, we're the trusted name when it matters most.",
+    "hero_headline": "Bristol's Trusted Plumbing & Heating Experts",
+    "about_paragraph": "I'm the founder of Golden Plumbing & Heating Services, based right here in Southmead, Bristol. We've built our reputation on honest advice, quality workmanship and turning up when we say we will \u2014 because we know how disruptive plumbing problems can be. Whether it's a dripping tap or a full boiler replacement, you can count on us to get the job done properly, first time.",
+    "colour_scheme": {
+      "primary": "#1a5276",
+      "secondary": "#f0b429",
+      "accent": "#2e86c1",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
