@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "ATG Plumbing & Heating",
+    "slug": "atg-plumbing-heating-sheffield",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing & Heating Across Sheffield"
+  },
+  "contact": {
+    "phone": "07570 697769",
+    "address": "Sheffield, South Yorkshire",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Rotherham",
+      "Barnsley",
+      "Doncaster",
+      "Chesterfield"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repairs",
+    "Central Heating Installation",
+    "Radiator Installation & Repair",
+    "Leak Detection & Repair",
+    "Bathroom & Shower Installations"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James H",
+        "rating": 5,
+        "text": "ATG came out the same day our boiler broke down. Diagnosed the problem quickly, sourced the part and had us back up and running within a few hours. Brilliant service.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Very professional and tidy. Fitted a new bathroom suite for us and the finish was excellent. Would highly recommend to anyone in Sheffield looking for a reliable plumber.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave T",
+        "rating": 4,
+        "text": "Called ATG for a central heating issue and they were honest about what needed doing without trying to upsell unnecessary work. Fair pricing and friendly engineer.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Free Quotations"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "ATG Plumbing & Heating delivers prompt, dependable plumbing and heating solutions across Sheffield with honest pricing and Gas Safe registered engineers you can trust.",
+    "hero_headline": "Sheffield's Trusted Plumbing & Heating Specialists",
+    "about_paragraph": "We're ATG Plumbing & Heating, a Sheffield-based team dedicated to keeping your home warm, safe and running smoothly. Whether it's a new boiler installation, a stubborn leak or a full bathroom fit-out, we bring the same level of care and expertise to every job. We pride ourselves on honest advice, tidy workmanship and turning up when we say we will.",
+    "colour_scheme": {
+      "primary": "#1a3a5c",
+      "secondary": "#e8f4fd",
+      "accent": "#f97316",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
