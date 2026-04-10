@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "High Efficiency Gas Plumbing & Heating",
+    "slug": "high-efficiency-gas-plumbing-heating-sheffield",
+    "category": "Plumber",
+    "tagline": "Expert Gas, Plumbing & Heating Solutions"
+  },
+  "contact": {
+    "phone": "07764 194284",
+    "address": "Sheffield, South Yorkshire",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Rotherham",
+      "Barnsley",
+      "Chesterfield",
+      "Doncaster"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repairs",
+    "Central Heating System Installation",
+    "Gas Safety Certificates & Inspections",
+    "Radiator Installation & Power Flushing",
+    "Emergency Plumbing Call-Outs"
+  ],
+  "social_proof": {
+    "google_rating": 4.9,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "James Whitfield",
+        "rating": 5,
+        "text": "Absolutely brilliant service. New boiler installed quickly and cleanly, and the engineer explained everything clearly. Highly recommend High Efficiency Gas.",
+        "date": "2024"
+      },
+      {
+        "author": "Sandra Booth",
+        "rating": 5,
+        "text": "Called out for an emergency with no heating in winter. They arrived within a couple of hours and had us back up and running the same day. Fantastic.",
+        "date": "2024"
+      },
+      {
+        "author": "Mark Thornton",
+        "rating": 5,
+        "text": "Very professional, honest pricing and no hidden extras. Gas safety certificate done promptly. Will definitely be using them again for our annual service.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Worcester Bosch Accredited Installer"
+    ]
+  },
+  "brand": {
+    "tone": "professional and trustworthy",
+    "usp": "Sheffield's trusted Gas Safe specialists delivering high-efficiency heating solutions with honest pricing and a fast, reliable response every time.",
+    "hero_headline": "Sheffield's Trusted Gas & Heating Specialists",
+    "about_paragraph": "We are High Efficiency Gas Plumbing & Heating, a Sheffield-based team dedicated to keeping your home warm, safe and running efficiently. From new boiler installations to emergency call-outs, we bring Gas Safe expertise and a no-fuss approach to every job. We're proud to serve homeowners and landlords across Sheffield and the surrounding South Yorkshire area.",
+    "colour_scheme": {
+      "primary": "#003f7f",
+      "secondary": "#e8720c",
+      "accent": "#00aeef",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
