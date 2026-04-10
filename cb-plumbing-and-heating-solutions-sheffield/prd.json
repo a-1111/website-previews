@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "CB Plumbing and Heating Solutions",
+    "slug": "cb-plumbing-and-heating-solutions-sheffield",
+    "category": "Plumber",
+    "tagline": "Your Local Sheffield Plumbing Experts"
+  },
+  "contact": {
+    "phone": "07449 986042",
+    "address": "Sheffield, South Yorkshire",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Rotherham",
+      "Barnsley",
+      "Chesterfield",
+      "Doncaster"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation and Replacement",
+    "Boiler Servicing and Repairs",
+    "Central Heating Systems",
+    "Leak Detection and Repair",
+    "Bathroom and Shower Installations",
+    "Emergency Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James Thornton",
+        "rating": 5,
+        "text": "CB Plumbing sorted our boiler out same day \u2014 fast, tidy and a fair price. Wouldn't hesitate to recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah Mitchell",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Fitted our new bathroom suite professionally and cleaned up after himself. Really pleased.",
+        "date": "2024"
+      },
+      {
+        "author": "David Parkin",
+        "rating": 5,
+        "text": "Called about a leak late afternoon and he was round within the hour. Genuine, reliable and got the job done properly. Highly recommended.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Free Quotes Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "CB Plumbing and Heating Solutions delivers reliable, high-quality plumbing and heating work across Sheffield with honest pricing and no hidden extras. From emergency callouts to full boiler installations, we treat every home like our own.",
+    "hero_headline": "Sheffield's Trusted Plumbing and Heating Specialists",
+    "about_paragraph": "I'm the owner of CB Plumbing and Heating Solutions, proudly serving Sheffield and the surrounding areas. I built this business on a simple principle \u2014 do the job right, be honest with customers, and always leave the place tidy. Whether you need a boiler replaced, a leak fixed, or a full central heating installation, you can count on me to get it done properly and at a fair price.",
+    "colour_scheme": {
+      "primary": "#1a5276",
+      "secondary": "#2e86c1",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
