@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Core Industry Ltd",
+    "slug": "core-industry-ltd-sheffield",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Sheffield"
+  },
+  "contact": {
+    "phone": "07794 270191",
+    "address": "25 Totley Grange Dr, Totley, Sheffield S17 4AH",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Dronfield",
+      "Chesterfield",
+      "Rotherham",
+      "Barnsley"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Central Heating Systems",
+    "Emergency Plumbing Repairs",
+    "Bathroom Fitting & Refurbishment",
+    "Leak Detection & Repair",
+    "Radiator Installation & Balancing"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James H",
+        "rating": 5,
+        "text": "Core Industry Ltd sorted a nasty leak under our kitchen sink quickly and at a fair price. Really professional service from start to finish.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Had a new boiler fitted by Core Industry and couldn't be happier. They were on time, tidy, and explained everything clearly. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "David R",
+        "rating": 4,
+        "text": "Good, reliable plumbers. Came out quickly when we had an emergency and got the job done without any fuss. Will definitely use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Sheffield Specialist"
+    ]
+  },
+  "brand": {
+    "tone": "professional and reliable",
+    "usp": "Core Industry Ltd delivers dependable plumbing and heating services across Sheffield, combining trade expertise with honest, straightforward customer care. From routine maintenance to emergency call-outs, we get the job done right first time.",
+    "hero_headline": "Sheffield's Trusted Plumbing & Heating Experts",
+    "about_paragraph": "I'm a qualified plumber based in Totley, Sheffield, and I founded Core Industry Ltd to bring a genuinely professional standard of plumbing and heating work to homeowners and businesses across the area. Whether you need a new boiler, a bathroom refit, or an urgent repair, I take pride in turning up on time, working cleanly, and leaving every job to the highest standard. My customers trust me to be honest about what's needed \u2014 and that's a reputation I work hard to keep.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2c7be5",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
