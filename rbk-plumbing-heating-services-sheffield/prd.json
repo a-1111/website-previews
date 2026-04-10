@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "RBK Plumbing & Heating Services - Boiler Installations Sheffield",
+    "slug": "rbk-plumbing-heating-services-sheffield",
+    "category": "Plumber",
+    "tagline": "Sheffield's Trusted Boiler & Heating Experts"
+  },
+  "contact": {
+    "phone": "07855 241865",
+    "address": "Sheffield, South Yorkshire",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Rotherham",
+      "Barnsley",
+      "Chesterfield",
+      "Doncaster"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installations",
+    "Boiler Servicing & Repairs",
+    "Central Heating System Installation",
+    "Radiator Installation & Replacement",
+    "Gas Safety Checks & Certificates",
+    "Emergency Plumbing Call-Outs"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 43,
+    "sample_reviews": [
+      {
+        "author": "James Thornton",
+        "rating": 5,
+        "text": "RBK fitted a brand new combi boiler for us and the whole job was done cleanly and efficiently. Brilliant service from start to finish \u2014 highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah Mitchell",
+        "rating": 5,
+        "text": "Fantastic, reliable plumbers. They came out quickly when our boiler broke down and had it sorted the same day. Very professional and reasonably priced.",
+        "date": "2024"
+      },
+      {
+        "author": "David Okafor",
+        "rating": 5,
+        "text": "Used RBK for a full central heating installation. Great communication throughout, tidy workers and an excellent finish. Would use again without hesitation.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Worcester Bosch Accredited Installer",
+      "Which? Trusted Trader"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "RBK Plumbing & Heating Services delivers expert boiler installations and heating solutions across Sheffield, combining Gas Safe registered expertise with honest, transparent pricing and a commitment to getting the job done right first time.",
+    "hero_headline": "Expert Boiler Installations Across Sheffield & Beyond",
+    "about_paragraph": "Here at RBK Plumbing & Heating Services, we take pride in delivering reliable, high-quality boiler installations and heating solutions to homes and businesses across Sheffield and the surrounding areas. We're Gas Safe registered and bring years of hands-on experience to every job, whether it's a new boiler installation, a full central heating system, or an emergency call-out. Our goal is simple \u2014 to give every customer a warm, comfortable home and complete peace of mind.",
+    "colour_scheme": {
+      "primary": "#1a4f8a",
+      "secondary": "#e8f0f9",
+      "accent": "#f47b20",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
