@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Plumbing and Heating Sheffield | Trusted Local Plumber</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ===== NAV ===== */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto;
+      height: 68px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      color: #fff;
+      text-decoration: none;
+      letter-spacing: -0.3px;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 10px 22px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 14px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .nav-cta:hover {
+      background: #d97706;
+      transform: translateY(-1px);
+    }
+
+    /* ===== HERO ===== */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary:hover {
+      background: #d97706;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .trust-badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 50px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    /* ===== STATS BAR ===== */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.1;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    /* ===== SERVICES ===== */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .services h2 {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 12px;
+    }
+
+    .services-subtitle {
+      text-align: center;
+      color: var(--muted);
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 28px;
+      margin-bottom: 12px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    /* ===== ABOUT ===== */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: center;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      font-size: 15px;
+      margin-bottom: 16px;
+    }
+
+    .about-right {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .stat-box-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1.1;
+    }
+
+    .stat-box-label {
+      display: block;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+
+    /* ===== REVIEWS ===== */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    .reviews-subtitle {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+      transition: background 0.2s ease;
+    }
+
+    .review-card:hover {
+      background: rgba(255,255,255,0.08);
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 16px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    /* ===== CONTACT ===== */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1000px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.10);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 52px 40px;
+    }
+
+    .contact-left h2 {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 22px;
+      color: #fff;
+      margin-bottom: 28px;
+    }
+
+    .contact-detail {
+      margin-bottom: 24px;
+    }
+
+    .contact-detail-label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: rgba(255,255,255,0.45);
+      margin-bottom: 4px;
+      font-weight: 600;
+    }
+
+    .contact-detail-value {
+      color: #cbd5e1;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 22px;
+      font-weight: 700;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: color 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      color: #d97706;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 52px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      outline: none;
+      transition: border-color 0.2s ease;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 110px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      font-size: 16px;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .form-submit:hover {
+      background: #d97706;
+      transform: translateY(-1px);
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    footer a {
+      color: #94a3b8;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    /* ===== RESPONSIVE ===== */
+    @media (max-width: 768px) {
+      .nav-phone {
+        display: none;
+      }
+
+      .hero h1 {
+        font-size: 36px;
+      }
+
+      .hero {
+        padding: 60px 24px;
+        min-height: 85vh;
+      }
+
+      .hero-sub {
+        font-size: 16px;
+      }
+
+      .hero-buttons {
+        flex-direction: column;
+      }
+
+      .btn-primary, .btn-secondary {
+        text-align: center;
+      }
+
+      .stats-bar {
+        gap: 28px;
+        padding: 24px 20px;
+      }
+
+      .services {
+        padding: 60px 24px;
+      }
+
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+
+      .contact-left, .contact-right {
+        padding: 40px 28px;
+      }
+
+      .reviews {
+        padding: 60px 24px;
+      }
+
+      .contact {
+        padding: 60px 24px;
+      }
+
+      nav {
+        padding: 0 20px;
+      }
+
+      footer {
+        padding: 28px 20px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .about-right {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .trust-badges {
+        gap: 8px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-inner">
+      <a href="#" class="nav-logo">Plumbing and Heating Sheffield</a>
+      <div class="nav-right">
+        <a href="tel:07354054332" class="nav-phone">07354 054332</a>
+        <a href="tel:07354054332" class="nav-cta">Get a Free Quote</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Sheffield's Trusted Plumbing and Heating Experts</h1>
+      <p class="hero-sub">A trusted local Sheffield plumber offering fast, reliable plumbing and heating services at honest, competitive prices. From emergency callouts to full boiler installations, we get the job done right first time.</p>
+      <div class="hero-buttons">
+        <a href="tel:07354054332" class="btn-primary">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary">Contact Us</a>
+      </div>
+      <div class="trust-badges">
+        <span class="trust-badge">✔ Gas Safe Registered</span>
+        <span class="trust-badge">✔ CHAS Accredited</span>
+        <span class="trust-badge">✔ Fully Insured</span>
+        <span class="trust-badge">✔ Local Sheffield Tradesman</span>
+        <span class="trust-badge">✔ Emergency Callouts Available</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stat-item">
+      <span class="stat-number">4.8★</span>
+      <span class="stat-label">Google Rating</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">34+</span>
+      <span class="stat-label">5-Star Reviews</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">5</span>
+      <span class="stat-label">Areas Served</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-number">24/7</span>
+      <span class="stat-label">Emergency Callouts</span>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services" id="services">
+    <h2>Our Services</h2>
+    <p class="services-subtitle">Comprehensive plumbing and heating solutions across Sheffield and surrounding areas</p>
+    <div class="services-grid">
+      <div class="service-card">
+        <span class="service-icon">🔥</span>
+        <h3>Boiler Installation and Servicing</h3>
+        <p>Expert boiler installation, replacement, and annual servicing to keep your home warm and your system running efficiently all year round.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🏠</span>
+        <h3>Central Heating Systems</h3>
+        <p>Full central heating system design, installation, and upgrades. We ensure efficient, reliable heating throughout your home or business.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🚨</span>
+        <h3>Emergency Plumbing Repairs</h3>
+        <p>Available for emergency callouts when you need us most. Burst pipes, severe leaks, and urgent plumbing issues dealt with promptly and professionally.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🛁</span>
+        <h3>Bathroom Fitting and Renovation</h3>
+        <p>Complete bathroom fitting and renovation services, from full suite installations to individual fixture replacements, finished to the highest standard.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔧</span>
+        <h3>Radiator Installation and Repair</h3>
+        <p>New radiator installation, bleeding, balancing, and repairs to restore your heating system to full performance quickly and efficiently.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">💧</span>
+        <h3>Leak Detection and Pipe Repairs</h3>
+        <p>Accurate leak detection and professional pipe repair services to protect your property from water damage and costly long-term issues.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Sheffield's Reliable Local Plumber</h2>
+        <p>I'm a fully qualified and Gas Safe registered plumber based right here in Sheffield S6, serving homeowners and businesses across the city and surrounding areas. Whether you've got a dripping tap, a broken boiler, or need a full central heating system installed, I'm here to help with prompt, professional service.</p>
+        <p>I believe in fair pricing, quality workmanship, and leaving every job as clean and tidy as I found it. Covering Sheffield, Rotherham, Barnsley, Doncaster, and Chesterfield — you can count on fast, honest, and dependable service every time.</p>
+        <p>From small repairs to major installations, no job is too big or too small. Get in touch today for a free, no-obligation quote.</p>
+      </div>
+      <div class="about-right">
+        <div class="stat-box">
+          <span class="stat-box-number">4.8★</span>
+          <span class="stat-box-label">Google Rating</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-box-number">34+</span>
+          <span class="stat-box-label">Happy Customers</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-box-number">5</span>
+          <span class="stat-box-label">Areas Covered</span>
+        </div>
+        <div class="stat-box">
+          <span class="stat-box-number">100%</span>
+          <span class="stat-box-label">Gas Safe Registered</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews" id="reviews">
+    <h2>What Our Customers Say</h2>
+    <p class="reviews-subtitle">Rated 4.8 out of 5 from 34 Google reviews</p>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Called out for an emergency leak and arrived within the hour. Fixed the problem quickly and left everything clean and tidy. Highly recommended!"</p>
+        <span class="review-author">James Hartley &mdash; 2024</span>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Had a new boiler fitted at a very competitive price. The work was completed on time and to a great standard. Very professional throughout."</p>
+        <span class="review-author">Sarah Bowen &mdash; 2024</span>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Brilliant service from start to finish. Very knowledgeable, honest about costs, and did a fantastic job on our central heating system. Will definitely use again."</p>
+        <span class="review-author">Mark Ashton &mdash; 2024</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h2>Plumbing and Heating Sheffield</h2>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Phone</div>
+          <a href="tel:07354054332" class="contact-phone-link">07354 054332</a>
+        </div>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Address</div>
+          <div class="contact-detail-value">64 Cowper Cres<br>Sheffield S6 1AW</div>
+        </div>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Opening Hours</div>
+          <div class="contact-detail-value">
+            Monday – Friday: 8am – 6pm<br>
+            Saturday: 9am – 4pm<br>
+            Sunday: Closed<br>
+            <span style="color: var(--accent); font-weight: 600;">Emergency callouts available</span>
+          </div>
+        </div>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Areas Covered</div>
+          <div class="contact-detail-value">Sheffield, Rotherham, Barnsley,<br>Doncaster, Chesterfield</div>
+        </div>
+      </div>
+
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">How Can We Help?</label>
+            <textarea id="message" name="message" placeholder="Describe your plumbing or heating job..."></textarea>
+          </div>
+          <button type="submit" class="form-submit">Get a Free Quote</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>
+      <strong style="color:#fff;">Plumbing and Heating Sheffield</strong> &nbsp;|&nbsp;
+      <a href="tel:07354054332">07354 054332</a> &nbsp;|&nbsp;
+      64 Cowper Cres, Sheffield S6 1AW
+    </p>
+    <p style="margin-top: 8px;">
+      Gas Safe Registered &nbsp;|&nbsp; Fully Insured &nbsp;|&nbsp; Serving Sheffield, Rotherham, Barnsley, Doncaster &amp; Chesterfield
+    </p>
+    <p style="margin-top: 8px;">&copy; 2024 Plumbing and Heating Sheffield. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>

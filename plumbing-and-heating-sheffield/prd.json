@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Plumbing and Heating Sheffield",
+    "slug": "plumbing-and-heating-sheffield",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing and Heating You Can Trust"
+  },
+  "contact": {
+    "phone": "07354 054332",
+    "address": "64 Cowper Cres, Sheffield S6 1AW",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Rotherham",
+      "Barnsley",
+      "Doncaster",
+      "Chesterfield"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation and Servicing",
+    "Central Heating Systems",
+    "Emergency Plumbing Repairs",
+    "Bathroom Fitting and Renovation",
+    "Radiator Installation and Repair",
+    "Leak Detection and Pipe Repairs"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James Hartley",
+        "rating": 5,
+        "text": "Called out for an emergency leak and arrived within the hour. Fixed the problem quickly and left everything clean and tidy. Highly recommended!",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah Bowen",
+        "rating": 5,
+        "text": "Had a new boiler fitted at a very competitive price. The work was completed on time and to a great standard. Very professional throughout.",
+        "date": "2024"
+      },
+      {
+        "author": "Mark Ashton",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Very knowledgeable, honest about costs, and did a fantastic job on our central heating system. Will definitely use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Sheffield Tradesman"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "A trusted local Sheffield plumber offering fast, reliable plumbing and heating services at honest, competitive prices. From emergency callouts to full boiler installations, we get the job done right first time.",
+    "hero_headline": "Sheffield's Trusted Plumbing and Heating Experts",
+    "about_paragraph": "I'm a fully qualified and Gas Safe registered plumber based right here in Sheffield S6, serving homeowners and businesses across the city and surrounding areas. Whether you've got a dripping tap, a broken boiler, or need a full central heating system installed, I'm here to help with prompt, professional service. I believe in fair pricing, quality workmanship, and leaving every job as clean and tidy as I found it.",
+    "colour_scheme": {
+      "primary": "#1a5276",
+      "secondary": "#2e86c1",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
