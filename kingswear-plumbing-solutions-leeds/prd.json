@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Kingswear Plumbing Solutions",
+    "slug": "kingswear-plumbing-solutions-leeds",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing You Can Count On"
+  },
+  "contact": {
+    "phone": "07451 287451",
+    "address": "123 Albion St, Leeds LS2 8ER",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Bradford",
+      "Wakefield",
+      "Harrogate",
+      "Wetherby"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Emergency Leak Repairs",
+    "Bathroom Fitting & Renovation",
+    "Central Heating Installation",
+    "Blocked Drains & Toilets",
+    "Radiator Installation & Repair"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 43,
+    "sample_reviews": [
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Kingswear Plumbing Solutions were fantastic \u2014 arrived on time, sorted our burst pipe quickly and left the place spotless. Highly recommend!",
+        "date": "2024"
+      },
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Very professional and reasonably priced. Had a new boiler fitted and the whole job was completed in a day. No fuss, no mess. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Linda H.",
+        "rating": 4,
+        "text": "Called them out for a blocked drain on a Saturday and they were there within the hour. Friendly service and fair pricing. Would recommend to anyone in Leeds.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Leeds Plumber"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Kingswear Plumbing Solutions delivers fast, reliable plumbing across Leeds with transparent pricing and no call-out surprises. From emergency repairs to full bathroom renovations, we get the job done right first time.",
+    "hero_headline": "Leeds Plumbers You Can Truly Rely On",
+    "about_paragraph": "We're Kingswear Plumbing Solutions, your local plumbing experts based right here in Leeds. We take pride in delivering honest, high-quality workmanship on every job \u2014 whether it's a quick fix or a full installation. From emergency call-outs to planned renovations, we're here when you need us most.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86de",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
