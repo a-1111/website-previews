@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "MNS Plumbing & DIY Ltd",
+    "slug": "mns-plumbing-diy-sheffield",
+    "category": "Plumbers' Merchant",
+    "tagline": "Your Local Trade Supplies in Sheffield"
+  },
+  "contact": {
+    "phone": "07488 588876",
+    "address": "622 Staniforth Rd, Darnall, Sheffield S9 4LN",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Rotherham",
+      "Barnsley",
+      "Doncaster",
+      "Chesterfield"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7:30am - 5:30pm",
+    "saturday": "8am - 1pm",
+    "sunday": "Closed",
+    "emergency_callout": false
+  },
+  "services": [
+    "Plumbing Supplies & Materials",
+    "DIY Tools & Equipment",
+    "Pipe Fittings & Valves",
+    "Bathroom & Heating Products",
+    "Boiler & Heating Spares",
+    "Trade & Retail Counter Sales"
+  ],
+  "social_proof": {
+    "google_rating": 4.5,
+    "review_count": 18,
+    "sample_reviews": [
+      {
+        "author": "Dave H",
+        "rating": 5,
+        "text": "Great little merchant with everything you need for plumbing jobs. Staff are knowledgeable and prices are competitive. My go-to trade counter in Sheffield.",
+        "date": "2024"
+      },
+      {
+        "author": "Mark T",
+        "rating": 4,
+        "text": "Handy location in Darnall, always have the parts I need in stock. Much quicker than ordering online when you need something urgently.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah W",
+        "rating": 5,
+        "text": "Really helpful team who gave great advice on my DIY bathroom project. Good range of products at fair prices. Would definitely recommend.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Trade Counter",
+      "DIY Supplies",
+      "Local Independent Merchant"
+    ]
+  },
+  "brand": {
+    "tone": "practical and approachable",
+    "usp": "MNS Plumbing & DIY Ltd is your local independent trade counter in Sheffield, offering a wide range of plumbing supplies and DIY materials for both tradespeople and home improvers. We stock what you need when you need it, so you can get the job done without delay.",
+    "hero_headline": "Sheffield's Trusted Plumbing & DIY Supplies",
+    "about_paragraph": "We're MNS Plumbing & DIY Ltd, based right here in Darnall, Sheffield, and we're proud to serve local tradespeople and DIY enthusiasts with quality plumbing supplies and materials. Whether you're a professional plumber needing trade parts or a homeowner tackling a weekend project, we've got you covered at our convenient Staniforth Road trade counter. Come in, speak to our friendly team, and let us help you find exactly what you need.",
+    "colour_scheme": {
+      "primary": "#1a3a5c",
+      "secondary": "#2e7fc1",
+      "accent": "#f4a400",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
