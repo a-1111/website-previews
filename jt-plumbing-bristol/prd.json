@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "JT Plumbing",
+    "slug": "jt-plumbing-bristol",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Bristol"
+  },
+  "contact": {
+    "phone": "07817 850729",
+    "address": "64 Malvern Rd, Bristol BS5 8JB",
+    "city": "Bristol",
+    "service_area": [
+      "Bristol",
+      "Kingswood",
+      "Fishponds",
+      "Easton",
+      "Redfield"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Repairs & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Installations",
+    "Central Heating Systems",
+    "Emergency Plumbing Callouts",
+    "Radiator Installation & Replacement"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Mark T",
+        "rating": 5,
+        "text": "JT Plumbing sorted our leaking pipe quickly and at a fair price. Friendly, professional and no mess left behind. Would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah L",
+        "rating": 5,
+        "text": "Called out for an emergency and they arrived within the hour. Excellent service, very knowledgeable. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave R",
+        "rating": 4,
+        "text": "Great local plumber. Fixed our boiler issue same day. Honest about what was needed and didn't try to oversell anything.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Local Bristol Trader"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "JT Plumbing brings fast, reliable plumbing services to homes across Bristol with honest pricing and no hidden charges. From emergency callouts to full bathroom fits, we get the job done right first time.",
+    "hero_headline": "Bristol's Trusted Plumber \u2014 Available When You Need Us",
+    "about_paragraph": "I'm the owner of JT Plumbing, based right here in Bristol BS5, and I've been serving local homeowners with honest, high-quality plumbing work for years. Whether it's a dripping tap, a full bathroom installation, or an urgent leak, I treat every job with the same care and attention I'd want in my own home. You can always reach me directly on my mobile \u2014 no call centres, just straightforward service you can rely on.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86c1",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
