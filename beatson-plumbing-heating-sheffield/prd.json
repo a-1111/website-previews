@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Beatson Plumbing & Heating Ltd",
+    "slug": "beatson-plumbing-heating-sheffield",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing & Heating Sheffield Trusts"
+  },
+  "contact": {
+    "phone": "07915 774112",
+    "address": "Sheffield, South Yorkshire",
+    "city": "Sheffield",
+    "service_area": [
+      "Sheffield",
+      "Rotherham",
+      "Barnsley",
+      "Chesterfield",
+      "Doncaster"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repair",
+    "Central Heating Systems",
+    "Emergency Plumbing Callouts",
+    "Bathroom Fitting & Installation",
+    "Radiator Installation & Power Flushing"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Beatson sorted our boiler out same day \u2014 really professional, tidy and great value. Wouldn't hesitate to recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Turned up on time, explained everything clearly and left no mess. Very impressed.",
+        "date": "2024"
+      },
+      {
+        "author": "David H",
+        "rating": 5,
+        "text": "Used Beatson Plumbing for a full bathroom refit. Excellent workmanship and fairly priced. Will definitely use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Sheffield Business"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Beatson Plumbing & Heating Ltd delivers fast, reliable plumbing and heating services across Sheffield and South Yorkshire, with Gas Safe registered engineers you can trust.",
+    "hero_headline": "Sheffield's Trusted Plumbing & Heating Experts",
+    "about_paragraph": "We're Beatson Plumbing & Heating Ltd, a Sheffield-based plumbing and heating company proud to serve homes and businesses across South Yorkshire. From boiler breakdowns to full central heating installations, we bring expertise, reliability and honest pricing to every job. Give us a call and we'll get it sorted \u2014 quickly and properly.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e8f0fa",
+      "accent": "#f5a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
