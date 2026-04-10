@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Annes Plumbing & Heating",
+    "slug": "annes-plumbing-heating-leeds",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing & Heating Across Leeds"
+  },
+  "contact": {
+    "phone": "07451 287494",
+    "address": "25 New Briggate, Leeds LS2 8JD",
+    "city": "Leeds",
+    "service_area": [
+      "Leeds",
+      "Bradford",
+      "Wakefield",
+      "Harrogate",
+      "Pudsey"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Central Heating Repairs",
+    "Emergency Plumbing Callouts",
+    "Bathroom Fitting & Refurbishment",
+    "Radiator Installation & Bleeding",
+    "Leak Detection & Pipe Repairs"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Anne came out within hours of me calling with a burst pipe. Sorted it quickly and left everything clean and tidy. Absolutely brilliant service.",
+        "date": "2024"
+      },
+      {
+        "author": "David T",
+        "rating": 5,
+        "text": "Had a new boiler fitted and the whole job was done professionally and at a great price. Would highly recommend to anyone in Leeds.",
+        "date": "2024"
+      },
+      {
+        "author": "Karen L",
+        "rating": 4,
+        "text": "Reliable, friendly and honest. Anne explained everything clearly before starting and the price matched the quote exactly. Really pleased.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Free Quotes Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Annes Plumbing & Heating brings honest, reliable plumbing and heating solutions to homes and businesses across Leeds, with a personal touch you can trust.",
+    "hero_headline": "Leeds Plumbing & Heating You Can Rely On",
+    "about_paragraph": "Hi, I'm Anne \u2014 a fully qualified and Gas Safe registered plumber based in Leeds. I've built my business on honest advice, fair pricing and turning up when I say I will. Whether you need an emergency callout, a new boiler, or a full bathroom refit, I'm here to help and won't leave until the job's done properly.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e8f0fe",
+      "accent": "#f4a423",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
