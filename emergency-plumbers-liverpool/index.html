@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Emergency Plumbers Liverpool – 24/7 Emergency Plumbing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ===== NAV ===== */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto;
+      height: 68px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      color: #fff;
+      text-decoration: none;
+      line-height: 1.2;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-weight: 600;
+      font-size: 15px;
+      text-decoration: none;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: opacity 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .nav-cta:hover {
+      opacity: 1.88;
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 0 20px;
+      }
+
+      .nav-phone {
+        display: none;
+      }
+
+      .nav-logo {
+        font-size: 15px;
+      }
+    }
+
+    /* ===== HERO ===== */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      font-family: 'Poppins', sans-serif;
+      text-decoration: none;
+      transition: opacity 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary:hover {
+      opacity: 1.88;
+    }
+
+    .btn-secondary {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      font-family: 'Poppins', sans-serif;
+      text-decoration: none;
+      transition: background 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+    }
+
+    .trust-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 32px;
+      flex-wrap: wrap;
+    }
+
+    .trust-badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 18px;
+      border-radius: 999px;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: auto;
+      }
+
+      .hero h1 {
+        font-size: 36px;
+      }
+
+      .hero-sub {
+        font-size: 16px;
+      }
+
+      .btn-primary, .btn-secondary {
+        padding: 14px 24px;
+        font-size: 15px;
+      }
+    }
+
+    /* ===== STATS BAR ===== */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+    }
+
+    .stats-bar-inner {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      max-width: 1200px;
+      margin: 0 auto;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 600px) {
+      .stats-bar-inner {
+        gap: 28px;
+      }
+
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* ===== SERVICES ===== */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .services-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .section-heading {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 28px;
+      margin-bottom: 14px;
+      display: block;
+    }
+
+    .service-title {
+      font-family: 'Poppins', sans-serif;
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-text {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== ABOUT ===== */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      font-size: 15px;
+      margin-bottom: 14px;
+    }
+
+    .about-stats-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 34px;
+      font-weight: 800;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .about-stat-label {
+      display: block;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ===== REVIEWS ===== */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    .reviews-subheading {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 15px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+      transition: border-color 0.2s ease;
+    }
+
+    .review-card:hover {
+      border-color: rgba(255,255,255,0.25);
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 16px;
+      letter-spacing: 2px;
+      margin-bottom: 14px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== CONTACT ===== */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .contact-heading {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 48px;
+    }
+
+    .contact-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.1);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left-name {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 28px;
+      line-height: 1.2;
+    }
+
+    .contact-detail {
+      margin-bottom: 20px;
+    }
+
+    .contact-detail-label {
+      font-size: 12px;
+      font-weight: 600;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 4px;
+    }
+
+    .contact-detail-value {
+      color: #cbd5e1;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-family: 'Poppins', sans-serif;
+      font-size: 26px;
+      font-weight: 700;
+      text-decoration: none;
+      display: block;
+      margin-top: 2px;
+      transition: opacity 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      opacity: 1.8;
+    }
+
+    .contact-hours-grid {
+      display: grid;
+      gap: 6px;
+    }
+
+    .contact-hours-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 13px;
+    }
+
+    .contact-hours-day {
+      color: rgba(255,255,255,0.6);
+    }
+
+    .contact-hours-time {
+      color: #fff;
+      font-weight: 600;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      outline: none;
+      transition: border-color 0.2s ease;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      font-size: 15px;
+      font-family: 'Poppins', sans-serif;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      transition: opacity 0.2s ease;
+    }
+
+    .form-submit:hover {
+      opacity: 1.88;
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        padding: 60px 20px;
+      }
+
+      .contact-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .contact-left, .contact-right {
+        padding: 36px 28px;
+      }
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+    }
+
+    .footer-text {
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .footer-text a {
+      color: #94a3b8;
+      text-decoration: none;
+    }
+
+    .footer-text a:hover {
+      color: var(--accent);
+    }
+
+    .footer-sep {
+      margin: 0 10px;
+      color: #374151;
+    }
+
+    @media (max-width: 600px) {
+      footer {
+        padding: 28px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-inner">
+      <a href="#" class="nav-logo">Emergency Plumbers Liverpool</a>
+      <div class="nav-right">
+        <a href="tel:07785716702" class="nav-phone">07785 716702</a>
+        <a href="tel:07785716702" class="nav-cta">Get a Free Quote</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Liverpool's 24/7 Emergency Plumbers — We're On Our Way</h1>
+      <p class="hero-sub">Liverpool's trusted 24/7 emergency plumbers, responding fast day or night to get your home back to normal with no hidden charges.</p>
+      <div class="hero-buttons">
+        <a href="tel:07785716702" class="btn-primary">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary">Contact Us</a>
+      </div>
+      <div class="trust-badges">
+        <span class="trust-badge">Gas Safe Registered</span>
+        <span class="trust-badge">CHAS Accredited</span>
+        <span class="trust-badge">24/7 Emergency Response</span>
+        <span class="trust-badge">No Call-Out Fee</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stats-bar-inner">
+      <div class="stat-item">
+        <span class="stat-number">4.7★</span>
+        <span class="stat-label">Google Rating</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">38+</span>
+        <span class="stat-label">Verified Reviews</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">24/7</span>
+        <span class="stat-label">Emergency Response</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">5</span>
+        <span class="stat-label">Areas Served</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services" id="services">
+    <div class="services-inner">
+      <h2 class="section-heading">Our Plumbing Services</h2>
+      <div class="services-grid">
+
+        <div class="service-card">
+          <span class="service-icon">🚰</span>
+          <div class="service-title">Emergency Burst Pipe Repair</div>
+          <p class="service-text">Burst pipes can cause serious damage in minutes. Our emergency team is on call 24/7 to reach you fast, stop the leak and carry out a lasting repair.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🔥</span>
+          <div class="service-title">Boiler Breakdown &amp; Repair</div>
+          <p class="service-text">No heating or hot water? We diagnose and repair all makes and models of boiler, any time of day or night — including bank holidays.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🚽</span>
+          <div class="service-title">Blocked Drains &amp; Toilets</div>
+          <p class="service-text">Blocked drains and toilets are a sanitary emergency. We clear blockages quickly and effectively to get everything flowing freely again.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🔍</span>
+          <div class="service-title">Leak Detection &amp; Repair</div>
+          <p class="service-text">Hidden leaks can cause lasting structural damage. We use specialist equipment to pinpoint the source and repair it with minimal disruption.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">🌡️</span>
+          <div class="service-title">Radiator Installation &amp; Repair</div>
+          <p class="service-text">Cold radiators or uneven heating throughout your home? We install, replace and repair radiators to restore warmth quickly and efficiently.</p>
+        </div>
+
+        <div class="service-card">
+          <span class="service-icon">⚙️</span>
+          <div class="service-title">Central Heating Servicing</div>
+          <p class="service-text">Keep your central heating running at peak efficiency with a full system service. We check, clean and optimise every component for reliable performance.</p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Liverpool's Trusted Round-the-Clock Plumbing Specialists</h2>
+        <p>We are Emergency Plumbers Liverpool, your local round-the-clock plumbing specialists covering Liverpool and the surrounding areas. Whether it's a burst pipe at midnight or a boiler breakdown on a bank holiday, we're always just one call away.</p>
+        <p>We take pride in arriving fast, being upfront about costs, and leaving every job done properly first time. No hidden charges, no surprises — just reliable, professional plumbing when you need it most.</p>
+        <p>Serving Liverpool, Bootle, Kirkby, Huyton and the Wirral, our fully qualified and Gas Safe registered engineers bring the expertise and equipment to handle any plumbing emergency, any time.</p>
+      </div>
+      <div class="about-right">
+        <div class="about-stats-grid">
+          <div class="about-stat-box">
+            <span class="about-stat-number">24/7</span>
+            <span class="about-stat-label">Always Available</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-number">4.7★</span>
+            <span class="about-stat-label">Google Rating</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-number">38+</span>
+            <span class="about-stat-label">Happy Customers</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-number">5</span>
+            <span class="about-stat-label">Areas Covered</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews" id="reviews">
+    <div class="reviews-inner">
+      <h2>What Our Customers Say</h2>
+      <p class="reviews-subheading">Rated 4.7 out of 5 on Google from 38 reviews</p>
+      <div class="reviews-grid">
+
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"Arrived within the hour on a Sunday night when our pipe burst. Sorted it quickly and didn't charge a fortune. Brilliant service."</p>
+          <span class="review-author">Sarah M — 2024</span>
+        </div>
+
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"Boiler packed in on Christmas Eve and these lads came out and had it fixed in no time. Absolutely saved us. Highly recommend."</p>
+          <span class="review-author">James T — 2024</span>
+        </div>
+
+        <div class="review-card">
+          <div class="stars">★★★★</div>
+          <p class="review-text">"Very professional and honest. Gave a clear price before starting and stuck to it. Will definitely use again."</p>
+          <span class="review-author">Linda K — 2024</span>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <div class="contact-inner">
+      <h2 class="contact-heading">Get in Touch</h2>
+      <div class="contact-grid">
+
+        <div class="contact-left">
+          <div class="contact-left-name">Emergency Plumbers Liverpool</div>
+
+          <div class="contact-detail">
+            <div class="contact-detail-label">Address</div>
+            <div class="contact-detail-value">Liverpool, Merseyside</div>
+          </div>
+
+          <div class="contact-detail">
+            <div class="contact-detail-label">Phone</div>
+            <a href="tel:07785716702" class="contact-phone-link">07785 716702</a>
+          </div>
+
+          <div class="contact-detail">
+            <div class="contact-detail-label">Areas Covered</div>
+            <div class="contact-detail-value">Liverpool, Bootle, Kirkby, Huyton, Wirral</div>
+          </div>
+
+          <div class="contact-detail">
+            <div class="contact-detail-label">Opening Hours</div>
+            <div class="contact-hours-grid">
+              <div class="contact-hours-row">
+                <span class="contact-hours-day">Monday – Friday</span>
+                <span class="contact-hours-time">24 Hours</span>
+              </div>
+              <div class="contact-hours-row">
+                <span class="contact-hours-day">Saturday</span>
+                <span class="contact-hours-time">24 Hours</span>
+              </div>
+              <div class="contact-hours-row">
+                <span class="contact-hours-day">Sunday</span>
+                <span class="contact-hours-time">24 Hours</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="contact-right">
+          <h3>Send Us a Message</h3>
+          <form>
+            <div class="form-group">
+              <label for="name">Full Name</label>
+              <input type="text" id="name" name="name" placeholder="Your name" />
+            </div>
+            <div class="form-group">
+              <label for="phone">Phone Number</label>
+              <input type="tel" id="phone" name="phone" placeholder="Your phone number" />
+            </div>
+            <div class="form-group">
+              <label for="message">Message</label>
+              <textarea id="message" name="message" placeholder="Tell us about your plumbing issue…"></textarea>
+            </div>
+            <button type="submit" class="form-submit">Get a Free Quote</button>
+          </form>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-text">
+      <strong style="color:#fff;">Emergency Plumbers Liverpool</strong>
+      <span class="footer-sep">|</span>
+      <a href="tel:07785716702">07785 716702</a>
+      <span class="footer-sep">|</span>
+      Liverpool, Merseyside
+      <br />
+      <span style="margin-top:8px;display:inline-block;">&copy; 2024 Emergency Plumbers Liverpool. All rights reserved.</span>
+    </div>
+  </footer>
+
+</body>
+</html>
