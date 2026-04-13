@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "5 Point Plumbing",
+    "slug": "5-point-plumbing-liverpool",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Liverpool"
+  },
+  "contact": {
+    "phone": "07384 366848",
+    "address": "Liverpool, Merseyside",
+    "city": "Liverpool",
+    "service_area": [
+      "Liverpool",
+      "Bootle",
+      "Crosby",
+      "Kirkby",
+      "Huyton"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Installation",
+    "Central Heating Systems",
+    "Blocked Drains & Toilets",
+    "Emergency Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Arrived on time, fixed our leaking pipe quickly and left everything spotless. Would highly recommend 5 Point Plumbing.",
+        "date": "2024"
+      },
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Called them out for an emergency on a Saturday morning and they were with us within the hour. Professional, friendly and very reasonably priced. Top lads.",
+        "date": "2024"
+      },
+      {
+        "author": "Karen L",
+        "rating": 4,
+        "text": "Had a new bathroom fitted and the quality of the work was excellent. Really tidy job and they kept us informed throughout. Very happy with the results.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Liverpool Trades"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "5 Point Plumbing delivers fast, reliable plumbing services across Liverpool with transparent pricing and no hidden extras. From emergency callouts to full bathroom installs, we take pride in every job we do.",
+    "hero_headline": "Liverpool's Trusted Plumbers, Ready When You Need Us",
+    "about_paragraph": "I'm the founder of 5 Point Plumbing and I've been keeping Liverpool homes and businesses running smoothly for years. We believe in honest pricing, quality workmanship, and turning up when we say we will \u2014 every single time. Whether it's a dripping tap or a full central heating installation, we treat every job with the same care and attention.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86c1",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
