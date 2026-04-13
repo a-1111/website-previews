@@ -1,0 +1,84 @@
+{
+  "business": {
+    "name": "Daniel H Plumbing Bristol",
+    "slug": "daniel-h-plumbing-bristol",
+    "category": "Gas Engineer",
+    "tagline": "Your Local Gas Expert in Bristol"
+  },
+  "contact": {
+    "phone": "07803 468317",
+    "address": "Bristol, BS1",
+    "city": "Bristol",
+    "service_area": [
+      "Bristol",
+      "Bath",
+      "Clifton",
+      "Bedminster",
+      "Filton"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Gas Boiler Installation & Replacement",
+    "Boiler Servicing & Maintenance",
+    "Central Heating System Installation",
+    "Gas Leak Detection & Repair",
+    "Landlord Gas Safety Certificates (CP12)",
+    "Radiator Installation & Repair"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Daniel was prompt, professional and sorted our boiler out quickly. Highly recommend for anyone needing a reliable gas engineer in Bristol.",
+        "date": "2024"
+      },
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Excellent service from start to finish. Fair pricing and great communication throughout. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Claire B",
+        "rating": 5,
+        "text": "Called Daniel for an emergency gas issue and he was with us within the hour. Fantastic response time and very knowledgeable.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "A trusted, Gas Safe registered engineer delivering honest, reliable gas and heating services across Bristol and the surrounding areas. No call-out surprises \u2014 just straightforward expertise you can count on.",
+    "hero_headline": "Bristol's Trusted Gas Engineer \u2014 Call Today",
+    "about_paragraph": "I'm Daniel, a Gas Safe registered engineer based in Bristol with years of hands-on experience in boiler installations, servicing, and central heating. I take pride in offering honest advice, competitive pricing, and a friendly service that puts my customers first. Whether it's a routine boiler service or an emergency call-out, I'm here to help.",
+    "colour_scheme": {
+      "primary": "#1a3c6e",
+      "secondary": "#e87722",
+      "accent": "#f4a228",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
