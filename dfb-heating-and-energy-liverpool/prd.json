@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "DFB Heating and Energy Ltd",
+    "slug": "dfb-heating-and-energy-liverpool",
+    "category": "Gas Engineer",
+    "tagline": "Keeping Liverpool Warm, Safe and Efficient"
+  },
+  "contact": {
+    "phone": "07516 092282",
+    "address": "48-52 Penny Ln, Liverpool L18 1DG",
+    "city": "Liverpool",
+    "service_area": [
+      "Liverpool",
+      "Wavertree",
+      "Aigburth",
+      "Mossley Hill",
+      "Woolton"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation and Replacement",
+    "Boiler Servicing and Repairs",
+    "Central Heating System Installation",
+    "Gas Safety Certificates and Checks",
+    "Energy Efficiency Assessments",
+    "Emergency Heating Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Michael T",
+        "rating": 5,
+        "text": "DFB fitted a new boiler for us quickly and professionally. Brilliant service from start to finish \u2014 would highly recommend to anyone in Liverpool.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah L",
+        "rating": 5,
+        "text": "Called out for a heating emergency and they arrived within a couple of hours. Friendly, knowledgeable and very fairly priced. Excellent company.",
+        "date": "2024"
+      },
+      {
+        "author": "James R",
+        "rating": 5,
+        "text": "Had my annual boiler service done by DFB Heating. Really thorough job and they gave useful advice on improving my home's energy efficiency. Great lads.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Free Quotes Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "DFB Heating and Energy Ltd combines expert gas engineering with a genuine focus on energy efficiency, helping Liverpool homeowners stay warm while reducing their energy bills. We're Gas Safe registered and committed to honest, reliable service every time.",
+    "hero_headline": "Expert Heating and Gas Engineers in Liverpool",
+    "about_paragraph": "We're DFB Heating and Energy Ltd, based right here in Liverpool on Penny Lane, and we're proud to serve homeowners and businesses across the local area. From new boiler installations to full central heating systems and gas safety checks, we bring expertise, reliability and a friendly face to every job. Our focus on energy efficiency means we don't just fix problems \u2014 we help you save money in the long run.",
+    "colour_scheme": {
+      "primary": "#e84118",
+      "secondary": "#2c3e50",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
