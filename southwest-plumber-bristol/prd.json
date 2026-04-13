@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Southwest Plumber - Emergency Plumbing & Heating",
+    "slug": "southwest-plumber-bristol",
+    "category": "Plumber",
+    "tagline": "Fast Emergency Plumbing, Day or Night"
+  },
+  "contact": {
+    "phone": "07379 475143",
+    "address": "61 Broad St, Bristol BS1 2EJ",
+    "city": "Bristol",
+    "service_area": [
+      "Bristol",
+      "Bath",
+      "Clevedon",
+      "Weston-super-Mare",
+      "Keynsham"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7am - 8pm",
+    "saturday": "8am - 6pm",
+    "sunday": "9am - 4pm",
+    "emergency_callout": true
+  },
+  "services": [
+    "Emergency Plumbing Callouts",
+    "Boiler Repair & Servicing",
+    "Central Heating Installation",
+    "Leak Detection & Repair",
+    "Bathroom Fitting & Plumbing",
+    "Radiator Installation & Replacement"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Called Southwest Plumber at 10pm with a burst pipe and they were with me within the hour. Sorted the problem quickly and the price was fair. Absolute lifesavers!",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Had my boiler serviced and a leaking radiator fixed on the same visit. Very professional, tidy and explained everything clearly. Would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "David R.",
+        "rating": 4,
+        "text": "Reliable and honest plumber in Bristol. Arrived on time, fixed the issue with our bathroom tap and didn't charge the earth. Will definitely use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "24/7 Emergency Service",
+      "Fully Insured"
+    ]
+  },
+  "brand": {
+    "tone": "professional and reassuring",
+    "usp": "Bristol's trusted emergency plumber, available around the clock to fix leaks, boiler faults and heating problems fast. No call-out fee during business hours and transparent pricing every time.",
+    "hero_headline": "Bristol's Emergency Plumber, Ready When You Need Us",
+    "about_paragraph": "I'm the team behind Southwest Plumber, serving Bristol and the surrounding Avon area with fast, reliable plumbing and heating solutions. Whether you've got a burst pipe in the middle of the night or need your boiler serviced before winter, we're here to help without the stress. We pride ourselves on honest pricing, prompt response times, and leaving your home as tidy as we found it.",
+    "colour_scheme": {
+      "primary": "#005f8e",
+      "secondary": "#0099cc",
+      "accent": "#f4a61c",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
