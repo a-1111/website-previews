@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "DD Plumbing and Heating",
+    "slug": "dd-plumbing-and-heating-liverpool",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing and Heating Solutions Liverpool"
+  },
+  "contact": {
+    "phone": "07888 056521",
+    "address": "5 Silverdale Ave, Tuebrook, Liverpool L13 7EY",
+    "city": "Liverpool",
+    "service_area": [
+      "Liverpool",
+      "Tuebrook",
+      "Wavertree",
+      "West Derby",
+      "Knotty Ash"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation and Servicing",
+    "Central Heating Repairs",
+    "Emergency Plumbing Callouts",
+    "Bathroom Fitting and Repairs",
+    "Leak Detection and Repair",
+    "Radiator Installation and Balancing"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "DD Plumbing sorted our boiler out same day \u2014 fast, tidy and very fairly priced. Would highly recommend to anyone in Liverpool.",
+        "date": "2024"
+      },
+      {
+        "author": "James H",
+        "rating": 5,
+        "text": "Called out for a burst pipe and they arrived within the hour. Professional job and left everything spotless. Brilliant service.",
+        "date": "2024"
+      },
+      {
+        "author": "Claire W",
+        "rating": 5,
+        "text": "Had a new bathroom fitted and the quality of work was excellent. Honest pricing and kept us informed throughout. Really happy customers.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Liverpool Tradesman"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Liverpool-based plumbing and heating specialists offering fast, reliable service at honest prices. From emergency callouts to full boiler installations, we treat every home like our own.",
+    "hero_headline": "Liverpool's Trusted Plumber \u2014 On Time, Every Time",
+    "about_paragraph": "I'm a local Liverpool plumber based in Tuebrook, and I've been keeping homes warm and running smoothly across the city for years. Whether you need an emergency fix or a planned installation, I pride myself on turning up when I say I will, doing the job properly, and leaving your home as clean as I found it. No hidden costs \u2014 just honest, reliable work from a tradesman you can trust.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2d89c8",
+      "accent": "#f5a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
