@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Peter Dundon Gas and Plumbing Services Ltd – Liverpool's Trusted Gas & Plumbing Specialists</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ─── NAV ─── */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto;
+      height: 68px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      color: #fff;
+      text-decoration: none;
+      line-height: 1.2;
+    }
+
+    .nav-logo span {
+      display: block;
+      font-size: 11px;
+      font-weight: 400;
+      color: rgba(255,255,255,0.65);
+      font-family: 'Inter', sans-serif;
+      letter-spacing: 0.04em;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 10px 22px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 14px;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .nav-cta:hover {
+      background: #d97706;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 0 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+    }
+
+    /* ─── HERO ─── */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary-hero {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary-hero:hover {
+      background: #d97706;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary-hero {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary-hero:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .hero-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 32px;
+      flex-wrap: wrap;
+    }
+
+    .hero-badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 50px;
+      font-size: 13px;
+      font-weight: 500;
+      font-family: 'Inter', sans-serif;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: auto;
+        padding-top: 80px;
+        padding-bottom: 80px;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 16px;
+      }
+    }
+
+    /* ─── STATS BAR ─── */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+    }
+
+    .stats-inner {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-label {
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      font-family: 'Inter', sans-serif;
+      margin-top: 4px;
+    }
+
+    @media (max-width: 600px) {
+      .stats-bar {
+        padding: 24px 20px;
+      }
+      .stats-inner {
+        gap: 28px;
+      }
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* ─── SERVICES ─── */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .services-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .section-title {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      font-family: 'Poppins', sans-serif;
+      margin-bottom: 12px;
+    }
+
+    .section-subtitle {
+      text-align: center;
+      color: var(--muted);
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 32px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ─── ABOUT ─── */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      align-items: center;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      font-family: 'Poppins', sans-serif;
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 16px;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .about-stat-label {
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+      font-family: 'Inter', sans-serif;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ─── REVIEWS ─── */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      font-family: 'Poppins', sans-serif;
+      margin-bottom: 12px;
+    }
+
+    .reviews-subtitle {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+      transition: background 0.2s ease;
+    }
+
+    .review-card:hover {
+      background: rgba(255,255,255,0.08);
+    }
+
+    .review-stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 14px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 18px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .review-date {
+      color: rgba(148,163,184,0.6);
+      font-size: 12px;
+      margin-top: 2px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ─── CONTACT ─── */
+    .contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .contact-inner h2 {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      font-family: 'Poppins', sans-serif;
+      margin-bottom: 12px;
+    }
+
+    .contact-intro {
+      text-align: center;
+      color: var(--muted);
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .contact-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.1);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 28px;
+    }
+
+    .contact-detail {
+      margin-bottom: 22px;
+    }
+
+    .contact-detail-label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: rgba(255,255,255,0.45);
+      font-family: 'Inter', sans-serif;
+      margin-bottom: 5px;
+    }
+
+    .contact-detail-value {
+      color: rgba(255,255,255,0.85);
+      font-size: 15px;
+      line-height: 1.5;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 26px;
+      font-weight: 700;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: color 0.2s ease;
+      display: block;
+    }
+
+    .contact-phone-link:hover {
+      color: #fbbf24;
+    }
+
+    .contact-hours-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 6px 16px;
+    }
+
+    .contact-hours-row {
+      font-size: 13px;
+      color: rgba(255,255,255,0.65);
+      font-family: 'Inter', sans-serif;
+    }
+
+    .contact-hours-row span {
+      color: rgba(255,255,255,0.4);
+      font-size: 12px;
+      display: block;
+    }
+
+    .emergency-badge {
+      display: inline-block;
+      background: rgba(245,158,11,0.18);
+      border: 1px solid rgba(245,158,11,0.4);
+      color: var(--accent);
+      padding: 8px 16px;
+      border-radius: 50px;
+      font-size: 13px;
+      font-weight: 600;
+      margin-top: 20px;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .form-group input,
+    .form-group textarea,
+    .form-group select {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      color: var(--text);
+      background: #fff;
+      transition: border-color 0.2s ease;
+      outline: none;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      font-size: 16px;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .form-submit:hover {
+      background: #d97706;
+      transform: translateY(-2px);
+    }
+
+    @media (max-width: 768px) {
+      .contact {
+        padding: 60px 20px;
+      }
+      .contact-grid {
+        grid-template-columns: 1fr;
+      }
+      .contact-left, .contact-right {
+        padding: 36px 24px;
+      }
+    }
+
+    /* ─── FOOTER ─── */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+    }
+
+    .footer-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .footer-text {
+      color: #94a3b8;
+      font-size: 14px;
+      font-family: 'Inter', sans-serif;
+      line-height: 1.8;
+    }
+
+    .footer-text a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .footer-text a:hover {
+      color: #fbbf24;
+    }
+
+    .footer-divider {
+      color: rgba(148,163,184,0.3);
+      margin: 0 8px;
+    }
+
+    @media (max-width: 600px) {
+      footer {
+        padding: 24px 20px;
+      }
+    }
+
+    /* ─── SERVICE AREAS STRIP ─── */
+    .areas-strip {
+      background: var(--secondary);
+      padding: 16px 40px;
+    }
+    .areas-strip-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .areas-label {
+      color: rgba(255,255,255,0.6);
+      font-size: 13px;
+      font-family: 'Inter', sans-serif;
+    }
+    .area-tag {
+      background: rgba(255,255,255,0.1);
+      color: rgba(255,255,255,0.85);
+      border: 1px solid rgba(255,255,255,0.15);
+      padding: 4px 14px;
+      border-radius: 50px;
+      font-size: 13px;
+      font-family: 'Inter', sans-serif;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav id="top">
+    <div class="nav-inner">
+      <a href="#top" class="nav-logo">
+        Peter Dundon Gas & Plumbing
+        <span>Gas Engineer / Plumber · Liverpool</span>
+      </a>
+      <div class="nav-right">
+        <a href="tel:07833428879" class="nav-phone">07833 428879</a>
+        <a href="tel:07833428879" class="nav-cta">Get a Free Quote</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Liverpool's Trusted Gas &amp; Plumbing Specialists</h1>
+      <p class="hero-sub">Reliable Gas Safe registered expertise for homes and businesses across Liverpool. Honest workmanship, transparent pricing and emergency call-outs you can count on.</p>
+      <div class="hero-buttons">
+        <a href="tel:07833428879" class="btn-primary-hero">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary-hero">Contact Us</a>
+      </div>
+      <div class="hero-badges">
+        <span class="hero-badge">✔ Gas Safe Registered</span>
+        <span class="hero-badge">✔ CHAS Accredited</span>
+        <span class="hero-badge">✔ Fully Insured</span>
+        <span class="hero-badge">✔ Free Quotes Available</span>
+        <span class="hero-badge">⚡ Emergency Call-Outs</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stats-inner">
+      <div class="stat-item">
+        <div class="stat-number">4.7★</div>
+        <div class="stat-label">Google Rating</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">28+</div>
+        <div class="stat-label">Verified Reviews</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">5</div>
+        <div class="stat-label">Areas Covered</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">24/7</div>
+        <div class="stat-label">Emergency Call-Outs</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services" id="services">
+    <div class="services-inner">
+      <h2 class="section-title">Our Services</h2>
+      <p class="section-subtitle">Professional gas and plumbing solutions for every need — from routine maintenance to emergency repairs.</p>
+      <div class="services-grid">
+        <div class="service-card">
+          <span class="service-icon">🔥</span>
+          <h3>Gas Boiler Installation &amp; Replacement</h3>
+          <p>Expert installation and replacement of gas boilers across Liverpool. We help you choose the right system and fit it to the highest standard, ensuring safety and efficiency throughout.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">🔧</span>
+          <h3>Boiler Servicing &amp; Maintenance</h3>
+          <p>Keep your boiler running safely and efficiently with regular servicing. We carry out thorough checks and maintenance to prevent breakdowns and extend the life of your heating system.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">📋</span>
+          <h3>Gas Safety Certificates (CP12)</h3>
+          <p>Legally required CP12 gas safety inspections for landlords and homeowners. Fast, thorough checks carried out by our Gas Safe registered engineer with certificates issued on the day.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">♨️</span>
+          <h3>Central Heating System Installation</h3>
+          <p>Full central heating system design and installation for new builds and full system upgrades. We deliver warm, efficient homes with quality components and expert fitting.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">🚿</span>
+          <h3>Plumbing Repairs &amp; Installations</h3>
+          <p>From leaking taps and burst pipes to full bathroom plumbing installations, we handle all plumbing work with care, precision and a tidy finish you'll appreciate.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">🚨</span>
+          <h3>Emergency Gas &amp; Plumbing Call-Outs</h3>
+          <p>Gas leak? Burst pipe? Boiler breakdown? We provide rapid emergency response across Liverpool and surrounding areas — because some problems simply can't wait.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICE AREAS STRIP -->
+  <div class="areas-strip">
+    <div class="areas-strip-inner">
+      <span class="areas-label">Service Areas:</span>
+      <span class="area-tag">Liverpool</span>
+      <span class="area-tag">Wirral</span>
+      <span class="area-tag">Bootle</span>
+      <span class="area-tag">Birkenhead</span>
+      <span class="area-tag">Crosby</span>
+    </div>
+  </div>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>About Peter Dundon Gas &amp; Plumbing</h2>
+        <p>I'm Peter Dundon, and I've built my business on a simple principle — honest, reliable gas and plumbing work you can count on. Based at Brunswick Dock in the heart of Liverpool, I cover the whole city and surrounding areas, tackling everything from boiler installations to emergency call-outs.</p>
+        <p>As a Gas Safe registered engineer, your safety is always my number one priority. I believe in transparent pricing with no hidden surprises, explaining everything clearly before work begins, and always leaving your property clean and tidy.</p>
+        <p>Whether you're a homeowner needing a new boiler, a landlord requiring a CP12 gas safety certificate, or a business with an urgent plumbing issue, Peter Dundon Gas and Plumbing Services Ltd is here to help — professionally and promptly.</p>
+      </div>
+      <div class="about-right">
+        <div class="about-stats">
+          <div class="about-stat-box">
+            <div class="about-stat-number">4.7★</div>
+            <div class="about-stat-label">Google Rating</div>
+          </div>
+          <div class="about-stat-box">
+            <div class="about-stat-number">28+</div>
+            <div class="about-stat-label">Happy Customers</div>
+          </div>
+          <div class="about-stat-box">
+            <div class="about-stat-number">5+</div>
+            <div class="about-stat-label">Areas Served</div>
+          </div>
+          <div class="about-stat-box">
+            <div class="about-stat-number">100%</div>
+            <div class="about-stat-label">Gas Safe Registered</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews" id="reviews">
+    <div class="reviews-inner">
+      <h2>What Our Customers Say</h2>
+      <p class="reviews-subtitle">Rated 4.7 out of 5 on Google · 28 verified reviews</p>
+      <div class="reviews-grid">
+        <div class="review-card">
+          <div class="review-stars">★★★★★</div>
+          <p class="review-text">"Peter sorted our boiler out quickly and efficiently. Very professional, explained everything

@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Peter Dundon Gas and Plumbing Services Ltd",
+    "slug": "peter-dundon-gas-and-plumbing-services-liverpool",
+    "category": "Gas Engineer / Plumber",
+    "tagline": "Reliable Gas & Plumbing Experts in Liverpool"
+  },
+  "contact": {
+    "phone": "07833 428879",
+    "address": "Unit 14 Century Building, Brunswick Dock, Liverpool L3 4BJ",
+    "city": "Liverpool",
+    "service_area": [
+      "Liverpool",
+      "Wirral",
+      "Bootle",
+      "Birkenhead",
+      "Crosby"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Gas Boiler Installation & Replacement",
+    "Boiler Servicing & Maintenance",
+    "Gas Safety Certificates (CP12)",
+    "Central Heating System Installation",
+    "Plumbing Repairs & Installations",
+    "Emergency Gas & Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 28,
+    "sample_reviews": [
+      {
+        "author": "Mark T",
+        "rating": 5,
+        "text": "Peter sorted our boiler out quickly and efficiently. Very professional, explained everything clearly and left the place spotless. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah L",
+        "rating": 5,
+        "text": "Called Peter for an emergency gas issue and he was with us within the hour. Fantastic service, very knowledgeable and reasonably priced.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave R",
+        "rating": 4,
+        "text": "Great plumbing work done on our bathroom. Turned up on time, did a tidy job and the price was fair. Would definitely use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Free Quotes Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and trustworthy",
+    "usp": "Peter Dundon Gas and Plumbing Services Ltd brings reliable, Gas Safe registered expertise to homes and businesses across Liverpool, delivering honest workmanship and transparent pricing every time.",
+    "hero_headline": "Liverpool's Trusted Gas & Plumbing Specialists",
+    "about_paragraph": "I'm Peter Dundon, and I've built my business on a simple principle \u2014 honest, reliable gas and plumbing work you can count on. Based at Brunswick Dock in the heart of Liverpool, I cover the whole city and surrounding areas, tackling everything from boiler installations to emergency call-outs. As a Gas Safe registered engineer, your safety is always my number one priority.",
+    "colour_scheme": {
+      "primary": "#1B3A6B",
+      "secondary": "#F47B20",
+      "accent": "#E8F0FE",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
