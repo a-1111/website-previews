@@ -1,0 +1,907 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Majestic Heating & Plumbing Liverpool | Gas Engineer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ── NAV ── */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto;
+      height: 70px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      color: #fff;
+      text-decoration: none;
+      line-height: 1.2;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+    }
+
+    .btn-call-nav {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 8px;
+      text-decoration: none;
+      border: none;
+      cursor: pointer;
+      transition: background 0.2s ease, transform 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .btn-call-nav:hover {
+      background: #e08e00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 0 20px;
+      }
+      .nav-phone {
+        display: none;
+      }
+      .nav-logo {
+        font-size: 15px;
+      }
+    }
+
+    /* ── HERO ── */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary-hero {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary-hero:hover {
+      background: #e08e00;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary-hero {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary-hero:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 40px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 8px 18px;
+      border-radius: 100px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: 90vh;
+      }
+      .hero h1 {
+        font-size: 36px;
+      }
+      .hero-sub {
+        font-size: 16px;
+      }
+      .btn-primary-hero, .btn-secondary-hero {
+        padding: 14px 24px;
+        font-size: 15px;
+      }
+    }
+
+    /* ── STATS BAR ── */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+    }
+
+    .stats-inner {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 768px) {
+      .stats-bar {
+        padding: 24px 20px;
+      }
+      .stats-inner {
+        gap: 28px;
+      }
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* ── SERVICES ── */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .services-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .section-title {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-card-icon {
+      font-size: 32px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+      .section-title {
+        font-size: 28px;
+      }
+    }
+
+    /* ── ABOUT ── */
+    .about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 15px;
+    }
+
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .about-stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .about-stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 800;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .about-stat-label {
+      display: block;
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+      .about-left h2 {
+        font-size: 28px;
+      }
+    }
+
+    /* ── REVIEWS ── */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    .reviews-subtitle {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+      transition: background 0.2s ease;
+    }
+
+    .review-card:hover {
+      background: rgba(255,255,255,0.08);
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 16px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+      .reviews h2 {
+        font-size: 28px;
+      }
+    }
+
+    /* ── CONTACT ── */
+    #contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1000px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 40px rgba(0,0,0,0.12);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 28px;
+      line-height: 1.3;
+    }
+
+    .contact-detail {
+      margin-bottom: 24px;
+    }
+
+    .contact-detail-label {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 4px;
+    }
+
+    .contact-detail-value {
+      color: #e2e8f0;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 26px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      text-decoration: none;
+      transition: color 0.2s ease;
+      display: block;
+      margin-top: 4px;
+    }
+
+    .contact-phone-link:hover {
+      color: #fcd34d;
+    }
+
+    .hours-grid {
+      display: grid;
+      gap: 4px;
+    }
+
+    .hours-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 14px;
+    }
+
+    .hours-day {
+      color: rgba(255,255,255,0.6);
+    }
+
+    .hours-time {
+      color: #e2e8f0;
+      font-weight: 500;
+    }
+
+    .emergency-badge {
+      background: rgba(245,158,11,0.15);
+      border: 1px solid rgba(245,158,11,0.3);
+      color: var(--accent);
+      padding: 8px 14px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 600;
+      margin-top: 20px;
+      display: inline-block;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 28px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      color: var(--text);
+      background: #fff;
+      outline: none;
+      transition: border-color 0.2s ease;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      height: 120px;
+      resize: vertical;
+    }
+
+    .btn-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      font-family: 'Poppins', sans-serif;
+      font-size: 16px;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-submit:hover {
+      background: #e08e00;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      #contact {
+        padding: 60px 20px;
+      }
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+      .contact-left, .contact-right {
+        padding: 36px 28px;
+      }
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+    }
+
+    .footer-text {
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .footer-text a {
+      color: #94a3b8;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    .footer-text a:hover {
+      color: var(--accent);
+    }
+
+    .footer-sep {
+      margin: 0 8px;
+      color: #334155;
+    }
+
+    @media (max-width: 768px) {
+      footer {
+        padding: 28px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-inner">
+      <a class="nav-logo" href="#">Majestic Heating &amp; Plumbing Liverpool</a>
+      <div class="nav-right">
+        <a class="nav-phone" href="tel:07764364629">07764 364629</a>
+        <a class="btn-call-nav" href="tel:07764364629">Call Now</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Liverpool's Trusted Gas &amp; Heating Specialists</h1>
+      <p class="hero-sub">Majestic Heating &amp; Plumbing delivers dependable gas and heating solutions across Liverpool, combining Gas Safe registered expertise with honest, transparent pricing and a fast response every time.</p>
+      <div class="hero-buttons">
+        <a class="btn-primary-hero" href="tel:07764364629">Get in Touch Today</a>
+        <a class="btn-secondary-hero" href="#contact">Request a Quote</a>
+      </div>
+      <div class="trust-badges">
+        <span class="badge">✓ Fully Insured</span>
+        <span class="badge">✓ Free Quotes</span>
+        <span class="badge">✓ Local &amp; Reliable</span>
+        <span class="badge">✓ Gas Safe Registered</span>
+        <span class="badge">✓ Emergency Callout Available</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <div class="stats-bar">
+    <div class="stats-inner">
+      <div class="stat-item">
+        <span class="stat-number">4.8★</span>
+        <span class="stat-label">Google Rating</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">34+</span>
+        <span class="stat-label">Verified Reviews</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">5</span>
+        <span class="stat-label">Areas Served</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">24/7</span>
+        <span class="stat-label">Emergency Callout</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SERVICES -->
+  <section class="services">
+    <div class="services-inner">
+      <h2 class="section-title">Our Services</h2>
+      <div class="services-grid">
+        <div class="service-card">
+          <span class="service-card-icon">🔧</span>
+          <h3>Boiler Installation &amp; Replacement</h3>
+          <p>Expert installation and replacement of all boiler types. We supply and fit leading brands, ensuring your home has efficient, reliable heating from day one.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-card-icon">🛠️</span>
+          <h3>Boiler Servicing &amp; Repairs</h3>
+          <p>Regular servicing and fast repairs to keep your boiler running safely and efficiently, helping prevent costly breakdowns and extending its lifespan.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-card-icon">🏠</span>
+          <h3>Central Heating System Installation</h3>
+          <p>Full central heating system design and installation for new builds and older properties across Liverpool, carried out to the highest standard.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-card-icon">📋</span>
+          <h3>Gas Safety Certificates</h3>
+          <p>Gas Safe registered inspections and certificates for landlords and homeowners, keeping you fully compliant and your property's occupants safe.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-card-icon">🌡️</span>
+          <h3>Radiator Installation &amp; Repairs</h3>
+          <p>Supply, fitting and repair of radiators and thermostatic valves throughout your home, improving heat distribution and energy efficiency.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-card-icon">💧</span>
+          <h3>Plumbing Repairs &amp; Maintenance</h3>
+          <p>Reliable plumbing repairs and maintenance for leaks, pipework, taps and more — no job too small, with competitive, transparent pricing every time.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>About Majestic Heating &amp; Plumbing Liverpool</h2>
+        <p>I'm the founder of Majestic Heating &amp; Plumbing Liverpool, and I've been keeping homes across Liverpool warm and safe for years. Based right here in L14, I take pride in offering a reliable, honest service whether you need a new boiler, a full heating system, or a routine gas safety check.</p>
+        <p>Every job is carried out to the highest standard, and I won't leave until you're completely satisfied. From Wavertree and Huyton to Prescot and Kirkby, we're proud to serve our local community with the care and professionalism it deserves.</p>
+        <p>As a Gas Safe registered engineer, you can trust that all work is carried out safely, legally and to manufacturers' specifications — giving you complete peace of mind.</p>
+      </div>
+      <div class="about-right">
+        <div class="about-stats">
+          <div class="about-stat-box">
+            <span class="about-stat-number">4.8</span>
+            <span class="about-stat-label">Google Star Rating</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-number">34+</span>
+            <span class="about-stat-label">Happy Customers</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-number">5</span>
+            <span class="about-stat-label">Areas Covered</span>
+          </div>
+          <div class="about-stat-box">
+            <span class="about-stat-number">100%</span>
+            <span class="about-stat-label">Gas Safe Registered</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews">
+    <div class="reviews-inner">
+      <h2>What Our Customers Say</h2>
+      <p class="reviews-subtitle">Rated 4.8 out of 5 from 34 Google reviews</p>
+      <div class="reviews-grid">
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"Brilliant service from start to finish. New boiler fitted quickly and at a great price. Highly recommend Majestic Heating &amp; Plumbing."</p>
+          <span class="review-author">James Holloway &mdash; 2024</span>
+        </div>
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"Called them out for an emergency and they arrived within the hour. Friendly, professional and sorted the issue straight away. Top marks."</p>
+          <span class="review-author">Sarah Mitchell &mdash; 2024</span>
+        </div>
+        <div class="review-card">
+          <div class="stars">★★★★★</div>
+          <p class="review-text">"Really reliable and honest. Gave us a fair quote, turned up on time and left the place spotless. Will definitely use again."</p>
+          <span class="review-author">Dave Pearson &mdash; 2024</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h3>Majestic Heating &amp; Plumbing Liverpool</h3>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Phone</div>
+          <a class="contact-phone-link" href="tel:07764364629">07764 364629</a>
+        </div>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Address</div>
+          <div class="contact-detail-value">118 Campbell Dr<br>Liverpool L14 7QQ</div>
+        </div>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Opening Hours</div>
+          <div class="hours-grid">
+            <div class="hours-row">
+              <span class="hours-day">Monday – Friday</span>
+              <span class="hours-time">8am – 6pm</span>
+            </div>
+            <div class="hours-row">
+              <span class="hours-day">Saturday</span>
+              <span class="hours-time">9am – 4pm</span>
+            </div>
+            <div class="hours-row">
+              <span class="hours-day">Sunday</span>
+              <span class="hours-time">Closed</span>
+            </div>
+          </div>
+          <div class="emergency-badge">⚡ Emergency Callout Available</div>
+        </div>
+
+        <div class="contact-detail">
+          <div class="contact-detail-label">Areas Served</div>
+          <div class="contact-detail-value">Liverpool, Wavertree, Huyton, Prescot, Kirkby</div>
+        </div>
+      </div>
+
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="message">How Can We Help?</label>
+            <textarea id="message" name="message" placeholder="Tell us about your job — boiler service, repair, installation..."></textarea>
+          </div>
+          <button type="submit" class="btn-submit">Get in Touch Today</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-
