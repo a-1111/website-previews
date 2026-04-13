@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "TMS Heating and Plumbing Services",
+    "slug": "tms-heating-and-plumbing-services-liverpool",
+    "category": "Gas Engineer",
+    "tagline": "Reliable Heating and Plumbing You Can Trust"
+  },
+  "contact": {
+    "phone": "07732 052002",
+    "address": "6 Siskin Grn, Liverpool L25 4RY",
+    "city": "Liverpool",
+    "service_area": [
+      "Liverpool",
+      "Widnes",
+      "Runcorn",
+      "Huyton",
+      "Speke"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation and Replacement",
+    "Boiler Servicing and Repairs",
+    "Central Heating System Installation",
+    "Gas Safety Certificates",
+    "Radiator Installation and Repair",
+    "Plumbing Repairs and Maintenance"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Karen M",
+        "rating": 5,
+        "text": "TMS were fantastic \u2014 arrived on time, diagnosed the boiler fault quickly and had us back up and running the same day. Friendly and professional throughout.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave T",
+        "rating": 5,
+        "text": "Really impressed with the service. Fair pricing, tidy work and the engineer took time to explain everything. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah L",
+        "rating": 5,
+        "text": "Called them out for a heating emergency and they were with us within a couple of hours. Brilliant service, highly recommended to anyone in Liverpool.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Emergency Callout Available"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "TMS Heating and Plumbing Services delivers honest, expert gas and heating solutions across Liverpool \u2014 with rapid response times and transparent pricing you can rely on.",
+    "hero_headline": "Liverpool's Trusted Gas and Heating Experts",
+    "about_paragraph": "Hi, I'm the engineer behind TMS Heating and Plumbing Services, based right here in Liverpool. I set up TMS to offer homeowners a reliable, no-nonsense service for all their heating and plumbing needs \u2014 from routine boiler services to emergency call-outs. I take pride in doing the job right first time, leaving your home clean and tidy, and making sure you're fully happy before I leave.",
+    "colour_scheme": {
+      "primary": "#c0392b",
+      "secondary": "#2c3e50",
+      "accent": "#e67e22",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
