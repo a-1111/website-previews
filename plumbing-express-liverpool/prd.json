@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Plumbing Express Liverpool",
+    "slug": "plumbing-express-liverpool",
+    "category": "Plumber",
+    "tagline": "Fast, Reliable Plumbing Across Liverpool"
+  },
+  "contact": {
+    "phone": "07448 112347",
+    "address": "Liverpool, Merseyside",
+    "city": "Liverpool",
+    "service_area": [
+      "Liverpool",
+      "Bootle",
+      "Kirkby",
+      "Huyton",
+      "Crosby"
+    ]
+  },
+  "hours": {
+    "monday_friday": "7am - 7pm",
+    "saturday": "8am - 5pm",
+    "sunday": "Emergency Only",
+    "emergency_callout": true
+  },
+  "services": [
+    "Emergency Plumbing Repairs",
+    "Boiler Installation & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Fitting & Refurbishment",
+    "Drain Unblocking & Clearing",
+    "Central Heating Installation & Repair"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 38,
+    "sample_reviews": [
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Called Plumbing Express with a burst pipe emergency and they were at my door within the hour. Sorted it quickly and the price was very fair. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Very professional, tidy and explained everything clearly. Will definitely use again for any plumbing work.",
+        "date": "2024"
+      },
+      {
+        "author": "David K",
+        "rating": 4,
+        "text": "Really prompt response and got the job done same day. Good communication and reasonable pricing. Happy with the work carried out.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "24/7 Emergency Callout"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Plumbing Express Liverpool delivers rapid-response plumbing solutions across Merseyside, combining speed and quality so you're never left waiting when things go wrong.",
+    "hero_headline": "Liverpool's Fast-Response Plumbers, Here When You Need Us",
+    "about_paragraph": "We're Plumbing Express Liverpool, your local plumbing specialists serving homeowners and businesses across Merseyside. Whether it's an emergency callout at short notice or a planned bathroom installation, we bring the same level of care and expertise to every job. We pride ourselves on arriving on time, keeping things clean, and leaving you with plumbing that works perfectly.",
+    "colour_scheme": {
+      "primary": "#005eb8",
+      "secondary": "#003f82",
+      "accent": "#f4a300",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
