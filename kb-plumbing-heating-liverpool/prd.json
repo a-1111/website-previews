@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "KB Plumbing & Heating",
+    "slug": "kb-plumbing-heating-liverpool",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing & Heating Across Liverpool"
+  },
+  "contact": {
+    "phone": "07584 599150",
+    "address": "Daneville Rd, Liverpool L4 9RE",
+    "city": "Liverpool",
+    "service_area": [
+      "Liverpool",
+      "Bootle",
+      "Crosby",
+      "Kirkby",
+      "Wallasey"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repairs",
+    "Central Heating System Installation",
+    "Leaks & Pipe Repairs",
+    "Bathroom Fitting & Plumbing",
+    "Emergency Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Paul T",
+        "rating": 5,
+        "text": "KB sorted our boiler out the same day we called. Fast, tidy and very reasonably priced. Would highly recommend to anyone in Liverpool.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Turned up on time, explained everything clearly and left no mess. Will definitely be using KB Plumbing again.",
+        "date": "2024"
+      },
+      {
+        "author": "Dave R",
+        "rating": 5,
+        "text": "Had a leak under the sink that needed fixing urgently. KB came out quickly and had it sorted within the hour. Great local tradesman, very trustworthy.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Liverpool Tradesman"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "KB Plumbing & Heating offers fast, reliable plumbing and heating solutions across Liverpool, with honest pricing and a Gas Safe registered engineer you can trust.",
+    "hero_headline": "Liverpool's Trusted Plumber & Heating Engineer",
+    "about_paragraph": "I'm KB, a fully qualified and Gas Safe registered plumber and heating engineer based right here in Liverpool L4. I've built my reputation on turning up when I say I will, doing the job properly, and charging a fair price. Whether it's a leaking pipe, a new boiler, or a full central heating installation, I'm here to help.",
+    "colour_scheme": {
+      "primary": "#1a3c6e",
+      "secondary": "#2e86c1",
+      "accent": "#f39c12",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
