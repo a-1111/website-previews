@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Marlowe Heating",
+    "slug": "marlowe-heating-liverpool",
+    "category": "Central Heating Service",
+    "tagline": "Keeping Liverpool Warm All Year Round"
+  },
+  "contact": {
+    "phone": "07802 872927",
+    "address": "42 Marlowe Dr, Liverpool L12 7LT",
+    "city": "Liverpool",
+    "service_area": [
+      "Liverpool",
+      "Bootle",
+      "Crosby",
+      "Huyton",
+      "Kirkby"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Maintenance",
+    "Central Heating System Repairs",
+    "Radiator Installation & Balancing",
+    "Landlord Gas Safety Certificates",
+    "Emergency Heating Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Sandra M",
+        "rating": 5,
+        "text": "Marlowe Heating replaced our old boiler quickly and professionally. Friendly engineer, clean job, and the price was very fair. Highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Paul T",
+        "rating": 5,
+        "text": "Called them out on a cold morning when the heating packed in. Got someone round within two hours \u2014 brilliant service and sorted the problem straight away.",
+        "date": "2024"
+      },
+      {
+        "author": "Karen B",
+        "rating": 4,
+        "text": "Used Marlowe Heating for our annual boiler service. Punctual, thorough, and explained everything clearly. Will be booking again next year.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Free No-Obligation Quotes"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Marlowe Heating delivers reliable, Gas Safe certified heating services across Liverpool with fast response times and honest, upfront pricing. Whether it's a routine boiler service or an emergency callout, we treat every home like our own.",
+    "hero_headline": "Trusted Heating Engineers Serving Liverpool Homes",
+    "about_paragraph": "We're Marlowe Heating, a Liverpool-based central heating specialist committed to keeping your home warm, safe, and energy-efficient all year round. Whether you need a new boiler, a system health check, or urgent repairs, I bring years of hands-on experience and a no-nonsense approach to every job. I'm Gas Safe registered, fully insured, and proud to offer honest advice with fair, transparent pricing.",
+    "colour_scheme": {
+      "primary": "#c0392b",
+      "secondary": "#2c3e50",
+      "accent": "#e67e22",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
