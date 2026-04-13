@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Murray Plumbing & Heating",
+    "slug": "murray-plumbing-heating-liverpool",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing & Heating Across Merseyside"
+  },
+  "contact": {
+    "phone": "07458 175497",
+    "address": "33 Bennetts Hill, Birkenhead, Prenton CH43 5RS",
+    "city": "Birkenhead",
+    "service_area": [
+      "Birkenhead",
+      "Liverpool",
+      "Prenton",
+      "Wallasey",
+      "Wirral"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Servicing",
+    "Central Heating Systems",
+    "Emergency Plumbing Repairs",
+    "Bathroom Fitting & Refurbishment",
+    "Leak Detection & Repair",
+    "Radiator Installation & Balancing"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James T.",
+        "rating": 5,
+        "text": "Murray Plumbing sorted our boiler out the same day we called. Absolutely brilliant service, friendly and very professional. Would highly recommend to anyone in the Wirral area.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Had a leak under the kitchen sink that was getting worse by the hour. Called and got a same-day visit. Fixed quickly and at a very fair price. Couldn't be happier.",
+        "date": "2024"
+      },
+      {
+        "author": "David R.",
+        "rating": 5,
+        "text": "Great local plumber. Fitted a new bathroom for us and the finish was spot on. Turned up on time every day and kept everything tidy. Will definitely use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Family Business"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Murray Plumbing & Heating delivers fast, reliable plumbing and heating solutions across Birkenhead and the wider Wirral, with a no-fuss approach and honest pricing every time.",
+    "hero_headline": "Your Local Plumber in Birkenhead & Wirral",
+    "about_paragraph": "I'm the team behind Murray Plumbing & Heating, based right here in Birkenhead and proudly serving homeowners across the Wirral and Liverpool. Whether it's a dripping tap, a new boiler, or a full bathroom refit, we bring years of hands-on experience and a commitment to doing the job right first time. We treat every home like our own \u2014 clean, professional work at prices you'll be happy with.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#e87722",
+      "accent": "#5ba4d4",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
