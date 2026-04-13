@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Wilsons Heating & Plumbing Ltd",
+    "slug": "wilsons-heating-plumbing-bristol",
+    "category": "Plumber",
+    "tagline": "Reliable Heating & Plumbing Across Bristol"
+  },
+  "contact": {
+    "phone": "07467 502592",
+    "address": "Bristol, BS1",
+    "city": "Bristol",
+    "service_area": [
+      "Bristol",
+      "Bath",
+      "Clevedon",
+      "Nailsea",
+      "Portishead"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation & Replacement",
+    "Boiler Servicing & Repairs",
+    "Central Heating System Installation",
+    "Radiator Installation & Repair",
+    "Emergency Plumbing Callouts",
+    "Bathroom Installation & Plumbing"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Wilsons came out the same day our boiler broke down in the middle of winter. Incredibly professional and had everything fixed within a couple of hours. Highly recommend!",
+        "date": "2024"
+      },
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Really friendly and knowledgeable team. Fitted our new bathroom and the finish was excellent. Priced fairly and no hidden surprises on the invoice.",
+        "date": "2024"
+      },
+      {
+        "author": "Karen L",
+        "rating": 4,
+        "text": "Used Wilsons for our annual boiler service. Turned up on time, very tidy and explained everything clearly. Will be using them again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Bristol Traders"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Wilsons Heating & Plumbing Ltd delivers honest, expert heating and plumbing services across Bristol with fast response times and transparent pricing you can trust.",
+    "hero_headline": "Bristol's Trusted Heating & Plumbing Experts",
+    "about_paragraph": "Here at Wilsons Heating & Plumbing Ltd, we're proud to serve homeowners and businesses across Bristol with reliable, high-quality plumbing and heating solutions. Whether it's an emergency callout or a full boiler installation, we bring professionalism and care to every job. We believe in honest pricing, tidy work, and leaving every customer completely satisfied.",
+    "colour_scheme": {
+      "primary": "#1b3f6e",
+      "secondary": "#e8400c",
+      "accent": "#f5a623",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
