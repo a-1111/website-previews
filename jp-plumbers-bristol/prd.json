@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "JP Plumbers Bristol",
+    "slug": "jp-plumbers-bristol",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Bristol"
+  },
+  "contact": {
+    "phone": "07901 507586",
+    "address": "Bristol, BS1",
+    "city": "Bristol",
+    "service_area": [
+      "Bristol",
+      "Clifton",
+      "Bedminster",
+      "Knowle",
+      "Filton"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Repairs & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Installations",
+    "Central Heating Systems",
+    "Blocked Drains & Toilets",
+    "Emergency Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "JP came out the same day to fix a burst pipe. Quick, professional and very reasonably priced. Highly recommend!",
+        "date": "2024"
+      },
+      {
+        "author": "David T",
+        "rating": 5,
+        "text": "Excellent service from start to finish. Sorted our boiler issue within a couple of hours. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Helen R",
+        "rating": 4,
+        "text": "Very reliable and honest plumber. Turned up on time and got the job done without any fuss. Good value for Bristol.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Bristol Plumber"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "JP Plumbers Bristol offers fast, reliable plumbing services with honest pricing and no hidden call-out fees. Whether it's an emergency or a planned installation, we get the job done right first time.",
+    "hero_headline": "Bristol's Trusted Plumber \u2014 Fast, Affordable, Reliable",
+    "about_paragraph": "Hi, I'm JP and I've been serving homeowners and businesses across Bristol for years. I take pride in offering a personal, reliable service where you always deal directly with me \u2014 no call centres, no subcontractors. From emergency leaks to full bathroom installations, I'm here to help.",
+    "colour_scheme": {
+      "primary": "#005b96",
+      "secondary": "#003f6b",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
