@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Bristol Plumb & Build Ltd",
+    "slug": "bristol-plumb-and-build-bristol",
+    "category": "Plumber",
+    "tagline": "Your Local Plumbing & Building Experts"
+  },
+  "contact": {
+    "phone": "07903 816457",
+    "address": "6 Burdock Rd, Lyde Green, Bristol BS16 7NR",
+    "city": "Bristol",
+    "service_area": [
+      "Bristol",
+      "Emersons Green",
+      "Downend",
+      "Kingswood",
+      "Yate"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Plumbing Repairs & Installations",
+    "Boiler Servicing & Repairs",
+    "Bathroom Design & Fitting",
+    "Leak Detection & Pipe Work",
+    "General Building & Renovation",
+    "Emergency Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "James Hargreaves",
+        "rating": 5,
+        "text": "Brilliant service from start to finish. Fixed a tricky leak under the kitchen that two other plumbers couldn't sort. Really knowledgeable and tidy workers. Would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah Mitchell",
+        "rating": 5,
+        "text": "Had a full bathroom fitted by Bristol Plumb & Build and couldn't be happier. The team were professional, on time and the quality of the work is excellent. Great value too.",
+        "date": "2024"
+      },
+      {
+        "author": "Paul Donovan",
+        "rating": 4,
+        "text": "Called them out for an emergency boiler issue on a cold morning and they were with me within two hours. Sorted quickly and reasonably priced. Very happy with the response.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Bristol Trader"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Bristol Plumb & Build combines expert plumbing with skilled building work under one roof, offering Bristol homeowners a reliable, all-in-one solution for every project big or small.",
+    "hero_headline": "Bristol's Trusted Plumbers & Builders, Ready Now",
+    "about_paragraph": "We're Bristol Plumb & Build Ltd, a local plumbing and building company based in Lyde Green, Bristol. We take pride in delivering high-quality workmanship across a wide range of plumbing and building projects, from emergency call-outs to full bathroom renovations. Our team is fully insured and Gas Safe registered, so you can trust us to get the job done safely, on time, and to a standard you'll be proud of.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#2e86c1",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
