@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "James Pollock Plumbing",
+    "slug": "james-pollock-plumbing-liverpool",
+    "category": "Plumber",
+    "tagline": "Reliable Plumbing Solutions Across Liverpool"
+  },
+  "contact": {
+    "phone": "07595 544898",
+    "address": "127 Molyneux Rd, Kensington, Liverpool L6 6AJ",
+    "city": "Liverpool",
+    "service_area": [
+      "Liverpool",
+      "Kensington",
+      "Everton",
+      "Anfield",
+      "Wavertree"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Repairs & Servicing",
+    "Leak Detection & Repair",
+    "Bathroom Installation",
+    "Central Heating Systems",
+    "Emergency Plumbing Callouts",
+    "Radiator Installation & Repair"
+  ],
+  "social_proof": {
+    "google_rating": 4.7,
+    "review_count": 32,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "James came out the same day to fix a burst pipe \u2014 fast, tidy and reasonably priced. Would highly recommend.",
+        "date": "2024"
+      },
+      {
+        "author": "Tony B",
+        "rating": 5,
+        "text": "Sorted our boiler out no problem. Really professional lad, knew exactly what he was doing. Will definitely use again.",
+        "date": "2024"
+      },
+      {
+        "author": "Claire H",
+        "rating": 4,
+        "text": "Good reliable service, arrived on time and kept me informed throughout. Left everything clean and tidy afterwards.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Liverpool Tradesman"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "James Pollock Plumbing offers honest, reliable plumbing services across Liverpool with fast response times and no hidden costs. Based in Kensington, we treat every job \u2014 big or small \u2014 with the same care and attention.",
+    "hero_headline": "Liverpool's Trusted Local Plumber, Ready Today",
+    "about_paragraph": "I'm James, a fully qualified and Gas Safe registered plumber based in Kensington, Liverpool. I've been serving homeowners and businesses across the city for years, delivering honest workmanship at fair prices. Whether it's an emergency callout or a planned bathroom installation, I take pride in getting the job done right first time.",
+    "colour_scheme": {
+      "primary": "#1a3a5c",
+      "secondary": "#2e86c1",
+      "accent": "#f0a500",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
