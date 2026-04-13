@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "L17 Plumbing and Heating Services",
+    "slug": "l17-plumbing-and-heating-services-liverpool",
+    "category": "Gas Engineer",
+    "tagline": "Your Local Gas and Heating Experts"
+  },
+  "contact": {
+    "phone": "07714 517805",
+    "address": "44 Fernwood Rd, Liverpool L17 6DQ",
+    "city": "Liverpool",
+    "service_area": [
+      "Liverpool",
+      "Aigburth",
+      "Wavertree",
+      "Allerton",
+      "Mossley Hill"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation and Replacement",
+    "Boiler Servicing and Repairs",
+    "Central Heating System Installation",
+    "Gas Safety Certificates (CP12)",
+    "Radiator Installation and Repair",
+    "Emergency Plumbing and Heating Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.8,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "Sarah M",
+        "rating": 5,
+        "text": "Absolutely brilliant service. Called in the morning about a broken boiler and it was fixed by the afternoon. Friendly, professional and great value. Highly recommend!",
+        "date": "2024"
+      },
+      {
+        "author": "James T",
+        "rating": 5,
+        "text": "Used L17 Plumbing for a full boiler replacement. Turned up on time, did a tidy job and explained everything clearly. Will definitely be using them again.",
+        "date": "2024"
+      },
+      {
+        "author": "Rachel H",
+        "rating": 5,
+        "text": "Had my annual gas safety check done \u2014 quick, efficient and reasonably priced. Really trustworthy local company. Glad I found them.",
+        "date": "2023"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Liverpool Specialist"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "A trusted, Gas Safe registered engineer based right in the heart of L17, delivering honest, reliable plumbing and heating services to homes across Liverpool. We pride ourselves on fast response times, transparent pricing and quality workmanship every time.",
+    "hero_headline": "Liverpool's Trusted Local Gas and Heating Engineers",
+    "about_paragraph": "I'm a Gas Safe registered engineer based in Aigburth, serving homes across Liverpool and the surrounding areas. At L17 Plumbing and Heating Services, I take real pride in delivering reliable, affordable work \u2014 whether that's a boiler service, a new central heating system, or an emergency callout. I believe in honest pricing, showing up on time, and leaving your home exactly as I found it.",
+    "colour_scheme": {
+      "primary": "#1a4f8a",
+      "secondary": "#e8f0fa",
+      "accent": "#f4821f",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
