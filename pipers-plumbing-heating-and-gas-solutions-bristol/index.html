@@ -1,0 +1,895 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pipers Plumbing Heating and Gas Solutions | Bristol</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ===== NAV ===== */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto;
+      height: 68px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      color: #fff;
+      text-decoration: none;
+      line-height: 1.2;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+    }
+
+    .btn-callnow {
+      background: var(--accent);
+      color: var(--dark);
+      font-family: 'Inter', sans-serif;
+      font-weight: 700;
+      font-size: 14px;
+      padding: 10px 22px;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .btn-callnow:hover {
+      background: #e08d00;
+      transform: translateY(-1px);
+    }
+
+    /* ===== HERO ===== */
+    #hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero-inner h1 {
+      color: #fff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary-hero {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      font-family: 'Inter', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-primary-hero:hover {
+      background: #e08d00;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary-hero {
+      border: 2px solid #fff;
+      color: #fff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      font-family: 'Inter', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-secondary-hero:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 8px 16px;
+      border-radius: 50px;
+      font-family: 'Inter', sans-serif;
+    }
+
+    /* ===== STATS BAR ===== */
+    #stats {
+      background: var(--primary);
+      padding: 24px 40px;
+    }
+
+    .stats-inner {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .stat-label {
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+      font-family: 'Inter', sans-serif;
+    }
+
+    /* ===== SERVICES ===== */
+    #services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .section-heading {
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 12px;
+    }
+
+    .section-sub {
+      text-align: center;
+      color: var(--muted);
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .service-card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 32px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    /* ===== ABOUT ===== */
+    #about {
+      background: #fff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      font-size: 15px;
+      margin-bottom: 16px;
+    }
+
+    .about-right {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .stat-box .big-num {
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .stat-box .box-label {
+      color: var(--muted);
+      font-size: 13px;
+      margin-top: 6px;
+      line-height: 1.4;
+    }
+
+    /* ===== REVIEWS ===== */
+    #reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    #reviews h2 {
+      color: #fff;
+      text-align: center;
+      font-size: 36px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    .reviews-sub {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 16px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      margin-bottom: 14px;
+      letter-spacing: 2px;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 16px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    /* ===== CONTACT ===== */
+    #contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1000px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.1);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+    }
+
+    .contact-left h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 28px;
+      line-height: 1.3;
+    }
+
+    .contact-detail {
+      margin-bottom: 20px;
+    }
+
+    .contact-detail .detail-label {
+      color: rgba(255,255,255,0.5);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 4px;
+      font-weight: 600;
+    }
+
+    .contact-detail .detail-value {
+      color: #fff;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 24px;
+      font-weight: 700;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: color 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      color: #e08d00;
+    }
+
+    .hours-list {
+      list-style: none;
+    }
+
+    .hours-list li {
+      color: #fff;
+      font-size: 14px;
+      padding: 4px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .hours-list li span:first-child {
+      color: rgba(255,255,255,0.6);
+    }
+
+    .emergency-badge {
+      display: inline-block;
+      background: var(--accent);
+      color: var(--dark);
+      font-size: 12px;
+      font-weight: 700;
+      padding: 6px 14px;
+      border-radius: 50px;
+      margin-top: 16px;
+    }
+
+    .contact-right {
+      background: #fff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 16px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea,
+    .form-group select {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      outline: none;
+      transition: border-color 0.2s ease;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 100px;
+    }
+
+    .btn-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      font-family: 'Inter', sans-serif;
+      font-size: 16px;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .btn-submit:hover {
+      background: #e08d00;
+      transform: translateY(-1px);
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+    }
+
+    footer p {
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.7;
+    }
+
+    footer a {
+      color: #94a3b8;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: var(--accent);
+    }
+
+    /* ===== RESPONSIVE ===== */
+    @media (max-width: 768px) {
+      .nav-phone {
+        display: none;
+      }
+
+      nav {
+        padding: 0 20px;
+      }
+
+      .nav-logo {
+        font-size: 15px;
+      }
+
+      #hero {
+        padding: 60px 20px;
+        min-height: 85vh;
+      }
+
+      .hero-inner h1 {
+        font-size: 36px;
+      }
+
+      .hero-sub {
+        font-size: 16px;
+      }
+
+      .hero-buttons {
+        flex-direction: column;
+      }
+
+      .btn-primary-hero,
+      .btn-secondary-hero {
+        text-align: center;
+      }
+
+      #stats {
+        padding: 24px 20px;
+      }
+
+      .stats-inner {
+        gap: 28px;
+      }
+
+      #services {
+        padding: 60px 20px;
+      }
+
+      #about {
+        padding: 60px 20px;
+      }
+
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+
+      #reviews {
+        padding: 60px 20px;
+      }
+
+      #contact {
+        padding: 60px 20px;
+      }
+
+      .contact-inner {
+        grid-template-columns: 1fr;
+      }
+
+      footer {
+        padding: 24px 20px;
+      }
+
+      .section-heading {
+        font-size: 28px;
+      }
+
+      #reviews h2 {
+        font-size: 28px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .about-right {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .stats-inner {
+        gap: 20px;
+      }
+
+      .stat-number {
+        font-size: 28px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-inner">
+      <a href="#" class="nav-logo">Pipers Plumbing Heating &amp; Gas</a>
+      <div class="nav-right">
+        <a href="tel:07377867791" class="nav-phone">07377 867791</a>
+        <a href="tel:07377867791" class="btn-callnow">Call Now</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section id="hero">
+    <div class="hero-inner">
+      <h1>Bristol's Trusted Heating and Gas Experts</h1>
+      <p class="hero-sub">Pipers Plumbing Heating and Gas Solutions delivers prompt, honest, and expert heating and gas services across Bristol, with a personal touch you can rely on every time.</p>
+      <div class="hero-buttons">
+        <a href="tel:07377867791" class="btn-primary-hero">Get a Free Quote</a>
+        <a href="#contact" class="btn-secondary-hero">Contact Us</a>
+      </div>
+      <div class="trust-badges">
+        <span class="badge">✓ Gas Safe Registered</span>
+        <span class="badge">✓ CHAS Accredited</span>
+        <span class="badge">✓ Free Quotes Available</span>
+        <span class="badge">✓ Emergency Callouts</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <section id="stats">
+    <div class="stats-inner">
+      <div class="stat-item">
+        <div class="stat-number">4.8★</div>
+        <div class="stat-label">Google Rating</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">34+</div>
+        <div class="stat-label">Verified Reviews</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">5</div>
+        <div class="stat-label">Areas Served</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">24/7</div>
+        <div class="stat-label">Emergency Callouts</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section id="services">
+    <h2 class="section-heading">Our Services</h2>
+    <p class="section-sub">Expert heating and gas solutions across Bristol and the surrounding areas</p>
+    <div class="services-grid">
+      <div class="service-card">
+        <span class="service-icon">🔥</span>
+        <h3>Central Heating Installation and Servicing</h3>
+        <p>Full central heating system installations and routine servicing to keep your home warm and efficient all year round.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🔧</span>
+        <h3>Boiler Repair and Replacement</h3>
+        <p>Fast, reliable boiler repairs and like-for-like or upgrade replacements from our experienced Gas Safe engineers.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">📋</span>
+        <h3>Gas Safety Checks and Certificates</h3>
+        <p>Thorough gas safety inspections and official certificates for peace of mind in your home or rental property.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">♨️</span>
+        <h3>Radiator Installation and Balancing</h3>
+        <p>New radiator fitting and system balancing to ensure even heat distribution and maximum energy efficiency.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🏠</span>
+        <h3>Landlord Gas Safety Inspections</h3>
+        <p>Legally compliant annual gas safety inspections and CP12 certificates for landlords across Bristol and beyond.</p>
+      </div>
+      <div class="service-card">
+        <span class="service-icon">🚿</span>
+        <h3>Plumbing Repairs and Maintenance</h3>
+        <p>From leaks and blockages to full plumbing repairs, our team handles all domestic plumbing jobs promptly and professionally.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Bristol's Local Heating &amp; Gas Specialists</h2>
+        <p>We're Pipers Plumbing Heating and Gas Solutions, a Bristol-based heating and gas specialist dedicated to keeping your home warm, safe, and efficient. Whether it's a boiler breakdown, a full central heating installation, or a landlord gas safety certificate, we bring expertise and genuine care to every job.</p>
+        <p>We're proud to serve homes and properties across Bristol, Bath, Keynsham, Clevedon, and Weston-super-Mare with honest pricing and reliable workmanship. As a local family business, we treat every customer like a neighbour — because most of the time, you are.</p>
+        <p>All our engineers are Gas Safe registered, meaning you can be completely confident in the safety and quality of every job we carry out. We offer free quotes with no obligation, and we'll always be transparent about costs before any work begins.</p>
+      </div>
+      <div class="about-right">
+        <div class="stat-box">
+          <div class="big-num">4.8★</div>
+          <div class="box-label">Average Google Rating</div>
+        </div>
+        <div class="stat-box">
+          <div class="big-num">34+</div>
+          <div class="box-label">Happy Customers Reviewed</div>
+        </div>
+        <div class="stat-box">
+          <div class="big-num">5</div>
+          <div class="box-label">Areas Covered</div>
+        </div>
+        <div class="stat-box">
+          <div class="big-num">100%</div>
+          <div class="box-label">Gas Safe Registered</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section id="reviews">
+    <h2>What Our Customers Say</h2>
+    <p class="reviews-sub">Rated 4.8 out of 5 from 34 Google reviews</p>
+    <div class="reviews-grid">
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Fantastic service from Pipers. Boiler broke down in January and they were out the same day. Professional, tidy and very fairly priced. Highly recommend!"</p>
+        <div class="review-author">Karen M &mdash; 2024</div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Used Pipers for our annual boiler service. Really knowledgeable engineer, explained everything clearly and left no mess. Will definitely use again."</p>
+        <div class="review-author">David T &mdash; 2024</div>
+      </div>
+      <div class="review-card">
+        <div class="stars">★★★★★</div>
+        <p class="review-text">"Great local company. Sorted our heating issue quickly and at a very reasonable price. Friendly and trustworthy — exactly what you want in a gas engineer."</p>
+        <div class="review-author">Sarah L &mdash; 2024</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="contact-inner">
+      <div class="contact-left">
+        <h3>Pipers Plumbing Heating and Gas Solutions</h3>
+        <div class="contact-detail">
+          <div class="detail-label">Phone</div>
+          <a href="tel:07377867791" class="contact-phone-link">07377 867791</a>
+        </div>
+        <div class="contact-detail">
+          <div class="detail-label">Address</div>
+          <div class="detail-value">3 Edgefield Rd<br />Bristol BS14 0LZ</div>
+        </div>
+        <div class="contact-detail">
+          <div class="detail-label">Opening Hours</div>
+          <ul class="hours-list">
+            <li><span>Monday – Friday</span><span>8am – 6pm</span></li>
+            <li><span>Saturday</span><span>9am – 4pm</span></li>
+            <li><span>Sunday</span><span>Closed</span></li>
+          </ul>
+          <span class="emergency-badge">⚡ Emergency Callouts Available</span>
+        </div>
+        <div class="contact-detail" style="margin-top:20px;">
+          <div class="detail-label">Service Areas</div>
+          <div class="detail-value">Bristol · Bath · Keynsham · Clevedon · Weston-super-Mare</div>
+        </div>
+      </div>
+      <div class="contact-right">
+        <h3>Get a Free Quote</h3>
+        <form>
+          <div class="form-group">
+            <label for="name">Your Name</label>
+            <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+          </div>
+          <div class="form-group">
+            <label for="phone">Phone Number</label>
+            <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+          </div>
+          <div class="form-group">
+            <label for="service">Service Required</label>
+            <select id="service" name="service">
+              <option value="">Select a service…</option>
+              <option>Central Heating Installation and Servicing</option>
+              <option>Boiler Repair and Replacement</option>
+              <option>Gas Safety Checks and Certificates</option>
+              <option>Radiator Installation and Balancing</option>
+              <option>Landlord Gas Safety Inspections</option>
+              <option>Plumbing Repairs and Maintenance</option>
+              <option>Other / Not Sure</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" placeholder="Tell us a little about the job…"></textarea>
+          </div>
+          <button type="submit" class="btn-submit">Get a Free Quote</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>
+      <strong style="color:#fff;">Pipers Plumbing Heating and Gas Solutions</strong><br />
+      <a href="tel:07377867791">07377 867791</a> &nbsp;|&nbsp; 3 Edgefield Rd, Bristol BS14 0LZ<br />
+      Serving Bristol, Bath, Keynsham, Clevedon &amp; Weston-super-Mare &nbsp;|&nbsp; Gas Safe Registered<br />
+      &copy; 2024 Pipers Plumbing Heating and Gas Solutions. All rights reserved.
+    </p>
+  </footer>
+
+</body>
+</html>
