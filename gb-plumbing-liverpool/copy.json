@@ -1,0 +1,107 @@
+{
+  "slug": "gb-plumbing-liverpool",
+  "meta_title": "GB Plumbing | Local Plumber Liverpool",
+  "meta_description": "GB Plumbing offers expert plumbing services across Liverpool and surrounding areas. Fast response, competitive rates, and quality guaranteed. Call us today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Fully Insured \u2014 Fast Response Across Liverpool",
+  "hero_headline": "Liverpool's Reliable Local",
+  "hero_highlight": "Plumbing Experts",
+  "hero_subhead": "Leaks, boiler faults, or blocked drains \u2014 GB Plumbing gets to you fast and sorts the problem properly, first time.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Same Day",
+      "label": "Response Available"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Liverpool",
+  "services_subhead": "From emergency repairs to full bathroom installations, GB Plumbing covers every plumbing need for homeowners and landlords across Merseyside.",
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "desc": "Burst pipes, severe leaks, or sudden loss of water pressure \u2014 we respond fast to prevent damage to your home. Available for urgent callouts across Liverpool with no unnecessary delays."
+    },
+    {
+      "title": "Boiler Servicing & Repairs",
+      "desc": "Keep your boiler running safely and efficiently with a professional annual service or a swift repair when things go wrong. We work on all major boiler makes and models."
+    },
+    {
+      "title": "Blocked Drains & Toilets",
+      "desc": "Persistent blockages are cleared quickly and cleanly using professional-grade equipment. We identify the root cause so the problem doesn't keep coming back."
+    },
+    {
+      "title": "Bathroom Installation",
+      "desc": "From a single fixture swap to a complete bathroom fit-out, our team delivers a high-quality finish on time and within budget. Supply only or full supply-and-fit available."
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "desc": "Hidden leaks can cause serious structural damage if left unchecked. We use proven techniques to pinpoint and repair leaks with minimal disruption to your property."
+    },
+    {
+      "title": "Central Heating & Radiators",
+      "desc": "Cold spots, noisy radiators, or a heating system that won't balance \u2014 we diagnose and fix central heating problems to keep your home warm throughout the year."
+    }
+  ],
+  "about_pullquote": "We take pride in leaving every job cleaner than we found it.",
+  "about_para_1": "GB Plumbing was established to give Liverpool homeowners a plumber they could genuinely rely on \u2014 one who turns up on time, communicates clearly, and never cuts corners. Based in Garston, we've built our reputation street by street across the city, earning repeat custom through honest work and fair pricing.",
+  "about_para_2": "What sets us apart is straightforward: we treat your home with respect, explain everything before we start, and don't leave until you're satisfied with the result. Whether it's a quick repair or a major installation, every job receives the same attention to detail that has made us a trusted name in the local community.",
+  "about_stats": [
+    {
+      "num": "10+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Satisfaction Focus"
+    },
+    {
+      "num": "L1\u2013L40",
+      "label": "Areas Covered"
+    }
+  ],
+  "reviews_heading": "What Liverpool Homeowners Say About GB Plumbing",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Brilliant service from start to finish. Called GB Plumbing on a Monday morning about a leaking pipe under the kitchen sink and they were with me by lunchtime. Sorted quickly, no mess left behind, and the price was exactly what was quoted. Couldn't ask for more.",
+      "author": "Janet R.",
+      "loc": "Garston, Liverpool \u2014 February 2025"
+    },
+    {
+      "text": "Really impressed. My boiler packed in on one of the coldest nights of the year and GB Plumbing had it back up and running the following morning. The lad who came out was friendly, explained the fault clearly, and didn't try to oversell me anything. Will definitely use again.",
+      "author": "Mark T.",
+      "loc": "Aigburth, Liverpool \u2014 January 2025"
+    },
+    {
+      "text": "Used GB Plumbing for a full bathroom installation and they did a cracking job. Turned up every day when they said they would, kept me informed throughout, and the finished result looks fantastic. Great value for the quality of work. Highly recommended.",
+      "author": "Claire B.",
+      "loc": "Speke, Liverpool \u2014 March 2025"
+    }
+  ],
+  "address_sub": "Serving Liverpool and surrounding Merseyside areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Plumbing emergency? GB Plumbing aims to reach you the same day \u2014 call now",
+  "footer_description": "GB Plumbing provides reliable, affordable plumbing services across Liverpool and Merseyside. Based in Garston, we offer fast response, honest pricing, and quality workmanship on every job.",
+  "footer_copyright": "\u00a9 2026 GB Plumbing. Based in Garston, Liverpool. All rights reserved."
+}
