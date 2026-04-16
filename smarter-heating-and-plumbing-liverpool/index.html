@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Smarter Heating and Plumbing | Liverpool's Trusted Gas & Heating Experts</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --primary: #1e40af;
+      --secondary: #1e3a5f;
+      --accent: #f59e0b;
+      --dark: #0a1628;
+      --text: #1e293b;
+      --muted: #64748b;
+      --light: #f8fafc;
+    }
+
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      color: var(--text);
+      background: #fff;
+      line-height: 1.6;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* ===== NAV ===== */
+    nav {
+      background: var(--secondary);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      padding: 0 40px;
+    }
+
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1200px;
+      margin: 0 auto;
+      height: 70px;
+    }
+
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      color: #ffffff;
+      text-decoration: none;
+      letter-spacing: -0.3px;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .nav-phone {
+      color: #ffffff;
+      font-size: 15px;
+      font-weight: 500;
+      text-decoration: none;
+    }
+
+    .nav-cta {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 10px 22px;
+      border-radius: 6px;
+      font-weight: 700;
+      font-size: 14px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      white-space: nowrap;
+    }
+
+    .nav-cta:hover {
+      background: #d97706;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      nav {
+        padding: 0 20px;
+      }
+
+      .nav-phone {
+        display: none;
+      }
+
+      .nav-logo {
+        font-size: 15px;
+      }
+    }
+
+    /* ===== HERO ===== */
+    .hero {
+      background: linear-gradient(135deg, var(--dark) 0%, var(--primary) 100%);
+      min-height: 85vh;
+      padding: 80px 40px;
+      display: flex;
+      align-items: center;
+    }
+
+    .hero-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .hero h1 {
+      color: #ffffff;
+      font-size: 60px;
+      font-weight: 800;
+      max-width: 700px;
+      line-height: 1.1;
+    }
+
+    .hero-sub {
+      color: #94a3b8;
+      font-size: 18px;
+      max-width: 580px;
+      margin-top: 16px;
+      line-height: 1.6;
+    }
+
+    .hero-buttons {
+      display: flex;
+      gap: 16px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-primary:hover {
+      background: #d97706;
+      transform: translateY(-2px);
+    }
+
+    .btn-secondary {
+      border: 2px solid #ffffff;
+      color: #ffffff;
+      padding: 16px 36px;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background 0.2s ease, transform 0.2s ease;
+      display: inline-block;
+    }
+
+    .btn-secondary:hover {
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-2px);
+    }
+
+    .trust-badges {
+      display: flex;
+      gap: 12px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #ffffff;
+      padding: 8px 16px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    @media (max-width: 768px) {
+      .hero {
+        padding: 60px 20px;
+        min-height: 80vh;
+      }
+
+      .hero h1 {
+        font-size: 36px;
+      }
+
+      .hero-sub {
+        font-size: 16px;
+      }
+
+      .hero-buttons {
+        flex-direction: column;
+      }
+
+      .btn-primary, .btn-secondary {
+        text-align: center;
+      }
+    }
+
+    /* ===== STATS BAR ===== */
+    .stats-bar {
+      background: var(--primary);
+      padding: 24px 40px;
+    }
+
+    .stats-inner {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      flex-wrap: wrap;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      display: block;
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: #ffffff;
+      line-height: 1.1;
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      margin-top: 4px;
+    }
+
+    @media (max-width: 768px) {
+      .stats-bar {
+        padding: 24px 20px;
+      }
+
+      .stats-inner {
+        gap: 28px;
+      }
+
+      .stat-number {
+        font-size: 26px;
+      }
+    }
+
+    /* ===== SERVICES ===== */
+    .services {
+      background: #f8fafc;
+      padding: 80px 40px;
+    }
+
+    .services-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .section-title {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .service-card {
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 32px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border-left: 4px solid var(--accent);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .service-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+    }
+
+    .service-icon {
+      font-size: 28px;
+      margin-bottom: 14px;
+      display: block;
+    }
+
+    .service-card h3 {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .service-card p {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    @media (max-width: 768px) {
+      .services {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== ABOUT ===== */
+    .about {
+      background: #ffffff;
+      padding: 80px 40px;
+    }
+
+    .about-inner {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 60px;
+      max-width: 1200px;
+      margin: 0 auto;
+      align-items: start;
+    }
+
+    .about-left h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 20px;
+      line-height: 1.2;
+    }
+
+    .about-left p {
+      color: var(--muted);
+      line-height: 1.8;
+      margin-bottom: 16px;
+      font-size: 15px;
+    }
+
+    .about-right {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .stat-box {
+      background: var(--light);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+    }
+
+    .stat-box .big-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--primary);
+      display: block;
+      line-height: 1;
+    }
+
+    .stat-box .stat-desc {
+      font-size: 13px;
+      color: var(--muted);
+      margin-top: 6px;
+      display: block;
+    }
+
+    @media (max-width: 768px) {
+      .about {
+        padding: 60px 20px;
+      }
+
+      .about-inner {
+        grid-template-columns: 1fr;
+        gap: 40px;
+      }
+    }
+
+    /* ===== REVIEWS ===== */
+    .reviews {
+      background: var(--dark);
+      padding: 80px 40px;
+    }
+
+    .reviews-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .reviews h2 {
+      color: #ffffff;
+      font-size: 36px;
+      font-weight: 700;
+      text-align: center;
+      margin-bottom: 12px;
+    }
+
+    .reviews-subtitle {
+      text-align: center;
+      color: #94a3b8;
+      font-size: 15px;
+      margin-bottom: 48px;
+    }
+
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 24px;
+    }
+
+    .review-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 32px;
+      transition: background 0.2s ease;
+    }
+
+    .review-card:hover {
+      background: rgba(255,255,255,0.08);
+    }
+
+    .stars {
+      color: var(--accent);
+      font-size: 18px;
+      letter-spacing: 2px;
+      margin-bottom: 16px;
+      display: block;
+    }
+
+    .review-text {
+      color: #cbd5e1;
+      font-style: italic;
+      line-height: 1.7;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
+
+    .review-author {
+      color: #94a3b8;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      .reviews {
+        padding: 60px 20px;
+      }
+    }
+
+    /* ===== CONTACT ===== */
+    #contact {
+      background: var(--light);
+      padding: 80px 40px;
+    }
+
+    .contact-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .contact-inner h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--text);
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .contact-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+    }
+
+    .contact-left {
+      background: var(--dark);
+      padding: 48px 40px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .contact-left h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+      color: #ffffff;
+    }
+
+    .contact-info-item {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .contact-info-label {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      font-weight: 600;
+    }
+
+    .contact-info-value {
+      color: #e2e8f0;
+      font-size: 15px;
+    }
+
+    .contact-phone-link {
+      color: var(--accent);
+      font-size: 26px;
+      font-weight: 700;
+      text-decoration: none;
+      font-family: 'Poppins', sans-serif;
+      transition: color 0.2s ease;
+    }
+
+    .contact-phone-link:hover {
+      color: #d97706;
+    }
+
+    .hours-list {
+      list-style: none;
+    }
+
+    .hours-list li {
+      color: #e2e8f0;
+      font-size: 14px;
+      padding: 4px 0;
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .hours-list li span:first-child {
+      color: rgba(255,255,255,0.6);
+    }
+
+    .emergency-note {
+      background: rgba(245,158,11,0.15);
+      border: 1px solid rgba(245,158,11,0.3);
+      border-radius: 8px;
+      padding: 12px 16px;
+      color: var(--accent);
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .contact-right {
+      background: #ffffff;
+      padding: 48px 40px;
+    }
+
+    .contact-right h3 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 24px;
+    }
+
+    .form-group {
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 6px;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 14px;
+      width: 100%;
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      color: var(--text);
+      background: #fff;
+      transition: border-color 0.2s ease;
+      outline: none;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .form-group textarea {
+      resize: vertical;
+      min-height: 120px;
+    }
+
+    .form-submit {
+      background: var(--accent);
+      color: var(--dark);
+      padding: 14px 32px;
+      font-weight: 700;
+      font-size: 15px;
+      border: none;
+      border-radius: 8px;
+      width: 100%;
+      cursor: pointer;
+      font-family: 'Poppins', sans-serif;
+      transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .form-submit:hover {
+      background: #d97706;
+      transform: translateY(-1px);
+    }
+
+    @media (max-width: 768px) {
+      #contact {
+        padding: 60px 20px;
+      }
+
+      .contact-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .contact-left, .contact-right {
+        padding: 36px 24px;
+      }
+    }
+
+    /* ===== FOOTER ===== */
+    footer {
+      background: #060d1a;
+      padding: 32px 40px;
+      text-align: center;
+    }
+
+    .footer-text {
+      color: #94a3b8;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .footer-text a {
+      color: #94a3b8;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    .footer-text a:hover {
+      color: var(--accent);
+    }
+
+    .footer-divider {
+      color: #334155;
+      margin: 0 8px;
+    }
+
+    @media (max-width: 768px) {
+      footer {
+        padding: 32px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-inner">
+      <a href="#" class="nav-logo">Smarter Heating and Plumbing</a>
+      <div class="nav-right">
+        <a href="tel:07476644025" class="nav-phone">07476 644025</a>
+        <a href="tel:07476644025" class="nav-cta">Get in Touch Today</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Liverpool's Trusted Gas and Heating Experts</h1>
+      <p class="hero-sub">Smarter Heating and Plumbing delivers honest, expert gas and heating services across Liverpool with a focus on quality workmanship and transparent pricing. We treat every home like our own.</p>
+      <div class="hero-buttons">
+        <a href="tel:07476644025" class="btn-primary">Get in Touch Today</a>
+        <a href="#contact" class="btn-secondary">Request a Free Quote</a>
+      </div>
+      <div class="trust-badges">
+        <span class="badge">✓ Fully Insured</span>
+        <span class="badge">✓ Free Quotes</span>
+        <span class="badge">✓ Local &amp; Reliable</span>
+        <span class="badge">✓ Gas Safe Registered</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- STATS BAR -->
+  <section class="stats-bar">
+    <div class="stats-inner">
+      <div class="stat-item">
+        <span class="stat-number">4.9★</span>
+        <span class="stat-label">Google Rating</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">34+</span>
+        <span class="stat-label">5-Star Reviews</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">5</span>
+        <span class="stat-label">Areas Covered</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number">24/7</span>
+        <span class="stat-label">Emergency Callouts</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section class="services" id="services">
+    <div class="services-inner">
+      <h2 class="section-title">Our Services</h2>
+      <div class="services-grid">
+        <div class="service-card">
+          <span class="service-icon">🔧</span>
+          <h3>Boiler Installation and Replacement</h3>
+          <p>Expert installation of new boilers and full system replacements. We'll recommend the right boiler for your home and budget, with minimal disruption and a tidy finish every time.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">🛠️</span>
+          <h3>Boiler Servicing and Repairs</h3>
+          <p>Keep your boiler running safely and efficiently with a thorough annual service. We also diagnose and fix faults quickly, getting your heating back up and running as fast as possible.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">🏠</span>
+          <h3>Central Heating System Installation</h3>
+          <p>Full central heating system installations for new builds and existing properties. From pipework to radiators, we design and fit systems that keep your home warm all year round.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">📋</span>
+          <h3>Gas Safety Certificates</h3>
+          <p>Gas Safe registered inspections and official certificates for homeowners and tenants. Quick turnaround and thorough checks to give you complete peace of mind about your gas appliances.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">🏢</span>
+          <h3>Landlord Gas Safety Inspections</h3>
+          <p>Ensure your rental property meets legal requirements with our comprehensive landlord gas safety inspections. We provide official CP12 certificates and advise on any remedial work needed.</p>
+        </div>
+        <div class="service-card">
+          <span class="service-icon">🚨</span>
+          <h3>Emergency Plumbing Callouts</h3>
+          <p>Heating breakdowns and plumbing emergencies don't wait for convenient hours. We offer emergency callout services across Liverpool and surrounding areas to get you sorted fast.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about" id="about">
+    <div class="about-inner">
+      <div class="about-left">
+        <h2>Smarter Solutions for Heating and Plumbing</h2>
+        <p>I'm a Gas Safe registered engineer based in Liverpool, passionate about delivering heating and plumbing solutions that genuinely make a difference to your home and comfort. At Smarter Heating and Plumbing, I pride myself on honest advice, fair pricing, and work carried out to the highest standard.</p>
+        <p>Whether it's a new boiler installation, a routine service, or an emergency repair, I'm here to help. I cover Liverpool, Wirral, Bootle, Crosby, and St Helens — bringing the same high standard of workmanship to every job, every time.</p>
+        <p>Transparent pricing means no nasty surprises. I take the time to explain what needs doing and why, so you can make informed decisions about your home's heating and plumbing systems.</p>
+      </div>
+      <div class="about-right">
+        <div class="stat-box">
+          <span class="big-number">4.9</span>
+          <span class="stat-desc">Google Star Rating</span>
+        </div>
+        <div class="stat-box">
+          <span class="big-number">34+</span>
+          <span class="stat-desc">Happy Customers</span>
+        </div>
+        <div class="stat-box">
+          <span class="big-number">5</span>
+          <span class="stat-desc">Areas Covered</span>
+        </div>
+        <div class="stat-box">
+          <span class="big-number">100%</span>
+          <span class="stat-desc">Gas Safe Registered</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section class="reviews" id="reviews">
+    <div class="reviews-inner">
+      <h2>What Our Customers Say</h2>
+      <p class="reviews-subtitle">Rated 4.9 out of 5 from 34 Google reviews</p>
+      <div class="reviews-grid">
+        <div class="review-card">
+          <span class="stars">★★★★★</span>
+          <p class="review-text">"Fantastic service from start to finish. The engineer arrived on time, explained everything clearly and had our boiler replaced the same day. Highly recommend Smarter Heating and Plumbing."</p>
+          <span class="review-author">James R. &mdash; 2024</span>
+        </div>
+        <div class="review-card">
+          <span class="stars">★★★★★</span>
+          <p class="review-text">"Called them out for an emergency heating issue in the middle of winter. They were with us within two hours and sorted the problem quickly. Excellent, professional and great value."</p>
+          <span class="review-author">Sarah M. &mdash; 2024</span>
+        </div>
+        <div class="review-card">
+          <span class="stars">★★★★★</span>
+          <p class="review-text">"Used Smarter Heating for our annual boiler service. Thorough job, very tidy and gave us great advice on keeping our system efficient. Will definitely use again."</p>
+          <span class="review-author">David T. &mdash; 2024</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="contact-inner">
+      <h2>Get in Touch Today</h2>
+      <div class="contact-grid">
+        <div class="contact-left">
+          <h3>Smarter Heating and Plumbing</h3>
+          <div class="contact-info-item">
+            <span class="contact-info-label">Location</span>
+            <span class="contact-info-value">Liverpool, Merseyside</span>
+          </div>
+          <div class="contact-info-item">
+            <span class="contact-info-label">Phone</span>
+            <a href="tel:07476644025" class="contact-phone-link">07476 644025</a>
+          </div>
+          <div class="contact-info-item">
+            <span class="contact-info-label">Areas Covered</span>
+            <span class="contact-info-value">Liverpool, Wirral, Bootle, Crosby, St Helens</span>
+          </div>
+          <div class="contact-info-item">
+            <span class="contact-info-label">Opening Hours</span>
+            <ul class="hours-list">
+              <li><span>Monday – Friday</span><span>8am – 6pm</span></li>
+              <li><span>Saturday</span><span>9am – 4pm</span></li>
+              <li><span>Sunday</span><span>Closed</span></li>
+            </ul>
+          </div>
+          <div class="emergency-note">⚡ Emergency callouts available — call us anytime</div>
+        </div>
+        <div class="contact-right">
+          <h3>Send Us a Message</h3>
+          <form>
+            <div class="form-group">
+              <label for="name">Your Name</label>
+              <input type="text" id="name" name="name" placeholder="e.g. John Smith" />
+            </div>
+            <div class="form-group">
+              <label for="phone">Phone Number</label>
+              <input type="tel" id="phone" name="phone" placeholder="e.g. 07700 900000" />
+            </div>
+            <div class="form-group">
+              <label for="message">How Can We Help?</label>
+              <textarea id="message" name="message" placeholder="Tell us about your heating or plumbing needs..."></textarea>
+            </div>
+            <button type="submit" class="form-submit">Get in Touch Today</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-text">
+      <strong style="color:#e2e8f0;">Smarter Heating and Plumbing</strong>
+      <span class="footer-divider">|</span>
+      <a href="tel:07476644025">07476 644025</a>
+      <span class="footer-divider">|</span>
+      Liverpool, Merseyside
+      <br />
+      <span style="margin-top:8px; display:inline-block;">&copy;

@@ -1,0 +1,85 @@
+{
+  "business": {
+    "name": "Smarter Heating and Plumbing",
+    "slug": "smarter-heating-and-plumbing-liverpool",
+    "category": "Gas Engineer",
+    "tagline": "Smarter Solutions for Heating and Plumbing"
+  },
+  "contact": {
+    "phone": "07476 644025",
+    "address": "Liverpool, Merseyside",
+    "city": "Liverpool",
+    "service_area": [
+      "Liverpool",
+      "Wirral",
+      "Bootle",
+      "Crosby",
+      "St Helens"
+    ]
+  },
+  "hours": {
+    "monday_friday": "8am - 6pm",
+    "saturday": "9am - 4pm",
+    "sunday": "Closed",
+    "emergency_callout": true
+  },
+  "services": [
+    "Boiler Installation and Replacement",
+    "Boiler Servicing and Repairs",
+    "Central Heating System Installation",
+    "Gas Safety Certificates",
+    "Landlord Gas Safety Inspections",
+    "Emergency Plumbing Callouts"
+  ],
+  "social_proof": {
+    "google_rating": 4.9,
+    "review_count": 34,
+    "sample_reviews": [
+      {
+        "author": "James R.",
+        "rating": 5,
+        "text": "Fantastic service from start to finish. The engineer arrived on time, explained everything clearly and had our boiler replaced the same day. Highly recommend Smarter Heating and Plumbing.",
+        "date": "2024"
+      },
+      {
+        "author": "Sarah M.",
+        "rating": 5,
+        "text": "Called them out for an emergency heating issue in the middle of winter. They were with us within two hours and sorted the problem quickly. Excellent, professional and great value.",
+        "date": "2024"
+      },
+      {
+        "author": "David T.",
+        "rating": 5,
+        "text": "Used Smarter Heating for our annual boiler service. Thorough job, very tidy and gave us great advice on keeping our system efficient. Will definitely use again.",
+        "date": "2024"
+      }
+    ],
+    "badges": [
+      "Gas Safe Registered",
+      "Fully Insured",
+      "Local Liverpool Engineer"
+    ]
+  },
+  "brand": {
+    "tone": "professional and friendly",
+    "usp": "Smarter Heating and Plumbing delivers honest, expert gas and heating services across Liverpool with a focus on quality workmanship and transparent pricing. We treat every home like our own, ensuring you stay warm and safe all year round.",
+    "hero_headline": "Liverpool's Trusted Gas and Heating Experts",
+    "about_paragraph": "I'm a Gas Safe registered engineer based in Liverpool, passionate about delivering heating and plumbing solutions that genuinely make a difference to your home and comfort. At Smarter Heating and Plumbing, I pride myself on honest advice, fair pricing, and work carried out to the highest standard. Whether it's a new boiler installation, a routine service, or an emergency repair, I'm here to help.",
+    "colour_scheme": {
+      "primary": "#1b4f8a",
+      "secondary": "#f57c20",
+      "accent": "#e8f0fe",
+      "text_dark": "#1a1a2e",
+      "text_light": "#ffffff"
+    }
+  },
+  "meta": {
+    "data_quality_score": 0.4,
+    "sources_used": [
+      "google_search"
+    ]
+  },
+  "photos": {
+    "urls": []
+  }
+}
