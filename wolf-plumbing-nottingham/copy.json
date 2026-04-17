@@ -1,0 +1,107 @@
+{
+  "slug": "wolf-plumbing-nottingham",
+  "meta_title": "Wolf Plumbing | Gas Engineer Nottingham",
+  "meta_description": "Wolf Plumbing provides expert gas engineering and plumbing services across Nottingham. Gas Safe registered, fast response, free quotes. Call 07885 275470 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Nottingham's Trusted Gas Engineers",
+  "hero_headline": "Nottingham's Reliable",
+  "hero_highlight": "Gas Engineer",
+  "hero_subhead": "Boiler breakdowns, gas leaks, or heating faults \u2014 Wolf Plumbing gets Nottingham homes safe and warm, fast.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "60min",
+      "label": "Avg. Response Time"
+    }
+  ],
+  "services_heading": "Complete Gas & Plumbing Services Across Nottingham",
+  "services_subhead": "From emergency boiler repairs to full central heating installations, Wolf Plumbing covers every gas and plumbing need in Nottingham and the surrounding areas.",
+  "services": [
+    {
+      "title": "Boiler Repair & Servicing",
+      "desc": "Fast diagnosis and repair of all boiler makes and models, keeping your home warm and your energy bills in check. Annual servicing also available to maintain efficiency and extend boiler life."
+    },
+    {
+      "title": "Boiler Installation",
+      "desc": "Supply and installation of A-rated combi, system, and conventional boilers from leading manufacturers. We'll recommend the right boiler for your property size and hot water demand."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "Full central heating system design and installation for new builds and older properties upgrading from storage heaters. Includes radiator balancing and system commissioning."
+    },
+    {
+      "title": "Gas Safety Certificates",
+      "desc": "Landlord gas safety inspections and CP12 certificates issued by our Gas Safe registered engineers. Keep your tenants protected and stay fully compliant with UK landlord legislation."
+    },
+    {
+      "title": "Emergency Gas & Heating Callouts",
+      "desc": "Suspected gas leaks or a complete heating failure need urgent attention \u2014 our engineers respond quickly across Nottingham to make your property safe. Don't wait; call us straight away."
+    },
+    {
+      "title": "Plumbing Repairs & Installations",
+      "desc": "Leaking pipes, dripping taps, blocked drains, and bathroom installations handled cleanly and efficiently. No job is too small, and all work is guaranteed for your peace of mind."
+    }
+  ],
+  "about_pullquote": "Every job we do has our name on it \u2014 and that matters to us.",
+  "about_para_1": "Wolf Plumbing was founded by a Gas Safe registered engineer with a straightforward goal: to give Nottingham homeowners and landlords a reliable, honest gas and plumbing service they can actually trust. Built on years of hands-on experience across the city and its surrounding areas, the business has grown steadily through word-of-mouth recommendation rather than flashy advertising.",
+  "about_para_2": "What sets Wolf Plumbing apart is a no-nonsense approach \u2014 clear pricing, punctual engineers, and work done properly the first time. Customers come back year after year for boiler servicing and call us first in an emergency because they know we'll pick up the phone and turn up when we say we will.",
+  "about_stats": [
+    {
+      "num": "10+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "Gas Safe",
+      "label": "Registered Engineers"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Work Guaranteed"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Wolf Plumbing",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Boiler packed in on a freezing Monday morning and Wolf Plumbing had an engineer out to us within the hour. Fixed the fault, explained exactly what had gone wrong, and the price was very fair. Brilliant service \u2014 wouldn't use anyone else.",
+      "author": "Karen T.",
+      "loc": "West Bridgford, Nottingham \u2014 February 2025"
+    },
+    {
+      "text": "Used Wolf Plumbing for my annual landlord gas safety certificate. Really professional, arrived on time, and had the CP12 certificate emailed over the same day. Exactly what you need as a landlord. Will definitely be booking again next year.",
+      "author": "James R.",
+      "loc": "Beeston, Nottingham \u2014 January 2025"
+    },
+    {
+      "text": "Had a new combi boiler installed by Wolf Plumbing last autumn. Competitive quote, tidy installation, and they took the old unit away without any fuss. The heating has been perfect ever since. Highly recommend to anyone in Nottingham.",
+      "author": "Sophie M.",
+      "loc": "Arnold, Nottingham \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham and surrounding areas including West Bridgford, Beeston, Arnold, and Hucknall",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Gas leak or boiler failure? Our engineers are on hand to make your home safe \u2014 call now:",
+  "footer_description": "Wolf Plumbing provides Gas Safe registered gas engineering and plumbing services across Nottingham. Fast response, honest pricing, and work guaranteed every time.",
+  "footer_copyright": "\u00a9 2026 Wolf Plumbing. Registered in England & Wales."
+}
