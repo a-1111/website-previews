@@ -1,0 +1,107 @@
+{
+  "slug": "calucno-liverpool",
+  "meta_title": "Calucno | General Contractor Liverpool",
+  "meta_description": "Calucno delivers reliable contracting services across Liverpool. Quality workmanship, honest pricing, and dependable scheduling. Call today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Fully Insured Contractor \u2014 Free Quotes Available",
+  "hero_headline": "Liverpool's Reliable Local",
+  "hero_highlight": "Contracting Experts",
+  "hero_subhead": "Tired of tradespeople who don't show up? Calucno delivers quality work on time, every time, across Liverpool.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "15+",
+      "label": "Areas Covered"
+    }
+  ],
+  "services_heading": "Complete Contracting Services Across Liverpool",
+  "services_subhead": "From small repairs to full project management, Calucno offers a broad range of contracting solutions tailored to homeowners and businesses throughout Liverpool.",
+  "services": [
+    {
+      "title": "General Building Work",
+      "desc": "Whether you need an extension, structural repairs, or a full refurbishment, our skilled team delivers lasting results built to specification and on budget."
+    },
+    {
+      "title": "Groundworks & Foundations",
+      "desc": "We prepare sites correctly from the start \u2014 ensuring solid foundations, drainage, and groundworks that give every project the best possible base."
+    },
+    {
+      "title": "Renovation & Refurbishment",
+      "desc": "Breathe new life into your home or commercial premises with a full renovation, handled by a single reliable contractor from first fix to final finish."
+    },
+    {
+      "title": "Internal Alterations",
+      "desc": "Need walls removed, rooms reconfigured, or layouts improved? We manage all internal structural alterations safely and efficiently, with full compliance."
+    },
+    {
+      "title": "External Works & Landscaping",
+      "desc": "From block paving and patios to fencing and external drainage, we transform outdoor spaces to complement your property and add genuine kerb appeal."
+    },
+    {
+      "title": "Property Maintenance",
+      "desc": "Protect the value of your property with scheduled or reactive maintenance \u2014 covering everything from brickwork and roofline repairs to general upkeep."
+    }
+  ],
+  "about_pullquote": "Every job we take on gets the same care and attention as our own home.",
+  "about_para_1": "Calucno was established to bring straightforward, high-quality contracting to Liverpool homeowners and businesses who were fed up with unreliable tradespeople and inflated quotes. Based in Liverpool, we've built our reputation job by job, project by project, always putting quality and communication first. Our team is fully insured and brings hands-on experience across a wide range of contracting disciplines.",
+  "about_para_2": "What sets Calucno apart is simple: we do what we say we'll do. We arrive when agreed, work to the highest standard, and leave sites clean and tidy. That commitment to reliability has earned us a loyal customer base across Liverpool, with a large proportion of our work coming from repeat clients and personal recommendations.",
+  "about_stats": [
+    {
+      "num": "10+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "100%",
+      "label": "Fully Insured"
+    },
+    {
+      "num": "5\u2605",
+      "label": "Satisfaction Goal"
+    }
+  ],
+  "reviews_heading": "What Liverpool Customers Say About Calucno",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Calucno did a fantastic job on our kitchen extension. The lads were professional, tidy, and kept us informed throughout. Finished on time and within budget \u2014 couldn't ask for more. Would absolutely recommend to anyone in Liverpool looking for a trustworthy contractor.",
+      "author": "Mark T.",
+      "loc": "Wavertree, Liverpool \u2014 February 2025"
+    },
+    {
+      "text": "Used Calucno for a full bathroom and bedroom refurb. From the initial quote to the final handover, everything was seamless. The quality of the work is brilliant and the team were respectful of our home at all times. Will definitely be using them again.",
+      "author": "Claire H.",
+      "loc": "Aigburth, Liverpool \u2014 April 2025"
+    },
+    {
+      "text": "Really impressed with the groundworks and patio they completed for us. Turned up when they said they would, which alone puts them ahead of most. The finished result looks superb and has really transformed the back garden. Highly recommend Calucno.",
+      "author": "Stephen R.",
+      "loc": "Crosby, Liverpool \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Liverpool and surrounding Merseyside areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Call for urgent enquiries",
+  "emergency_banner_text": "Need an urgent contractor in Liverpool? We'll get back to you fast \u2014 call now:",
+  "footer_description": "Calucno is Liverpool's dependable contracting specialist. Fully insured, fairly priced, and committed to quality workmanship on every project we undertake.",
+  "footer_copyright": "\u00a9 2026 Calucno. Registered in England & Wales."
+}
