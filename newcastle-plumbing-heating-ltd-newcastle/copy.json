@@ -1,0 +1,107 @@
+{
+  "slug": "newcastle-plumbing-heating-ltd-newcastle",
+  "meta_title": "Newcastle Plumbing & Heating | Plumber Newcastle",
+  "meta_description": "Newcastle Plumbing & Heating Ltd offer expert plumbing and heating services across Newcastle. Fast response, honest pricing. Call 07939 332951 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Newcastle's Trusted Plumbing & Heating",
+  "hero_headline": "Newcastle's Reliable Local",
+  "hero_highlight": "Plumbing & Heating Experts",
+  "hero_subhead": "Boiler breakdowns, leaks, or heating faults fixed fast \u2014 by experienced local engineers you can genuinely trust.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "1,000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "60 min",
+      "label": "Target Response Time"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Newcastle",
+  "services_subhead": "From emergency call-outs and boiler installations to bathroom fitting and central heating repairs, we handle every job with care and expertise.",
+  "services": [
+    {
+      "title": "Boiler Installation & Replacement",
+      "desc": "We supply and fit energy-efficient boilers from leading manufacturers, ensuring your home stays warm and your energy bills stay manageable. All installations are carried out by Gas Safe registered engineers."
+    },
+    {
+      "title": "Boiler Servicing & Repairs",
+      "desc": "Regular servicing extends boiler life and keeps your warranty valid. Our engineers diagnose and repair faults quickly, getting your heating back up and running with minimal disruption."
+    },
+    {
+      "title": "Central Heating Systems",
+      "desc": "From full system installation to radiator replacements and power flushing, we keep your central heating performing at its best throughout the Newcastle winters."
+    },
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, severe leaks, or sudden loss of hot water \u2014 we aim to reach you within 60 minutes across Newcastle and the surrounding areas. Don't let a small leak become a costly disaster."
+    },
+    {
+      "title": "Bathroom Installation",
+      "desc": "We fit full bathroom suites, shower enclosures, and wet rooms to a high standard, coordinating all plumbing work so your new bathroom is complete, leak-free, and ready to enjoy."
+    },
+    {
+      "title": "General Plumbing Repairs",
+      "desc": "Dripping taps, blocked drains, leaking pipes, and faulty stopcocks \u2014 no job is too small. We offer honest, upfront pricing and leave your home clean and tidy after every visit."
+    }
+  ],
+  "about_pullquote": "We treat every home in Newcastle the same way we'd treat our own.",
+  "about_para_1": "Newcastle Plumbing & Heating Ltd was established by local tradespeople who wanted to bring genuinely reliable, honest service to homeowners across Newcastle upon Tyne. Based in West Denton, we've spent years building a reputation across the city by consistently turning up on time, quoting fairly, and doing the job right first time. Every engineer on our team is fully qualified and Gas Safe registered.",
+  "about_para_2": "What sets us apart is our straightforward approach \u2014 no hidden charges, no upselling you don't need, and no disappearing act once the invoice is paid. Our customers return to us time and again because they know the advice they receive is honest and the workmanship is something they can rely on for years to come.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "1,000+",
+      "label": "Satisfied Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Gas Safe Registered"
+    },
+    {
+      "num": "Newcastle",
+      "label": "& Surrounding Areas"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say About Us",
+  "rating": 4.9,
+  "review_count": 124,
+  "reviews": [
+    {
+      "text": "Brilliant service from start to finish. Called in the morning about a leaking pipe and the engineer was with us within the hour. Sorted quickly, no mess left behind, and the price was exactly as quoted. Will definitely use again.",
+      "author": "Karen T.",
+      "loc": "West Denton, Newcastle \u2014 January 2025"
+    },
+    {
+      "text": "Had my boiler serviced and a faulty radiator replaced. The engineer was polite, knowledgeable, and took the time to explain everything clearly. Refreshing to deal with a company that doesn't try to oversell you. Highly recommended.",
+      "author": "David R.",
+      "loc": "Fenham, Newcastle \u2014 March 2025"
+    },
+    {
+      "text": "Came out on a Saturday when our hot water stopped working completely. Had it fixed within an hour at a very fair price. Can't thank them enough \u2014 proper local tradespeople who actually care about the job they do.",
+      "author": "Michelle H.",
+      "loc": "Westerhope, Newcastle \u2014 February 2025"
+    }
+  ],
+  "address_sub": "Serving Newcastle upon Tyne and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Plumbing or heating emergency in Newcastle? We aim to be with you within 60 minutes \u2014 call now:",
+  "footer_description": "Newcastle Plumbing & Heating Ltd provide expert plumbing and heating services across Newcastle upon Tyne. Gas Safe registered, fast response, and honest pricing guaranteed.",
+  "footer_copyright": "\u00a9 2026 Newcastle Plumbing & Heating Ltd. Registered in England & Wales."
+}
