@@ -1,0 +1,107 @@
+{
+  "slug": "owen-smith-plumbing-heating-newcastle",
+  "meta_title": "Owen Smith Plumbing & Heating | Plumber Newcastle",
+  "meta_description": "Owen Smith Plumbing & Heating offers expert plumbing and heating services across Newcastle. Fast response, honest pricing, and quality guaranteed. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Newcastle's Trusted Plumber",
+  "hero_headline": "Newcastle's Reliable Local",
+  "hero_highlight": "Plumbing & Heating Expert",
+  "hero_subhead": "Boiler breakdowns, burst pipes, or a full heating upgrade \u2014 we respond fast and fix it right, first time.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "1,000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "60 min",
+      "label": "Average Response Time"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Newcastle",
+  "services_subhead": "From emergency callouts to full central heating installations, Owen Smith Plumbing & Heating covers every job \u2014 large or small.",
+  "services": [
+    {
+      "title": "Boiler Installation & Replacement",
+      "desc": "We supply and fit energy-efficient boilers from leading brands, tailored to your home's heating demands. All installations are carried out by a Gas Safe registered engineer with full certification provided."
+    },
+    {
+      "title": "Boiler Servicing & Repairs",
+      "desc": "Regular servicing keeps your boiler running safely and efficiently, reducing the risk of costly breakdowns. We diagnose and repair all makes and models, getting your heating back on fast."
+    },
+    {
+      "title": "Central Heating Systems",
+      "desc": "Whether you need a full central heating installation or an upgrade to an existing system, we design and fit solutions that heat your home evenly and economically. All pipework and radiators are fitted to the highest standard."
+    },
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, severe leaks, or no hot water \u2014 we offer rapid emergency callouts across Newcastle to limit damage and restore your water supply quickly. Don't wait; call us and we'll be with you as soon as possible."
+    },
+    {
+      "title": "Bathroom Installations",
+      "desc": "From a simple tap replacement to a full bathroom refit, we handle all aspects of the plumbing so your new bathroom looks and functions perfectly. We work neatly, tidying up fully before we leave."
+    },
+    {
+      "title": "Landlord Gas Safety Certificates",
+      "desc": "We carry out annual gas safety inspections and issue CP12 certificates to keep your rental property legally compliant. Inspections are thorough, professionally documented, and completed at a time that suits you and your tenants."
+    }
+  ],
+  "about_pullquote": "Every job gets the same attention, whether it's a dripping tap or a full installation.",
+  "about_para_1": "Owen Smith Plumbing & Heating has been serving homeowners and landlords across Newcastle and the surrounding areas for over 15 years. Founded by Owen Smith, a fully Gas Safe registered engineer, the business was built on a straightforward promise: quality workmanship, honest pricing, and no nasty surprises on the invoice.",
+  "about_para_2": "Customers return to Owen time and again because of his reliability, clear communication, and the care he takes in every home he works in. Whether it's a routine boiler service or an emergency call at short notice, you'll always get the same professional, friendly service that Newcastle residents have come to trust.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "1,000+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "Gas Safe",
+      "label": "Registered Engineer"
+    },
+    {
+      "num": "100%",
+      "label": "Satisfaction Guarantee"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say About Owen Smith Plumbing & Heating",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Owen came out within the hour when our boiler packed in on one of the coldest nights of the year. Fixed the problem quickly, explained everything clearly, and charged a fair price. Couldn't recommend him highly enough.",
+      "author": "Karen T.",
+      "loc": "Jesmond, Newcastle \u2014 January 2025"
+    },
+    {
+      "text": "Had Owen fit a new bathroom for us last summer. Brilliant job from start to finish \u2014 tidy, professional, and great value. He even spotted a small leak under the floorboards that we had no idea about. Absolute lifesaver.",
+      "author": "Mark R.",
+      "loc": "Gosforth, Newcastle \u2014 August 2024"
+    },
+    {
+      "text": "I use Owen for all the gas safety certificates on my rental properties. Always reliable, always on time, and the paperwork is sorted straight away. As a landlord, that kind of dependability is worth its weight in gold.",
+      "author": "Diane H.",
+      "loc": "Heaton, Newcastle \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving Newcastle and the surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Plumbing or heating emergency in Newcastle? We aim to reach you within the hour. Call now \u2014",
+  "footer_description": "Owen Smith Plumbing & Heating provides trusted plumbing and heating services across Newcastle. Gas Safe registered, fast response, and honest prices every time.",
+  "footer_copyright": "\u00a9 2026 Owen Smith Plumbing & Heating. Registered in England & Wales."
+}
