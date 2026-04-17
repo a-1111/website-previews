@@ -1,0 +1,107 @@
+{
+  "slug": "rgt-plumbing-heating-nottingham",
+  "meta_title": "RGT Plumbing & Heating | Plumber Nottingham",
+  "meta_description": "RGT Plumbing and Heating Services offer expert plumbing and heating solutions across Nottingham. Fast response, honest pricing. Call today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Nottingham's Trusted Plumbers",
+  "hero_headline": "Nottingham's Reliable",
+  "hero_highlight": "Plumbing & Heating Experts",
+  "hero_subhead": "Boiler breakdowns, leaks, or heating faults fixed fast \u2014 RGT Plumbing keeps your home warm and worry-free.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Same Day",
+      "label": "Response Available"
+    },
+    {
+      "num": "5\u2605",
+      "label": "Customer Rated"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Nottingham",
+  "services_subhead": "From emergency repairs to full boiler installations, RGT Plumbing and Heating Services covers every need in your home or commercial property.",
+  "services": [
+    {
+      "title": "Boiler Installation & Replacement",
+      "desc": "Upgrade to an energy-efficient boiler with a full professional installation. We advise on the best system for your property and handle everything from removal to commissioning."
+    },
+    {
+      "title": "Boiler Servicing & Repairs",
+      "desc": "Keep your boiler running safely and efficiently with an annual service or rapid fault repair. We diagnose and fix issues quickly, minimising disruption to your household."
+    },
+    {
+      "title": "Central Heating Systems",
+      "desc": "From new system installations to power flushing and radiator upgrades, we ensure your heating runs at peak performance throughout the Nottingham winter."
+    },
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, severe leaks, or sudden loss of hot water won't wait \u2014 neither do we. RGT Plumbing offers fast-response emergency callouts across Nottingham."
+    },
+    {
+      "title": "Bathroom Installations",
+      "desc": "Transform your bathroom with a full suite installation carried out to the highest standard. We manage all plumbing and pipework so your new bathroom looks and functions perfectly."
+    },
+    {
+      "title": "Leak Detection & Repairs",
+      "desc": "Hidden leaks can cause serious structural damage if left unchecked. Our experienced engineers locate and repair leaks swiftly, protecting your home and keeping bills down."
+    }
+  ],
+  "about_pullquote": "Every job we take on, we treat it as if it's our own home.",
+  "about_para_1": "RGT Plumbing and Heating Services has been proudly serving homeowners and businesses across Nottingham for over a decade. Founded on a commitment to honest workmanship and fair pricing, the business has grown through word-of-mouth recommendation and a reputation for turning up on time and getting the job done right first time.",
+  "about_para_2": "What sets RGT apart is a straightforward approach: clear communication, no hidden costs, and a tidy finish every time. Customers return because they trust us \u2014 and they recommend us to their neighbours, family, and friends across Nottingham and the surrounding areas.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in the Trade"
+    },
+    {
+      "num": "500+",
+      "label": "Satisfied Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Satisfaction Focus"
+    },
+    {
+      "num": "1hr",
+      "label": "Avg. Emergency Response"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About RGT Plumbing",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Absolutely brilliant service from start to finish. Called RGT on a Monday morning with a leaking pipe and they were with me within the hour. Friendly, professional, and left the place spotless. Will definitely be using them again.",
+      "author": "Karen B.",
+      "loc": "West Bridgford, Nottingham \u2014 February 2025"
+    },
+    {
+      "text": "Had my boiler serviced and a new radiator fitted. The engineer was knowledgeable, explained everything clearly, and the price was exactly as quoted with no nasty surprises. Highly recommend to anyone in Nottingham looking for a reliable plumber.",
+      "author": "James T.",
+      "loc": "Arnold, Nottingham \u2014 November 2024"
+    },
+    {
+      "text": "RGT sorted our heating system before Christmas when our boiler packed in. They came out the same day and had us back up and running that evening. Couldn't be more grateful \u2014 excellent work at a fair price.",
+      "author": "Michelle R.",
+      "loc": "Beeston, Nottingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham and the surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Plumbing or heating emergency in Nottingham? We aim to reach you fast \u2014 call now:",
+  "footer_description": "RGT Plumbing and Heating Services provides expert plumbing and heating solutions across Nottingham. Gas Safe registered, honest pricing, and fast response times you can rely on.",
+  "footer_copyright": "\u00a9 2026 RGT Plumbing and Heating Services. Registered in England & Wales."
+}
