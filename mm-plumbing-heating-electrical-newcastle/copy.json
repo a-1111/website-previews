@@ -1,0 +1,107 @@
+{
+  "slug": "mm-plumbing-heating-electrical-newcastle",
+  "meta_title": "M.M Plumbing & Heating | Plumber Newcastle",
+  "meta_description": "M.M Plumbing Heating Engineer & Electrical Service Ltd. offer trusted plumbing, heating and electrical services across Newcastle. Free quotes \u2014 call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Plumbing, Heating & Electrical",
+  "hero_headline": "Newcastle's Reliable",
+  "hero_highlight": "Plumbing & Heating Experts",
+  "hero_subhead": "Boiler breakdowns, leaks, or electrical faults \u2014 we get Newcastle homes fixed fast, with no hidden charges.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "3",
+      "label": "Trades Under One Roof"
+    },
+    {
+      "num": "Same Day",
+      "label": "Response Available"
+    },
+    {
+      "num": "100%",
+      "label": "Satisfaction Guaranteed"
+    }
+  ],
+  "services_heading": "Complete Plumbing, Heating & Electrical Services Across Newcastle",
+  "services_subhead": "From emergency repairs to full installations, we handle every job across your home with one trusted team.",
+  "services": [
+    {
+      "title": "Boiler Installation & Repair",
+      "desc": "We supply, fit and service all major boiler brands, keeping your home warm and your energy bills under control. Breakdowns handled promptly \u2014 often on the same day you call."
+    },
+    {
+      "title": "Central Heating Systems",
+      "desc": "Full central heating installations, upgrades and power flushes to restore efficiency and even heat throughout your property. We work on all system types including combi, system and conventional boilers."
+    },
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, severe leaks or blocked drains won't wait \u2014 neither do we. Our emergency callout service covers Newcastle and surrounding areas when you need help most."
+    },
+    {
+      "title": "Bathroom Installation",
+      "desc": "From a single fixture swap to a complete bathroom refit, we handle all plumbing work to the highest standard. We leave your bathroom clean, functional and exactly as agreed."
+    },
+    {
+      "title": "Electrical Services",
+      "desc": "Our qualified electricians carry out consumer unit upgrades, fault finding, socket and lighting installations, and full rewires. All work is certified and compliant with current Part P regulations."
+    },
+    {
+      "title": "Landlord Safety Certificates",
+      "desc": "We provide Gas Safety certificates (CP12) and Electrical Installation Condition Reports (EICR) to keep your rental property legally compliant. Quick turnaround to suit busy landlords and letting agents."
+    }
+  ],
+  "about_pullquote": "Every job we take on, we treat it like it's our own home.",
+  "about_para_1": "M.M Plumbing Heating Engineer & Electrical Service Ltd. has been serving homeowners and landlords across Newcastle upon Tyne from our base on Dilston Road, NE4. We built this business on the belief that tradespeople should be reliable, transparent and genuinely skilled \u2014 offering plumbing, heating and electrical work all under one trusted name.",
+  "about_para_2": "What sets us apart is the breadth of what we do: you won't need to book three separate contractors when you call us. Our customers return to us time and again because we turn up when we say we will, price honestly, and never cut corners on quality or safety.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in the Trade"
+    },
+    {
+      "num": "3",
+      "label": "Qualified Trades"
+    },
+    {
+      "num": "NE1\u2013NE20",
+      "label": "Areas Covered"
+    },
+    {
+      "num": "0",
+      "label": "Hidden Charges"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say About Us",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Absolutely brilliant service. Our boiler packed in on a freezing Thursday evening and M.M Plumbing had someone out first thing Friday morning. Fixed quickly, priced fairly, and the engineer was tidy and professional. Cannot recommend highly enough.",
+      "author": "Claire B.",
+      "loc": "Fenham, Newcastle \u2014 February 2025"
+    },
+    {
+      "text": "Used M.M for a full bathroom refit and new consumer unit in the same week. Having one company handle both the plumbing and electrics made the whole job so much smoother. Great communication throughout and a spotless finish.",
+      "author": "David R.",
+      "loc": "Elswick, Newcastle \u2014 November 2024"
+    },
+    {
+      "text": "Needed a Gas Safety certificate for my rental property at short notice and they sorted it within 48 hours. Punctual, professional, and gave me a clear certificate same day. Will be using them for all my landlord checks going forward.",
+      "author": "Priya S.",
+      "loc": "Westgate Hill, Newcastle \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Newcastle upon Tyne and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Plumbing or heating emergency in Newcastle? We aim to be with you the same day \u2014 call now:",
+  "footer_description": "M.M Plumbing Heating Engineer & Electrical Service Ltd. provides expert plumbing, heating and electrical services across Newcastle. Gas Safe registered, fully qualified, and fairly priced.",
+  "footer_copyright": "\u00a9 2026 M.M Plumbing Heating Engineer & Electrical Service Ltd. Registered in England & Wales."
+}
