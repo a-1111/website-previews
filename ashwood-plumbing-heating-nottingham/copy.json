@@ -1,0 +1,107 @@
+{
+  "slug": "ashwood-plumbing-heating-nottingham",
+  "meta_title": "Ashwood Plumbing & Heating | Plumber Nottingham",
+  "meta_description": "Ashwood Plumbing & Heating offers expert plumbing and heating services across Nottingham. Gas Safe registered, fast response, free quotes. Call us today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Fast Response Across Nottingham",
+  "hero_headline": "Nottingham's Trusted Local",
+  "hero_highlight": "Plumbing & Heating Experts",
+  "hero_subhead": "Boiler breakdowns, leaks, or heating faults \u2014 Ashwood gets to you fast, fixes it right, first time.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "2hrs",
+      "label": "Average Response Time"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Nottingham",
+  "services_subhead": "From emergency repairs and boiler installations to bathroom fitting and central heating, Ashwood covers every job \u2014 large or small.",
+  "services": [
+    {
+      "title": "Boiler Installation & Replacement",
+      "desc": "Supply and fit of A-rated energy-efficient boilers from leading brands. We handle everything from removal of your old unit to full commissioning and Gas Safe certification."
+    },
+    {
+      "title": "Boiler Servicing & Repairs",
+      "desc": "Annual boiler services to keep your system running safely and efficiently, plus prompt fault diagnosis and repair to restore your heating with minimal disruption."
+    },
+    {
+      "title": "Central Heating Systems",
+      "desc": "Full central heating installation, upgrades, and power flushing to improve circulation and radiator performance throughout your Nottingham home."
+    },
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, major leaks, or a sudden loss of hot water \u2014 we respond quickly across Nottingham to limit damage and get your home back to normal fast."
+    },
+    {
+      "title": "Bathroom Installation",
+      "desc": "Full bathroom and en-suite fitting, including new showers, baths, basins, and tiling. We manage the entire project from first fix to the final finish."
+    },
+    {
+      "title": "Leak Detection & Pipe Repairs",
+      "desc": "Persistent drips, hidden leaks, or damaged pipework can cause serious structural damage if left untreated. We locate and resolve the problem cleanly and efficiently."
+    }
+  ],
+  "about_pullquote": "Every job done properly \u2014 because your home deserves nothing less.",
+  "about_para_1": "Ashwood Plumbing & Heating has been serving homeowners and landlords across Nottingham for over a decade. Founded on the belief that local tradespeople should be reliable, transparent, and genuinely skilled, we've grown steadily through word-of-mouth recommendation. Our engineers are Gas Safe registered and fully qualified to handle everything from a dripping tap to a complete heating system overhaul.",
+  "about_para_2": "We pride ourselves on turning up when we say we will, quoting honestly, and leaving your home clean and tidy after every visit. Our customers return to us year after year because they know they'll get straight-talking advice and quality workmanship \u2014 never unnecessary upselling or hidden charges.",
+  "about_stats": [
+    {
+      "num": "10+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Gas Safe Certified"
+    },
+    {
+      "num": "5\u2605",
+      "label": "Workmanship Guarantee"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Ashwood",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Brilliant service from start to finish. Called Ashwood on a Monday morning with a broken boiler and they were out the same afternoon. Engineer was polite, knowledgeable, and had it sorted within the hour. Can't recommend highly enough.",
+      "author": "James T.",
+      "loc": "West Bridgford, Nottingham \u2014 February 2025"
+    },
+    {
+      "text": "Used Ashwood to fit a new bathroom and couldn't be happier with the result. The whole job was completed on time and within budget. Everything was left spotless. Will definitely be using them again for our central heating upgrade.",
+      "author": "Claire B.",
+      "loc": "Arnold, Nottingham \u2014 November 2024"
+    },
+    {
+      "text": "Had a leak under the kitchen sink that two other plumbers couldn't track down. Ashwood found it within 20 minutes and had it fixed before lunchtime. Honest pricing and really friendly team. Absolute lifesavers.",
+      "author": "Mark H.",
+      "loc": "Beeston, Nottingham \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Nottingham and surrounding areas including West Bridgford, Arnold, Beeston, and Long Eaton",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Plumbing emergency in Nottingham? We aim to reach you within two hours \u2014 call now:",
+  "footer_description": "Ashwood Plumbing & Heating provides trusted plumbing and Gas Safe heating services across Nottingham. Fast response, honest pricing, and quality workmanship guaranteed.",
+  "footer_copyright": "\u00a9 2026 Ashwood Plumbing & Heating. Registered in England & Wales."
+}
