@@ -1,0 +1,107 @@
+{
+  "slug": "notts-heating-plumbing-nottingham",
+  "meta_title": "Notts Heating & Plumbing | Gas Engineer Nottingham",
+  "meta_description": "Notts Heating & Plumbing offer expert gas engineering, boiler installs, and plumbing across Nottingham. Gas Safe registered. Call today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:30-19:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Boilers, Heating & Plumbing",
+  "hero_headline": "Nottingham's Reliable Local",
+  "hero_highlight": "Gas Engineer",
+  "hero_subhead": "Boiler broken or heating failing? Get a fast, honest fix from a Gas Safe engineer you can trust.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Same Day",
+      "label": "Availability"
+    }
+  ],
+  "services_heading": "Complete Heating & Plumbing Services Across Nottingham",
+  "services_subhead": "From emergency boiler repairs to full central heating installations, we cover every aspect of gas and plumbing work in Nottingham and the surrounding areas.",
+  "services": [
+    {
+      "title": "Boiler Repairs",
+      "desc": "Fast diagnosis and repair of all boiler makes and models, getting your heating back up and running as quickly as possible. We carry a wide range of spare parts to fix most faults in a single visit."
+    },
+    {
+      "title": "Boiler Installations",
+      "desc": "Supply and fit of energy-efficient new boilers from leading brands, tailored to your home's size and hot water demands. All installations are fully Gas Safe certified and come with a manufacturer warranty."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "Complete new central heating systems designed and fitted to heat your home efficiently and reliably. We handle everything from pipework and radiators to programmer and thermostat setup."
+    },
+    {
+      "title": "Gas Safety Certificates",
+      "desc": "Landlord gas safety inspections and CP12 certificates issued by a fully registered Gas Safe engineer. Protect your tenants and stay legally compliant with a thorough annual check."
+    },
+    {
+      "title": "Boiler Servicing",
+      "desc": "Annual boiler services that keep your system running safely, efficiently, and within warranty conditions. Regular servicing can significantly reduce the risk of costly breakdowns during winter."
+    },
+    {
+      "title": "General Plumbing",
+      "desc": "From leaking taps and burst pipes to bathroom installations and outdoor tap fitting, we handle all domestic plumbing work. No job is too small \u2014 reliable, tidy, and fairly priced every time."
+    }
+  ],
+  "about_pullquote": "Every job gets the same care, whether it's a washer or a full system.",
+  "about_para_1": "Notts Heating & Plumbing is a Nottingham-based gas and plumbing business operating from NG7, serving homeowners, landlords, and tenants across the city. Fully Gas Safe registered, we bring professional-grade expertise to every job, from a quick boiler service to a complete central heating installation.",
+  "about_para_2": "We've built our reputation on straight-talking advice, transparent pricing, and work that's done right the first time. Our customers come back to us year after year \u2014 and recommend us to their neighbours \u2014 because we treat every home with the same care and respect we'd want in our own.",
+  "about_stats": [
+    {
+      "num": "Gas Safe",
+      "label": "Registered Engineer"
+    },
+    {
+      "num": "10+",
+      "label": "Years in the Trade"
+    },
+    {
+      "num": "500+",
+      "label": "Satisfied Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Workmanship Guarantee"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Us",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Boiler packed in on a cold morning and Notts Heating & Plumbing came out the same day. Diagnosed the fault quickly, had the part on the van, and had us back up and running within a couple of hours. Brilliant service and very reasonable price.",
+      "author": "Karen T.",
+      "loc": "Lenton, Nottingham \u2014 February 2025"
+    },
+    {
+      "text": "Had a new boiler fitted last month and couldn't be happier. The whole job was done neatly in one day, everything was explained clearly, and the price quoted was the price we paid. No nasty surprises. Would highly recommend.",
+      "author": "David S.",
+      "loc": "Beeston, Nottingham \u2014 January 2025"
+    },
+    {
+      "text": "Really trustworthy and professional. Came to service our boiler and also spotted a small issue we weren't aware of, sorted it on the spot at no extra charge. It's rare to find a tradesperson this honest. We'll definitely be using them again.",
+      "author": "Michelle R.",
+      "loc": "Wollaton, Nottingham \u2014 March 2025"
+    }
+  ],
+  "address_sub": "Serving Nottingham and surrounding areas, including Beeston, Arnold, Long Eaton, and West Bridgford",
+  "opening_hours_main": "Mon\u2013Fri: 7:30am \u2013 7pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency calls welcome",
+  "emergency_banner_text": "Boiler broken or gas concern? We aim to respond the same day \u2014 call now:",
+  "footer_description": "Notts Heating & Plumbing are Nottingham's trusted Gas Safe registered engineers. Specialising in boiler repairs, installations, and plumbing \u2014 delivering honest, reliable service across the city.",
+  "footer_copyright": "\u00a9 2026 Notts Heating & Plumbing. Registered in England & Wales."
+}
