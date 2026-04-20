@@ -1,0 +1,107 @@
+{
+  "slug": "sams-electrical-services-manchester",
+  "meta_title": "Sam's Electrical Services | Electrician Manchester",
+  "meta_description": "Sam's Electrical Services Ltd offer trusted electrical work across Manchester. NICEIC-approved, fast response, free quotes. Call today for a reliable local electrician.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:30-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved Contractor \u2014 Free No-Obligation Quotes",
+  "hero_headline": "Manchester's Reliable Local",
+  "hero_highlight": "Electrician",
+  "hero_subhead": "Faulty wiring, a full rewire, or a new consumer unit \u2014 we get it sorted safely, on time and on budget.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "M16 & Beyond",
+      "label": "Areas Covered"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Manchester",
+  "services_subhead": "From minor repairs to full property rewires, Sam's Electrical Services covers every electrical need for homeowners and businesses throughout Greater Manchester.",
+  "services": [
+    {
+      "title": "Full & Partial Rewires",
+      "desc": "We carry out full and partial rewires on homes of all ages, ensuring your property meets current BS 7671 wiring regulations. All work is inspected, tested, and certificated on completion."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "An outdated fuse board is a safety risk and an insurance concern. We supply and fit modern consumer units with RCD protection, improving safety and bringing your installation up to current standards."
+    },
+    {
+      "title": "Electrical Installation Condition Reports (EICR)",
+      "desc": "Landlords and homeowners can rely on us for thorough periodic inspection and testing. We issue official EICR certificates recognised by letting agents, insurers, and local authorities."
+    },
+    {
+      "title": "Socket & Lighting Installations",
+      "desc": "Need extra sockets, USB outlets, or a new lighting circuit? We install cleanly and efficiently, minimising disruption and leaving your home exactly as we found it \u2014 just with better electrics."
+    },
+    {
+      "title": "Fault Finding & Repairs",
+      "desc": "Tripping breakers, dead sockets, or flickering lights can signal a serious underlying fault. Our methodical diagnostic approach pinpoints the problem quickly so it's fixed safely the first time."
+    },
+    {
+      "title": "EV Charger Installation",
+      "desc": "We supply and install home electric vehicle charging points compatible with all major car brands. Installations are completed to OZEV standards, and we can advise on the best charger for your setup."
+    }
+  ],
+  "about_pullquote": "Every job gets the same care, whether it's one socket or a full rewire.",
+  "about_para_1": "Sam's Electrical Services Ltd was founded by Sam, a fully qualified electrician based in Old Trafford, Stretford. With over 15 years of hands-on experience working across domestic and light commercial properties in Manchester, Sam built the business on a simple promise: honest advice, quality workmanship, and a tidy finish every time.",
+  "about_para_2": "Operating from our base on Skerton Road, we serve homeowners, landlords, and small businesses throughout Greater Manchester. Customers return to us because we turn up when we say we will, explain everything clearly, and never recommend work that isn't genuinely needed. Our reputation has grown almost entirely through word of mouth \u2014 and we intend to keep it that way.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Work Certificated"
+    },
+    {
+      "num": "5\u2605",
+      "label": "Typical Review Score"
+    }
+  ],
+  "reviews_heading": "What Manchester Homeowners Say About Sam's Electrical Services",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Sam replaced our consumer unit and added a couple of extra circuits for the kitchen. Arrived on time, explained everything before starting, and left the place spotless. Would absolutely recommend to anyone looking for a trustworthy electrician in Manchester.",
+      "author": "David T.",
+      "loc": "Old Trafford, Manchester \u2014 February 2025"
+    },
+    {
+      "text": "Really impressed with the service. We needed an EICR for our rental property and Sam turned it around quickly with a full written report. Straightforward, professional, and very fairly priced. We'll be using Sam for all our electrical work going forward.",
+      "author": "Priya S.",
+      "loc": "Stretford, Manchester \u2014 April 2025"
+    },
+    {
+      "text": "Had a persistent tripping issue that two other electricians couldn't sort. Sam diagnosed the fault within the hour and had it fixed the same day. Brilliant service \u2014 honest, efficient, and no messing about. Highly recommend.",
+      "author": "James O.",
+      "loc": "Trafford, Manchester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Old Trafford, Stretford, and all of Greater Manchester",
+  "opening_hours_main": "Mon\u2013Fri: 7:30am \u2013 6:00pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency enquiries welcome anytime",
+  "emergency_banner_text": "Electrical emergency in Manchester? We'll get to you as fast as possible \u2014 call now:",
+  "footer_description": "Sam's Electrical Services Ltd is a trusted local electrician based in Old Trafford, Manchester. NICEIC-approved, fully certificated work, free quotes, and reliable service across Greater Manchester.",
+  "footer_copyright": "\u00a9 2026 Sam's Electrical Services Ltd. Registered in England & Wales."
+}
