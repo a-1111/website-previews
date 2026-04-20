@@ -1,0 +1,107 @@
+{
+  "slug": "sr-driver-plumbing-heating-leicester",
+  "meta_title": "SR Driver Plumbing & Heating | Plumber Leicester",
+  "meta_description": "SR Driver Plumbing & Heating offers expert plumbing and heating services across Leicester. Reliable, local, and fairly priced. Call today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Leicester's Trusted Heating Specialist",
+  "hero_headline": "Leicester's Reliable Local",
+  "hero_highlight": "Plumbing & Heating",
+  "hero_subhead": "Boiler breakdowns, leaks, or a new heating system \u2014 we get it sorted fast, with no hidden costs.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Same Day",
+      "label": "Response Available"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Leicester",
+  "services_subhead": "From emergency callouts to full boiler installations, we cover every plumbing and heating need for homeowners across Leicester and the surrounding villages.",
+  "services": [
+    {
+      "title": "Boiler Installation & Replacement",
+      "desc": "We supply and fit A-rated combi and system boilers from leading brands, ensuring your home stays warm and efficient. All installations are carried out by our Gas Safe registered engineer."
+    },
+    {
+      "title": "Boiler Servicing & Repairs",
+      "desc": "Regular servicing keeps your boiler running safely and extends its lifespan. We diagnose and repair faults on all makes and models, getting your heating back up and running with minimal disruption."
+    },
+    {
+      "title": "Central Heating Systems",
+      "desc": "Whether you need a full central heating installation or a power flush to improve efficiency, we design and fit systems tailored to your home's requirements."
+    },
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, blocked drains, or a sudden leak \u2014 we respond quickly across Leicester to limit damage and restore normality to your home as fast as possible."
+    },
+    {
+      "title": "Bathroom Installations",
+      "desc": "From a simple tap replacement to a complete bathroom refit, we handle all plumbing aspects with a clean, professional finish that stands the test of time."
+    },
+    {
+      "title": "Landlord Gas Safety Certificates",
+      "desc": "We carry out annual CP12 gas safety inspections and issue certificates promptly, keeping your rental property compliant and your tenants safe."
+    }
+  ],
+  "about_pullquote": "Every job gets the same care, whether it's a washer or a full boiler install.",
+  "about_para_1": "SR Driver Plumbing & Heating has been serving homeowners across Leicester and the surrounding villages from our base in Great Glen for over 15 years. Founded by a fully qualified, Gas Safe registered engineer, the business was built on a straightforward promise: turn up on time, do the job properly, and charge a fair price.",
+  "about_para_2": "We work across all of Leicestershire, from the city centre to rural communities like Great Glen, Oadby, and Wigston. Our customers return to us time and again because we communicate clearly, leave homes clean and tidy, and never cut corners \u2014 values that have earned us an outstanding local reputation entirely through word of mouth.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "Gas Safe",
+      "label": "Registered Engineer"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Satisfaction Focus"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About SR Driver",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Absolutely brilliant service. Our boiler packed in on a cold Thursday evening and SR Driver had it sorted by Friday morning. No fuss, really fair price, and the engineer was polite and tidy throughout. Would highly recommend to anyone in Leicester.",
+      "author": "Karen B.",
+      "loc": "Oadby, Leicester \u2014 February 2025"
+    },
+    {
+      "text": "Used SR Driver for a full bathroom replumb and couldn't be happier. Turned up exactly when they said they would, completed the work to a really high standard, and left everything spotless. Will definitely be using them again for our boiler service.",
+      "author": "James T.",
+      "loc": "Great Glen, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Had a nasty leak under the kitchen sink that two other plumbers couldn't trace. SR Driver found it within 20 minutes and fixed it properly the same day. Honest, knowledgeable, and genuinely good value. This is my go-to plumber from now on.",
+      "author": "Priya M.",
+      "loc": "Wigston, Leicester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Leicester, Great Glen, Oadby, Wigston & surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Plumbing emergency in Leicester? We aim to reach you the same day \u2014 call now:",
+  "footer_description": "SR Driver Plumbing & Heating provides expert plumbing, boiler, and central heating services across Leicester. Gas Safe registered, fairly priced, and trusted by local homeowners.",
+  "footer_copyright": "\u00a9 2026 SR Driver Plumbing & Heating. Registered in England & Wales."
+}
