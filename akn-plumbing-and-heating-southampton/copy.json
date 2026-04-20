@@ -1,0 +1,107 @@
+{
+  "slug": "akn-plumbing-and-heating-southampton",
+  "meta_title": "AKN Plumbing & Heating | Gas Engineer Southampton",
+  "meta_description": "AKN Plumbing and Heating offer expert gas engineering, boiler installs and heating repairs across Southampton. Gas Safe registered. Call today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Boilers, Heating & Plumbing",
+  "hero_headline": "Southampton's Trusted Local",
+  "hero_highlight": "Gas Engineer",
+  "hero_subhead": "Boiler broken or heating failing? AKN respond fast across Southampton \u2014 keeping your home warm and safe.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Same Day",
+      "label": "Response Available"
+    }
+  ],
+  "services_heading": "Complete Gas & Heating Services Across Southampton",
+  "services_subhead": "From emergency boiler repairs to full central heating installations, AKN Plumbing and Heating covers every aspect of your home's gas and plumbing needs.",
+  "services": [
+    {
+      "title": "Boiler Repairs",
+      "desc": "Fast diagnosis and repair of all boiler makes and models, getting your heating back up and running as quickly as possible. We carry common parts to fix most faults on the first visit."
+    },
+    {
+      "title": "Boiler Installations",
+      "desc": "Supply and installation of energy-efficient replacement boilers from leading brands, tailored to your home's size and hot water demands. All installations include full commissioning and Gas Safe certification."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "Complete design and installation of new central heating systems for Southampton homes, including radiators, pipework, and programmable controls. We ensure maximum efficiency from day one."
+    },
+    {
+      "title": "Gas Safety Certificates",
+      "desc": "Landlord and homeowner Gas Safe inspections carried out promptly, with certificates issued the same day. Stay legally compliant and keep your tenants or family protected."
+    },
+    {
+      "title": "Boiler Servicing",
+      "desc": "Annual boiler servicing to maintain efficiency, extend appliance lifespan, and keep your manufacturer's warranty valid. Regular servicing can also reduce your energy bills significantly."
+    },
+    {
+      "title": "Plumbing Repairs",
+      "desc": "From leaking taps and burst pipes to faulty radiators and cylinder replacements, our plumbing repairs cover all common household issues. No job is too small for the AKN team."
+    }
+  ],
+  "about_pullquote": "Every home deserves reliable heating and an engineer you can trust.",
+  "about_para_1": "AKN Plumbing and Heating was founded in Southampton with a simple aim: to provide honest, high-quality gas and plumbing services that local homeowners can rely on. Based in Coxford, we work across Southampton and the surrounding areas, bringing fully Gas Safe registered expertise to every job we take on.",
+  "about_para_2": "We've built our reputation on turning up when we say we will, explaining work clearly before we start, and leaving your home clean and tidy. Our customers come back to us year after year because they know they'll receive straightforward advice, fair pricing, and a job done properly the first time.",
+  "about_stats": [
+    {
+      "num": "Gas Safe",
+      "label": "Registered Engineers"
+    },
+    {
+      "num": "10+",
+      "label": "Years in the Trade"
+    },
+    {
+      "num": "500+",
+      "label": "Satisfied Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Workmanship Guaranteed"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About AKN",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Absolutely brilliant service. Our boiler packed in on a cold morning and AKN were with us within a couple of hours. The engineer was professional, explained exactly what the problem was, and had it fixed in no time. Wouldn't use anyone else.",
+      "author": "Claire B.",
+      "loc": "Coxford, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Had a new boiler installed by AKN and the whole process was seamless. They arrived on time, worked tidily, and walked me through everything before they left. Competitive price too. Highly recommend to anyone in Southampton.",
+      "author": "Mark T.",
+      "loc": "Shirley, Southampton \u2014 November 2024"
+    },
+    {
+      "text": "Needed a gas safety certificate for my rental property at short notice and AKN sorted it the very same day. Friendly, efficient, and the certificate arrived promptly. Great local company \u2014 will definitely be booking them for the annual service.",
+      "author": "Priya S.",
+      "loc": "Bassett, Southampton \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Southampton and surrounding areas from Coxford, SO16",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Boiler breakdown or gas emergency? AKN aim to reach you the same day \u2014 call now:",
+  "footer_description": "AKN Plumbing and Heating are Gas Safe registered engineers based in Southampton. Specialists in boiler repairs, installations, and central heating across the Southampton area.",
+  "footer_copyright": "\u00a9 2026 AKN Plumbing and Heating. Registered in England & Wales."
+}
