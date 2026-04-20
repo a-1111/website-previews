@@ -1,0 +1,107 @@
+{
+  "slug": "dbh-plumbing-heating-leicester",
+  "meta_title": "DBH Plumbing & Heating | Plumber Leicester",
+  "meta_description": "DBH Plumbing & Heating offer expert plumbing and heating services across Leicester. Fast response, competitive rates, and quality workmanship. Call today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Leicester's Trusted Heating Specialists",
+  "hero_headline": "Leicester's Reliable Local",
+  "hero_highlight": "Plumbing & Heating",
+  "hero_subhead": "Boiler breakdowns, leaks, and heating faults fixed fast \u2014 professional service you can count on, when you need it most.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "60 min",
+      "label": "Avg. Response Time"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Leicester",
+  "services_subhead": "From emergency boiler repairs to full bathroom installations, DBH Plumbing & Heating covers every aspect of your home's plumbing and heating needs.",
+  "services": [
+    {
+      "title": "Boiler Repair & Servicing",
+      "desc": "Fast diagnosis and repair of all boiler makes and models, keeping your home warm and your energy bills down. Annual servicing helps prevent costly breakdowns before they happen."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "Full central heating system design and installation for new builds and older properties alike. We use quality components and back every installation with a comprehensive guarantee."
+    },
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, severe leaks, and plumbing failures dealt with promptly across Leicester. We aim to reach you quickly and resolve the problem on the first visit wherever possible."
+    },
+    {
+      "title": "Bathroom Fitting",
+      "desc": "Complete bathroom installations from strip-out through to the finishing touches, including tiling, pipework, and sanitary ware fitting. Tidy, reliable work with minimal disruption to your home."
+    },
+    {
+      "title": "Radiator & Underfloor Heating",
+      "desc": "Radiator installation, replacement, and power flushing to restore full heating efficiency throughout your property. We also install energy-efficient underfloor heating systems in new and existing rooms."
+    },
+    {
+      "title": "Landlord Gas Safety Certificates",
+      "desc": "Fully certified Gas Safe inspections and CP12 landlord certificates issued promptly to keep your rental property legal and your tenants safe. Competitive rates for portfolio landlords."
+    }
+  ],
+  "about_pullquote": "Every job we take on, we treat it as if it were our own home.",
+  "about_para_1": "DBH Plumbing & Heating was founded with a simple aim: to bring honest, skilled, and reliable plumbing and heating services to homeowners and landlords across Leicester. Built on word-of-mouth recommendations, the business has grown steadily by consistently delivering quality workmanship and straightforward, no-nonsense pricing.",
+  "about_para_2": "What sets DBH apart is a genuine commitment to getting the job done properly the first time. Customers return time and again because they trust us to turn up when we say we will, work cleanly, and never add unexpected charges to the bill. That reputation matters to us, and we work hard to earn it on every single visit.",
+  "about_stats": [
+    {
+      "num": "10+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Gas Safe Registered"
+    },
+    {
+      "num": "Leicester",
+      "label": "& Surrounding Areas"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About DBH Plumbing & Heating",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Absolutely brilliant service from start to finish. Called DBH in the morning about a leaking pipe and they were with us within the hour. The job was done quickly, tidily, and at a very fair price. Wouldn't hesitate to recommend.",
+      "author": "James T.",
+      "loc": "Oadby, Leicester \u2014 February 2025"
+    },
+    {
+      "text": "Our boiler packed in on one of the coldest nights of the year and DBH came out the same evening. Really professional, explained everything clearly, and had the heating back on before bedtime. Fantastic service \u2014 five stars without question.",
+      "author": "Karen W.",
+      "loc": "Wigston, Leicester \u2014 January 2025"
+    },
+    {
+      "text": "Used DBH for a full bathroom refit and couldn't be happier with the result. They were punctual every day, left the place spotless each evening, and the finished bathroom looks stunning. Genuinely one of the best tradespeople I've ever hired.",
+      "author": "Michael B.",
+      "loc": "Glenfield, Leicester \u2014 March 2025"
+    }
+  ],
+  "address_sub": "Serving Leicester and the surrounding Leicestershire areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Plumbing or heating emergency in Leicester? We aim to be with you within the hour \u2014 call now:",
+  "footer_description": "DBH Plumbing & Heating provides expert plumbing and heating services across Leicester. Gas Safe registered, competitively priced, and available for emergencies.",
+  "footer_copyright": "\u00a9 2026 DBH Plumbing & Heating. Registered in England & Wales."
+}
