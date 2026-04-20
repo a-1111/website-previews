@@ -1,0 +1,107 @@
+{
+  "slug": "electrical-northwest-empire-manchester",
+  "meta_title": "Electrical Northwest Empire | Electrician Manchester",
+  "meta_description": "Electrical Northwest Empire offers expert electrical installation services across Manchester. NICEIC-approved, fully qualified, and ready for your call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved Electricians \u2014 Free Quotes Available",
+  "hero_headline": "Manchester's Trusted",
+  "hero_highlight": "Electrical Experts",
+  "hero_subhead": "Faulty wiring, new installations, or emergency faults \u2014 we respond fast and get it right first time.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "10+",
+      "label": "Years in the Trade"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "24hr",
+      "label": "Emergency Response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Greater Manchester",
+  "services_subhead": "From full rewires and consumer unit upgrades to EV charger installation and fault finding, we cover every electrical need for homes and businesses.",
+  "services": [
+    {
+      "title": "Full Rewires",
+      "desc": "We carry out complete domestic and commercial rewires to the latest BS 7671 wiring regulations, ensuring your property is safe and fully compliant. Minimal disruption, neat finishes, and a full Electrical Installation Certificate on completion."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Old fuse boards are a fire hazard and often fail to meet current safety standards. We upgrade to modern RCD-protected consumer units, protecting your home and bringing your electrics up to code."
+    },
+    {
+      "title": "EV Charger Installation",
+      "desc": "Get your OZEV-approved home EV charger fitted quickly and safely by our qualified team. We handle everything from survey to sign-off, so you can charge your vehicle overnight with confidence."
+    },
+    {
+      "title": "Fault Finding & Repairs",
+      "desc": "Tripping circuits, dead sockets, or flickering lights can indicate a serious underlying problem. Our engineers use professional diagnostic equipment to locate faults quickly and carry out lasting repairs."
+    },
+    {
+      "title": "New Builds & Extensions",
+      "desc": "Planning an extension or new build in Manchester? We design and install first-fix and second-fix electrical systems to specification, working alongside your builders to keep the project on schedule."
+    },
+    {
+      "title": "Electrical Testing & Inspections",
+      "desc": "Landlords, homeowners, and businesses can rely on us for thorough Electrical Installation Condition Reports (EICR). We provide a clear, jargon-free assessment of your installation's safety and condition."
+    }
+  ],
+  "about_pullquote": "Every job we take on, safety and quality come first \u2014 always.",
+  "about_para_1": "Electrical Northwest Empire was established by a team of fully qualified electricians based at Cariocca Business Park in Ardwick, Manchester. Built on a foundation of honest workmanship and technical expertise, we have grown steadily by delivering high-quality electrical installations to homeowners, landlords, and businesses across Greater Manchester.",
+  "about_para_2": "We take pride in arriving on time, communicating clearly, and leaving every job site tidy. Our customers return to us because they trust us to get it right first time \u2014 whether it's a straightforward socket installation or a full commercial rewire. No hidden charges, no shortcuts, and no job too big or too small.",
+  "about_stats": [
+    {
+      "num": "10+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Installations Completed"
+    },
+    {
+      "num": "100%",
+      "label": "Work Certified"
+    },
+    {
+      "num": "Greater Manchester",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Manchester Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Absolutely brilliant service from start to finish. The lads at Electrical Northwest Empire rewired our whole house in Levenshulme and left it spotless. Very professional, great communication throughout, and the price was fair. Would highly recommend to anyone in Manchester.",
+      "author": "James T.",
+      "loc": "Levenshulme, Manchester \u2014 February 2025"
+    },
+    {
+      "text": "Had a consumer unit upgrade done and couldn't be happier. They explained everything clearly before starting, turned up exactly when they said they would, and had it all done within the day. Fully certified too, which was important for my insurance. Top team.",
+      "author": "Claire B.",
+      "loc": "Didsbury, Manchester \u2014 November 2024"
+    },
+    {
+      "text": "Called them out for a fault on my ring main that two other electricians couldn't find. They diagnosed it within the hour and had it fixed the same afternoon. Knowledgeable, honest, and very reasonably priced. They're on my list for any future electrical work.",
+      "author": "Marcus O.",
+      "loc": "Ardwick, Manchester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Manchester and the surrounding Greater Manchester areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency line available",
+  "emergency_banner_text": "Electrical emergency in Manchester? Our team is ready to help and aims to reach you fast \u2014 call now:",
+  "footer_description": "Electrical Northwest Empire provides expert electrical installation and testing services across Manchester. NICEIC-approved, fully certified, and committed to quality on every job.",
+  "footer_copyright": "\u00a9 2026 Electrical Northwest Empire. Registered in England & Wales."
+}
