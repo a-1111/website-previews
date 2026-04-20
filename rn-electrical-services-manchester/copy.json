@@ -1,0 +1,107 @@
+{
+  "slug": "rn-electrical-services-manchester",
+  "meta_title": "RN Electrical Services | Electrician Manchester",
+  "meta_description": "RN Electrical Services offer expert electrical work across Manchester. Fully qualified, locally trusted, with fast response times. Call today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Fast Response Across Manchester",
+  "hero_headline": "Manchester's Reliable Local",
+  "hero_highlight": "Electrician",
+  "hero_subhead": "Electrical faults won't wait \u2014 RN Electrical Services gets to you quickly, safely, and at a fair price.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Same Day",
+      "label": "Response Available"
+    },
+    {
+      "num": "10+",
+      "label": "Areas Covered"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Manchester",
+  "services_subhead": "From emergency fault finding to full rewires and EV charger installations, we cover every electrical need for homes and businesses throughout Manchester.",
+  "services": [
+    {
+      "title": "Fault Finding & Repairs",
+      "desc": "Intermittent faults, tripping circuits, and dead sockets diagnosed and fixed efficiently. We identify the root cause first time, saving you time and money."
+    },
+    {
+      "title": "Full & Partial Rewires",
+      "desc": "Outdated wiring replaced safely and to current BS 7671 standards. Ideal for older properties in need of a complete electrical overhaul."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Old fuse boards replaced with modern RCD-protected consumer units for improved safety and compliance. All work certified and notified to Building Control."
+    },
+    {
+      "title": "Electrical Installations",
+      "desc": "New sockets, lighting circuits, cooker points, and more installed cleanly and to a high finish. Suitable for new builds, extensions, and refurbishments."
+    },
+    {
+      "title": "EV Charger Installation",
+      "desc": "Home electric vehicle charger units supplied and fitted by a qualified installer. We handle everything from survey to final sign-off so you can charge with confidence."
+    },
+    {
+      "title": "Electrical Installation Condition Reports (EICR)",
+      "desc": "Thorough inspection and testing of your property's wiring with a fully documented EICR certificate. Essential for landlords, homebuyers, and periodic compliance checks."
+    }
+  ],
+  "about_pullquote": "Every job I take on gets the same care as my own home.",
+  "about_para_1": "RN Electrical Services was founded and is run by a fully qualified electrician based in Chorlton-cum-Hardy, Manchester. With over 15 years of hands-on experience working across domestic and light commercial properties, the business was built on a straightforward promise: quality work, honest pricing, and turning up when you say you will.",
+  "about_para_2": "Customers across South Manchester return to RN Electrical Services because they know the job will be done properly, the first time. There are no hidden call-out charges, no pushy upselling \u2014 just reliable, certified electrical work from someone who takes genuine pride in their trade.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in the Trade"
+    },
+    {
+      "num": "500+",
+      "label": "Satisfied Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Certified & Compliant Work"
+    },
+    {
+      "num": "M21",
+      "label": "Local to Chorlton"
+    }
+  ],
+  "reviews_heading": "What Manchester Homeowners Say About RN Electrical Services",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Called RN Electrical after a circuit kept tripping. Turned up the same afternoon, found the fault straight away and sorted it all out neatly. Really reasonable price too. Would highly recommend to anyone in the area.",
+      "author": "James T.",
+      "loc": "Chorlton-cum-Hardy, Manchester \u2014 February 2025"
+    },
+    {
+      "text": "Had a full consumer unit upgrade done. Everything was explained clearly beforehand, the work was tidy, and I had all the paperwork the same day. Couldn't ask for more from a local electrician.",
+      "author": "Rachel M.",
+      "loc": "Didsbury, Manchester \u2014 November 2024"
+    },
+    {
+      "text": "Needed an EV charger fitting and RN Electrical handled the whole thing from start to finish. Professional, punctual, and left the place spotless. Already recommended him to my neighbours.",
+      "author": "David P.",
+      "loc": "Whalley Range, Manchester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Chorlton, Didsbury, Whalley Range, Stretford, and Greater Manchester",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Electrical emergency in Manchester? We aim to respond fast and get you safe \u2014",
+  "footer_description": "RN Electrical Services provides trusted, fully certified electrical work across Manchester and the surrounding areas. Free quotes, fair pricing, and reliable local service every time.",
+  "footer_copyright": "\u00a9 2026 RN Electrical Services. Based in Chorlton-cum-Hardy, Manchester."
+}
