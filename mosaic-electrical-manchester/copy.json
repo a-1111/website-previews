@@ -1,0 +1,107 @@
+{
+  "slug": "mosaic-electrical-manchester",
+  "meta_title": "Mosaic Electrical | Electrician Manchester",
+  "meta_description": "Mosaic Electrical offers trusted, fully qualified electrical services across Manchester. From rewires to consumer units, get a free quote today. Call 07477 194708.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered Electrician \u2014 Free Quotes Available",
+  "hero_headline": "Manchester's Reliable Local",
+  "hero_highlight": "Electrician",
+  "hero_subhead": "Electrical problems can't wait \u2014 Mosaic Electrical delivers safe, expert solutions across Manchester, when you need them most.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "M40+",
+      "label": "Areas Covered"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Manchester",
+  "services_subhead": "From minor repairs and fault finding to full rewires and EV charger installation, Mosaic Electrical covers every electrical need for homes and businesses throughout Manchester.",
+  "services": [
+    {
+      "title": "Full & Partial Rewires",
+      "desc": "Outdated wiring is a serious safety risk. We carry out full and partial rewires to modern standards, leaving your property safe, certified, and compliant."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "An old fuse board can be a fire hazard and may not meet current regulations. We replace and upgrade consumer units quickly, with a full inspection certificate issued on completion."
+    },
+    {
+      "title": "Fault Finding & Repairs",
+      "desc": "Tripping circuits, dead sockets, or flickering lights? We use professional diagnostic equipment to pinpoint faults fast and carry out lasting repairs \u2014 not temporary fixes."
+    },
+    {
+      "title": "Lighting Installation",
+      "desc": "Whether you want LED downlights, garden lighting, or a full lighting redesign, we install all types of domestic and commercial lighting with a clean, professional finish."
+    },
+    {
+      "title": "EV Charger Installation",
+      "desc": "Making the switch to electric? We install home and workplace EV charging points to OZEV-approved standards, ensuring safe, efficient charging every time."
+    },
+    {
+      "title": "Electrical Inspections & Testing",
+      "desc": "EICR condition reports, PAT testing, and landlord certificates issued by a fully qualified electrician. Stay compliant and protect your tenants, staff, and property."
+    }
+  ],
+  "about_pullquote": "We do the job right the first time \u2014 every single time.",
+  "about_para_1": "Mosaic Electrical was founded in Manchester with a straightforward mission: to provide reliable, high-quality electrical work that homeowners and businesses can genuinely trust. Based in Moston and serving the wider Manchester area, we've built our reputation one satisfied customer at a time, backed by full qualifications and industry accreditation.",
+  "about_para_2": "What sets us apart is the care we take on every job \u2014 no cutting corners, no mess left behind, and no bill that surprises you. Our customers return to us again and again because they know the work will be done safely, on time, and to a standard they're proud to show off.",
+  "about_stats": [
+    {
+      "num": "10+",
+      "label": "Years in the Trade"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Satisfaction Focus"
+    },
+    {
+      "num": "M40",
+      "label": "Manchester Based"
+    }
+  ],
+  "reviews_heading": "What Manchester Customers Say About Mosaic Electrical",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Absolutely brilliant service from start to finish. Turned up on time, explained everything clearly, and the consumer unit upgrade was done cleanly and professionally. Couldn't recommend Mosaic Electrical highly enough.",
+      "author": "James T.",
+      "loc": "Moston, Manchester \u2014 February 2025"
+    },
+    {
+      "text": "Had a persistent fault that two other electricians couldn't sort. Mosaic found and fixed it within an hour. Honest, knowledgeable, and great value. Will definitely be using them again.",
+      "author": "Karen B.",
+      "loc": "Collyhurst, Manchester \u2014 March 2025"
+    },
+    {
+      "text": "Got my EV charger installed last month \u2014 really tidy work, no fuss, and the price quoted was exactly what I paid. Really refreshing to deal with a tradesperson you can trust. Brilliant.",
+      "author": "Darren H.",
+      "loc": "Newton Heath, Manchester \u2014 April 2025"
+    }
+  ],
+  "address_sub": "Serving Manchester and surrounding areas, including Moston, Collyhurst, Newton Heath, Failsworth, and beyond",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency enquiries welcome",
+  "emergency_banner_text": "Electrical emergency in Manchester? We aim to respond fast and get you safe \u2014",
+  "footer_description": "Mosaic Electrical provides fully qualified electrical services across Manchester. From rewires to EV chargers, we deliver safe, reliable work with free quotes and no hidden charges.",
+  "footer_copyright": "\u00a9 2026 Mosaic Electrical. Based in Manchester. All rights reserved."
+}
