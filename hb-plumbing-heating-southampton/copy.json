@@ -1,0 +1,107 @@
+{
+  "slug": "hb-plumbing-heating-southampton",
+  "meta_title": "H.B Plumbing & Heating | Gas Engineer Southampton",
+  "meta_description": "H.B Plumbing and Heating offer expert gas engineering, boiler installs and heating repairs across Southampton. Gas Safe registered. Call for a free quote today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Boilers, Heating & Plumbing",
+  "hero_headline": "Southampton's Trusted Local",
+  "hero_highlight": "Gas Engineer",
+  "hero_subhead": "Boiler broken or heating failing? H.B Plumbing and Heating delivers fast, reliable fixes across Southampton \u2014 no fuss, no hidden costs.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Same Day",
+      "label": "Response Available"
+    },
+    {
+      "num": "100%",
+      "label": "Gas Safe Registered"
+    }
+  ],
+  "services_heading": "Complete Gas, Heating & Plumbing Services Across Southampton",
+  "services_subhead": "From emergency boiler breakdowns to full central heating installations, we cover every aspect of gas engineering and plumbing for Southampton homeowners.",
+  "services": [
+    {
+      "title": "Boiler Installation",
+      "desc": "We supply and fit energy-efficient boilers from leading manufacturers, tailored to your home's heating demands. A new boiler can cut your energy bills significantly while improving reliability."
+    },
+    {
+      "title": "Boiler Repair & Servicing",
+      "desc": "Regular servicing keeps your boiler running safely and efficiently, extending its lifespan. We diagnose and repair faults on all makes and models, often on the same day you call."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "Whether you're upgrading an ageing system or fitting heating for the first time, we design and install central heating solutions built to last. All work is carried out to the highest industry standards."
+    },
+    {
+      "title": "Gas Safety Certificates",
+      "desc": "As Gas Safe registered engineers, we carry out thorough gas safety inspections and issue landlord and homeowner certificates. Stay compliant and keep your household safe."
+    },
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, leaks, and plumbing failures can't wait \u2014 that's why we offer fast-response emergency callouts across Southampton. We aim to have the problem resolved with minimal disruption to your home."
+    },
+    {
+      "title": "Radiator & Underfloor Heating",
+      "desc": "From adding new radiators to installing modern underfloor heating systems, we ensure even, efficient warmth throughout your property. We also carry out power flushes to restore circulation in existing systems."
+    }
+  ],
+  "about_pullquote": "Every job gets the same care, whether it's a washer or a full boiler fit.",
+  "about_para_1": "H.B Plumbing and Heating is a Southampton-based gas engineering and plumbing business serving homeowners across the city and surrounding areas. Founded and run by a Gas Safe registered engineer, the business has built its reputation on honest pricing, reliable workmanship, and turning up when we say we will.",
+  "about_para_2": "We work across domestic properties throughout Southampton \u2014 from Whiteley and Hedge End to the city centre \u2014 and we take real pride in the trust our customers place in us. No job is too small, and every customer receives the same straightforward, professional service we'd expect ourselves.",
+  "about_stats": [
+    {
+      "num": "10+",
+      "label": "Years in the Trade"
+    },
+    {
+      "num": "Gas Safe",
+      "label": "Registered Engineers"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "SO",
+      "label": "Postcodes Covered"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About H.B Plumbing & Heating",
+  "rating": 4.9,
+  "review_count": 47,
+  "reviews": [
+    {
+      "text": "Brilliant service from start to finish. Our boiler packed up on a cold morning and H.B Plumbing were out within a few hours. Fixed the problem quickly and the price was very fair. Would highly recommend to anyone in Southampton.",
+      "author": "Karen T.",
+      "loc": "Hedge End, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Really professional and knowledgeable. Fitted a new boiler for us and took the time to explain everything clearly. Tidied up after themselves too \u2014 the hallway was left spotless. Definitely our go-to engineer from now on.",
+      "author": "James R.",
+      "loc": "Whiteley, Southampton \u2014 November 2024"
+    },
+    {
+      "text": "Called about a leak and got a same-day visit. The engineer was friendly, honest and didn't try to oversell anything. Sorted the issue quickly and gave us some useful advice on the rest of our heating system as well.",
+      "author": "Michelle O.",
+      "loc": "Botley, Southampton \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Southampton and surrounding areas including Hedge End, Botley, Eastleigh and Whiteley",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Boiler broken or gas concern? We offer fast-response emergency callouts across Southampton \u2014",
+  "footer_description": "H.B Plumbing and Heating are Gas Safe registered engineers based in Southampton, offering boiler installation, heating repairs, and emergency plumbing. Honest pricing, no hidden charges.",
+  "footer_copyright": "\u00a9 2026 H.B Plumbing and Heating. Registered in England & Wales."
+}
