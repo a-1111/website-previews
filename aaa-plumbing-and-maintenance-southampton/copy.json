@@ -1,0 +1,107 @@
+{
+  "slug": "aaa-plumbing-and-maintenance-southampton",
+  "meta_title": "AAA Plumbing & Maintenance | Plumber Southampton",
+  "meta_description": "AAA Plumbing and Maintenance offer expert plumbing services across Southampton. Fast response, quality workmanship, fair pricing. Call 07709 502666 for a free quote today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Trusted Local Plumbers \u2014 Fast Response Across Southampton",
+  "hero_headline": "Southampton's Reliable",
+  "hero_highlight": "Plumbing Experts",
+  "hero_subhead": "Leaks, blockages, or boiler trouble? AAA Plumbing and Maintenance gets it fixed fast, first time.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Same Day",
+      "label": "Response Available"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Southampton",
+  "services_subhead": "From emergency callouts and boiler repairs to full bathroom installations, we cover every plumbing need across Southampton and the surrounding areas.",
+  "services": [
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, severe leaks, or a sudden loss of water pressure \u2014 we respond quickly across Southampton to minimise damage and restore normality fast. Available seven days a week for urgent callouts."
+    },
+    {
+      "title": "Boiler Repairs & Servicing",
+      "desc": "Keep your heating running efficiently with our expert boiler repair and annual servicing. We work on all major brands and can advise on replacements when a repair is no longer cost-effective."
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "desc": "Hidden leaks can cause serious structural damage before they're noticed. We use proven techniques to locate and repair leaks quickly, saving you money on water bills and costly repairs down the line."
+    },
+    {
+      "title": "Bathroom Installations",
+      "desc": "From a simple shower replacement to a full bathroom refit, our team manages the entire installation to a high standard. We'll help you make the most of your space with quality fittings and a clean, professional finish."
+    },
+    {
+      "title": "Blocked Drains & Toilets",
+      "desc": "Persistent blockages are more than an inconvenience \u2014 they can back up and cause real damage. We clear drains and toilets efficiently using the right tools, with no mess left behind."
+    },
+    {
+      "title": "General Plumbing & Maintenance",
+      "desc": "Whether it's a dripping tap, a faulty stopcock, or pipework that needs attention, we handle all general plumbing maintenance for homeowners and landlords across Southampton. No job is too small."
+    }
+  ],
+  "about_pullquote": "We treat every home we work in as if it were our own.",
+  "about_para_1": "AAA Plumbing and Maintenance has been serving homeowners and landlords across Southampton for over a decade. Founded on a commitment to honest pricing and quality workmanship, we've grown steadily through word of mouth and repeat custom from satisfied customers throughout the city and surrounding areas.",
+  "about_para_2": "What sets us apart is straightforward: we turn up when we say we will, we explain what needs doing before we do it, and we leave your home clean and tidy. Our customers come back to us time and again because they know they're getting a tradesperson they can genuinely trust.",
+  "about_stats": [
+    {
+      "num": "10+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Satisfaction Focus"
+    },
+    {
+      "num": "Southampton",
+      "label": "& Surrounding Areas"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Absolutely brilliant service from start to finish. Called in the morning about a burst pipe and the lads were with us within a couple of hours. Fixed quickly, tidy workers, and a very fair price. Won't use anyone else in future.",
+      "author": "James T.",
+      "loc": "Bitterne, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Had AAA out to sort a blocked drain that two other plumbers had failed to fix properly. They diagnosed the real issue straight away and cleared it completely. Really professional and no hidden charges. Highly recommend.",
+      "author": "Karen M.",
+      "loc": "Shirley, Southampton \u2014 November 2024"
+    },
+    {
+      "text": "Needed an emergency callout on a Saturday evening \u2014 boiler had packed in with a house full of guests. They came out promptly, had the part needed, and had us back up and running within the hour. Lifesavers. Great value too.",
+      "author": "David P.",
+      "loc": "Hedge End, Southampton \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Southampton and surrounding areas including Eastleigh, Hedge End, and Totton",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency callouts available 7 days",
+  "emergency_banner_text": "Plumbing emergency in Southampton? We aim to be with you the same day \u2014 call us now:",
+  "footer_description": "AAA Plumbing and Maintenance provide reliable, affordable plumbing services across Southampton. Fast response, honest pricing, and quality workmanship guaranteed on every job.",
+  "footer_copyright": "\u00a9 2026 AAA Plumbing and Maintenance. Operating in Southampton and surrounding areas."
+}
