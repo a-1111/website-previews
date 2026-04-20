@@ -1,0 +1,107 @@
+{
+  "slug": "manchester-electrical-solutions-manchester",
+  "meta_title": "Manchester Electrical Solutions | Electrician Manchester",
+  "meta_description": "Manchester Electrical Solutions offers expert electrical services across Manchester. NICEIC registered, free quotes, rapid response. Call us today for a reliable local electrician.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered Electricians \u2014 Free Quotes Available",
+  "hero_headline": "Manchester's Trusted Local",
+  "hero_highlight": "Electrical Experts",
+  "hero_subhead": "Electrical faults don't wait \u2014 get a qualified Manchester electrician to your door fast, with no hidden charges.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Same Day",
+      "label": "Response Available"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Manchester",
+  "services_subhead": "From fault-finding and rewires to EV charger installation and consumer unit upgrades, we handle every electrical need safely and efficiently.",
+  "services": [
+    {
+      "title": "Full & Partial Rewires",
+      "desc": "Old wiring is a leading cause of house fires. Our qualified electricians carry out full and partial rewires to bring your property up to current BS 7671 standards, keeping your family safe."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Upgrade your fuse board to a modern, RCD-protected consumer unit that meets current regulations. We supply and fit leading-brand units with a full completion certificate."
+    },
+    {
+      "title": "Fault Finding & Repairs",
+      "desc": "Tripping circuits, flickering lights, or dead sockets? We use specialist diagnostic equipment to locate faults quickly, minimising disruption and getting your power restored fast."
+    },
+    {
+      "title": "EV Charger Installation",
+      "desc": "We install OZEV-approved home EV charging points to suit all electric and hybrid vehicles. Fast, tidy installation by a certified installer \u2014 ready to use the same day."
+    },
+    {
+      "title": "Electrical Inspections & EICR",
+      "desc": "Whether you're a landlord, homeowner, or business, our Electrical Installation Condition Reports (EICRs) give you a clear picture of your installation's safety and legal compliance."
+    },
+    {
+      "title": "Lighting Design & Installation",
+      "desc": "From LED downlighter retrofits to full feature-lighting schemes, we design and install solutions that transform your space and cut energy bills at the same time."
+    }
+  ],
+  "about_pullquote": "We do the job right first time, every time \u2014 no shortcuts, ever.",
+  "about_para_1": "Manchester Electrical Solutions was founded by a team of experienced, fully qualified electricians based in the heart of Manchester's Northern Quarter. Operating from our Swan Street base in M4, we've built the business by delivering safe, reliable electrical work to homeowners, landlords, and businesses right across the city and surrounding areas.",
+  "about_para_2": "What sets us apart is straightforward: we turn up when we say we will, we explain everything in plain English, and we never leave a job until you're completely satisfied. Our customers come back to us time and again because they know every installation is backed by the relevant certification and a genuine commitment to quality workmanship.",
+  "about_stats": [
+    {
+      "num": "10+",
+      "label": "Years in the Trade"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Certified Workmanship"
+    },
+    {
+      "num": "GM & Beyond",
+      "label": "Areas Covered"
+    }
+  ],
+  "reviews_heading": "What Manchester Customers Say About Us",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Absolutely brilliant service from start to finish. Came out the same day to sort a tripping consumer unit, explained everything clearly, and left the place spotless. Wouldn't use anyone else.",
+      "author": "James T.",
+      "loc": "Ancoats, Manchester \u2014 January 2025"
+    },
+    {
+      "text": "Had a full rewire done on a terraced house in Salford. The lads were professional, tidy, and finished bang on schedule. The price quoted was the price charged \u2014 no nasty surprises. Highly recommended.",
+      "author": "Rachel B.",
+      "loc": "Salford, Manchester \u2014 March 2025"
+    },
+    {
+      "text": "Called them for an EICR on a rental property I'd just bought. Fast turnaround on the report, very competitive price, and they even pointed out a couple of issues I wasn't aware of. Really trustworthy team.",
+      "author": "Mohammed A.",
+      "loc": "Didsbury, Manchester \u2014 February 2025"
+    }
+  ],
+  "address_sub": "Serving Manchester and the surrounding Greater Manchester area",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Electrical emergency in Manchester? We aim to reach you the same day \u2014 call now:",
+  "footer_description": "Manchester Electrical Solutions are NICEIC registered electricians based in Manchester M4. Offering rewires, EICR reports, EV chargers, and emergency call-outs across Greater Manchester.",
+  "footer_copyright": "\u00a9 2026 Manchester Electrical Solutions. Registered in England & Wales."
+}
