@@ -1,0 +1,107 @@
+{
+  "slug": "snm-plumbing-and-heating-leicester",
+  "meta_title": "SNM Plumbing & Heating | Gas Engineer Leicester",
+  "meta_description": "SNM Plumbing and Heating Ltd offer expert gas engineering, boiler installs and central heating across Leicester. Gas Safe registered. Call for a free quote today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:30-19:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Boilers, Heating & Plumbing",
+  "hero_headline": "Leicester's Reliable Local",
+  "hero_highlight": "Gas Engineer",
+  "hero_subhead": "Boiler breakdowns, heating failures and plumbing emergencies sorted fast \u2014 by a Gas Safe engineer you can trust.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "Gas Safe",
+      "label": "Registered Engineer"
+    },
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "Same Day",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    }
+  ],
+  "services_heading": "Complete Gas & Plumbing Services Across Leicester",
+  "services_subhead": "From boiler installations to emergency repairs, SNM Plumbing and Heating covers every aspect of gas engineering and plumbing for Leicester homeowners and landlords.",
+  "services": [
+    {
+      "title": "Boiler Installation",
+      "desc": "Supply and installation of A-rated energy-efficient boilers from leading manufacturers. We handle everything from old boiler removal to full commissioning, leaving you with reliable heat and lower energy bills."
+    },
+    {
+      "title": "Boiler Servicing & Repairs",
+      "desc": "Annual boiler services to keep your warranty valid and your home safe, plus fast-turnaround repairs when things go wrong. We carry common spare parts to fix most faults on the first visit."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "Full central heating system design and installation for new builds and existing properties. We size radiators correctly, install pipework neatly, and balance the system for even heat throughout your home."
+    },
+    {
+      "title": "Gas Safety Certificates (CP12)",
+      "desc": "Landlord gas safety inspections and CP12 certificates issued by a Gas Safe registered engineer. Keep your property legally compliant and your tenants safe with a thorough annual check."
+    },
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, leaks, and loss of water pressure dealt with promptly across Leicester and surrounding areas. Call us for a same-day response and we'll get your home back to normal as quickly as possible."
+    },
+    {
+      "title": "Bathroom & Heating Upgrades",
+      "desc": "Radiator upgrades, thermostatic valve replacements, and power flushing to restore full circulation to tired systems. We also assist with bathroom plumbing fit-outs to complement your renovation project."
+    }
+  ],
+  "about_pullquote": "Every job gets the same care, whether it's a service or a full installation.",
+  "about_para_1": "SNM Plumbing and Heating Ltd is a Gas Safe registered business based on Scraptoft Lane, Leicester, serving homeowners, landlords, and tenants across the city and surrounding areas. Founded with a commitment to honest, high-quality workmanship, the company has steadily built a loyal customer base through reliable service and transparent pricing.",
+  "about_para_2": "What sets SNM apart is straightforward communication \u2014 you'll always know what the work involves and what it will cost before we start. Our engineer turns up on time, works cleanly, and doesn't leave until the job is done properly. That approach is why so many of our customers come back year after year and recommend us to their neighbours.",
+  "about_stats": [
+    {
+      "num": "Gas Safe",
+      "label": "Registered & Insured"
+    },
+    {
+      "num": "10+",
+      "label": "Years in the Trade"
+    },
+    {
+      "num": "Leicester",
+      "label": "& Surrounding Areas"
+    },
+    {
+      "num": "100%",
+      "label": "Satisfaction Guarantee"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About SNM",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Brilliant service from start to finish. Our boiler packed in on a Friday evening and SNM had an engineer with us Saturday morning. Fixed the fault quickly, explained everything clearly, and the price was very fair. Highly recommend.",
+      "author": "Deborah T.",
+      "loc": "Scraptoft, Leicester \u2014 February 2025"
+    },
+    {
+      "text": "Used SNM for our annual gas safety certificate as a landlord. Punctual, professional, and the certificate was emailed over the same day. Will definitely be using them again for all our rental properties.",
+      "author": "Ranjit S.",
+      "loc": "Evington, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Had a new boiler fitted by SNM and I'm genuinely impressed. Neat installation, no mess left behind, and they took time to show me how to use the new controls. Competitive quote too. Couldn't ask for more.",
+      "author": "Claire W.",
+      "loc": "Hamilton, Leicester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Leicester and surrounding areas including Scraptoft, Evington, Hamilton, Humberstone and beyond",
+  "opening_hours_main": "Mon\u2013Fri: 7:30am \u2013 7pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency calls welcome outside hours",
+  "emergency_banner_text": "Boiler broken or gas leak suspected? Our Gas Safe engineer is ready to help \u2014 call now:",
+  "footer_description": "SNM Plumbing and Heating Ltd \u2014 Gas Safe registered engineers based in Leicester. Specialists in boiler installation, central heating, and emergency plumbing. Free quotes available.",
+  "footer_copyright": "\u00a9 2026 SNM Plumbing and Heating Ltd. Registered in England & Wales."
+}
