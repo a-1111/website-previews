@@ -1,0 +1,107 @@
+{
+  "slug": "ps-plumbing-heating-services-leicester",
+  "meta_title": "PS Plumbing & Heating | Plumber Leicester",
+  "meta_description": "PS Plumbing & Heating Services Ltd offer expert plumbing and heating across Leicester. Fast response, honest pricing, fully qualified. Call today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Fully Qualified & Insured \u2014 Fast Response Across Leicester",
+  "hero_headline": "Leicester's Reliable Local",
+  "hero_highlight": "Plumbing & Heating Experts",
+  "hero_subhead": "Leaks, boiler breakdowns, or heating faults fixed fast \u2014 so your home stays warm, dry, and stress-free.",
+  "badge_4": "Free Quotes Available",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Same Day",
+      "label": "Response Available"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Leicester",
+  "services_subhead": "From emergency repairs to full heating installations, we handle every job with care, skill, and transparent pricing.",
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "desc": "Burst pipes, leaks, or sudden plumbing failures handled swiftly to minimise damage to your property. We aim to reach you the same day, so small problems don't become costly disasters."
+    },
+    {
+      "title": "Boiler Installation & Replacement",
+      "desc": "Supply and fit of energy-efficient boilers from leading manufacturers, tailored to your home's heating demands. We handle the full process from removal of your old unit to commissioning and safety checks."
+    },
+    {
+      "title": "Boiler Servicing & Repairs",
+      "desc": "Annual boiler servicing keeps your system running safely and efficiently, helping to prevent unexpected breakdowns. We diagnose and repair faults on all major boiler makes and models."
+    },
+    {
+      "title": "Central Heating Systems",
+      "desc": "Full central heating installations, upgrades, and power-flushing services to restore flow and efficiency throughout your home. Radiator repairs, replacements, and thermostatic valve upgrades also available."
+    },
+    {
+      "title": "Bathroom & Wet Room Installation",
+      "desc": "Full or partial bathroom installations, from suite fitting to tiling-ready pipework and waste connections. We work cleanly and efficiently, leaving you with a functional bathroom on schedule."
+    },
+    {
+      "title": "General Plumbing Works",
+      "desc": "Tap repairs, toilet cistern fixes, washing machine connections, outside tap installations, and more \u2014 all handled by a trusted local professional. No job is too small for PS Plumbing & Heating."
+    }
+  ],
+  "about_pullquote": "Every job done right \u2014 because your home deserves nothing less.",
+  "about_para_1": "PS Plumbing & Heating Services Ltd was founded with a straightforward mission: to provide Leicester homeowners and businesses with reliable, high-quality plumbing and heating work at fair prices. With over a decade of hands-on experience, our fully qualified team has built a solid reputation across the city and surrounding areas.",
+  "about_para_2": "We believe in honest communication, tidy workmanship, and standing behind everything we do. Our customers return to us time and again because they know they'll receive a straight answer, a competitive quote, and a job finished properly \u2014 first time.",
+  "about_stats": [
+    {
+      "num": "10+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Satisfied Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Fully Insured"
+    },
+    {
+      "num": "Leicester",
+      "label": "& Surrounding Areas"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Us",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Called PS Plumbing after a pipe burst under the kitchen sink on a Friday evening. They arrived within two hours, sorted the problem cleanly and charged a very fair price. Absolutely brilliant service \u2014 would not hesitate to recommend.",
+      "author": "Mark T.",
+      "loc": "Oadby, Leicester \u2014 February 2025"
+    },
+    {
+      "text": "Had a new boiler fitted last month and the whole experience was seamless. Turned up on time, explained everything clearly, and left the house spotless. The heating is working perfectly. Top-quality workmanship from a friendly, professional team.",
+      "author": "Claire B.",
+      "loc": "Wigston, Leicester \u2014 March 2025"
+    },
+    {
+      "text": "I've used PS Plumbing twice now \u2014 once for a leaking radiator and once for a full bathroom tap replacement. Both times they were prompt, polite, and priced honestly. It's refreshing to find a local tradesperson you can genuinely trust.",
+      "author": "James R.",
+      "loc": "Birstall, Leicester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Leicester and the surrounding Leicestershire areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency calls welcome anytime",
+  "emergency_banner_text": "Plumbing emergency in Leicester? We offer same-day response to get your home protected fast \u2014 call now:",
+  "footer_description": "PS Plumbing & Heating Services Ltd provides expert plumbing and heating repairs, installations, and servicing across Leicester. Fully qualified, fully insured, and committed to honest, reliable work.",
+  "footer_copyright": "\u00a9 2026 PS Plumbing & Heating Services Ltd. Registered in England & Wales."
+}
