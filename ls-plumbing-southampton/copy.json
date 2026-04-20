@@ -1,0 +1,107 @@
+{
+  "slug": "ls-plumbing-southampton",
+  "meta_title": "LS Plumbing | Trusted Plumber Southampton",
+  "meta_description": "LS Plumbing Southampton offers expert plumbing services across the city. Fast response, honest pricing, and quality guaranteed. Call today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Fully Insured Plumber \u2014 Rapid Response Southampton",
+  "hero_headline": "Southampton's Reliable Local",
+  "hero_highlight": "Plumbing Experts",
+  "hero_subhead": "Leaks, boilers, or blocked drains \u2014 LS Plumbing gets to you fast with honest pricing and no nasty surprises.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Same Day",
+      "label": "Response Available"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Southampton",
+  "services_subhead": "From emergency leak repairs to full bathroom installations, LS Plumbing covers every plumbing need for homeowners and landlords across Southampton.",
+  "services": [
+    {
+      "title": "Emergency Leak Repairs",
+      "desc": "A sudden leak can cause serious damage fast. LS Plumbing offers prompt same-day response across Southampton to stop leaks in their tracks and protect your home."
+    },
+    {
+      "title": "Boiler Servicing & Repairs",
+      "desc": "Keep your boiler running safely and efficiently with an annual service or swift repair. We work on all major boiler brands and can advise on replacements when needed."
+    },
+    {
+      "title": "Bathroom Installations",
+      "desc": "From a simple shower upgrade to a full bathroom refit, we handle all plumbing pipework and fixtures to a high standard with minimum disruption to your home."
+    },
+    {
+      "title": "Blocked Drains & Toilets",
+      "desc": "Stubborn blockages cleared quickly using professional tools and techniques. We diagnose the root cause to prevent the same problem recurring."
+    },
+    {
+      "title": "Central Heating",
+      "desc": "Whether you need a radiator replaced, a system power flush, or a full central heating installation, we ensure your home stays warm and your energy bills stay down."
+    },
+    {
+      "title": "Pipe & Tap Repairs",
+      "desc": "Dripping taps and worn pipework waste water and money. We repair and replace pipework, taps, and valves throughout Southampton to restore full flow and prevent future issues."
+    }
+  ],
+  "about_pullquote": "Every job gets the same care, whether it's a washer or a full refit.",
+  "about_para_1": "LS Plumbing was founded in Southampton with a straightforward aim: to provide reliable, high-quality plumbing to local homeowners without the inflated call-out fees or vague estimates. With over a decade of hands-on experience, we have built a trusted name across the city.",
+  "about_para_2": "What sets us apart is our commitment to turning up on time, communicating clearly, and leaving every job cleaner than we found it. Our customers return to us year after year because they know they'll always receive honest advice and first-class workmanship.",
+  "about_stats": [
+    {
+      "num": "10+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Fully Insured"
+    },
+    {
+      "num": "Same Day",
+      "label": "Availability"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About LS Plumbing",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Brilliant service from start to finish. Called LS Plumbing in the morning about a burst pipe and they were with me within a couple of hours. Professional, tidy, and very fairly priced. Wouldn't hesitate to recommend.",
+      "author": "James T.",
+      "loc": "Bitterne, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Had a boiler issue in the middle of winter and LS Plumbing came out same day. The engineer explained exactly what was wrong and fixed it quickly. Great communication and no hidden charges. Really impressed.",
+      "author": "Karen W.",
+      "loc": "Shirley, Southampton \u2014 January 2025"
+    },
+    {
+      "text": "Used LS Plumbing to fit a new bathroom and the standard of work was excellent. Everything was completed on time and within budget. The whole experience was stress-free and the results look fantastic.",
+      "author": "David H.",
+      "loc": "Hedge End, Southampton \u2014 March 2025"
+    }
+  ],
+  "address_sub": "Serving Southampton and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Plumbing emergency in Southampton? We aim to reach you the same day \u2014 call now:",
+  "footer_description": "LS Plumbing provides trusted plumbing services across Southampton. Fast response, transparent pricing, and quality workmanship on every job.",
+  "footer_copyright": "\u00a9 2026 LS Plumbing. Operating in Southampton and surrounding areas."
+}
