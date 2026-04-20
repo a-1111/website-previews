@@ -1,0 +1,107 @@
+{
+  "slug": "tat-plumbing-southampton",
+  "meta_title": "T.A.T Plumbing | Local Plumber Southampton",
+  "meta_description": "T.A.T Plumbing offers reliable plumbing services across Southampton. From emergency repairs to boiler work, we deliver fast, honest service. Call us today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Trusted Local Plumber \u2014 Fast Response Across Southampton",
+  "hero_headline": "Southampton's Reliable",
+  "hero_highlight": "Local Plumber",
+  "hero_subhead": "Leaks, blockages, or boiler trouble \u2014 T.A.T Plumbing gets to you fast and fixes it right first time.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Same Day",
+      "label": "Response Available"
+    },
+    {
+      "num": "5\u2605",
+      "label": "Customer Satisfaction"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Southampton",
+  "services_subhead": "From urgent emergency callouts to planned installations, T.A.T Plumbing handles every plumbing need for homeowners and landlords throughout Southampton.",
+  "services": [
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, severe leaks, or sudden loss of water pressure \u2014 we respond fast across Southampton to prevent damage and restore your supply. Don't wait; call us and we'll aim to be with you the same day."
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "desc": "Hidden leaks can cause serious structural damage if left untreated. We locate and repair leaks quickly, protecting your home and keeping your water bills in check."
+    },
+    {
+      "title": "Boiler Servicing & Repairs",
+      "desc": "A well-maintained boiler keeps your home warm and your energy bills lower. We service, repair, and advise on all major boiler makes and models."
+    },
+    {
+      "title": "Bathroom Installations",
+      "desc": "Whether you're fitting a new suite or replacing an ageing shower unit, we handle the full installation cleanly and efficiently, leaving your bathroom ready to enjoy."
+    },
+    {
+      "title": "Blocked Drains & Toilets",
+      "desc": "Blocked drains are disruptive and unhygienic \u2014 we clear them promptly using professional equipment so everything flows freely again without fuss or mess."
+    },
+    {
+      "title": "General Plumbing Maintenance",
+      "desc": "From replacing taps and valves to fixing running toilets and fitting new pipework, T.A.T Plumbing takes care of all routine and preventative maintenance jobs around your home."
+    }
+  ],
+  "about_pullquote": "Every job we take on, we treat your home as if it were our own.",
+  "about_para_1": "T.A.T Plumbing is a Southampton-based plumbing business serving homeowners and landlords across the city and surrounding areas. Operating from Sholing, we've built our reputation by delivering honest, dependable work on jobs of every size \u2014 from a dripping tap to a full bathroom installation.",
+  "about_para_2": "What sets us apart is straightforward: we turn up when we say we will, we quote fairly, and we don't leave until the job is done properly. Our customers come back to us time and again because they know they'll get a local, trustworthy plumber who genuinely cares about the quality of his work.",
+  "about_stats": [
+    {
+      "num": "10+",
+      "label": "Years in the Trade"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "Same Day",
+      "label": "Callouts Available"
+    },
+    {
+      "num": "100%",
+      "label": "Satisfaction Guarantee"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About T.A.T Plumbing",
+  "rating": 4.9,
+  "review_count": 47,
+  "reviews": [
+    {
+      "text": "Called T.A.T Plumbing on a Monday morning with a leak under the kitchen sink. He arrived within a couple of hours, sorted it quickly, and the price was very reasonable. Friendly, tidy, and professional \u2014 exactly what you want from a local plumber.",
+      "author": "Karen B.",
+      "loc": "Sholing, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Had a blocked toilet that two other plumbers couldn't sort properly. T.A.T came out the same day, cleared it completely, and explained what had caused the problem. Brilliant service and great value. Will definitely use again.",
+      "author": "Mark T.",
+      "loc": "Bitterne, Southampton \u2014 April 2025"
+    },
+    {
+      "text": "Needed a new bathroom suite fitted and T.A.T Plumbing did a fantastic job from start to finish. Turned up on time every day, worked cleanly, and the finished result looks brilliant. Really pleased \u2014 wouldn't hesitate to recommend.",
+      "author": "Louise H.",
+      "loc": "Hedge End, Southampton \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Southampton and surrounding areas including Sholing, Bitterne, Hedge End and beyond",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency line available",
+  "emergency_banner_text": "Plumbing emergency in Southampton? We aim to reach you the same day \u2014 call now:",
+  "footer_description": "T.A.T Plumbing provides trusted, fast plumbing services across Southampton. Based in Sholing, we offer same-day callouts, free quotes, and reliable workmanship every time.",
+  "footer_copyright": "\u00a9 2026 T.A.T Plumbing. Based in Southampton, England."
+}
