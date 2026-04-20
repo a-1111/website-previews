@@ -1,0 +1,107 @@
+{
+  "slug": "rt-builders-ltd-leicester",
+  "meta_title": "R&T Builders Ltd | Expert Bricklayer Leicester",
+  "meta_description": "R&T Builders Ltd are Leicester's trusted bricklayers. From extensions to new builds, we deliver quality brickwork with free quotes and reliable service. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Fully Insured Bricklayers \u2014 Free Quotes Available",
+  "hero_headline": "Leicester's Reliable",
+  "hero_highlight": "Bricklaying Experts",
+  "hero_subhead": "From garden walls to full extensions, we deliver solid, lasting brickwork \u2014 on time and within budget.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "10mi",
+      "label": "Coverage Radius"
+    }
+  ],
+  "services_heading": "Complete Bricklaying Services Across Leicester",
+  "services_subhead": "From small repairs to large-scale builds, R&T Builders Ltd handles every type of brickwork project with precision and care.",
+  "services": [
+    {
+      "title": "House Extensions",
+      "desc": "We design and build single and double-storey brick extensions that seamlessly match your existing property. All work is completed to building regulations standard, giving you added space you can rely on for decades."
+    },
+    {
+      "title": "New Build Brickwork",
+      "desc": "Our team manages the full brickwork package on new residential and commercial builds, ensuring strong, plumb, and level construction from foundations to roofline."
+    },
+    {
+      "title": "Garden Walls & Boundary Walls",
+      "desc": "We construct attractive and durable garden walls, boundary walls, and retaining walls using a wide range of brick and block materials to complement your outdoor space."
+    },
+    {
+      "title": "Repointing & Restoration",
+      "desc": "Crumbling mortar joints are a common cause of damp and structural weakness. We repoint brickwork using matched mortars to restore both the appearance and integrity of your property."
+    },
+    {
+      "title": "Porch & Doorway Construction",
+      "desc": "A well-built brick porch adds kerb appeal and valuable shelter to any home. We handle the full build from footings to coping stones, tying neatly into your existing brickwork."
+    },
+    {
+      "title": "Block Paving & Hard Landscaping",
+      "desc": "Beyond brickwork, we lay block paving for driveways and patios, providing a solid, attractive finish that withstands Leicester's weather year after year."
+    }
+  ],
+  "about_pullquote": "Every brick we lay reflects the pride we take in our craft.",
+  "about_para_1": "R&T Builders Ltd has been serving homeowners and developers across Leicester for over 15 years, operating from our base on Coleman Road in LE5. Founded on a straightforward commitment to quality and honest pricing, we have grown steadily through word-of-mouth recommendation from satisfied customers throughout the city and surrounding areas.",
+  "about_para_2": "We take on projects of all sizes \u2014 from a single garden wall to a full new-build brickwork contract \u2014 and every job receives the same careful attention to detail. Our customers return to us time and again because we turn up when we say we will, keep disruption to a minimum, and always leave a clean, tidy site.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "100%",
+      "label": "Fully Insured"
+    },
+    {
+      "num": "Leicester",
+      "label": "Based Locally"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About R&T Builders Ltd",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "R&T Builders did an excellent job on our rear extension brickwork. The team were punctual every day, incredibly tidy, and the finished brickwork matched our Victorian terrace perfectly. Would highly recommend to anyone in Leicester.",
+      "author": "David H.",
+      "loc": "Evington, Leicester \u2014 February 2025"
+    },
+    {
+      "text": "Used R&T to repoint the front of our house \u2014 it had been deteriorating for years. They gave a fair, clear quote and completed the work without any fuss. The difference in appearance is remarkable and we feel much better about damp now.",
+      "author": "Priya S.",
+      "loc": "Oadby, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Fantastic service from start to finish. They built a new boundary wall and garden wall for us and the quality is outstanding. Very professional, friendly lads who clearly know their trade. Will be using them again for our planned porch.",
+      "author": "Mark T.",
+      "loc": "Humberstone, Leicester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Leicester and surrounding areas within 10 miles",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Call for urgent enquiries",
+  "emergency_banner_text": "Need urgent brickwork repairs or storm damage assessed quickly? Call R&T Builders Ltd now \u2014",
+  "footer_description": "R&T Builders Ltd are experienced, fully insured bricklayers based in Leicester. Specialising in extensions, new builds, repointing, and garden walls \u2014 free quotes available.",
+  "footer_copyright": "\u00a9 2026 R&T Builders Ltd. Registered in England & Wales."
+}
