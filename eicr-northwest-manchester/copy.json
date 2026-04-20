@@ -1,0 +1,107 @@
+{
+  "slug": "eicr-northwest-manchester",
+  "meta_title": "EICR Northwest | Electrician Manchester",
+  "meta_description": "EICR Northwest Ltd offers trusted electrical services across Manchester. NICEIC-registered, fast turnaround on EICRs, installations & fault finding. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:30-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered Electricians \u2014 EICRs & Installations",
+  "hero_headline": "Manchester's Trusted",
+  "hero_highlight": "Electrical Experts",
+  "hero_subhead": "Worried about electrical safety or a failing inspection? We deliver fast, reliable EICR certificates and expert electrical work across Greater Manchester.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "48hrs",
+      "label": "EICR Turnaround"
+    },
+    {
+      "num": "4.9\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "10+",
+      "label": "Years' Experience"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Greater Manchester",
+  "services_subhead": "From landlord safety certificates to full rewires and fault diagnosis, we cover every electrical need for homes and businesses in Manchester.",
+  "services": [
+    {
+      "title": "EICR Certificates",
+      "desc": "We carry out thorough Electrical Installation Condition Reports for landlords, homeowners, and businesses. Certificates issued promptly \u2014 fully compliant with the 18th Edition Wiring Regulations."
+    },
+    {
+      "title": "Full & Partial Rewires",
+      "desc": "Outdated wiring is a fire risk. Our qualified electricians rewire properties of all sizes with minimal disruption, leaving your home safe, tidy, and fully certified."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Upgrading your fuse board to a modern RCD-protected consumer unit improves safety and brings your installation up to current regulations. We complete most upgrades in a single day."
+    },
+    {
+      "title": "Fault Finding & Repairs",
+      "desc": "Tripping circuits, dead sockets, or flickering lights? We locate and fix electrical faults quickly using specialist test equipment, restoring power and peace of mind."
+    },
+    {
+      "title": "Lighting Installation",
+      "desc": "From LED downlight upgrades to full lighting design and installation, we transform the look and efficiency of your home or commercial space with quality fittings and neat cabling."
+    },
+    {
+      "title": "Landlord & Commercial Electrical",
+      "desc": "We support Manchester landlords and business owners with PAT testing, periodic inspections, and new circuit installations \u2014 keeping properties compliant and tenants safe."
+    }
+  ],
+  "about_pullquote": "Every job we do has to be safe, compliant, and done properly \u2014 no shortcuts.",
+  "about_para_1": "EICR Northwest Ltd is a Manchester-based electrical contractor headquartered in the city centre at Oxford Court, M2. Founded by experienced, NICEIC-registered electricians, the business was built specifically to meet the growing demand for reliable, properly certified electrical inspections and installations across Greater Manchester and the surrounding areas.",
+  "about_para_2": "We've built a reputation for straightforward pricing, clean workmanship, and certificates that are issued on time \u2014 every time. Whether you're a landlord needing a compliant EICR before a tenancy, a homeowner planning a rewire, or a business requiring a periodic inspection, our team delivers the same high standard of care on every single job.",
+  "about_stats": [
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Registered Contractor"
+    },
+    {
+      "num": "18th Ed",
+      "label": "Wiring Regs Qualified"
+    },
+    {
+      "num": "100%",
+      "label": "Satisfaction Guaranteed"
+    }
+  ],
+  "reviews_heading": "What Manchester Customers Say About EICR Northwest",
+  "rating": 4.9,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Booked an EICR for my rental property and the lads were on time, professional, and had the certificate to me the same day. Absolutely brilliant service \u2014 will be using them for all my properties going forward.",
+      "author": "James T.",
+      "loc": "Didsbury, Manchester \u2014 February 2025"
+    },
+    {
+      "text": "Had a full consumer unit upgrade done last month. The electrician arrived when he said he would, explained everything clearly, and left the place spotless. Competitive price and great quality work. Highly recommended.",
+      "author": "Priya S.",
+      "loc": "Salford, Manchester \u2014 March 2025"
+    },
+    {
+      "text": "Called EICR Northwest after another firm left a fault unresolved for weeks. They diagnosed and fixed the problem within a couple of hours. Honest, knowledgeable, and genuinely good at what they do.",
+      "author": "Mark R.",
+      "loc": "Chorlton, Manchester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Manchester City Centre and all of Greater Manchester",
+  "opening_hours_main": "Mon\u2013Fri: 7:30am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency enquiries welcome",
+  "emergency_banner_text": "Electrical emergency in Manchester? Our team is ready to help \u2014 call now:",
+  "footer_description": "EICR Northwest Ltd provides expert electrical services across Greater Manchester. NICEIC-registered, fast EICR certificates, rewires, and fault finding at honest prices.",
+  "footer_copyright": "\u00a9 2026 EICR Northwest Ltd. Registered in England & Wales."
+}
