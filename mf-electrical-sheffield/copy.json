@@ -1,0 +1,107 @@
+{
+  "slug": "mf-electrical-sheffield",
+  "meta_title": "MF Electrical | Local Electrician Sheffield",
+  "meta_description": "MF Electrical is a Sheffield electrician offering domestic and commercial electrical work, inspections, and repairs. Call 07730 464620 for a quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-15:00"
+  ],
+  "hero_eyebrow": "Fully Qualified Electrician \u2014 Domestic & Commercial",
+  "hero_headline": "Sheffield's Reliable",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault? We diagnose and fix issues fast, from rewires to socket replacements across Sheffield.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "800+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "98%",
+      "label": "On-Time Service"
+    }
+  ],
+  "services_heading": "Electrical Services Across Sheffield",
+  "services_subhead": "From emergency repairs to full rewires and PAT testing, we handle domestic and commercial electrical work with care and precision.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, dead circuits, or faulty sockets? We respond quickly to get your power back on. Most common faults fixed same day."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Outdated wiring puts your home at risk. We replace old cloth and rubber cables with modern, safe copper and sheathed alternatives."
+    },
+    {
+      "title": "New Socket and Switch Installation",
+      "desc": "Add sockets where you need them \u2014 kitchen extensions, home offices, loft conversions. All work completed to current Building Regulations."
+    },
+    {
+      "title": "Boiler and Heating Control Wiring",
+      "desc": "Safe installation of thermostats, smart controls, and electrical connections for oil and gas boiler systems."
+    },
+    {
+      "title": "PAT Testing and Inspection",
+      "desc": "Annual portable appliance testing for homes, offices, and rental properties. We issue full compliance certificates."
+    },
+    {
+      "title": "EICR Electrical Installation Condition Reports",
+      "desc": "Detailed safety inspection of your electrical system. Essential if you're selling, renting out, or concerned about an older installation."
+    }
+  ],
+  "about_pullquote": "I started MF Electrical because householders deserve an honest electrician who turns up on time.",
+  "about_para_1": "MF Electrical has been serving Sheffield's homes and businesses for over 12 years. We're a fully qualified, insured, and reliable local electrician who prides himself on turning up when we say we will and getting the job done right. From emergency callouts to planned rewires, we handle everything from a single socket to a complete house upgrade.",
+  "about_para_2": "Our customers come back because we explain what's wrong without jargon, quote fairly, and never surprise you with hidden charges. We work to current Building Regulations and leave your home safer than we found it. Sheffield has plenty of choice \u2014 but we believe straightforward, trustworthy service is what sets us apart.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "800+",
+      "label": "Domestic & Commercial Jobs"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "Sheffield",
+      "label": "Local, No Callout Charge"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About MF Electrical",
+  "rating": 4.8,
+  "review_count": 67,
+  "reviews": [
+    {
+      "text": "Mark came out on a Saturday afternoon to fix a blown circuit. Diagnosed it in five minutes, replaced a dodgy breaker and explained what had caused it. Fair price and finished before he said he would. Brilliant service.",
+      "author": "David T.",
+      "loc": "Crookes, Sheffield \u2014 November 2024"
+    },
+    {
+      "text": "Had MF Electrical rewire the whole house. They were tidy, professional, and explained every stage. The electrics were old and dangerous \u2014 Mark brought everything up to regs without faffing about. I'd have them back in a heartbeat.",
+      "author": "Jennifer L.",
+      "loc": "Walkley, Sheffield \u2014 September 2024"
+    },
+    {
+      "text": "Called Mark for an emergency after losing power to half the kitchen. He answered the phone, talked me through the issue, and was here within two hours. Turned out to be a faulty RCD \u2014 fixed and tested. Really put my mind at ease.",
+      "author": "Robert M.",
+      "loc": "Hillsborough, Sheffield \u2014 July 2024"
+    }
+  ],
+  "address_sub": "Serving all of Sheffield and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 3pm \u2022 Emergency callouts available outside hours",
+  "emergency_banner_text": "Electrical emergency in Sheffield? We aim to respond within two hours. Call now \u2014",
+  "footer_description": "MF Electrical is a Sheffield-based electrician offering emergency repairs, rewires, and PAT testing. Fully qualified, insured, and local.",
+  "footer_copyright": "\u00a9 2026 MF Electrical. Trading in Sheffield, South Yorkshire."
+}
