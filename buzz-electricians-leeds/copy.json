@@ -1,0 +1,107 @@
+{
+  "slug": "buzz-electricians-leeds",
+  "meta_title": "Buzz Electricians | Electrician Leeds",
+  "meta_description": "Buzz Electricians Leeds. Domestic and commercial electrical work, rewires, testing, emergency repairs. Fast, reliable service across West Yorkshire.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Same-Day Emergency Response",
+  "hero_headline": "Leeds' Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault at home or work? Buzz Electricians arrives quickly to diagnose and fix the problem, keeping you safe and connected.",
+  "badge_4": "No Callout Charge",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Trading in Leeds"
+    },
+    {
+      "num": "1000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "60mins",
+      "label": "Average Response"
+    }
+  ],
+  "services_heading": "Electrical Services Across Leeds & West Yorkshire",
+  "services_subhead": "From emergency repairs and testing to full rewires and new installations, we handle all domestic and commercial electrical work to the highest safety standards.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Power cut? Tripped electrics? Sparking socket? We diagnose and fix faults fast, any time of day. No call-out fee on the initial visit."
+    },
+    {
+      "title": "Domestic Rewires & Upgrades",
+      "desc": "Old wiring putting your safety at risk? We strip out outdated electrics and install modern, compliant systems throughout your home, with full testing and certification."
+    },
+    {
+      "title": "Fusebox & Consumer Unit Upgrades",
+      "desc": "Worn-out or inadequate fuseboxes are a fire hazard. We replace and upgrade to modern consumer units with RCD protection, tested and Part P certified."
+    },
+    {
+      "title": "Kitchen & Bathroom Installation",
+      "desc": "New circuits for wet rooms and kitchen electrics, installed safely to Building Regulations. We handle sockets, lighting, and extractor fans."
+    },
+    {
+      "title": "PAT Testing & Electrical Safety Checks",
+      "desc": "Landlords, businesses, and homeowners need proof of electrical safety. We carry out full inspections, testing, and certification to keep your property compliant."
+    },
+    {
+      "title": "EV Charging Point Installation",
+      "desc": "Ready to go electric? We install home and workplace EV chargers, with all necessary electrical upgrades and certification included."
+    }
+  ],
+  "about_pullquote": "We show up on time, we do the job right, and we charge fair prices. That's it.",
+  "about_para_1": "Buzz Electricians has been serving Leeds and the surrounding areas for over 12 years. Founded on the principle that honesty and speed matter more than fancy marketing, we've built a reputation for turning up when we say we will, fixing the problem properly, and treating every customer's home or business with respect.",
+  "about_para_2": "Our electricians are NICEIC approved and fully insured. We don't oversell work you don't need, and we always explain what's happening so you understand the issue and the fix. Word-of-mouth and repeat customers keep us busy \u2014 a sign that people trust us to get the job done right, first time.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "1000+",
+      "label": "Satisfied Customers"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat & Referral Rate"
+    },
+    {
+      "num": "20+",
+      "label": "Areas Covered"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners & Businesses Say",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Electrics went down on a Sunday afternoon \u2014 nightmare. Called Buzz and they were at the house in 45 minutes. Turned out to be the consumer unit. Fixed it there and then, fully tested, and didn't rip us off on the price. Absolute lifesaver. Will use them for everything from now on.",
+      "author": "Tom H.",
+      "loc": "Headingley, Leeds \u2014 November 2024"
+    },
+    {
+      "text": "Had the whole house rewired by Buzz. They were professional, tidy, and kept us updated every step. The electricians explained everything so we knew what was being done and why. Took a week, all certified, and the electrical safety check gave us a clean bill of health. Couldn't be happier.",
+      "author": "Sarah M.",
+      "loc": "Meanwood, Leeds \u2014 September 2024"
+    },
+    {
+      "text": "Kitchen needed new circuits and we were nervous about getting the wrong firm. Buzz came out, gave us a fair quote with no pressure, and the installation was flawless. They tidied up after themselves too, which was a bonus. Top quality electrician. Highly recommend.",
+      "author": "Michael P.",
+      "loc": "Chapel Allerton, Leeds \u2014 August 2024"
+    }
+  ],
+  "address_sub": "Serving Leeds, Headingley, Chapel Allerton, Meanwood, and all surrounding areas of West Yorkshire.",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency call-outs available 24/7",
+  "emergency_banner_text": "Electrical emergency in Leeds? We aim to be with you within the hour. Call now \u2014",
+  "footer_description": "Buzz Electricians is a trusted, local electrician in Leeds. NICEIC approved, fast response, fair prices, and expert domestic and commercial electrical work.",
+  "footer_copyright": "\u00a9 2026 Buzz Electricians. All rights reserved."
+}
