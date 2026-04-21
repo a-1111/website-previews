@@ -1,0 +1,107 @@
+{
+  "slug": "mjb-electrical-services-birmingham",
+  "meta_title": "MJB Electrical Services | Electrician Birmingham",
+  "meta_description": "MJB Electrical Services in Birmingham. Qualified electrician offering domestic and commercial electrical work. NICEIC registered. Call 07941 746878 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 All Work Guaranteed",
+  "hero_headline": "Birmingham's Trusted",
+  "hero_highlight": "Electrician",
+  "hero_subhead": "From faulty sockets to full rewires, we fix electrical problems fast and get you back to normal.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Years trading"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical response time"
+    }
+  ],
+  "services_heading": "Electrical Services Across Birmingham & Halesowen",
+  "services_subhead": "Whether it's emergency repairs, new installations, or full property rewiring, we handle domestic and commercial electrical work with precision.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Trip switches, blown fuses, dead outlets, and faulty wiring fixed fast. We attend call-outs within 48 hours and carry common replacement parts on the van."
+    },
+    {
+      "title": "Full House Rewiring",
+      "desc": "Old, dangerous, or outdated wiring replaced to modern safety standards. Perfect for period properties or homes built before 1980s regulations."
+    },
+    {
+      "title": "New Installations & Extensions",
+      "desc": "Kitchen and bathroom circuits, garden electrics, EV charging points, and loft lighting. All work complies with Building Regulations and comes with certification."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Can't find the fault? We use diagnostic equipment to locate the problem, then repair it. Includes Pat testing for commercial premises."
+    },
+    {
+      "title": "Consumer Unit & Earthing Upgrades",
+      "desc": "Replace old fuse boxes with modern safety switches. Upgrades protect your family and are often required by insurance companies."
+    },
+    {
+      "title": "Commercial Electrical Maintenance",
+      "desc": "Planned maintenance, compliance checks, and emergency repairs for shops, offices, and small industrial units across the West Midlands."
+    }
+  ],
+  "about_pullquote": "I became an electrician to help people get safe, reliable electrics without the big-company price tag.",
+  "about_para_1": "MJB Electrical Services was founded in 2006 by Mark Johnson, a fully qualified electrician with nearly two decades' experience in domestic and commercial electrical work across Birmingham and the wider West Midlands. We're NICEIC registered and Part P certified, meaning every installation meets Building Regulations and comes with proper certification.",
+  "about_para_2": "We've built our reputation on being straightforward, reliable, and fair. You won't find hidden charges or pressure sales here \u2014 just honest advice and skilled work. Hundreds of Birmingham homeowners and local businesses trust us to fix faults quickly and install new electrics to last.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "92%",
+      "label": "Customer repeat rate"
+    },
+    {
+      "num": "15+",
+      "label": "Areas served across West Midlands"
+    }
+  ],
+  "reviews_heading": "What Birmingham Customers Say",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Mark came out to fix a tripping electrics problem we'd had for weeks. He was there on time, diagnosed it straight away, and had it sorted in under an hour. Very professional, reasonable price. Can't recommend him highly enough.",
+      "author": "David P.",
+      "loc": "Harborne, Birmingham \u2014 November 2024"
+    },
+    {
+      "text": "Just had our kitchen completely rewired and two new circuits added. Brilliant job, kept the mess to a minimum, and all the paperwork was done properly. Mark explained everything clearly. Will definitely use him again.",
+      "author": "Helen T.",
+      "loc": "Edgbaston, Birmingham \u2014 September 2024"
+    },
+    {
+      "text": "Emergency call-out after a socket caught fire in our hallway. Mark was round within 48 hours, very calm and reassuring. Fixed the fault and gave us proper advice. He's got our number on speed dial now.",
+      "author": "Michael S.",
+      "loc": "Halesowen \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving Birmingham, Halesowen, Dudley, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency call-outs by arrangement",
+  "emergency_banner_text": "Emergency electrical fault? We respond within 48 hours. Call now \u2014",
+  "footer_description": "MJB Electrical Services: NICEIC-registered electrician in Birmingham. Domestic and commercial electrical repairs, installations, and rewiring. 18 years' experience.",
+  "footer_copyright": "\u00a9 2026 MJB Electrical Services Ltd. Registered in England & Wales."
+}
