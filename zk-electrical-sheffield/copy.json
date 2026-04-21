@@ -1,0 +1,107 @@
+{
+  "slug": "zk-electrical-sheffield",
+  "meta_title": "ZK Electrical | Electrician Sheffield",
+  "meta_description": "ZK Electrical Sheffield provides reliable domestic and commercial electrical work across Sheffield. Expert fault finding, rewiring, and installations. Call 07877 257897.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC-Approved Electrician \u2014 Local, Trusted, Fast",
+  "hero_headline": "Sheffield's Reliable",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From faulty sockets to full rewires, ZK Electrical fixes it fast. Same-day callouts across Sheffield.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "in business"
+    },
+    {
+      "num": "2,000+",
+      "label": "jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "customer rating"
+    },
+    {
+      "num": "60mins",
+      "label": "average response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Sheffield",
+  "services_subhead": "Whether it's an emergency repair, a full rewire, or a new installation, we've got the expertise to get it right.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, dead sockets, or a tripped consumer unit? We diagnose and fix faults fast, often on the same day. No job too small."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Upgrading an old installation or dealing with outdated wiring? We'll rewire your home safely to modern standards with minimal disruption."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Intermittent faults and mystery trips can be dangerous. We trace the source and fix it properly \u2014 not with temporary fixes."
+    },
+    {
+      "title": "New Installations & Extensions",
+      "desc": "Adding a new kitchen, bedroom, or garage? We'll plan and install your wiring and circuits to code, on time and on budget."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Old fuse boxes are a fire and shock risk. We replace them with modern, safer consumer units and full circuit protection."
+    },
+    {
+      "title": "Commercial & Industrial Work",
+      "desc": "Shops, offices, and factories need reliable wiring. We handle installations, maintenance, and compliance testing for businesses across Sheffield."
+    }
+  ],
+  "about_pullquote": "I started ZK Electrical because I was tired of cowboys charging three times the going rate.",
+  "about_para_1": "ZK Electrical has been serving Sheffield for 18 years. Zamir Khan founded the business on the principle that honest work and fair pricing should go hand in hand. Today, we've completed over 2,000 jobs across the city \u2014 from emergency repairs in family homes to full commercial installations.",
+  "about_para_2": "Our customers return because we do the job right the first time. We turn up when we say we will, explain what's wrong in plain English, and charge exactly what we quote. We're NICEIC-approved and fully insured, so you know the work meets building regulations and your home is protected.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "established"
+    },
+    {
+      "num": "2,000+",
+      "label": "jobs completed"
+    },
+    {
+      "num": "98%",
+      "label": "on-time arrival"
+    },
+    {
+      "num": "Tinsley",
+      "label": "based in Sheffield"
+    }
+  ],
+  "reviews_heading": "What Sheffield Customers Say About ZK Electrical",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a complete rewire done last summer. Zamir and the lads were tidy, professional, and finished bang on schedule. They explained everything as they went and the price was fair \u2014 no hidden charges. Couldn't ask for more really.",
+      "author": "David M.",
+      "loc": "Tinsley, Sheffield \u2014 August 2024"
+    },
+    {
+      "text": "Called them out on a Saturday evening when our kitchen went dark. They arrived within an hour, found a faulty circuit breaker, and had us back up and running. Brilliant service. Will definitely use them again.",
+      "author": "Helen T.",
+      "loc": "Ecclesall, Sheffield \u2014 June 2024"
+    },
+    {
+      "text": "Zamir came to test our electrics before we sold the house. He found a couple of minor issues, gave us a full report, and was really helpful about what needed sorting. Honest bloke \u2014 didn't try to oversell us. Highly recommend.",
+      "author": "James P.",
+      "loc": "Darnall, Sheffield \u2014 March 2025"
+    }
+  ],
+  "address_sub": "Serving all of Sheffield and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency callouts available 24/7",
+  "emergency_banner_text": "Electrics failed? We aim to be with you in under an hour. Call now \u2014",
+  "footer_description": "ZK Electrical is a trusted, locally-based electrician in Sheffield. NICEIC-approved, same-day repairs, and fair pricing since 2006.",
+  "footer_copyright": "\u00a9 2026 ZK Electrical Ltd. Registered in England & Wales."
+}
