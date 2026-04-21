@@ -1,0 +1,107 @@
+{
+  "slug": "pg-electricals-newcastle",
+  "meta_title": "P.G Electricals | Electrician Newcastle",
+  "meta_description": "P.G Electricals is a trusted local electrician in Newcastle. We handle rewiring, fault finding, testing and installations. Call 07973 905289 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Local Electrician \u2014 Rewiring, Testing & Repairs",
+  "hero_headline": "Newcastle's Reliable",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault on a Sunday in Whickham? We fix wiring, test circuits, and install safely\u2014same-day call-outs available.",
+  "badge_4": "Free Site Survey",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Experience"
+    },
+    {
+      "num": "1000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "1 Hour",
+      "label": "Average Response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Electrical Services in Newcastle",
+  "services_subhead": "From emergency call-outs to full rewiring projects, we handle domestic and light commercial electrical work across Tyne & Wear.",
+  "services": [
+    {
+      "title": "Emergency Call-Outs",
+      "desc": "Blown fuses, tripped switches, power cuts\u2014we respond quickly to get your electrics working again. Available 24/7 for urgent faults."
+    },
+    {
+      "title": "Rewiring & Upgrades",
+      "desc": "Old wiring putting your home at risk? We strip and rewire to modern standards, including consumer unit upgrades and earthing improvements."
+    },
+    {
+      "title": "Testing & Inspection",
+      "desc": "EICR testing for landlords and home buyers. We identify hidden faults before they become dangerous, with a detailed compliance certificate."
+    },
+    {
+      "title": "Socket & Switch Installation",
+      "desc": "New sockets, USB outlets, dimmer switches, and smart lighting fitted safely and neatly. Improves convenience and adds value to your home."
+    },
+    {
+      "title": "Fault Finding & Repair",
+      "desc": "Intermittent trips, flickering lights, or dead circuits? We diagnose the cause and fix it properly, not just patch it over."
+    },
+    {
+      "title": "Boiler & Heating Wiring",
+      "desc": "Full electrical installation and wiring for new boilers, immersion heaters, and heating controls. Safe, compliant, and tested."
+    }
+  ],
+  "about_pullquote": "I started this business to give Newcastle families an electrician they could actually trust.",
+  "about_para_1": "P.G Electricals was founded on the principle that electrical work should be reliable, fairly priced, and done right the first time. Over 15 years, we've built our reputation by showing up on time, diagnosing faults properly, and never overcharging. We serve homeowners and small businesses across Newcastle and Whickham with the same care every time.",
+  "about_para_2": "Our customers come back because we explain what's wrong, tell you the cost upfront, and finish the job to a standard we'd be happy with in our own homes. Whether it's a simple socket replacement or a full rewire, you'll get someone who knows their trade and respects your time.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "1000+",
+      "label": "Homes & Businesses Served"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "Newcastle & Gateshead",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say About P.G Electricals",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had a nightmare with a tripped electrics board on Christmas Eve. Rang P.G Electricals in a panic and they were at the house within 45 minutes. Found a dodgy socket behind the kitchen units, sorted it in no time, and the charge was fair. Brilliant service\u2014will definitely use again.",
+      "author": "David M.",
+      "loc": "Whickham, Newcastle \u2014 December 2024"
+    },
+    {
+      "text": "Getting a survey done for our house purchase in Gateshead and the surveyor flagged up old wiring. Called P.G and they came out the next day for an inspection. No pressure, no upselling\u2014just a clear report and honest advice. Fixed the issues straightaway. Top bloke.",
+      "author": "Catherine H.",
+      "loc": "Gateshead \u2014 February 2025"
+    },
+    {
+      "text": "Needed two new lighting circuits and some socket work before we moved in. Fair quote, turned up on the morning they said they would, and did a proper clean job. Everything tested and certified. Wouldn't hesitate to recommend them to anyone in Newcastle.",
+      "author": "James P.",
+      "loc": "Fenham, Newcastle \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Newcastle, Gateshead, Whickham and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency call-outs available 24/7",
+  "emergency_banner_text": "Electrics down? We respond to emergency call-outs across Newcastle within the hour, day or night. Call now \u2014",
+  "footer_description": "P.G Electricals is a trusted local electrician in Newcastle offering rewiring, testing, repairs, and installations. Over 15 years of safe, honest work.",
+  "footer_copyright": "\u00a9 2026 P.G Electricals. All rights reserved."
+}
