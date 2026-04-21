@@ -1,0 +1,107 @@
+{
+  "slug": "electromark-electrician-newcastle",
+  "meta_title": "Electromark | Electrician Newcastle upon Tyne",
+  "meta_description": "Electromark is a trusted electrician in Newcastle. NICEIC certified. Emergency callouts, rewires, fault finding. Call 07803 204597 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Certified \u2014 24/7 Emergency Callouts",
+  "hero_headline": "Newcastle's Reliable",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Blown fuse at 11pm in Whickham? We're on call round the clock to fix faults fast and safely.",
+  "badge_4": "Same-Day Emergency Service",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Experience"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average Response Time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Electrical Services Across Newcastle and Gateshead",
+  "services_subhead": "From emergency fault diagnosis to complete house rewires, we handle every electrical job with precision and care.",
+  "services": [
+    {
+      "title": "Emergency Callouts",
+      "desc": "Power cuts, blown fuses, tripped circuits \u2014 we attend urgent electrical faults in under an hour, any time of day or night. No call-out charge."
+    },
+    {
+      "title": "Fault Finding & Diagnostics",
+      "desc": "Flickering lights, dead sockets, burning smells? We track down electrical faults quickly and explain the fix before we start work."
+    },
+    {
+      "title": "Complete House Rewires",
+      "desc": "Old wiring? We replace it safely to modern Building Regs. Takes 3\u20135 days and comes with a 10-year guarantee on all work."
+    },
+    {
+      "title": "Socket & Switch Installation",
+      "desc": "Extra sockets, USB outlets, smart switches \u2014 installed to code and tested. Perfect for kitchens, home offices, and living spaces."
+    },
+    {
+      "title": "Lighting Design & Installation",
+      "desc": "New ceiling lights, spotlights, dimmers, and outdoor lighting. We advise on placement and brightness to suit your needs."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "Wiring for new boilers, immersions, and underfloor heating systems. We work with plumbers and installers to get it right first time."
+    }
+  ],
+  "about_pullquote": "I started Electromark because I got tired of dodgy repairs. We do it properly.",
+  "about_para_1": "Electromark was founded in 2009 by Mark Stevens, a qualified electrician and NICEIC Approved Contractor. Over 15 years, we've built a solid reputation across Newcastle, Gateshead, and Whickham by turning up on time, explaining the work honestly, and never cutting corners. Every job is carried out to current Building Regulations and covered by a comprehensive guarantee.",
+  "about_para_2": "Our customers keep coming back because we answer the phone, arrive when we say we will, and charge fair prices with no hidden fees. We're local, we're approachable, and we treat every home with the same care we'd give our own. From a simple socket replacement to a full rewire, we've got the knowledge and the tools to get it done right.",
+  "about_stats": [
+    {
+      "num": "15 yrs",
+      "label": "in Business"
+    },
+    {
+      "num": "NICEIC Approved",
+      "label": "Contractor"
+    },
+    {
+      "num": "2000+",
+      "label": "Local Jobs"
+    },
+    {
+      "num": "100%",
+      "label": "Guarantee Coverage"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say About Electromark",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Called Electromark at 10pm because our kitchen lights had tripped and wouldn't come back on. Mark was here by 10:45, diagnosed a dodgy socket, replaced it, and tested everything. Charged \u00a395 all in. Brilliant service and a really professional bloke. Wouldn't hesitate to use again.",
+      "author": "Paul H.",
+      "loc": "Whickham, Newcastle \u2014 November 2024"
+    },
+    {
+      "text": "Had Electromark rewire our 1970s terrace before selling. Mark was honest about what needed doing, the lads worked cleanly, and the whole thing took four days. Now we've got an EICR certificate and the buyers' surveyor was happy. Worth every penny.",
+      "author": "Lisa B.",
+      "loc": "Gateshead \u2014 September 2024"
+    },
+    {
+      "text": "Can't fault the service. Mark came out to find a fault in our downstairs wiring \u2014 he spent time tracking it down properly rather than just guessing. Fixed it on the spot, explained what had gone wrong, and gave us a guarantee certificate. This is how it should be done.",
+      "author": "Robert T.",
+      "loc": "Low Fell, Gateshead \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Newcastle, Gateshead, Whickham and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Emergency? Blown fuse or no power? We aim to attend within 60 minutes. Call now \u2014",
+  "footer_description": "Electromark is a NICEIC-certified electrician in Newcastle. Emergency callouts, rewires, fault finding, and installations. Fast, fair, reliable.",
+  "footer_copyright": "\u00a9 2026 Electromark. NICEIC Approved Contractor."
+}
