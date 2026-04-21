@@ -1,0 +1,107 @@
+{
+  "slug": "ma-electrical-services-birmingham",
+  "meta_title": "M A Electrical | Local Electrician Birmingham",
+  "meta_description": "M A Electrical Services in Birmingham. Local electrician for rewires, repairs, testing and installation. Call 07411 882825 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Fully Insured & Certified",
+  "hero_headline": "Birmingham's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From emergency repairs to complete rewires, we're here when you need us. Same-day callouts across Birmingham.",
+  "badge_4": "Free Quotations",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Birmingham",
+  "services_subhead": "Whether it's an emergency repair, a full rewire, or a new installation, we handle every job with care and expertise.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, burnt-out sockets, or flickering lights? We attend same-day callouts across Birmingham and diagnose the fault quickly to get you back to normal."
+    },
+    {
+      "title": "Full House & Business Rewires",
+      "desc": "Old wiring? Outdated fusebox? We design and install complete rewiring systems with modern safety boards, ensuring your home meets current Building Regulations."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Concerned about safety? We carry out Periodic Inspection Reports and earth-fault loop testing to identify hidden problems before they become dangerous."
+    },
+    {
+      "title": "Socket & Lighting Installation",
+      "desc": "Adding sockets to your kitchen, installing outdoor lights, or rewiring a bedroom? We plan the work to minimise disruption and finish to a high standard."
+    },
+    {
+      "title": "Fusebox & Consumer Unit Upgrades",
+      "desc": "Replacing old fuseboxes with modern RCD-protected consumer units. We handle the paperwork and ensure all installations are notified to Building Control."
+    },
+    {
+      "title": "Boiler & Water Heater Wiring",
+      "desc": "Supplying and installing dedicated circuits for boilers, immersions, and heating systems. We work with plumbers to ensure seamless installations."
+    }
+  ],
+  "about_pullquote": "I started this business to do proper work at fair prices \u2014 no hidden charges.",
+  "about_para_1": "M A Electrical Services has been serving Birmingham homes and businesses since 2006. We're a small, locally-based team with a reputation for honest advice and reliable work. Every job, big or small, is treated with the same care and attention to detail.",
+  "about_para_2": "Our customers come back because we turn up on time, explain what needs doing, and don't oversell. We're NICEIC approved and fully insured, so you know the work is safe and covered. Whether you're in Washwood Heath, Erdington, or across Birmingham, we'll give you a straight answer and a fair price.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years in business"
+    },
+    {
+      "num": "2,500+",
+      "label": "Properties rewired"
+    },
+    {
+      "num": "96%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "All of Birmingham",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Birmingham Customers Say",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Called Mark out for a dodgy socket that wouldn't stop tripping the electrics. He was here within the hour, found a dodgy connection in the board, and sorted it properly. Charged a fair price too. Highly recommend if you need an electrician in Birmingham.",
+      "author": "David P.",
+      "loc": "Erdington, Birmingham \u2014 November 2024"
+    },
+    {
+      "text": "Had M A Electrical do a full rewire on our 1960s terrace. Mark was brilliant \u2014 explained everything, kept the mess to a minimum, and the finish is immaculate. Very competitive quote and no surprises on the bill. Brilliant service.",
+      "author": "Helen K.",
+      "loc": "Washwood Heath, Birmingham \u2014 September 2024"
+    },
+    {
+      "text": "Emergency callout at 9pm on a Friday night because the kitchen lights went out and the fusebox was smoking. Mark came straight away, diagnosed a faulty breaker, and fixed it. Even at that hour, the charge was reasonable. Can't fault him.",
+      "author": "Simon T.",
+      "loc": "Sutton Coldfield, Birmingham \u2014 July 2024"
+    }
+  ],
+  "address_sub": "Serving all of Birmingham and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency callouts available 24/7",
+  "emergency_banner_text": "Urgent electrical fault? We aim to arrive within the hour, any time of day or night. Call now \u2014",
+  "footer_description": "M A Electrical Services provides reliable electrical installation, repairs and testing across Birmingham. NICEIC approved, fully insured, fair prices.",
+  "footer_copyright": "\u00a9 2026 M A Electrical Services. All rights reserved."
+}
