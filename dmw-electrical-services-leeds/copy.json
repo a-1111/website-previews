@@ -1,0 +1,107 @@
+{
+  "slug": "dmw-electrical-services-leeds",
+  "meta_title": "DMW Electrical Services | Electrician Leeds",
+  "meta_description": "DMW Electrical Services in Leeds. Domestic and commercial electrical work, rewires, testing and repairs. Call 07768 110632 for a free quote today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Part P Certified \u2014 Emergency Call-Outs Available",
+  "hero_headline": "Leeds' Trusted",
+  "hero_highlight": "Electrician",
+  "hero_subhead": "Faulty wiring, blown circuits, or a full rewire needed? We fix it fast and give you peace of mind with every job guaranteed.",
+  "badge_4": "Same-Day Emergency Callouts",
+  "stats": [
+    {
+      "num": "15+yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    },
+    {
+      "num": "All Leeds areas",
+      "label": "Coverage"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Leeds",
+  "services_subhead": "From emergency repairs to full rewires, we handle domestic and commercial electrical work with speed and precision.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown circuits, flickering lights, or dead sockets? We're on standby 24/7 and aim to reach you fast. Most faults diagnosed and fixed same day."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Older property with dodgy wiring? We'll replace the lot to modern safety standards, tested and certified. Typically completed in 3\u20135 days."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Old fuse box slowing you down? We'll install a modern consumer unit with RCD protection, giving you safer power distribution and added circuits where you need them."
+    },
+    {
+      "title": "Testing & Certification",
+      "desc": "Five-yearly electrical condition reports (EICR) for landlords and businesses. We test, report any faults, and help you stay compliant and safe."
+    },
+    {
+      "title": "New Installations",
+      "desc": "Adding an EV charger, kitchen lighting, or outdoor sockets? We design the circuit, install it to Building Regs, and test everything before we leave."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Offices, shops, and small businesses need reliable power. We handle rewires, fault-finding, and planned maintenance with minimal disruption to your day."
+    }
+  ],
+  "about_pullquote": "We started this because we got tired of seeing customers ripped off by cowboys with no backup.",
+  "about_para_1": "DMW Electrical Services was founded in 2010 by Dave and Mark, two time-served electricians fed up with the lack of honest traders in Leeds. Over 15 years we've built a reputation for turning up on time, diagnosing faults properly, and charging fair prices with no hidden fees. Every member of the team is Part P certified and insured.",
+  "about_para_2": "We specialise in emergency call-outs because we know a dead circuit is a nightmare, especially after hours. But we also do the bigger jobs \u2014 full rewires, consumer unit upgrades, and commercial installations. Our customers come back because we listen, explain what's wrong in plain English, and do the job right first time.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in business"
+    },
+    {
+      "num": "2000+",
+      "label": "Satisfied customers"
+    },
+    {
+      "num": "Part P certified",
+      "label": "All engineers"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency available"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About DMW Electrical",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Emergency call at 11 pm on a Friday \u2014 electrics completely dead in the kitchen. Dave was here by midnight, found a dodgy socket causing the trip, replaced it and had everything working within an hour. Charged a very fair call-out fee. Brilliant service.",
+      "author": "Tom B.",
+      "loc": "Meanwood, Leeds \u2014 September 2024"
+    },
+    {
+      "text": "Had my whole house rewired by DMW. Professional, tidy, and they explained everything as they went. Took 4 days and they even made the tea! No rushing, no mess left behind. Would absolutely recommend.",
+      "author": "Linda H.",
+      "loc": "Bramley, Leeds \u2014 June 2024"
+    },
+    {
+      "text": "Needed an urgent consumer unit replacement. Got a call-out the same day, Dave assessed it properly and gave me a sensible quote. No pressure, no upsell. Job done next morning. This is the kind of electrician you want \u2014 honest and quick.",
+      "author": "Paul M.",
+      "loc": "Chapel Allerton, Leeds \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving all of Leeds and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Emergency? We aim to be with you in under 60 minutes, any time of day. Call now \u2014",
+  "footer_description": "DMW Electrical Services is a Part P certified electrician in Leeds. Emergency repairs, rewires, and commercial installations carried out by experienced, insured engineers.",
+  "footer_copyright": "\u00a9 2026 DMW Electrical Services (Leeds) Ltd. Registered in England & Wales."
+}
