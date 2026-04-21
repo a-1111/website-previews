@@ -1,0 +1,107 @@
+{
+  "slug": "handley-electrical-nottingham",
+  "meta_title": "Handley Electrical | Electricians Nottingham",
+  "meta_description": "Handley Electrical are experienced electricians in Nottingham. From rewires to safety testing, we deliver reliable installations. Call 07725 515708 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved Electrician \u2014 15+ Years' Experience",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From faulty wiring to full rewires, we fix electrical problems fast and safely. Same-day appointments available.",
+  "badge_4": "No Hidden Charges",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Serving Nottingham"
+    },
+    {
+      "num": "2,000+",
+      "label": "Installations Completed"
+    },
+    {
+      "num": "48hrs",
+      "label": "Average Response Time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Nottingham",
+  "services_subhead": "Whether you need a socket rewired, a full house upgrade, or urgent fault finding, we've got you covered.",
+  "services": [
+    {
+      "title": "Complete House Rewires",
+      "desc": "Old wiring poses a fire risk. We strip out outdated cables and install new circuits to modern standards, bringing your home safely up to code. Every job comes with an EICR certificate."
+    },
+    {
+      "title": "Fault Finding & Repairs",
+      "desc": "Tripping switches, dead sockets, flickering lights \u2014 we diagnose the cause quickly and fix it right. Most jobs completed on the first visit."
+    },
+    {
+      "title": "Boiler & Heating Control Installation",
+      "desc": "New boiler needs a compatible control system? We install and wire heating controls, timers, and smart thermostats to maximise efficiency."
+    },
+    {
+      "title": "Electrical Testing & Certification",
+      "desc": "Landlords and homebuyers need an EICR (Electrical Installation Condition Report). We carry out full safety testing and provide the formal certificate you need."
+    },
+    {
+      "title": "Shower Installation & Upgrades",
+      "desc": "From electric showers to powerful rain heads, we handle the wiring, earthing, and installation. Includes safety testing before handover."
+    },
+    {
+      "title": "Garden & Outdoor Electrics",
+      "desc": "New garden lights, outdoor sockets, or EV charging? We design and install weatherproof systems with proper IP ratings and RCD protection."
+    }
+  ],
+  "about_pullquote": "We do the job right because we live here too.",
+  "about_para_1": "Handley Electrical was founded in 2009 by Mark Handley, a NICEIC-trained electrician frustrated by cowboys undercutting proper work. Over 15 years, we've built a reputation for honest, skilled installations across Nottingham. We don't cut corners, we don't overcharge, and we back every job with written certification.",
+  "about_para_2": "Homeowners and landlords come back to us because we answer the phone, we turn up on time, and we explain what needs doing before we start. We've completed over 2,000 installations \u2014 from urgent fault fixes to full rewires \u2014 and we treat every home with the same care we'd give our own.",
+  "about_stats": [
+    {
+      "num": "15",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "89%",
+      "label": "Repeat & Referral Work"
+    },
+    {
+      "num": "100%",
+      "label": "NICEIC Certified"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Handley Electrical",
+  "rating": 4.8,
+  "review_count": 267,
+  "reviews": [
+    {
+      "text": "Mark came round for an EICR on our rental and found some dodgy wiring we'd missed. Fixed it all the same week, very thorough, didn't try to sell us stuff we didn't need. Proper job. Will use again.",
+      "author": "David T.",
+      "loc": "Wollaton, Nottingham \u2014 February 2025"
+    },
+    {
+      "text": "Our bathroom light kept tripping the RCD. Called on Thursday, Mark came Friday morning and sorted it in 30 mins. Turned out it was a water issue, not the circuit. So glad we didn't just poke around and make it worse. Highly recommend.",
+      "author": "Sophie M.",
+      "loc": "Beeston, Nottingham \u2014 January 2025"
+    },
+    {
+      "text": "Had a full house rewire done last summer. Mark was upfront about the cost, explained everything as he went, left the place clean. Got the certification straight away. Far better than the other quotes we got. Worth every penny.",
+      "author": "Paul K.",
+      "loc": "Basford, Nottingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham and surrounding areas including Wollaton, Beeston, and Basford.",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency call-outs available by arrangement",
+  "emergency_banner_text": "Electrical emergency in Nottingham? We prioritise urgent jobs \u2014 call now \u2014",
+  "footer_description": "NICEIC-approved electrician in Nottingham. Fast fault diagnosis, rewires, testing, installations. Same-day appointments available.",
+  "footer_copyright": "\u00a9 2026 Handley Electrical Ltd. All rights reserved."
+}
