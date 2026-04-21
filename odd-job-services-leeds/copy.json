@@ -1,0 +1,107 @@
+{
+  "slug": "odd-job-services-leeds",
+  "meta_title": "The Odd Job Services | Gardener Leeds",
+  "meta_description": "The Odd Job Services in Leeds. Expert gardening, maintenance and outdoor work. Same-day quotes available. Call Adrian today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local Leeds Gardener \u2014 15+ Years Experience",
+  "hero_headline": "Your Trusted",
+  "hero_highlight": "Garden Expert",
+  "hero_subhead": "From overgrown borders to complete garden overhauls, Adrian brings order and care to every job across Leeds.",
+  "badge_4": "Same-Day Quotes Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years gardening"
+    },
+    {
+      "num": "500+",
+      "label": "Happy customers"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "Leeds",
+      "label": "Local coverage"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Leeds",
+  "services_subhead": "Whether you need regular maintenance or a full garden transformation, Adrian handles everything from hedge trimming to landscaping.",
+  "services": [
+    {
+      "title": "Garden Maintenance",
+      "desc": "Weekly or monthly grass cutting, hedge trimming, and border tidying. Keep your garden looking sharp all year round without the hassle."
+    },
+    {
+      "title": "Hedge and Tree Work",
+      "desc": "Professional pruning, shaping, and removal. Adrian safely handles everything from overgrown conifers to mature fruit trees."
+    },
+    {
+      "title": "Patio and Decking Cleaning",
+      "desc": "Restore patios and decking to like-new condition. High-pressure cleaning removes years of grime, algae, and moss buildup."
+    },
+    {
+      "title": "Garden Clearance",
+      "desc": "Transforming neglected gardens is Adrian's specialty. Complete clearance, removal, and disposal \u2014 ready for a fresh start."
+    },
+    {
+      "title": "Landscaping and Garden Design",
+      "desc": "Create the garden you've always wanted. Adrian can design and install raised beds, borders, pathways, and hardscaping features."
+    },
+    {
+      "title": "Fencing and Repairs",
+      "desc": "Broken fence panels, wobbly posts, or a complete replacement? Adrian supplies and installs sturdy fencing that lasts."
+    }
+  ],
+  "about_pullquote": "I started this because I hate seeing gardens neglected. Simple as that.",
+  "about_para_1": "Adrian set up The Odd Job Services over 15 years ago, driven by a simple frustration: too many Leeds gardens were left overgrown and unloved. He's built the business on reliability, honest pricing, and turning tired outdoor spaces into ones customers actually want to spend time in. Every job, from a quick tidy to a full garden transformation, gets Adrian's full attention.",
+  "about_para_2": "Customers return because Adrian shows up when he says he will, treats your garden like it matters (because it does), and never oversells work you don't need. He's become a familiar face across Leeds \u2014 known for getting stuck in, listening to what you want, and delivering results without the fuss or the inflated quotes.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in business"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens transformed"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "Leeds-wide",
+      "label": "Full coverage"
+    }
+  ],
+  "reviews_heading": "What Leeds Customers Say",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Adrian cleared our back garden that had become a complete jungle. Three days of overgrown mess sorted in an afternoon. He was tidy, professional, and charged a fair price. Can't recommend him enough.",
+      "author": "David K.",
+      "loc": "Meanwood, Leeds \u2014 January 2025"
+    },
+    {
+      "text": "Brilliant bloke. Had him round for regular maintenance for two years now. Never lets the standards slip. Always turns up on time, always does a proper job. Garden looks immaculate.",
+      "author": "Margaret T.",
+      "loc": "Pudsey, Leeds \u2014 February 2025"
+    },
+    {
+      "text": "Needed urgent hedge trimming before a garden party. Adrian squeezed us in and got it done beautifully. Really reasonable rates too. Will be ringing him again.",
+      "author": "James M.",
+      "loc": "Chapel Allerton, Leeds \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Leeds and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Call for weekend emergency work",
+  "emergency_banner_text": "Need your garden sorted urgently? Adrian's available for same-day quotes and quick turnarounds. Ring now \u2014",
+  "footer_description": "The Odd Job Services. Expert gardening, maintenance, and outdoor work across Leeds. Reliable, affordable, trustworthy.",
+  "footer_copyright": "\u00a9 2026 The Odd Job Services. Trading in Leeds."
+}
