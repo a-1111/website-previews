@@ -1,0 +1,107 @@
+{
+  "slug": "easy-electrics-southampton",
+  "meta_title": "Easy Electrics | Electrician Southampton",
+  "meta_description": "Easy Electrics Southampton provides fast, reliable electrical services for homes and businesses. Certified electrician, same-day repairs available. Call now.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Same-Day Emergency Response",
+  "hero_headline": "Southampton's Local",
+  "hero_highlight": "Electrician You Can Trust",
+  "hero_subhead": "Faulty wiring, tripped switches, or a complete rewire \u2014 we diagnose and fix electrical faults fast, often on the same day.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years trading"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical response time"
+    },
+    {
+      "num": "2,500+",
+      "label": "Installations completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Southampton",
+  "services_subhead": "From emergency repairs to full house rewires, we handle every electrical job with speed and precision.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped circuits, or total power loss? We attend most emergency callouts in Southampton within 48 hours. No hidden charges, transparent pricing."
+    },
+    {
+      "title": "House Rewiring",
+      "desc": "Old wiring puts your home at risk. Full or partial rewiring brings your property up to modern safety standards and improves energy efficiency."
+    },
+    {
+      "title": "Boiler & Central Heating Electrics",
+      "desc": "Faulty thermostats, broken heating controls, or electrical issues with your boiler? We diagnose and repair quickly to restore your warmth."
+    },
+    {
+      "title": "Consumer Unit Installation & Upgrade",
+      "desc": "Modern consumer units protect your home and improve safety. We install and upgrade units to the latest regulations, with full certification."
+    },
+    {
+      "title": "Socket & Light Installation",
+      "desc": "Adding power sockets, installing new lighting, or relocating circuits. We handle it cleanly and safely, with all work tested and certified."
+    },
+    {
+      "title": "EV Charging Point Installation",
+      "desc": "Future-proof your home with a dedicated EV charger. We survey, install, and certify, ensuring safe and efficient charging every time."
+    }
+  ],
+  "about_pullquote": "We fix faults fast and charge fairly \u2014 no cowboys, no surprises.",
+  "about_para_1": "Easy Electrics was founded by a team of fully qualified electricians frustrated with inflated call-out fees and slow response times in Southampton. Over 15 years, we've built a reputation for honest pricing, quick turnarounds, and meticulous workmanship. Every member of our team holds current NICEIC certification and full insurance coverage.",
+  "about_para_2": "We specialise in the jobs homeowners dread: emergency repairs at unsociable hours, complex rewires, and tricky heating control problems. Our customers come back because we solve problems properly the first time, never disappear mid-job, and always explain what we're doing and why.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in business"
+    },
+    {
+      "num": "2,500+",
+      "label": "Homes & businesses served"
+    },
+    {
+      "num": "87%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "48hrs",
+      "label": "Average response time"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About Easy Electrics",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Called Easy Electrics on a Saturday evening when our lights went out completely. They turned up within two hours, traced a faulty switch, and had everything running again by 9pm. Quoted upfront, no surprises on the bill. Can't fault them.",
+      "author": "David T.",
+      "loc": "Shirley, Southampton \u2014 November 2024"
+    },
+    {
+      "text": "Had them rewire our 1960s terraced house top to bottom. Professional crew, minimal mess, and they explained everything as they went. All signed off properly. Brilliant job and fair price for the scale of work.",
+      "author": "Claire M.",
+      "loc": "Totton, Southampton \u2014 September 2024"
+    },
+    {
+      "text": "Boiler thermostat packed up mid-winter. Easy Electrics diagnosed a wiring fault and fixed it same day. Heating restored, house warm again. They're my go-to now for anything electrical.",
+      "author": "Richard P.",
+      "loc": "Southsea, Southampton \u2014 February 2025"
+    }
+  ],
+  "address_sub": "Serving Southampton and surrounding areas within 30 miles",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Power failure or electrical emergency in Southampton? We aim to be with you within 48 hours. Call now \u2014",
+  "footer_description": "Easy Electrics is a fully qualified, NICEIC-approved electrician serving Southampton. Fast repairs, honest pricing, reliable service.",
+  "footer_copyright": "\u00a9 2026 Easy Electrics. All rights reserved."
+}
