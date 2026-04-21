@@ -1,0 +1,107 @@
+{
+  "slug": "ls6-electrical-leeds",
+  "meta_title": "LS6 Electrical | Electrician Leeds",
+  "meta_description": "LS6 Electrical in Leeds provides domestic and commercial electrical work. Part P certified. Same-day callouts available. Call Jamie on 07814 962299.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Part P Certified \u2014 Same-Day Callouts Available",
+  "hero_headline": "Leeds' Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty wiring, blown circuits, or a complete rewire? LS6 Electrical diagnoses and fixes electrical faults fast, with no unnecessary delays.",
+  "badge_4": "Same-Day Service",
+  "stats": [
+    {
+      "num": "12 yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "LS6\u2013LS8",
+      "label": "Service Areas"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Leeds",
+  "services_subhead": "From emergency callouts to full house rewires, we handle every electrical job to Building Regulations standards.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped circuits, or dead sockets? We diagnose faults quickly and carry common parts on the van for same-day fixes."
+    },
+    {
+      "title": "Domestic Rewiring",
+      "desc": "Old wiring posing a fire risk? We replace outdated systems with modern, safe installations, fully tested and certified under Part P."
+    },
+    {
+      "title": "Consumer Unit Installation & Upgrades",
+      "desc": "Aged fuse boxes can cause trip-outs and safety hazards. We install modern consumer units with RCD protection and surge protection."
+    },
+    {
+      "title": "New Lighting & Socket Installation",
+      "desc": "Adding sockets for a kitchen extension or updating room lighting? We plan layouts to code and install fixtures that work reliably."
+    },
+    {
+      "title": "Electrical Testing & Inspections",
+      "desc": "Periodic Inspection Reports (PIRs) keep older properties safe and are often required by landlords. We test all circuits and report findings."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Office rewires, new circuits for equipment, and routine maintenance for small businesses. Full compliance with commercial Building Regulations."
+    }
+  ],
+  "about_pullquote": "I fix electrical problems properly \u2014 no shortcuts, no return visits.",
+  "about_para_1": "Jamie founded LS6 Electrical in 2013 after years working on larger construction sites. He saw too many cowboys cutting corners and overcharging homeowners for simple jobs. He set up to offer honest, straightforward electrical work for domestic and small commercial customers across Leeds. Every job is done to Building Regulations, with full Part P certification and testing.",
+  "about_para_2": "Customers return to LS6 Electrical because Jamie listens, explains what needs doing, and quotes fair prices before starting work. He carries common parts, so most jobs are finished in one visit. He's based in Meanwood and knows the LS6\u2013LS8 area inside out, which means quick callouts and genuine local knowledge of older properties and their quirks.",
+  "about_stats": [
+    {
+      "num": "12 yrs",
+      "label": "Trading"
+    },
+    {
+      "num": "Part P",
+      "label": "Certified"
+    },
+    {
+      "num": "95%",
+      "label": "Same-Day Fix Rate"
+    },
+    {
+      "num": "2000+",
+      "label": "Hours Site Experience"
+    }
+  ],
+  "reviews_heading": "What Leeds Customers Say About LS6 Electrical",
+  "rating": 4.8,
+  "review_count": 47,
+  "reviews": [
+    {
+      "text": "Jamie came out on a Saturday morning when our kitchen went dark. Within 20 minutes he'd found the fault in the consumer unit and had us back on. Proper quick service and fair price. Will use him again.",
+      "author": "Mark H.",
+      "loc": "Meanwood, Leeds \u2014 February 2025"
+    },
+    {
+      "text": "We'd been putting off a full rewire because we thought it would cost the earth. Jamie gave a honest quote, explained exactly what he'd do, and the work was finished in three days. No mess, no faffing. Brilliant.",
+      "author": "Patricia D.",
+      "loc": "Chapel Allerton, Leeds \u2014 January 2025"
+    },
+    {
+      "text": "Had a dodgy socket that sparked. Phoned Jamie mid-morning, he was here by lunchtime and sorted it. Really professional, puts your mind at ease. Not trying to sell you things you don't need either.",
+      "author": "David L.",
+      "loc": "Headingley, Leeds \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Meanwood, Chapel Allerton, Headingley, Armley and surrounding Leeds postcodes (LS6\u2013LS8)",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency callouts by arrangement",
+  "emergency_banner_text": "Lights out or circuits tripping? Same-day visit available. Call now \u2014",
+  "footer_description": "LS6 Electrical is a Part P certified electrician based in Leeds. We fix faults fast, rewire homes safely, and install modern consumer units to full Building Regulations.",
+  "footer_copyright": "\u00a9 2026 LS6 Electrical. Registered in England & Wales."
+}
