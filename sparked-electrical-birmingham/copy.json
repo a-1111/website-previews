@@ -1,0 +1,107 @@
+{
+  "slug": "sparked-electrical-birmingham",
+  "meta_title": "Sparked Electrical | Local Electrician Birmingham",
+  "meta_description": "Sparked Electrical is a trusted local electrician in Birmingham. NICEIC approved. Fast response times and competitive rates for all electrical work.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Same-Day Emergency Response",
+  "hero_headline": "Birmingham's Reliable",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault in Northfield? We arrive within the hour and diagnose the problem on your first visit, no hidden charges.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading Since"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "2,100+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "60min",
+      "label": "Average Response Time"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Birmingham",
+  "services_subhead": "From emergency callouts to full rewires, we handle every job with the same care and attention to detail.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Power cut, tripped breaker, or sparking socket? We're out to you within 60 minutes, 24/7. Most faults fixed same day without premium charges."
+    },
+    {
+      "title": "Full House Rewiring",
+      "desc": "Old cloth-insulated wiring? We replace it with modern cabling and a new consumer unit, bringing your home up to current safety standards and boosting resale value."
+    },
+    {
+      "title": "Periodic Electrical Testing (EICR)",
+      "desc": "Landlords and business owners: we carry out thorough inspections and issue formal test certificates to meet legal requirements and protect your tenants."
+    },
+    {
+      "title": "Socket and Switch Installation",
+      "desc": "Need extra sockets in the kitchen, new USB outlets, or dimmer switches? We fit them safely, buried in walls where needed, and test everything before we leave."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace your old fuse box with a modern circuit breaker panel. Improves safety, allows more devices, and often reduces insurance premiums."
+    },
+    {
+      "title": "Lighting Design & Installation",
+      "desc": "From downlighters and LED strips to outdoor garden lighting, we design and install bespoke lighting that transforms your space and cuts energy bills."
+    }
+  ],
+  "about_pullquote": "We got into this to fix the mess other electricians left behind for people we know.",
+  "about_para_1": "Sparked Electrical was founded by Mark and his son Jake in 2006 after Mark spent years as a property manager, watching neighbours get overcharged by distant contractor networks. We set up shop in Northfield to serve Birmingham with the same honest, competent service we'd want for our own homes. Since then, we've clocked up over 2,100 jobs \u2014 from emergency midnight call-outs to complete house rewires \u2014 and we're NICEIC approved to prove it.",
+  "about_para_2": "What keeps customers calling us back is simple: we diagnose faults correctly the first time, we quote before we drill, and we turn up when we say we will. We're not the cheapest, but we're the most reliable electrician in Northfield and the surrounding areas. Nine out of ten jobs-worth projects we quote on become repeat customers, and that's not by accident \u2014 it's because we care about your home as much as we'd care about our own.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years Established"
+    },
+    {
+      "num": "2,100+",
+      "label": "Properties Rewired"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "Northfield & Beyond",
+      "label": "Covering All of Birmingham"
+    }
+  ],
+  "reviews_heading": "What Birmingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 287,
+  "reviews": [
+    {
+      "text": "Had a dodgy outlet sparking in my kitchen at 11pm on a Friday. Rang Sparked and Mark was here within the hour. Found a loose terminal, sorted it, and didn't charge the earth. Top bloke. Will definitely call them again if needed.",
+      "author": "David T.",
+      "loc": "Northfield, Birmingham \u2014 November 2024"
+    },
+    {
+      "text": "Rewired our whole house before we sold. Jake managed the project brilliantly \u2014 kept disruption to a minimum and the work was spotless. The surveyor even mentioned it as a selling point. Worth every penny.",
+      "author": "Helen K.",
+      "loc": "Harborne, Birmingham \u2014 August 2024"
+    },
+    {
+      "text": "Two weeks before our tenancy, the landlord hired Sparked to do the EICR test. Professional, thorough, and they explained everything. Got the certificate back in two days. Highly recommend if you need proper electrical compliance.",
+      "author": "Priya M.",
+      "loc": "Edgbaston, Birmingham \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Northfield, Harborne, Edgbaston, and all of Birmingham",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line open 24/7",
+  "emergency_banner_text": "Electrical emergency in Birmingham right now? We aim to be with you in under 60 minutes. Call \u2014",
+  "footer_description": "Sparked Electrical is a NICEIC-approved electrician serving Birmingham since 2006. Emergency repairs, rewires, and testing \u2014 honest rates, no call-out charges.",
+  "footer_copyright": "\u00a9 2026 Sparked Electrical. Registered in England & Wales."
+}
