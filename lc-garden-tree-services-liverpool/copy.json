@@ -1,0 +1,107 @@
+{
+  "slug": "lc-garden-tree-services-liverpool",
+  "meta_title": "LC Garden & Tree Services | Tree Surgeon Liverpool",
+  "meta_description": "LC Garden & Tree Services in Liverpool specialises in tree surgery, garden maintenance and tree removal. Fast, reliable local service. Call for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 08:00-16:00"
+  ],
+  "hero_eyebrow": "Qualified Tree Surgeons \u2014 Safe, Professional Tree Care",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Tree Surgeons",
+  "hero_subhead": "Dangerous branches threatening your home or garden? We remove, trim and maintain trees safely and efficiently across Liverpool.",
+  "badge_4": "Free Site Visit & Quote",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Local experience"
+    },
+    {
+      "num": "1000+",
+      "label": "Trees cared for"
+    },
+    {
+      "num": "Same-day",
+      "label": "Emergency response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Complete Tree Surgery & Garden Services Across Liverpool",
+  "services_subhead": "From hazardous tree removal to routine maintenance, we handle every aspect of garden and tree care with precision and care.",
+  "services": [
+    {
+      "title": "Tree Removal",
+      "desc": "Safe, complete removal of dead, diseased or unwanted trees of any size. We clear debris and leave your garden ready to use immediately."
+    },
+    {
+      "title": "Tree Pruning & Trimming",
+      "desc": "Crown reduction, branch removal and shaping to restore health and aesthetics. Keeps your trees safe and prevents damage to property or nearby structures."
+    },
+    {
+      "title": "Emergency Tree Work",
+      "desc": "Storm damage, fallen branches or hazardous limbs? We respond fast to make your garden safe, any day or time."
+    },
+    {
+      "title": "Stump Grinding",
+      "desc": "Complete stump removal below ground level using professional equipment. Reclaim usable garden space without traces of the old tree."
+    },
+    {
+      "title": "Garden Clearance",
+      "desc": "Full garden tidy-ups, overgrowth removal and site preparation. We haul away all waste, leaving a clean, managed garden."
+    },
+    {
+      "title": "Hedge Cutting & Maintenance",
+      "desc": "Regular hedge trimming and shaping keeps boundaries neat and healthy. Tailored schedules to suit your garden and local wildlife."
+    }
+  ],
+  "about_pullquote": "We treat every tree like it matters, because it does to your home and your garden.",
+  "about_para_1": "LC Garden & Tree Services was founded on a simple belief: every garden deserves expert care, and every tree deserves respect. Over 18 years, we've built a reputation across Liverpool for safe, professional tree surgery and conscientious garden work. We're fully trained, insured and committed to leaving every property safer and better maintained than we found it.",
+  "about_para_2": "Our customers return because we listen, we're honest about what your trees need, and we always leave your garden spotless. We don't rush jobs or oversell services. Whether it's a routine trim or a complex removal, you get the same attention to detail and friendly, straightforward advice.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years in business"
+    },
+    {
+      "num": "1000+",
+      "label": "Trees removed & maintained"
+    },
+    {
+      "num": "95%",
+      "label": "Customers recommend us"
+    },
+    {
+      "num": "All areas",
+      "label": "Greater Liverpool coverage"
+    }
+  ],
+  "reviews_heading": "What Liverpool Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a massive oak that was overhanging the roof and dropping branches everywhere. The lads came out, quoted fair, and did a brilliant job. They were careful with the garden, cleaned up after themselves properly and finished on time. Excellent outfit. Would use again without hesitation.",
+      "author": "Michael T.",
+      "loc": "Aigburth, Liverpool \u2014 February 2025"
+    },
+    {
+      "text": "Emergency call-out after the storm brought down half a sycamore across our fence. They arrived the next morning and had it sorted by lunchtime. Very professional, good price, and they made sure nothing else was damaged. Top service.",
+      "author": "Claire W.",
+      "loc": "Wavertree, Liverpool \u2014 January 2025"
+    },
+    {
+      "text": "Been using LC for regular hedge cutting and garden tidy-ups for three years now. Always reliable, always friendly and they take real pride in the work. Best local gardeners we've found in Liverpool.",
+      "author": "James P.",
+      "loc": "West Derby, Liverpool \u2014 March 2025"
+    }
+  ],
+  "address_sub": "Serving all of Greater Liverpool and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 Emergency callouts available 24/7",
+  "emergency_banner_text": "Storm damage or dangerous branches threatening your home? We respond to emergencies around the clock. Call now \u2014",
+  "footer_description": "LC Garden & Tree Services is Liverpool's trusted tree surgeon. Safe removal, pruning, stump grinding and garden clearance with 18 years of local expertise.",
+  "footer_copyright": "\u00a9 2026 LC Garden & Tree Services. All rights reserved."
+}
