@@ -1,0 +1,107 @@
+{
+  "slug": "mansuri-contractors-leicester",
+  "meta_title": "Mansuri Contractors | Electrician Leicester",
+  "meta_description": "Mansuri Contractors Ltd \u2014 trusted electrician in Leicester. Domestic and commercial electrical work, rewires, and fault diagnosis. Free quotes. Call 07946 454786.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Part P Certified \u2014 Reliable Electrical Solutions",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From rewires to fault diagnosis, we handle domestic and commercial electrical work across Leicester with speed and precision.",
+  "badge_4": "Free Quotations",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "400+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical Response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Leicester",
+  "services_subhead": "We specialise in domestic rewires, fault diagnosis, installation work, and emergency callouts for homes and businesses throughout the area.",
+  "services": [
+    {
+      "title": "Full House Rewires",
+      "desc": "Modern wiring systems that meet current Building Regulations. We remove old cables safely and install new circuits with updated consumer units, restoring safety and adding capacity for today's appliances."
+    },
+    {
+      "title": "Fault Diagnosis & Repair",
+      "desc": "Persistent trips, flickering lights, or dead sockets? We trace faults methodically and fix them right, not just mask the symptom. Most jobs completed same day."
+    },
+    {
+      "title": "Socket & Switch Installation",
+      "desc": "Additional sockets, USB outlets, smart switches, or outdoor weatherproof boxes. All neatly installed and tested to keep your home functional and your extension leads out of sight."
+    },
+    {
+      "title": "Cooker & Appliance Wiring",
+      "desc": "High-power appliances need proper dedicated circuits. We install cookers, ovens, hobs, and electric showers on correctly sized cabling with appropriate protection."
+    },
+    {
+      "title": "Periodic Inspections & Testing",
+      "desc": "Five-yearly electrical safety checks (EICR) give you a detailed report on the condition of your wiring and identify any hazards before they cause problems."
+    },
+    {
+      "title": "Commercial & Industrial Work",
+      "desc": "Businesses need reliable systems. We handle office rewires, workshop installations, lighting upgrades, and maintenance contracts for Leicester's commercial sector."
+    }
+  ],
+  "about_pullquote": "We treat every job like we're wiring our own home \u2014 proper materials, no shortcuts, done right.",
+  "about_para_1": "Mansuri Contractors Ltd has served Leicester's homes and businesses for over 15 years. We started because we were frustrated seeing customers overcharged and left with dodgy work. From that principle, we've built a reputation for honest pricing, thorough diagnostics, and electrical work that lasts.",
+  "about_para_2": "Our engineers are Part P certified and keep themselves up to date with Building Regulations changes. We turn up on time, explain what's wrong before we fix it, and leave the site clean. Over 400 jobs completed across Leicester \u2014 most of our work now comes from word-of-mouth and repeat customers.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "400+",
+      "label": "Domestic & Commercial Jobs"
+    },
+    {
+      "num": "96%",
+      "label": "Repeat & Referred Customers"
+    },
+    {
+      "num": "All Leicester",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 67,
+  "reviews": [
+    {
+      "text": "Had a dodgy socket that kept tripping the board. Called Mansuri on a Monday morning and Kavi was here by Tuesday afternoon. He found the problem straight away \u2014 loose connection in the back box \u2014 sorted in minutes. No faffing about, fair price, and he explained exactly what had gone wrong. Will definitely use again.",
+      "author": "David M.",
+      "loc": "Belgrave, Leicester \u2014 January 2025"
+    },
+    {
+      "text": "Rewired our 1960s semi during a kitchen renovation. The work was immaculate and they coordinated well with the builders. All new circuits, proper labelling, and they tested everything before signing off. The EICR certificate they gave us was brilliant for our insurance. Highly recommend.",
+      "author": "Patricia B.",
+      "loc": "Knighton, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Emergency call-out at 9 PM on a Saturday \u2014 the consumer unit had arced and blown. Mansuri answered the phone, talked me through safety steps, and had someone round within 90 minutes. Replaced the whole unit properly and checked all circuits. Came in on a weekend without any fuss. Excellent service.",
+      "author": "James T.",
+      "loc": "West End, Leicester \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Leicester and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency call-out available",
+  "emergency_banner_text": "Lights out or circuit tripped? We respond to emergencies across Leicester. Call now \u2014",
+  "footer_description": "Mansuri Contractors \u2014 Part P certified electricians in Leicester. Rewires, fault diagnosis, installations, and emergency callouts for homes and businesses.",
+  "footer_copyright": "\u00a9 2026 Mansuri Contractors Ltd. Registered in England & Wales."
+}
