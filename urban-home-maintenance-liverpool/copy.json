@@ -1,0 +1,107 @@
+{
+  "slug": "urban-home-maintenance-liverpool",
+  "meta_title": "Urban Home Maintenance | Handyman Liverpool",
+  "meta_description": "Urban Home Maintenance Services in Liverpool. Trusted local handyman for repairs, maintenance, and home improvements. Same-day callouts available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Local Handyman \u2014 Fast, Reliable, No Job Too Small",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Home Handyman",
+  "hero_subhead": "From leaky taps to broken shelves, we fix it fast so you can stop worrying about your home.",
+  "badge_4": "Same-Day Appointments",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Serving Liverpool"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "Under 2hrs",
+      "label": "Average response time"
+    }
+  ],
+  "services_heading": "Complete Handyman Services Across Liverpool",
+  "services_subhead": "Whether it's a quick repair or a full room refresh, we handle the jobs that matter to your home.",
+  "services": [
+    {
+      "title": "Plumbing Repairs",
+      "desc": "Leaking taps, running toilets, blocked drains, and burst pipes fixed fast. Most repairs completed same day with parts we carry."
+    },
+    {
+      "title": "Carpentry & Joinery",
+      "desc": "Hanging doors, fitting shelves, repairing skirting boards, and bespoke woodwork. We leave your home looking finished, not patched."
+    },
+    {
+      "title": "Painting & Decorating",
+      "desc": "Interior painting, wallpapering, and colour consultation. We prep properly so your paint lasts \u2014 no rushed finishes."
+    },
+    {
+      "title": "General Maintenance",
+      "desc": "Guttering, fascias, loose roof tiles, and fence repairs. Regular checks prevent small issues becoming expensive emergencies."
+    },
+    {
+      "title": "Handyman Inspections",
+      "desc": "Pre-tenancy and pre-purchase inspections to identify hazards and repairs needed. A thorough report you can act on."
+    },
+    {
+      "title": "Garden & Outdoor",
+      "desc": "Decking repairs, gate hanging, outdoor lighting, and weatherproofing. We make your garden space safe and usable year-round."
+    }
+  ],
+  "about_pullquote": "I fix the things landlords ignore and DIY nightmares create.",
+  "about_para_1": "Urban Home Maintenance was born from frustration. After years watching neighbours get overcharged for simple fixes by cowboys, I decided to do it right. For nearly two decades, we've tackled everything from emergency repairs to complete room refits across Liverpool \u2014 always showing up on time, always giving you a straight answer about cost.",
+  "about_para_2": "Customers come back because we don't disappear after the job. We're local, we care about our reputation, and we'll spend time getting it right rather than rushing through to the next call. Whether you're a homeowner, landlord, or letting agent, you'll find us honest, thorough, and quick.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years trading"
+    },
+    {
+      "num": "94%",
+      "label": "Repeat or referred customers"
+    },
+    {
+      "num": "2,400+",
+      "label": "Homes maintained"
+    },
+    {
+      "num": "All of Liverpool",
+      "label": "Service area"
+    }
+  ],
+  "reviews_heading": "What Liverpool Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 287,
+  "reviews": [
+    {
+      "text": "Had a burst pipe on a Sunday evening \u2014 thought we'd be without water until Monday at least. Rang Urban Home and they were round in 45 minutes. Keith fixed it properly, not just a temporary bodge, and didn't charge a fortune for the weekend call. Absolutely brilliant.",
+      "author": "David K.",
+      "loc": "Wavertree, Liverpool \u2014 November 2024"
+    },
+    {
+      "text": "Our bathroom was falling apart and we didn't know where to start. Instead of just telling us what was wrong, the handyman actually explained what needed doing and what could wait. Did a gorgeous job regrouting tiles and fixing the leak. Fair pricing and professional without being stuffy.",
+      "author": "Michelle T.",
+      "loc": "Toxteth, Liverpool \u2014 February 2025"
+    },
+    {
+      "text": "As a landlord managing four properties, I need someone reliable who won't charge me a fortune for routine maintenance. Urban Home get called first now. They're quick, tidy, and honest about what actually needs fixing versus what doesn't. Saves me hundreds.",
+      "author": "Richard H.",
+      "loc": "City Centre, Liverpool \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving all of Liverpool and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency repairs available \u2014 ring for availability",
+  "emergency_banner_text": "Emergency repair needed? Ring us now and we'll get someone round as quickly as we can \u2014",
+  "footer_description": "Urban Home Maintenance is Liverpool's trusted local handyman for repairs, maintenance, and improvements. Fast, fair, and finished right.",
+  "footer_copyright": "\u00a9 2026 Urban Home Maintenance Services. Registered in England & Wales."
+}
