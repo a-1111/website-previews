@@ -1,0 +1,107 @@
+{
+  "slug": "rightfix-electrical-birmingham",
+  "meta_title": "Rightfix Electrical | Electrician Birmingham",
+  "meta_description": "Rightfix Electrical is your trusted local electrician in Birmingham. NICEIC certified, same-day repairs, and honest advice. Call 07562 444684 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "NICEIC Certified \u2014 Same-Day Emergency Callouts",
+  "hero_headline": "Birmingham's Reliable",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty wiring or a tripped circuit? We diagnose and fix electrical problems fast, without the inflated quotes.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "1200+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Electrical Services Across Birmingham",
+  "services_subhead": "From emergency repairs to full rewires, we handle every electrical job with care and honesty.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, flickering lights, or dead sockets? We're on the road within the hour and carry common parts on the van to get you back online fast."
+    },
+    {
+      "title": "Boiler & Heating Controls",
+      "desc": "Full installation and repair of electric heating systems and boiler controls. We test and certify all work to Building Regulations."
+    },
+    {
+      "title": "Rewires & Upgrades",
+      "desc": "Ageing wiring putting you at risk? We upgrade your electrics safely and efficiently, with all work certified and guaranteed."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Strange electrical behaviour? Our engineers track down the problem with professional testing equipment and give you a clear explanation of the fix."
+    },
+    {
+      "title": "Consumer Unit & Fuseboard Replacement",
+      "desc": "Old or unsafe fuseboard? We replace it with a modern consumer unit and safety switches, bringing your home up to current standards."
+    },
+    {
+      "title": "EV Charging Installation",
+      "desc": "Want to charge your electric car at home? We design and install bespoke charging points, certified and ready to use."
+    }
+  ],
+  "about_pullquote": "I started Rightfix because I was tired of seeing neighbours overcharged by big firms.",
+  "about_para_1": "Rightfix Electrical was founded 18 years ago in Sparkbrook with a simple promise: fair prices and honest work. Since then, we've rewired homes across Birmingham, installed countless boilers, and built a reputation on showing up on time and finishing the job right the first time.",
+  "about_para_2": "Our customers return because we listen, explain what's wrong in plain English, and never quote high just because we can. We're NICEIC certified, insured, and proud to be part of the communities we serve \u2014 including families who've trusted us for over a decade.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years trading"
+    },
+    {
+      "num": "1200+",
+      "label": "Local jobs"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "All of Birmingham",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Birmingham Customers Say",
+  "rating": 4.8,
+  "review_count": 287,
+  "reviews": [
+    {
+      "text": "Brilliant service. Had a complete rewire done and the lads were respectful, tidy, and finished on time. They explained everything step by step and gave me a proper guarantee certificate at the end. Highly recommend.",
+      "author": "David W.",
+      "loc": "Sparkbrook, Birmingham \u2014 January 2025"
+    },
+    {
+      "text": "Called them at 10pm with a tripped circuit breaker and no electrics. They got here by 11:15, sorted it in 20 minutes, and didn't overcharge. Really impressed with how quick and professional they were. Will definitely use again.",
+      "author": "Michelle T.",
+      "loc": "Moseley, Birmingham \u2014 February 2025"
+    },
+    {
+      "text": "Had our boiler controls replaced and new heating circuit installed. The engineer was knowledgeable, friendly, and the invoice was exactly what he quoted. Finally found an electrician who doesn't try to blind you with jargon or inflate the bill.",
+      "author": "Robert H.",
+      "loc": "Edgbaston, Birmingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Birmingham and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency callouts available 7 days a week",
+  "emergency_banner_text": "Emergency? We're on the road within the hour, day or night. Call now \u2014",
+  "footer_description": "Rightfix Electrical: NICEIC-certified electricians in Birmingham. Fast repairs, honest quotes, and 18 years of trusted local service.",
+  "footer_copyright": "\u00a9 2026 Rightfix Electrical. Registered in England & Wales."
+}
