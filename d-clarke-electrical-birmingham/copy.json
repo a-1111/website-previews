@@ -1,0 +1,107 @@
+{
+  "slug": "d-clarke-electrical-birmingham",
+  "meta_title": "D Clarke Electrical | Electrician Birmingham",
+  "meta_description": "D Clarke Electrical provides reliable electrical services across Birmingham. NICEIC certified, fast response times, and transparent pricing. Call 07840 155041 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:30",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "NICEIC Certified \u2014 24/7 Emergency Response",
+  "hero_headline": "Birmingham's Trusted",
+  "hero_highlight": "Electrical Experts",
+  "hero_subhead": "From rewires to fault finding, we diagnose and fix electrical problems fast. Same-day emergency callouts across Birmingham and the surrounding areas.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "1hr avg",
+      "label": "Emergency response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Birmingham",
+  "services_subhead": "Whether it's a fault, an upgrade, or a new installation, we handle it with care and precision.",
+  "services": [
+    {
+      "title": "Emergency Fault Finding",
+      "desc": "Tripped electrics? Flickering lights? We pinpoint the fault fast and fix it on the spot, most jobs completed within hours of your call."
+    },
+    {
+      "title": "Rewires & Upgrades",
+      "desc": "Older wiring? We replace outdated systems with modern, safe electrics and can upgrade your consumer unit to meet current Building Regulations."
+    },
+    {
+      "title": "New Installations",
+      "desc": "Kitchen circuits, electric showers, EV charging points, and full house installations. All work tested and certified with a completion certificate."
+    },
+    {
+      "title": "Sockets, Switches & Lighting",
+      "desc": "Adding outlets, installing new light fittings, or replacing switches. We handle it safely and leave no mess behind."
+    },
+    {
+      "title": "Boiler & Central Heating Electrics",
+      "desc": "Electrical work on heating systems, including immersion heaters and electric radiator installation, all Part P compliant."
+    },
+    {
+      "title": "Landlord Safety Certificates",
+      "desc": "EICR testing for rental properties and landlord compliance checks. We provide detailed reports and remedial quotes if needed."
+    }
+  ],
+  "about_pullquote": "I work the same way I'd want someone working in my own home.",
+  "about_para_1": "D Clarke Electrical was established in Birmingham over 18 years ago. What started as a one-man operation has grown into a trusted local business, built entirely on reliability and honest pricing. We're NICEIC certified and keep up to date with the latest Building Regulations and industry best practice.",
+  "about_para_2": "Our customers return to us because we turn up when we say we will, explain the job clearly, and never overcharge. We carry parts on the van, diagnose faults on the first visit, and leave your home clean. Word of mouth is how we've built our reputation in Birmingham, and we're proud of that.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Established in Birmingham"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Fully certified"
+    },
+    {
+      "num": "2,000+",
+      "label": "Homes & businesses"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat customer rate"
+    }
+  ],
+  "reviews_heading": "What Birmingham Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Fantastic service. Dave came out at 10pm on a Friday night because our electrics kept tripping. Diagnosed a faulty switch in under 10 minutes and fitted a new one. Fair price and very professional. Couldn't ask for better.",
+      "author": "Michael T.",
+      "loc": "Barnt Green, Birmingham \u2014 November 2024"
+    },
+    {
+      "text": "Had the whole house rewired by D Clarke. The team were tidy, didn't cause any mess, and explained everything as they went. Finished ahead of schedule too. Brilliant work and excellent value for money.",
+      "author": "Sarah K.",
+      "loc": "Edgbaston, Birmingham \u2014 August 2024"
+    },
+    {
+      "text": "Our boiler electrics packed in and we needed it sorted urgently. Dave was at the house the same morning and got us back up and running. He's been our go-to electrician for years now. Always reliable.",
+      "author": "Robert H.",
+      "loc": "Cofton Hackett, Birmingham \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving all of Birmingham and surrounding areas including Barnt Green, Cofton Hackett, Edgbaston, and Solihull",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5:30pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency callouts 24/7",
+  "emergency_banner_text": "Electrics failed or tripped at an awkward time? We're out 24/7, usually arriving within the hour. Call now \u2014",
+  "footer_description": "D Clarke Electrical is a Birmingham-based electrician with 18 years' experience. NICEIC certified, same-day emergency callouts, no hidden charges.",
+  "footer_copyright": "\u00a9 2026 D Clarke Electrical. All rights reserved."
+}
