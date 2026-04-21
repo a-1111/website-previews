@@ -1,0 +1,107 @@
+{
+  "slug": "definite-fix-boyz-leeds",
+  "meta_title": "Definite Fix Boyz | Auto Electrical Leeds",
+  "meta_description": "Definite Fix Boyz Ltd in Leeds specialises in auto electrical repair and diagnostics. Fast, reliable service for all vehicle electrical faults. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:30",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "Certified Auto Electrician \u2014 Rapid Diagnostics",
+  "hero_headline": "Leeds Auto Electrical",
+  "hero_highlight": "Experts You Can Trust",
+  "hero_subhead": "Vehicle electrical problem in Leeds? We diagnose and repair faults fast, keeping your car on the road.",
+  "badge_4": "Same-Day Diagnostics",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2000+",
+      "label": "Vehicles Repaired"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Under 1 Hour",
+      "label": "Average Turnaround"
+    }
+  ],
+  "services_heading": "Auto Electrical Services Across Leeds",
+  "services_subhead": "From starter motor failures to battery replacements and complete rewires, we fix every electrical fault your vehicle throws at us.",
+  "services": [
+    {
+      "title": "Battery Diagnosis & Replacement",
+      "desc": "Dead battery leaving you stranded? We test, replace, and dispose of old batteries safely. Most replacements done on the spot."
+    },
+    {
+      "title": "Starter Motor & Alternator Repair",
+      "desc": "Car won't turn over or your battery won't charge? We replace faulty starters and alternators with quality parts and full warranty."
+    },
+    {
+      "title": "Electrical Fault Diagnostics",
+      "desc": "Mysterious warning lights or intermittent electrical gremlins? Our diagnostic equipment pinpoints the exact problem, saving you time and money."
+    },
+    {
+      "title": "Wiring & Loom Repair",
+      "desc": "Corroded or damaged wiring causing electrical issues? We repair or replace damaged looms and connections to restore full reliability."
+    },
+    {
+      "title": "Lighting System Repair",
+      "desc": "Headlights, tail lights, or internal bulbs failing? We repair or upgrade your lighting system to keep you safe and legal on the road."
+    },
+    {
+      "title": "ECU Reprogramming & Testing",
+      "desc": "Engine management faults or coding issues? We reprogram and test your ECU to resolve performance and emission problems."
+    }
+  ],
+  "about_pullquote": "We fix what others can't diagnose, without the guesswork or the bill shock.",
+  "about_para_1": "Definite Fix Boyz has been serving Leeds since 2009, building a reputation for honest diagnostics and straightforward pricing. Our founder started in the trade because he was tired of seeing local garages throw expensive parts at problems they didn't fully understand. Today, we use advanced diagnostic equipment and real expertise to find the root cause\u2014not just a symptom\u2014and fix it right the first time.",
+  "about_para_2": "We're not interested in stringing out repairs or replacing parts you don't need. Your vehicle's electrical system is complex, but our job is to make it simple for you: we tell you what's broken, what it'll cost, and how long it takes. Most customers come back because we treat their car like it matters.",
+  "about_stats": [
+    {
+      "num": "15 Years",
+      "label": "Serving Leeds"
+    },
+    {
+      "num": "2000+",
+      "label": "Vehicles Repaired"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "1 Hour",
+      "label": "Typical Turnaround"
+    }
+  ],
+  "reviews_heading": "What Leeds Drivers Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "My car wouldn't start and I thought I was looking at a big bill. Took it to Definite Fix Boyz and within an hour they'd diagnosed a dodgy alternator. Fixed it on the day and charged a fair price. Really impressed\u2014will definitely be back.",
+      "author": "Mark T.",
+      "loc": "Woodhouse, Leeds \u2014 February 2025"
+    },
+    {
+      "text": "Had warning lights all over the dashboard and two other garages couldn't figure it out. Definite Fix Boyz ran the diagnostics and found a corroded connector in minutes. Job done, lights off, and they explained the whole thing clearly. Top service.",
+      "author": "Claire M.",
+      "loc": "Headingley, Leeds \u2014 January 2025"
+    },
+    {
+      "text": "Brilliant lads. Brought my van in with electrical gremlins and they sorted it in no time. Fair pricing, professional work, and they actually listen to what you're saying. Won't take it anywhere else now.",
+      "author": "David P.",
+      "loc": "Chapel Allerton, Leeds \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Leeds and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5:30pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Closed Sundays",
+  "emergency_banner_text": "Electrical fault stopping you in your tracks? Ring us now for same-day diagnostics \u2014",
+  "footer_description": "Definite Fix Boyz is your trusted auto electrical specialist in Leeds. We diagnose and repair complex vehicle electrical faults with honesty and expertise.",
+  "footer_copyright": "\u00a9 2026 Definite Fix Boyz Ltd. Registered in England & Wales."
+}
