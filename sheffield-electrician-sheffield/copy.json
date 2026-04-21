@@ -1,0 +1,107 @@
+{
+  "slug": "sheffield-electrician-sheffield",
+  "meta_title": "Sheffield Electrician | Domestic & Commercial Electrical Work",
+  "meta_description": "Sheffield Electrician providing domestic and commercial electrical services. Fast, reliable, and fully insured. Call 07810 551230 for your free quote today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Part P Certified \u2014 24/7 Emergency Callouts Available",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault or broken socket in Sheffield? We arrive fast, diagnose on the spot, and fix it right first time.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "<1hr",
+      "label": "Average response time"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Sheffield",
+  "services_subhead": "From emergency repairs to full rewires and new installations, we handle every electrical job with care and precision.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, blown circuits, or lights out? We're on call 24/7 to get your power back on safely. Most jobs diagnosed and fixed the same day."
+    },
+    {
+      "title": "Domestic Rewires",
+      "desc": "Complete house rewires for older properties or full refurbishment projects. We bring your electrics up to current Building Regulations and test everything thoroughly."
+    },
+    {
+      "title": "Socket & Switch Installation",
+      "desc": "New sockets, USB outlets, or light switches exactly where you need them. All work certified and installed to BS 7909 standards."
+    },
+    {
+      "title": "Boiler & Heating Electrical Work",
+      "desc": "Electrical connections for new boilers, immersion heaters, and heating system upgrades. We co-ordinate seamlessly with your heating engineer."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Can't locate an electrical fault? We use diagnostic equipment to pinpoint the issue quickly and explain what needs fixing before you agree to anything."
+    },
+    {
+      "title": "EICR Inspections & Reports",
+      "desc": "Professional electrical condition reports for landlords, property sales, or peace of mind. Identifies any safety issues and provides a detailed action plan."
+    }
+  ],
+  "about_pullquote": "I started this because I hated seeing neighbours ripped off by cowboys.",
+  "about_para_1": "I've been an electrician in Sheffield for 18 years, working on everything from Victorian terraces to modern extensions across the city and surrounding areas. I trained to City & Guilds Level 3 and Part P certified, and I've completed over 2,400 domestic and commercial jobs. Every job, big or small, gets the same attention to detail \u2014 your home is as important to me as my own.",
+  "about_para_2": "Customers come back because I turn up on time, explain what's wrong in plain English, and charge fairly. I've built my reputation on trust \u2014 no hidden bills, no shortcuts, and work guaranteed for 12 months. Sheffield's a small city; word travels fast, and I'm proud that most of my work now comes from repeat customers and their referrals.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Local expertise"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "12-month",
+      "label": "Workmanship guarantee"
+    },
+    {
+      "num": "60%",
+      "label": "Repeat customers"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had an absolute nightmare with a burned-out circuit board at 11pm on a Tuesday. Called and explained the problem, and Mark was here within 45 minutes. He diagnosed it straight away, sourced the part, and had everything back online by 1am. Charged a fair price and even checked the rest of the house while he was at it. Absolutely brilliant \u2014 will definitely use again.",
+      "author": "David K.",
+      "loc": "Ecclesall, Sheffield \u2014 November 2024"
+    },
+    {
+      "text": "Needed a full rewire on a 1970s semi. Mark gave a detailed quote, explained what he'd do and why, and completed the whole job in four days with minimal disruption. All tested and certified. Professional, clean, and no faffing about. Can't fault him.",
+      "author": "Susan M.",
+      "loc": "Crookes, Sheffield \u2014 September 2024"
+    },
+    {
+      "text": "Our landlord asked for an EICR report and I panicked it would be expensive. Mark came out, checked everything, gave us a full written report, and charged a very reasonable rate. He even explained which things could wait and which were urgent. Highly recommend him.",
+      "author": "James T.",
+      "loc": "City Centre, Sheffield \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Sheffield and surrounding South Yorkshire towns",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 24/7 emergency line",
+  "emergency_banner_text": "Electrics down or unsafe? We're on call around the clock and aim to reach you within the hour. Call now \u2014",
+  "footer_description": "Sheffield electrician providing domestic rewires, emergency repairs, and certification. 18 years' experience, Part P certified, 24/7 response.",
+  "footer_copyright": "\u00a9 2026 Sheffield Electrician. All rights reserved."
+}
