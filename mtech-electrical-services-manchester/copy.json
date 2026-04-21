@@ -1,0 +1,107 @@
+{
+  "slug": "mtech-electrical-services-manchester",
+  "meta_title": "MTech Electrical Services | Electrician Manchester",
+  "meta_description": "MTech Electrical Services in Manchester. NICEIC-approved electrician for rewires, fault finding, and emergency repairs. Free quotes, 24/7 callouts.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 24/7 Emergency Electrician",
+  "hero_headline": "Manchester's Trusted",
+  "hero_highlight": "Emergency Electrician",
+  "hero_subhead": "Tripped electrics at 2am in Manchester? We arrive fast, diagnose the fault, and fix it right \u2014 same night for most jobs.",
+  "badge_4": "Same-Day Callouts",
+  "stats": [
+    {
+      "num": "15+ yrs",
+      "label": "Trading in Manchester"
+    },
+    {
+      "num": "Under 1 hr",
+      "label": "Typical emergency response"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Manchester",
+  "services_subhead": "From emergency repairs to full rewires, we handle every job professionally and on time.",
+  "services": [
+    {
+      "title": "Emergency Electrician",
+      "desc": "Tripped switches, dead circuits, sparking outlets \u2014 we respond 24/7 and fix most faults the same night. No surprises on the bill."
+    },
+    {
+      "title": "Domestic Rewires",
+      "desc": "Old wiring? Flickering lights? Full rewires to Building Regulations, with free design consultation and a 10-year guarantee on parts and labour."
+    },
+    {
+      "title": "Boiler Electrics & Heating Controls",
+      "desc": "Faulty heating circuit? We diagnose and repair boiler wiring and programmer issues \u2014 get your heating back on safely and quickly."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Mysterious power cuts or overloading? We trace the fault, test circuits, and fix the root cause \u2014 not just the symptom."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Outdated fusebox? We replace it with a modern consumer unit, adding RCD protection and freeing up circuits for today's appliances."
+    },
+    {
+      "title": "Landlord & Periodic Inspections",
+      "desc": "EICR testing to Regulations BS 7909. Full report with remedial recommendations \u2014 essential for insurance and legal compliance."
+    }
+  ],
+  "about_pullquote": "I started MTech because I saw homeowners ripped off by cowboys with dodgy wiring.",
+  "about_para_1": "MTech Electrical Services was founded 15 years ago in Manchester with one mission: to be the electrician you can trust. We're NICEIC approved, Part P certified, and we carry most parts on the van so you don't wait around. Over the years, we've rewired hundreds of homes, fixed countless emergencies at 3am, and never once overcharged a customer.",
+  "about_para_2": "Our reputation is built on speed, honesty, and technical know-how. We turn up when we say we will, explain the fault in plain English, and give you a fixed price before we start work. Most of our business comes from repeat customers and word of mouth \u2014 that's how you know we're doing something right.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years trading in Manchester"
+    },
+    {
+      "num": "NICEIC & Part P",
+      "label": "Approved & certified"
+    },
+    {
+      "num": "95%+",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency response available"
+    }
+  ],
+  "reviews_heading": "What Manchester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Called them at 11pm with a burning smell from the kitchen socket. Electrician arrived within the hour, found a dodgy outlet about to catch fire, replaced it safely and explained what had gone wrong. Charged a fair price, too. Brilliant service, can't recommend enough.",
+      "author": "David T.",
+      "loc": "Didsbury, Manchester \u2014 November 2024"
+    },
+    {
+      "text": "MTech did a full rewire on our Victorian terrace. The lads were tidy, efficient, and finished bang on schedule. New electrics run like a dream now \u2014 no more flickering lights or blown circuits. Worth every penny.",
+      "author": "Emma K.",
+      "loc": "Chorlton, Manchester \u2014 September 2024"
+    },
+    {
+      "text": "Had them out for an EICR before selling the house. Very thorough testing, clear report, and they explained everything. Later came back to fix the issues they found. Professional and honest \u2014 exactly what you want from a tradesman.",
+      "author": "Michael P.",
+      "loc": "Stockport, Manchester \u2014 July 2024"
+    }
+  ],
+  "address_sub": "Serving Manchester and surrounding areas including Stockport, Oldham, and Trafford",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency line 24/7",
+  "emergency_banner_text": "Electrics playing up at midnight? We attend emergencies across Manchester within the hour. Call now \u2014",
+  "footer_description": "MTech Electrical Services \u2014 NICEIC-approved electrician in Manchester. Emergency repairs, rewires, and inspections. Fast, honest, reliable.",
+  "footer_copyright": "\u00a9 2026 MTech Electrical Services Limited. Registered in England & Wales."
+}
