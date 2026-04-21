@@ -1,0 +1,107 @@
+{
+  "slug": "johns-advanced-auto-electrics-liverpool",
+  "meta_title": "John's Advanced Auto Electrics | Auto Electrical Liverpool",
+  "meta_description": "John's Advanced Auto Electrics in Liverpool. Expert auto electrical repairs, diagnostics, and installations. Same-day service available. Call 07951 547727.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:30",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Auto Electrical Specialists \u2014 Fast Diagnostics & Repairs",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Auto Electrician",
+  "hero_subhead": "Dead battery or faulty alternator in Liverpool? We diagnose and fix most electrical faults the same day, on-site or in our workshop.",
+  "badge_4": "Same-Day Diagnostics",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "2,000+",
+      "label": "Vehicles Serviced"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Under 2hrs",
+      "label": "Typical Response"
+    }
+  ],
+  "services_heading": "Complete Auto Electrical Services in Liverpool",
+  "services_subhead": "From starter motors to complex hybrid diagnostics, we handle every electrical fault vehicles throw at us.",
+  "services": [
+    {
+      "title": "Battery Testing & Replacement",
+      "desc": "Rapid battery diagnostics and same-day replacement. We stock premium batteries for all makes and carry out free charging system checks."
+    },
+    {
+      "title": "Alternator & Starter Repair",
+      "desc": "Faulty alternator draining your battery? We test, repair, or replace starters and alternators with warrantied parts and labour."
+    },
+    {
+      "title": "Fault Code Diagnostics",
+      "desc": "Dashboard warning lights? We run full computer diagnostics to pinpoint electrical and engine faults in minutes, not guesses."
+    },
+    {
+      "title": "Wiring & Loom Repair",
+      "desc": "Corroded or damaged wiring causing intermittent faults? We trace, repair, and solder harnesses to original standards."
+    },
+    {
+      "title": "Charging System Installation",
+      "desc": "Upgrade your vehicle's electrical capacity. We install quality alternators, auxiliary batteries, and charging upgrades for caravans and work vehicles."
+    },
+    {
+      "title": "Lighting & Control Repairs",
+      "desc": "Faulty headlights, dashboard lights, or window regulators. We repair or replace switches, modules, and lighting circuits on the spot."
+    }
+  ],
+  "about_pullquote": "I fix what other garages miss \u2014 and explain it clearly, so you understand the bill.",
+  "about_para_1": "John founded Advanced Auto Electrics in 2006 after seeing too many drivers ripped off by vague diagnostic fees and parts bins. He trained as an auto electrician and invested in proper diagnostic kit \u2014 the kind that pinpoints real faults instead of guessing. Over 18 years, he's built a reputation for honest work and transparent pricing across Liverpool.",
+  "about_para_2": "We don't keep customers waiting with unexplained delays. Most diagnostics take under 30 minutes; most repairs happen the same day. Repeat customers come back because they trust that if we say a part needs replacing, it actually does\u2014and that the price is fair.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Established"
+    },
+    {
+      "num": "65%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "2,000+",
+      "label": "Vehicles Repaired"
+    },
+    {
+      "num": "Liverpool & Wirral",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Liverpool Drivers Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a dead battery and kept getting conflicting advice from other garages. John tested everything properly and saved me \u00a3200 by telling me the battery was fine\u2014it was just the alternator. Fixed it that afternoon. Honest mechanic, rare these days.",
+      "author": "Mark T.",
+      "loc": "Aigburth, Liverpool \u2014 January 2025"
+    },
+    {
+      "text": "Dashboard was lighting up like a Christmas tree. Took it to John and he plugged in the diagnostic kit, found a dodgy earth wire on the engine block, sorted it in an hour. Really knew what he was doing and didn't overcharge.",
+      "author": "Claire K.",
+      "loc": "Allerton, Liverpool \u2014 November 2024"
+    },
+    {
+      "text": "My van's charging system packed in mid-week. John came out, diagnosed it properly, fitted a new alternator and battery by end of day. The job was expensive but fair, and he explained exactly why. Been back three times since.",
+      "author": "Paul S.",
+      "loc": "Wavertree, Liverpool \u2014 August 2024"
+    }
+  ],
+  "address_sub": "Serving Liverpool, Wirral, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5.30pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Urgent jobs by arrangement",
+  "emergency_banner_text": "Vehicle won't start or electrics failing? Call us now \u2014",
+  "footer_description": "John's Advanced Auto Electrics specialises in auto electrical diagnostics, repairs, and installations across Liverpool. Honest pricing, same-day service.",
+  "footer_copyright": "\u00a9 2026 John's Advanced Auto Electrics. Trading in Liverpool, England."
+}
