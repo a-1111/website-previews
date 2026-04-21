@@ -1,0 +1,107 @@
+{
+  "slug": "tantech-electricals-birmingham",
+  "meta_title": "Tantech Electricals | Electrician Birmingham",
+  "meta_description": "Tantech Electricals provides expert electrical services in Birmingham. Fully qualified electrician offering installations, repairs and maintenance. Call 07386 775618.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Qualified Electrician \u2014 Local, Reliable, Fair Prices",
+  "hero_headline": "Birmingham's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty electrics or urgent repairs? We're based in Shaftmoor and respond quickly to keep your home safe and running.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "1000+",
+      "label": "Homes & Businesses Served"
+    },
+    {
+      "num": "Under 2hrs",
+      "label": "Typical Response Time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Electrical Services Across Birmingham",
+  "services_subhead": "From emergency callouts to planned installations, we handle all domestic and small commercial electrical work.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped circuits, faulty switches \u2014 we diagnose and fix the problem fast. Available 24/7 for genuine emergencies in Birmingham."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "Electrical faults affecting your central heating or hot water? We trace the issue, repair wiring and controls, and get your system running safely again."
+    },
+    {
+      "title": "Rewiring & Upgrades",
+      "desc": "Old wiring, outdated fusebox or too few sockets? We plan and install modern circuits to meet building regulations, improving safety and capacity."
+    },
+    {
+      "title": "Consumer Unit Installation",
+      "desc": "Upgrade your fuse board to a modern consumer unit. Safer, more reliable, and essential if you're adding new circuits or appliances."
+    },
+    {
+      "title": "Socket & Light Installation",
+      "desc": "New sockets, USB points and lighting to suit your home layout. We handle all the wiring neatly and test everything for safety."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Can't find the source of an electrical fault? We use diagnostic equipment to pinpoint the problem, then quote you a fair repair price."
+    }
+  ],
+  "about_pullquote": "I started Tantech to give Birmingham homes an honest, reliable electrician.",
+  "about_para_1": "Tantech Electricals was founded on a simple principle: turn up on time, fix the problem right, and charge a fair price. With over 15 years' experience installing and repairing electrics across Birmingham, we've built our reputation one satisfied customer at a time. Based on Shaftmoor Lane, we know the area inside out and respond quickly to both emergencies and planned work.",
+  "about_para_2": "Our customers trust us because we're straightforward. We explain what's wrong, show you the options, and never push unnecessary work. Whether it's a faulty socket, a full rewire, or a midnight emergency, we treat your home with the same care we'd give our own. Many of our jobs come from word-of-mouth recommendation \u2014 a testament to the service we deliver.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "1000+",
+      "label": "Homes Rewired & Repaired"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat & Referral Customers"
+    },
+    {
+      "num": "All of",
+      "label": "Birmingham Covered"
+    }
+  ],
+  "reviews_heading": "What Birmingham Homeowners Say",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Our kitchen lights kept flickering and I was worried it was something serious. Called Tantech and Mark came out the next morning. Diagnosed a loose connection in the consumer unit in about 20 minutes, fixed it properly and explained what had happened. Fair price, no messing about. Would use again for sure.",
+      "author": "David P.",
+      "loc": "Solihull, Birmingham \u2014 February 2025"
+    },
+    {
+      "text": "Needed a full rewire in our 1960s semi. Got two other quotes but Tantech's price was competitive and the team was professional throughout. Took three days, left the house clean, and everything was tested and certified. Brilliant job and they made a real effort to minimise disruption.",
+      "author": "Janet M.",
+      "loc": "Harborne, Birmingham \u2014 October 2024"
+    },
+    {
+      "text": "Emergency call at 10pm because our boiler electrics had failed and it was freezing. Tantech answered, came within the hour and got us heating again. Charged a fair rate for the call-out too. Proper, helpful bloke. Cheers.",
+      "author": "Chris T.",
+      "loc": "Edgbaston, Birmingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Birmingham and surrounding areas from Shaftmoor Lane",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency callouts available 24/7",
+  "emergency_banner_text": "Electrical fault or emergency? We're on our way. Call now \u2014",
+  "footer_description": "Tantech Electricals \u2014 trusted electrician in Birmingham offering repairs, installations and rewiring. Honest prices, fast response, fully qualified work.",
+  "footer_copyright": "\u00a9 2026 Tantech Electricals. All rights reserved."
+}
