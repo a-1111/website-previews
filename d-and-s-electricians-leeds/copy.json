@@ -1,0 +1,107 @@
+{
+  "slug": "d-and-s-electricians-leeds",
+  "meta_title": "D&S Electricians | Local Electrician Leeds",
+  "meta_description": "D&S Electricians in Leeds offers domestic and commercial electrical work, repairs, installations and maintenance. Call 07967 555298 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Same-Day Emergency Response",
+  "hero_headline": "Leeds Electricians You Can",
+  "hero_highlight": "Trust & Rely On",
+  "hero_subhead": "From rewires to emergency repairs, D&S Electricians diagnose and fix problems fast across Leeds and surrounding areas.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "1,200+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Electrical Services Across Leeds",
+  "services_subhead": "Whether you need a full rewire, emergency fault-finding, or routine maintenance, we handle domestic and commercial electrical work with precision and care.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Power failures, burnt-out circuits, or electrical faults? We diagnose and repair on the same day. Available 24/7 for urgent jobs."
+    },
+    {
+      "title": "Complete House Rewires",
+      "desc": "Old wiring putting your home at risk? We replace outdated systems with modern, safe cabling throughout your property, with full testing and certification."
+    },
+    {
+      "title": "Fusebox & Consumer Unit Upgrades",
+      "desc": "Upgrade from an old fuse board to a modern safety switch unit. Improves safety, adds RCD protection, and future-proofs your home."
+    },
+    {
+      "title": "Fault-Finding & Testing",
+      "desc": "Blown fuses, flickering lights, or tripping switches? We use diagnostic equipment to locate the root cause and fix it properly, not just patch it."
+    },
+    {
+      "title": "New Circuits & Socket Installation",
+      "desc": "Adding sockets, extending circuits, or installing specialist wiring for kitchens and bathrooms. All work completed to Building Regulations standards."
+    },
+    {
+      "title": "Commercial & Industrial Electrical",
+      "desc": "From office rewires to industrial maintenance contracts. We understand business needs and minimise downtime with swift, professional solutions."
+    }
+  ],
+  "about_pullquote": "I started D&S because I was tired of seeing customers overcharged for dodgy electrical work.",
+  "about_para_1": "D&S Electricians was founded 15 years ago in Leeds with one mission: deliver reliable, honest electrical work at a fair price. We've built our reputation on showing up on time, explaining what's wrong in plain English, and fixing it right the first time. Our team is NICEIC approved and carries all the tools and parts needed to diagnose and repair most jobs on the same visit.",
+  "about_para_2": "We specialise in emergency callouts \u2014 burst into a house with no power at 10pm, and we'll be there. But we also take pride in planned work: rewires, upgrades, and maintenance that keep your home or business safe for years. Over 1,200 jobs completed across Leeds, and most of our new customers come through word-of-mouth from happy repeat clients.",
+  "about_stats": [
+    {
+      "num": "15",
+      "label": "Years in Business"
+    },
+    {
+      "num": "1,200+",
+      "label": "Domestic & Commercial Jobs"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "All Leeds",
+      "label": "Areas Covered"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Lost all power on a Saturday evening. Phoned D&S and they were here within 45 minutes. Turned out a faulty MCB in the fusebox. Fixed it straight away, fair price, and really knew what they were doing. Brilliant service.",
+      "author": "Michael T.",
+      "loc": "Cross Gates, Leeds \u2014 November 2024"
+    },
+    {
+      "text": "Had the whole house rewired by D&S last spring. Professional lads, kept the place tidy, and they explained everything as they went. Finished on time and the quality of work is first-class. Highly recommend them.",
+      "author": "Emma R.",
+      "loc": "Roundhay, Leeds \u2014 September 2024"
+    },
+    {
+      "text": "Called them for a flickering light issue and they diagnosed it as a dodgy connection in the consumer unit. Could have been dangerous. They sorted it, issued a safety cert, and charged a fair rate. Really grateful for their honesty.",
+      "author": "James K.",
+      "loc": "Chapel Allerton, Leeds \u2014 August 2024"
+    }
+  ],
+  "address_sub": "Serving Leeds city centre, suburbs, and surrounding areas within 20 miles",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency: 24/7 (additional charge applies outside hours)",
+  "emergency_banner_text": "Emergency electrical fault? We're on call 24/7 and aim to reach most Leeds postcodes within an hour. Call now \u2014",
+  "footer_description": "D&S Electricians is a trusted, NICEIC-approved electrician in Leeds offering emergency repairs, rewires, and commercial work. Honest pricing, same-day fixes.",
+  "footer_copyright": "\u00a9 2026 D&S Electricians Ltd. Registered in England & Wales."
+}
