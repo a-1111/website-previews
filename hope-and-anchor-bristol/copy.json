@@ -1,0 +1,106 @@
+{
+  "slug": "hope-and-anchor-bristol",
+  "meta_title": "The Hope & Anchor | Traditional Pub Bristol",
+  "meta_description": "The Hope & Anchor, Bristol \u2014 a welcoming traditional pub on Jacob's Wells Road serving real ales, hearty food, and community spirit. Visit us today.",
+  "schema_opening_hours": [
+    "Mo-Su 11:00-23:00"
+  ],
+  "hero_eyebrow": "Independent Pub \u2014 Community Hub Since 1987",
+  "hero_headline": "Bristol's Best Local",
+  "hero_highlight": "Pub",
+  "hero_subhead": "Real ales, proper food, and a warm welcome waiting for you in the heart of Clifton every single day.",
+  "badge_4": "Dog-Friendly Garden",
+  "stats": [
+    {
+      "num": "37yrs",
+      "label": "Established & independent"
+    },
+    {
+      "num": "12+",
+      "label": "Rotating real ales"
+    },
+    {
+      "num": "Daily",
+      "label": "Fresh-cooked specials"
+    },
+    {
+      "num": "150+",
+      "label": "Guests weekly"
+    }
+  ],
+  "services_heading": "What You'll Find at The Hope & Anchor",
+  "services_subhead": "From morning coffee to evening pints, we've got everything a proper local pub should offer.",
+  "services": [
+    {
+      "title": "Real Ales & Craft Beers",
+      "desc": "Twelve rotating taps featuring local Bristol breweries and classic real ales. Ask our staff for recommendations \u2014 we know every pint."
+    },
+    {
+      "title": "Hearty Pub Food",
+      "desc": "Fresh-cooked specials every day, from pies and pints to vegetarian dishes. All made in-house using quality ingredients."
+    },
+    {
+      "title": "Private Function Space",
+      "desc": "Upstairs room available for birthdays, work dos, and celebrations. Flexible menus and competitive group rates."
+    },
+    {
+      "title": "Outdoor Garden Terrace",
+      "desc": "Dog-friendly beer garden with covered seating. Perfect for sunny afternoons or catching the game outdoors."
+    },
+    {
+      "title": "Quiz Nights & Live Music",
+      "desc": "Regular Thursday quizzes and weekend live music from local performers. Check our socials for this month's schedule."
+    },
+    {
+      "title": "Weekday Lunch Menu",
+      "desc": "Quick, honest food at fair prices from noon. Ideal if you work nearby or want a proper pub lunch without the fuss."
+    }
+  ],
+  "about_pullquote": "We're here because Bristol deserves a proper pub, not a chain.",
+  "about_para_1": "The Hope & Anchor has been part of Jacob's Wells Road since 1987. We started as a neighbourhood local and we've stayed that way \u2014 independent, family-run, and proud to be a real community hub in Clifton. Over nearly four decades, we've built friendships and watched this corner of Bristol change, all while keeping one foot firmly in the past.",
+  "about_para_2": "What sets us apart is straightforward: we care about the people who walk through our door. We pour proper pints from real ales you won't find everywhere, cook real food in our kitchen, and make sure regulars and newcomers alike feel at home. That's why people keep coming back.",
+  "about_stats": [
+    {
+      "num": "37",
+      "label": "Years as an independent"
+    },
+    {
+      "num": "1000s",
+      "label": "Happy locals & visitors"
+    },
+    {
+      "num": "12+",
+      "label": "Real ales on rotation"
+    },
+    {
+      "num": "Jacob's Wells Rd",
+      "label": "Heart of Clifton"
+    }
+  ],
+  "reviews_heading": "What Our Regulars & Visitors Say",
+  "rating": 4.7,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Best real ale selection in Clifton. Been coming here for years and the staff always remembers what you drink. The upstairs room is perfect for groups \u2014 had my 40th here last month and it was brilliant. Proper pub, proper people.",
+      "author": "Mark T.",
+      "loc": "Clifton, Bristol \u2014 February 2025"
+    },
+    {
+      "text": "Stumbled in on a Saturday and felt instantly welcome. Dog-friendly garden, great beer, and the specials board looked amazing. Food came out hot and honestly cooked. Will definitely be back.",
+      "author": "Emma R.",
+      "loc": "Bristol \u2014 January 2025"
+    },
+    {
+      "text": "This is what a local pub should be. No frills, no pretence, just good beer, good food, and good company. The quiz night is always a laugh. Love this place.",
+      "author": "James W.",
+      "loc": "Stokes Croft, Bristol \u2014 December 2024"
+    }
+  ],
+  "address_sub": "38 Jacob's Wells Road, Clifton, Bristol BS8 1DR",
+  "opening_hours_main": "Mon\u2013Sun: 11am \u2013 11pm",
+  "opening_hours_sub": "Food served daily \u2022 Dog-friendly garden \u2022 Real ales always on tap",
+  "emergency_banner_text": "Group bookings or questions? Get in touch now \u2014",
+  "footer_description": "The Hope & Anchor is an independent real ale pub in Clifton, Bristol. Fresh food, rotating ales, and genuine local hospitality since 1987.",
+  "footer_copyright": "\u00a9 2026 The Hope & Anchor. Licensed premise, Bristol."
+}
