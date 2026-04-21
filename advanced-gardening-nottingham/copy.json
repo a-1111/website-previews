@@ -1,0 +1,107 @@
+{
+  "slug": "advanced-gardening-nottingham",
+  "meta_title": "Advanced Gardening | Landscape Gardener Nottingham",
+  "meta_description": "Advanced Gardening is Nottingham's trusted landscape gardening specialist. Design, build, and maintain beautiful outdoor spaces. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Expert Landscape Design & Build \u2014 Nottingham & Surrounding Areas",
+  "hero_headline": "Transform Your Garden",
+  "hero_highlight": "Into Something Special",
+  "hero_subhead": "Bespoke landscape design and professional build work that turns tired outdoor spaces into stunning gardens you'll love to spend time in.",
+  "badge_4": "Free Garden Consultation",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "400+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "5 days",
+      "label": "Typical Project Turnaround"
+    }
+  ],
+  "services_heading": "Complete Landscape Gardening Services Across Nottinghamshire",
+  "services_subhead": "From initial design through to finished installation and ongoing maintenance, we handle every aspect of your garden project.",
+  "services": [
+    {
+      "title": "Garden Design & Planning",
+      "desc": "Bespoke landscape designs tailored to your space, style, and budget. We create detailed plans and 3D visualisations so you can see the finished result before work begins."
+    },
+    {
+      "title": "Patio & Decking Installation",
+      "desc": "Expert installation of quality patios, decking, and hardscaping. We work with natural stone, composite materials, and timber to create durable outdoor living spaces."
+    },
+    {
+      "title": "Planting & Borders",
+      "desc": "Thoughtful plant selection and professional border creation to add colour, texture, and structure. We choose species that thrive in your garden's conditions."
+    },
+    {
+      "title": "Fencing & Garden Structures",
+      "desc": "Strong, attractive fencing, pergolas, arbours, and raised beds. Built to last with quality materials and expert craftsmanship that complements your garden design."
+    },
+    {
+      "title": "Garden Maintenance",
+      "desc": "Regular upkeep including hedge trimming, lawn care, weeding, and seasonal work. Keep your garden looking pristine throughout the year with our reliable maintenance plans."
+    },
+    {
+      "title": "Clearance & Landscaping",
+      "desc": "Complete garden overhauls including site clearance, levelling, and reshaping. Perfect for unlocking the potential of overgrown or neglected outdoor spaces."
+    }
+  ],
+  "about_pullquote": "I build gardens that families actually use and enjoy every single day.",
+  "about_para_1": "Advanced Gardening was founded in 2012 by a lifelong gardening enthusiast frustrated with generic, uninspired outdoor spaces. Over twelve years, we've transformed over 400 gardens across Nottinghamshire\u2014from small courtyards to sprawling country properties. Every project starts with a genuine conversation about your vision, your space, and what will make you happiest.",
+  "about_para_2": "Our reputation is built on listening carefully, delivering on time, and standing behind our work. Most of our business comes from repeat clients and referrals because homeowners know we'll treat their garden with the same care we'd give our own. We combine creative design with practical horticultural knowledge, so your new garden isn't just beautiful\u2014it's sustainable and easy to maintain.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "400+",
+      "label": "Gardens Completed"
+    },
+    {
+      "num": "65%",
+      "label": "From Repeat & Referral"
+    },
+    {
+      "num": "Nottinghamshire",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Nottinghamshire Gardeners Say About Us",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Had our overgrown back garden cleared and completely redesigned. The team was professional, tidy, and kept us updated throughout. The finished garden is exactly what we wanted\u2014our kids love it and we're out there every evening. Highly recommend.",
+      "author": "Margaret T.",
+      "loc": "Beeston, Nottingham \u2014 September 2024"
+    },
+    {
+      "text": "Fantastic service from start to finish. They listened to what we wanted, came back with brilliant ideas we hadn't thought of, and built it perfectly. Not the cheapest quote but absolutely worth every penny. The quality of the work is outstanding.",
+      "author": "David P.",
+      "loc": "Arnold, Nottingham \u2014 July 2024"
+    },
+    {
+      "text": "Been using Advanced Gardening for maintenance for three years now. They're reliable, punctual, and genuinely care about keeping the garden looking good. My neighbours have already asked for their number. Can't fault them.",
+      "author": "Susan H.",
+      "loc": "Carlton, Nottingham \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham, Carlton, Arnold, Beeston, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Closed Sundays \u2022 Emergency contact available",
+  "emergency_banner_text": "Ready to transform your garden? Get a free consultation and detailed quote within 48 hours. Call us now \u2014",
+  "footer_description": "Advanced Gardening delivers expert landscape design, installation, and maintenance across Nottinghamshire. Bespoke gardens built to last.",
+  "footer_copyright": "\u00a9 2026 Advanced Gardening. Trading from Carlton Business Centre, Nottingham."
+}
