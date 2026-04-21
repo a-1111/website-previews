@@ -1,0 +1,107 @@
+{
+  "slug": "aj-garden-services-sheffield",
+  "meta_title": "AJ Garden Services | Professional Gardener Sheffield",
+  "meta_description": "AJ Garden Services Sheffield offers expert garden maintenance, landscaping, and design. Local family business serving South Yorkshire. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local Family Business \u2014 18 Years' Experience",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Garden Experts",
+  "hero_subhead": "From overgrown borders to complete garden transformation, we handle it all \u2014 and your garden will look brilliant.",
+  "badge_4": "Free Garden Consultation",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading in Sheffield"
+    },
+    {
+      "num": "2,000+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "South Yorkshire",
+      "label": "Coverage Area"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Sheffield",
+  "services_subhead": "Whether you need weekly maintenance, a complete redesign, or specialist tree work, we've got your garden covered.",
+  "services": [
+    {
+      "title": "Regular Garden Maintenance",
+      "desc": "Weekly or fortnightly upkeep including lawn mowing, hedge trimming, and border care. Keeps your garden looking sharp year-round without the effort."
+    },
+    {
+      "title": "Garden Design & Landscaping",
+      "desc": "Bespoke garden designs tailored to your space and budget. We handle hard landscaping, planting schemes, and patios that transform your outdoor area."
+    },
+    {
+      "title": "Tree Surgery & Pruning",
+      "desc": "Professional tree care, felling, stump removal, and large-scale pruning. Safe, certified work that protects your property and improves your garden's structure."
+    },
+    {
+      "title": "Turfing & Seeding",
+      "desc": "New lawn installation or overseeding tired grass areas. We prepare the ground properly so your new turf or seed thrives and looks lush within weeks."
+    },
+    {
+      "title": "Clearance & Tidying",
+      "desc": "Get control of overgrown gardens, fallen leaves, and debris. We clear the lot, haul it away, and leave your space ready for fresh planting or paving."
+    },
+    {
+      "title": "Fencing & Garden Structures",
+      "desc": "New fence installation, repairs, and garden buildings. Durable materials and expert fitting mean your garden boundary lasts and looks the part."
+    }
+  ],
+  "about_pullquote": "I started this business because I love seeing gardens come to life.",
+  "about_para_1": "AJ Garden Services was founded in 2008 with one aim: to give Sheffield homeowners gardens they genuinely enjoy. Over 18 years, we've grown from a one-man operation to a trusted local team, completing over 2,000 garden projects across South Yorkshire. Our reputation is built on reliability, attention to detail, and treating every garden as if it were our own.",
+  "about_para_2": "We're not the cheapest \u2014 but we're fair, and you get consistency. Most of our work comes from repeat customers and word-of-mouth referrals, which tells you everything. From small front gardens to comprehensive landscaping, we listen to what you want, give you a straight quote, and deliver on time. That's why Sheffield families trust us.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2,000+",
+      "label": "Gardens Completed"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "South Yorkshire",
+      "label": "Service Radius"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Our garden was completely overgrown when we moved in. AJ came round, showed us what was possible, and got stuck in. Three weeks later it's transformed. The team were friendly, tidy, and didn't overcharge. Brilliant work.",
+      "author": "Mark T.",
+      "loc": "Lowedges, Sheffield \u2014 February 2025"
+    },
+    {
+      "text": "Been using AJ for fortnightly maintenance for two years now. He's reliable, does a proper job, and honestly tells you when something needs attention. My garden looks better than it ever has. Wouldn't use anyone else.",
+      "author": "Linda C.",
+      "loc": "Totley, Sheffield \u2014 January 2025"
+    },
+    {
+      "text": "Called AJ to remove a dead oak and tidy up the whole backyard. His team arrived on time, worked safely, cleared everything, and left the space spotless. Fair price and really professional. Can't ask for more.",
+      "author": "David W.",
+      "loc": "Ecclesall, Sheffield \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Sheffield and surrounding South Yorkshire areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Sunday by appointment",
+  "emergency_banner_text": "Storm damage or urgent tree work needed? Contact us today for a same-week inspection. Call now \u2014",
+  "footer_description": "AJ Garden Services is a family-run gardening business in Sheffield with 18 years' experience. We transform gardens with maintenance, landscaping, and tree surgery.",
+  "footer_copyright": "\u00a9 2026 AJ Garden Services Ltd. Registered in England & Wales."
+}
