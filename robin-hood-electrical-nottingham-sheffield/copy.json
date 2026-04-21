@@ -1,0 +1,107 @@
+{
+  "slug": "robin-hood-electrical-nottingham-sheffield",
+  "meta_title": "Robin Hood Electrical | Electrician Nottingham & Sheffield",
+  "meta_description": "Robin Hood Electrical: trusted electrician in Nottingham and Sheffield. Installation, repairs, and testing. Same-day service available. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 24/7 Emergency Response",
+  "hero_headline": "Reliable Local",
+  "hero_highlight": "Electrician for Nottingham & Sheffield",
+  "hero_subhead": "Faulty wiring, tripped electrics, or a full rewire? We arrive quickly, diagnose the problem, and get your power back on safely.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "1,200+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency callout time"
+    }
+  ],
+  "services_heading": "Electrical Services Across Nottingham & Sheffield",
+  "services_subhead": "From emergency repairs to full rewires, we handle every electrical job safely and on budget.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped switches, or dead sockets? We diagnose and repair faults fast, any time of day or night. Most jobs finished same day."
+    },
+    {
+      "title": "Full House Rewiring",
+      "desc": "Old wiring putting your home at risk? We replace outdated circuits and bring your electrics up to current Building Regs, with all work tested and certified."
+    },
+    {
+      "title": "New Electrical Installation",
+      "desc": "Kitchen extensions, loft conversions, or new builds \u2014 we design and install circuits, consumer units, and sockets to spec and on time."
+    },
+    {
+      "title": "Electrical Testing & Certification",
+      "desc": "Landlord safety checks, pre-sale inspections, or periodic testing \u2014 we issue NICEIC-backed certificates you can rely on."
+    },
+    {
+      "title": "Fault Finding & Diagnosis",
+      "desc": "Intermittent faults, nuisance tripping, or mystery power loss? We track down the root cause and fix it without guesswork or bill padding."
+    },
+    {
+      "title": "Lighting & Specialist Work",
+      "desc": "Bathroom extraction fans, outside lighting, EV charging points, or smart home wiring \u2014 we handle it all to current safety standards."
+    }
+  ],
+  "about_pullquote": "We treat every job like it's our own home \u2014 no shortcuts, no cowboys.",
+  "about_para_1": "Robin Hood Electrical was founded on a simple promise: honest work at fair prices. Based in Nottingham and serving Sheffield too, we've spent nearly two decades building trust with homeowners, landlords, and businesses across both cities. Every electrician on our team holds current NICEIC qualifications and carries full public liability insurance.",
+  "about_para_2": "You'll find us turning up on time, diagnosing faults properly, and explaining what needs doing before we start. No upselling. No inflated estimates. We've built our reputation on repeat work and referrals because customers know we answer the phone, solve the problem, and leave the job clean.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Local trading history"
+    },
+    {
+      "num": "1,200+",
+      "label": "Domestic & commercial jobs"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat & referral business"
+    },
+    {
+      "num": "2 cities",
+      "label": "Nottingham & Sheffield coverage"
+    }
+  ],
+  "reviews_heading": "What Nottingham & Sheffield Homeowners Say",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Called them at half nine on a Saturday night with a burnt-out socket and no power in the kitchen. Dave was at the house by 11, found a dodgy terminal in the consumer unit, replaced it, and tested everything. Couldn't ask for a better response. Fair price too.",
+      "author": "Michael T.",
+      "loc": "Mapperley, Nottingham \u2014 November 2024"
+    },
+    {
+      "text": "We needed a full rewire before selling. Got three quotes and Robin Hood's was competitive and honest. The lads worked cleanly, explained everything as they went, and finished bang on schedule. All certified and signed off. Brilliant job.",
+      "author": "Claire H.",
+      "loc": "Heeley, Sheffield \u2014 September 2024"
+    },
+    {
+      "text": "Had our landlord safety check done. The electrician was thorough, spent proper time on it, and gave us a clear report. No panic-selling extra work. I'd trust him with any of my rental properties.",
+      "author": "James P.",
+      "loc": "Basford, Nottingham \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Nottingham, Sheffield, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Electrics down or unsafe? We're on call around the clock. Aim to reach you in under an hour. Ring now \u2014",
+  "footer_description": "Robin Hood Electrical: NICEIC-registered electricians in Nottingham and Sheffield. Fast, honest repairs and full rewires for homeowners and landlords.",
+  "footer_copyright": "\u00a9 2026 Robin Hood Electrical. Registered in England & Wales."
+}
