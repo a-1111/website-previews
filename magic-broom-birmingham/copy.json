@@ -1,0 +1,107 @@
+{
+  "slug": "magic-broom-birmingham",
+  "meta_title": "Magic Broom Birmingham | House Cleaning Service",
+  "meta_description": "Magic Broom Birmingham delivers reliable house and office cleaning across Birmingham. Friendly, thorough service at fair prices. Free quote today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Trusted Local Cleaners \u2014 Birmingham's Friendly Choice",
+  "hero_headline": "Your Home Deserves",
+  "hero_highlight": "a proper clean",
+  "hero_subhead": "Professional house cleaning in Birmingham that fits your life. No long contracts, no hassle\u2014just a thorough clean every time.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "8+ yrs",
+      "label": "Experience in Birmingham"
+    },
+    {
+      "num": "500+",
+      "label": "Local homes cleaned"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Booking turnaround"
+    }
+  ],
+  "services_heading": "House and Office Cleaning Across Birmingham",
+  "services_subhead": "From one-off deep cleans to regular maintenance, we tailor every job to your home and budget.",
+  "services": [
+    {
+      "title": "Weekly & Fortnightly Cleaning",
+      "desc": "Regular house cleaning that keeps your home fresh and tidy. We work around your schedule and can adjust as you need."
+    },
+    {
+      "title": "One-Off Deep Cleans",
+      "desc": "Moving house? Spring clean? We'll blitz your home from top to bottom, including skirting boards, light fittings, and inside cupboards."
+    },
+    {
+      "title": "Office & Commercial Cleaning",
+      "desc": "Keep your workplace spotless and professional. We handle small offices, surgeries, and retail units with care and discretion."
+    },
+    {
+      "title": "End of Tenancy Cleaning",
+      "desc": "Get your deposit back. We clean every corner to professional standards, so your landlord has nothing to complain about."
+    },
+    {
+      "title": "Carpet & Upholstery Cleaning",
+      "desc": "Freshen up carpets and sofas with specialist equipment. We remove stains and odours safely, restoring colour and texture."
+    },
+    {
+      "title": "Post-Renovation Cleaning",
+      "desc": "After builders leave chaos behind. We clear dust, debris, and mess so your new home or refurbished space is ready to enjoy."
+    }
+  ],
+  "about_pullquote": "We built this on respect: treat every home like it's our own.",
+  "about_para_1": "Magic Broom started over eight years ago in Selly Oak when I realised too many cleaning companies weren't listening to what their customers actually wanted. I began with a van, a mop, and a promise to show up on time and do the job right. Today we've grown to serve hundreds of Birmingham homes and businesses, but we still treat each one as if it were the first.",
+  "about_para_2": "Our customers come back because we're reliable, thorough, and genuinely friendly. We don't use high-pressure sales tactics or lock you into long contracts. If you're happy, you'll tell your neighbours\u2014and they do. That's how we've built our reputation across Selly Oak, Harborne, Edgbaston, and beyond.",
+  "about_stats": [
+    {
+      "num": "8+",
+      "label": "Years trading"
+    },
+    {
+      "num": "95%",
+      "label": "Regular customers"
+    },
+    {
+      "num": "12",
+      "label": "Staff members"
+    },
+    {
+      "num": "Selly Oak to Kings Norton",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Birmingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 248,
+  "reviews": [
+    {
+      "text": "I've had Magic Broom clean my house every two weeks for three years now. They're reliable, friendly, and my place always looks amazing. Sarah and the team are fantastic. Wouldn't use anyone else.",
+      "author": "Patricia H.",
+      "loc": "Selly Oak, Birmingham \u2014 February 2025"
+    },
+    {
+      "text": "Needed a deep clean before selling. Gave them a call on the Friday, they came out Monday morning and absolutely transformed the place. Even got the windows done without asking. Fair price too.",
+      "author": "Michael T.",
+      "loc": "Harborne, Birmingham \u2014 January 2025"
+    },
+    {
+      "text": "Our office gets cleaned every week and it's never once been less than perfect. They work around our hours and never make a fuss. Proper professional outfit.",
+      "author": "Claire B.",
+      "loc": "Edgbaston, Birmingham \u2014 March 2025"
+    }
+  ],
+  "address_sub": "Serving Selly Oak, Harborne, Edgbaston, Kings Norton, and across Birmingham",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Same-day bookings available (subject to availability)",
+  "emergency_banner_text": "Need a clean urgently? We often fit emergency bookings within 48 hours. Give us a call \u2014",
+  "footer_description": "Magic Broom Birmingham: trusted house and office cleaning across Birmingham. Reliable, thorough, fair prices. Family-run since 2016.",
+  "footer_copyright": "\u00a9 2026 Magic Broom Birmingham. All rights reserved."
+}
