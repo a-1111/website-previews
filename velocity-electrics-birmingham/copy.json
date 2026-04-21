@@ -1,0 +1,107 @@
+{
+  "slug": "velocity-electrics-birmingham",
+  "meta_title": "Velocity Electrics | Electrical Installation Birmingham",
+  "meta_description": "Velocity Electrics Ltd provides expert electrical installation and repair services across Birmingham. NICEIC certified, same-day emergency response available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Certified Electrician \u2014 Fast, Reliable, Local",
+  "hero_headline": "Birmingham's Trusted",
+  "hero_highlight": "Electrical Experts",
+  "hero_subhead": "From faulty wiring to new installations, we solve complex electrical problems other electricians miss \u2014 and we arrive fast.",
+  "badge_4": "Same-Day Emergency Service",
+  "stats": [
+    {
+      "num": "62",
+      "label": "Customer Reviews"
+    },
+    {
+      "num": "9.9/10",
+      "label": "Average Rating"
+    },
+    {
+      "num": "12+yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    }
+  ],
+  "services_heading": "Electrical Installation & Repair Services in Birmingham",
+  "services_subhead": "We handle everything from fault-finding and emergency repairs to full house rewires and cooker installations.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Faulty wiring, blown circuits, and electrical faults repaired fast. We troubleshoot problems other electricians struggle with and get you safe again quickly."
+    },
+    {
+      "title": "Electric Cooker Installation",
+      "desc": "Professional electric cooker fitting with full certification. We handle the heavy-duty wiring and ensure your new cooker is installed to Building Regulations."
+    },
+    {
+      "title": "Lighting Installation & Repair",
+      "desc": "New light fittings, rewiring, and fault diagnosis. Whether it's bedroom lights or spotlights throughout your home, we get it done neatly and safely."
+    },
+    {
+      "title": "Smoke Alarm & Safety Testing",
+      "desc": "Faulty smoke alarms replaced and safety testing carried out. We ensure your home meets current fire safety standards and your alarms work when you need them."
+    },
+    {
+      "title": "House Rewiring & Upgrades",
+      "desc": "Full house rewires and electrical upgrades to modern standards. We replace outdated fuse boxes, add new circuits, and bring your wiring up to code."
+    },
+    {
+      "title": "Fault-Finding & Diagnostics",
+      "desc": "Can't find where an electrical fault is coming from? We use professional equipment to pinpoint the problem and fix it properly first time."
+    }
+  ],
+  "about_pullquote": "We solve the problems other electricians leave unsolved.",
+  "about_para_1": "Velocity Electrics Ltd is a Birmingham-based electrical installation company with over 12 years' experience serving homeowners and businesses across the city. Founded on the principle that electrical work should be done right the first time, we've built our reputation by tackling complex wiring issues and delivering installations that meet the highest standards.",
+  "about_para_2": "Our customers trust us because we're knowledgeable, friendly, and honest. We don't oversell unnecessary work \u2014 we diagnose faults properly, explain what needs doing, and charge fairly. Whether you need an emergency repair at midnight or a full house rewire, you'll work with electricians who care about the quality of their work.",
+  "about_stats": [
+    {
+      "num": "12+yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "500+",
+      "label": "Installations & Repairs"
+    },
+    {
+      "num": "98%",
+      "label": "First-Time Fix Rate"
+    },
+    {
+      "num": "B13",
+      "label": "Local to Birmingham"
+    }
+  ],
+  "reviews_heading": "What Birmingham Customers Say About Velocity Electrics",
+  "rating": 4.95,
+  "review_count": 62,
+  "reviews": [
+    {
+      "text": "Had a nightmare with a faulty wiring issue that two other electricians couldn't figure out. Velocity came in, diagnosed it straight away, and fixed it properly. Very impressed with their knowledge and professionalism. Highly recommend.",
+      "author": "David K.",
+      "loc": "Moseley, Birmingham \u2014 March 2026"
+    },
+    {
+      "text": "Easy communication, extremely friendly and knowledgeable about what we needed doing. The quality and neatness of his work was really good. Fitted two new lights for us and everything looks perfect. Will definitely use again.",
+      "author": "Sarah M.",
+      "loc": "Edgbaston, Birmingham \u2014 February 2026"
+    },
+    {
+      "text": "Needed a faulty smoke alarm replaced urgently and a new cooker wiring sorted. They came out same day, did brilliant work, and charged a fair price. No messing about, just reliable and professional. Top bloke.",
+      "author": "James T.",
+      "loc": "Hall Green, Birmingham \u2014 January 2026"
+    }
+  ],
+  "address_sub": "Serving all of Birmingham and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency calls accepted 24/7",
+  "emergency_banner_text": "Electrical emergency in Birmingham? We arrive fast and get you safe. Call now \u2014",
+  "footer_description": "Velocity Electrics Ltd is a Birmingham electrical installation company specialising in emergency repairs, rewires, and fault diagnosis. Fast, honest, certified.",
+  "footer_copyright": "\u00a9 2026 Velocity Electrics Ltd. Registered in England & Wales."
+}
