@@ -1,0 +1,107 @@
+{
+  "slug": "mrc-electrical-birmingham",
+  "meta_title": "M.R.C Electrical | Local Electrician Birmingham",
+  "meta_description": "M.R.C Electrical is your trusted local electrician in Birmingham. Domestic and commercial electrical work, repairs, and installations. Call today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Part P Certified \u2014 Emergency Call-Outs Welcome",
+  "hero_headline": "Birmingham's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Reliable electrical repairs and installations for homes across Birmingham. We arrive on time, work safely, and charge fairly \u2014 no hidden costs.",
+  "badge_4": "Free Quotes & No Call-Out Charge",
+  "stats": [
+    {
+      "num": "18+ yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "2,500+",
+      "label": "Local Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Same Day",
+      "label": "Emergency Response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Birmingham",
+  "services_subhead": "From routine maintenance and fault-finding to full rewires and new installations, M.R.C Electrical handles all domestic and small commercial electrical work.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Tripped switches, dead sockets, flickering lights? We diagnose and fix faults fast, often the same day. No call-out charge for emergency visits."
+    },
+    {
+      "title": "Boiler & Heating Installation",
+      "desc": "Supply and fit new boilers, radiators, and heating systems. All work comes with full guarantees and building control certification."
+    },
+    {
+      "title": "Domestic Rewires",
+      "desc": "Complete electrical system overhaul for older homes. Fully certified, safer wiring, modern consumer units, and future-proof circuits for your needs."
+    },
+    {
+      "title": "New Circuits & Socket Installation",
+      "desc": "Add power where you need it \u2014 new circuits for kitchens, bathrooms, garages, or garden buildings. All Part P certified and to current Building Regs."
+    },
+    {
+      "title": "Periodic Testing & Inspections",
+      "desc": "Electrical safety checks for landlords, businesses, and homeowners. Full test report and certification to keep your property safe and compliant."
+    },
+    {
+      "title": "Garden & Outdoor Electrics",
+      "desc": "Outdoor sockets, garden lighting, EV charging installations, and shed wiring. Weatherproof, safe, and built to last in the Birmingham climate."
+    }
+  ],
+  "about_pullquote": "I started this business because I saw people get ripped off by cowboys. Fair pricing, honest work.",
+  "about_para_1": "M.R.C Electrical has been serving Birmingham homes and small businesses for over 18 years. We're Part P certified, fully insured, and proud of our straightforward approach \u2014 no jargon, no hidden charges, just reliable work done right. Whether it's an emergency call-out or a planned rewire, we treat every job with the same care and attention to detail.",
+  "about_para_2": "Our reputation is built on turning up on time, explaining what needs doing, and finishing to the standard we'd expect in our own homes. Most of our work comes from repeat customers and neighbours who recommend us. We've completed thousands of jobs across Birmingham, from Victorian terrace rewires to modern kitchen installations, and we back every job with full certification and a 12-month guarantee.",
+  "about_stats": [
+    {
+      "num": "18+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2,500+",
+      "label": "Homes & Businesses Served"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "1 Hour",
+      "label": "Average Emergency Response"
+    }
+  ],
+  "reviews_heading": "What Birmingham Homeowners Say About M.R.C Electrical",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a nightmare with an old consumer unit that kept tripping. Mark came round, diagnosed a dodgy circuit in seconds, replaced it, and had us back up and running in an afternoon. Brilliant service, fair price, and he explained everything as he went. Couldn't ask for more.",
+      "author": "David K.",
+      "loc": "Erdington, Birmingham \u2014 February 2025"
+    },
+    {
+      "text": "Called for an emergency at 9pm on a Friday \u2014 thought we'd be waiting days. Mark was with us within the hour, found a burnt-out socket causing the trip, and sorted it same night. Very professional, tidy worker, and charged us a reasonable call-out fee. Will definitely use again.",
+      "author": "Jennifer P.",
+      "loc": "Castle Bromwich, Birmingham \u2014 January 2025"
+    },
+    {
+      "text": "Got M.R.C in to do a full rewire on our Victorian terrace. The team was organised, minimal disruption, and they left the place spotless. All work certified and guaranteed. Honestly, the best tradespeople we've dealt with. Already recommended them to three neighbours.",
+      "author": "Michael L.",
+      "loc": "Harborne, Birmingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Birmingham and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency call-outs available 24/7",
+  "emergency_banner_text": "Electrical emergency in Birmingham? We aim to be with you within the hour, day or night. Call now \u2014",
+  "footer_description": "M.R.C Electrical: Part P certified electrician serving Birmingham for 18+ years. Honest, reliable, fair prices. Emergency repairs and full installations.",
+  "footer_copyright": "\u00a9 2026 M.R.C Electrical. Registered in England & Wales."
+}
