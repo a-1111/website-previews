@@ -1,0 +1,107 @@
+{
+  "slug": "sunshine-auto-electrics-leeds",
+  "meta_title": "Sunshine Auto Electrics | Car Electrical Diagnostics Leeds",
+  "meta_description": "Sunshine Auto Electrics Leeds. Expert car electrical repairs, diagnostics and battery service. Fast turnaround, competitive rates. Call 07473 650898 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:30",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "Certified Auto Electrical Specialists \u2014 Rapid Diagnostics",
+  "hero_headline": "Leeds' Auto Electrical",
+  "hero_highlight": "Experts",
+  "hero_subhead": "Dashboard warning light? Battery gone flat? We diagnose and fix car electrical faults fast, with parts fitted same day.",
+  "badge_4": "Same-Day Diagnostics",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years' experience"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "1hr",
+      "label": "Average turnaround"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Complete Auto Electrical Services in Leeds",
+  "services_subhead": "From battery replacements to full vehicle diagnostics, we repair what others can't diagnose.",
+  "services": [
+    {
+      "title": "Battery Supply & Fitting",
+      "desc": "Dead or failing battery? We stock premium batteries for all makes and fit while you wait. Trade-in pricing on old units."
+    },
+    {
+      "title": "Fault Diagnostics & Code Reading",
+      "desc": "Dashboard warning lights? We plug in diagnostic equipment, read fault codes, and tell you exactly what's wrong \u2014 no guesswork, no unnecessary parts."
+    },
+    {
+      "title": "Starter Motor Repair & Replacement",
+      "desc": "Won't turn over? We test, repair, or replace starter motors from most manufacturers. Often fixed same day."
+    },
+    {
+      "title": "Alternator Service & Rebuild",
+      "desc": "Charging system failing? We test alternators, repair where possible, and fit quality replacements with warranty."
+    },
+    {
+      "title": "Wiring Fault Location & Repair",
+      "desc": "Electrical gremlins? Blown fuses? Intermittent failures? We trace faults through the wiring loom and repair safely and permanently."
+    },
+    {
+      "title": "Air-Con Electrical & Compressor Service",
+      "desc": "Air-con not blowing cold? We diagnose electrical failures, compressor clutch issues, and fan faults \u2014 test and repair or recharge."
+    }
+  ],
+  "about_pullquote": "I fix what the franchises say needs replacing.",
+  "about_para_1": "Sunshine Auto Electrics has been diagnosing and repairing car electrical problems in Leeds for over 15 years. Started as a one-man operation by an experienced auto electrician, we've grown into a trusted workshop serving both private motorists and local fleet operators. We invest in the latest diagnostic equipment so we can pinpoint faults quickly and accurately \u2014 no trial and error.",
+  "about_para_2": "The difference? We don't sell parts you don't need. Our reputation is built on honest diagnostics and fair pricing. Repeat customers come back because we listen, we explain what's happening, and we fix the problem properly the first time. We're based at Dolly Lane Business Centre in Harehills, easy to reach from across Leeds and beyond.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years trading"
+    },
+    {
+      "num": "2,500+",
+      "label": "Vehicles serviced"
+    },
+    {
+      "num": "72%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "Leeds & 10-mile radius",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Leeds Drivers Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Took my Volkswagen in with an electrical fault \u2014 dealers wanted \u00a3800 for a new module. Sunshine diagnosed it as a dodgy connector, cleaned it up, and charged me forty quid. Saved me a fortune. Brilliant service.",
+      "author": "Mark T.",
+      "loc": "Meanwood, Leeds \u2014 November 2024"
+    },
+    {
+      "text": "Battery died on a Sunday evening. Called Monday morning, they fitted a new one before lunch at half the price the main dealer quoted. Staff were friendly and explained everything. Highly recommend.",
+      "author": "Sophie W.",
+      "loc": "Chapel Allerton, Leeds \u2014 October 2024"
+    },
+    {
+      "text": "My car kept having electrical gremlins \u2014 alternator, then something else. Took it to Sunshine. They found the root cause was a corroded battery terminal. Fixed it properly so it won't happen again. That's proper diagnostics.",
+      "author": "David L.",
+      "loc": "Armley, Leeds \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Leeds and surrounding areas from our Harehills workshop",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5:30pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Call for emergency callout availability",
+  "emergency_banner_text": "Battery or electrical emergency? Call us now for rapid diagnosis and same-day repair. Ring \u2014",
+  "footer_description": "Sunshine Auto Electrics. Car battery, starter, alternator and fault diagnostics across Leeds. Fast, fair, honest.",
+  "footer_copyright": "\u00a9 2026 Sunshine Auto Electrics & Diagnostics Centre. Registered in England & Wales."
+}
