@@ -1,0 +1,108 @@
+{
+  "slug": "ryan-holden-electrical-leeds",
+  "meta_title": "Ryan Holden Electrical | Electrician Leeds",
+  "meta_description": "Ryan Holden Electrical provides domestic and commercial electrical work across Leeds. NICEIC registered, same-day repairs, and 24/7 emergency callouts available.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00",
+    "Su closed"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Emergency Callouts 24/7",
+  "hero_headline": "Leeds' Trusted Local",
+  "hero_highlight": "Electrician",
+  "hero_subhead": "Faulty electrics, blown fuses, or rewiring work? We diagnose faults fast and fix them right, often the same day.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average Rating"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Leeds",
+  "services_subhead": "From emergency repairs and fault finding to full rewires and new installations, we handle domestic and commercial work to the highest standard.",
+  "services": [
+    {
+      "title": "Emergency Callouts & Repairs",
+      "desc": "Lights out, tripped electrics, or dangerous faults? We arrive quickly and fix most problems on the spot. Available nights and weekends."
+    },
+    {
+      "title": "Fault Finding & Diagnostics",
+      "desc": "Intermittent electrical issues or blown circuits? We trace the root cause using proper testing equipment and explain what needs fixing."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Old wiring causing problems? We replace the lot to modern standards, often in 3\u20135 days, with minimal disruption to your home."
+    },
+    {
+      "title": "New Installations & Upgrades",
+      "desc": "Installing EV chargers, new circuits, or consumer units? We design and fit safe, compliant systems that meet Building Regulations."
+    },
+    {
+      "title": "Commercial & Industrial Work",
+      "desc": "Shops, offices, and workshops need reliable electrics. We undertake maintenance, repairs, and new installations with minimal downtime."
+    },
+    {
+      "title": "Periodic Testing & Certification",
+      "desc": "Landlords and businesses need proof your electrics are safe. We test your installation and provide full compliance certificates."
+    }
+  ],
+  "about_pullquote": "I started this business because I wanted to do the job properly and charge fairly.",
+  "about_para_1": "Ryan Holden Electrical was founded on a simple principle: show up on time, do the work right first time, and be honest about what you need. For over 15 years we've built a reputation across Leeds for reliable, no-nonsense electrical work. We're NICEIC registered and continuously trained, so you can trust that your electrics are in safe hands.",
+  "about_para_2": "Most of our work comes from repeat customers and referrals \u2014 that's how we know we're doing something right. Whether you need an emergency repair at midnight or a full rewire planned months ahead, we treat your home with the same respect we'd treat our own. We don't use apprentices unsupervised, we don't overcharge, and we explain what we're doing every step of the way.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Fully Registered"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "All Leeds",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a complete rewire done last month. Ryan was professional, tidy, and finished on schedule. He explained everything clearly and the quality of the work is outstanding. Really can't fault him. Will definitely recommend.",
+      "author": "David M.",
+      "loc": "Headingley, Leeds \u2014 January 2025"
+    },
+    {
+      "text": "Our kitchen electrics packed in on a Sunday evening. Called Ryan as a last resort and he was here within the hour. Turned out to be a faulty circuit breaker. He fixed it, wouldn't charge an extra call-out fee, and even showed me how to reset it safely. Legend.",
+      "author": "Patricia K.",
+      "loc": "Chapel Allerton, Leeds \u2014 December 2024"
+    },
+    {
+      "text": "Had Ryan install two EV chargers at our office. Very knowledgeable, minimal fuss, and the whole job was done in a day. Got the certificate we needed for the insurance. Proper job.",
+      "author": "James T.",
+      "loc": "City Centre, Leeds \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving all of Leeds and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Electrics playing up? We aim to respond within the hour, day or night. Call now \u2014",
+  "footer_description": "NICEIC registered electrician serving Leeds with emergency repairs, rewires, and new installations. Available 24/7 for callouts.",
+  "footer_copyright": "\u00a9 2026 Ryan Holden Electrical. Registered in England & Wales."
+}
