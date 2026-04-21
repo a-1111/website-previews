@@ -1,0 +1,107 @@
+{
+  "slug": "current-solutions-leeds-electrician",
+  "meta_title": "Current Solutions Leeds | Electrician Leeds",
+  "meta_description": "Current Solutions Leeds is your local electrician in Leeds. Domestic and commercial electrical work, repairs, and installations. Call 07775 311353 for a quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Qualified Local Electrician \u2014 Fast, Reliable Repairs",
+  "hero_headline": "Trusted Electrician",
+  "hero_highlight": "in Leeds",
+  "hero_subhead": "From rewiring to fault-finding, we handle domestic and commercial electrical work. Same-day appointments available across Leeds.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in business"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 2 hours",
+      "label": "Average response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer satisfaction"
+    }
+  ],
+  "services_heading": "Electrical Services Across Leeds",
+  "services_subhead": "Whether it's an emergency repair, a full rewire, or new installation work, we've got the skills and experience to get the job done right.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, flickering lights, tripped electrics \u2014 we diagnose and fix faults fast. Most calls attended same day, any time."
+    },
+    {
+      "title": "House Rewiring",
+      "desc": "Complete rewires to modern standards, including consumer unit upgrades and new socket circuits. Full testing and certification included."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "Electrical work for boiler installation, heating system upgrades, and underfloor heating. We work alongside heating engineers and plumbers."
+    },
+    {
+      "title": "Fault-Finding & Testing",
+      "desc": "Can't find the cause of an electrical problem? We use diagnostic equipment to pinpoint faults and cure them permanently."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Office rewires, kitchen upgrades, and industrial installations. Fully compliant with building regulations and HSE standards."
+    },
+    {
+      "title": "New Sockets, Switches & Lighting",
+      "desc": "Adding power points, upgrading lighting circuits, or installing dimmers and smart switches. We install exactly where you need them."
+    }
+  ],
+  "about_pullquote": "We fix electrical problems properly, not just patch them over.",
+  "about_para_1": "Current Solutions Leeds has been serving homes and businesses across the city for over 15 years. We started with a simple mission: provide honest, affordable electrical work without the inflated bills or jargon. Today we've completed over 2,000 jobs, from emergency call-outs to major rewires, and we've built our reputation on turning up on time and finishing right.",
+  "about_para_2": "Our customers trust us because we explain the work clearly, quote fairly, and get it done properly the first time. We're fully qualified, insured, and we test and certify everything we install. Whether you're a homeowner needing a faulty outlet replaced or a business planning a major electrical upgrade, you'll get the same honest service.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years trading"
+    },
+    {
+      "num": "2000+",
+      "label": "Satisfied customers"
+    },
+    {
+      "num": "Leeds-wide",
+      "label": "Service coverage"
+    },
+    {
+      "num": "Same-day",
+      "label": "Emergency response"
+    }
+  ],
+  "reviews_heading": "What Leeds Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a fault with my electrics that was causing lights to flicker. Called Current Solutions on a Friday morning and they had someone round by that afternoon. Turned out to be a loose connection in the consumer unit \u2014 fixed it in twenty minutes. Very professional, explained everything clearly. Would definitely recommend.",
+      "author": "Michael T.",
+      "loc": "Harehills, Leeds \u2014 November 2024"
+    },
+    {
+      "text": "We needed our office rewired after the fire safety audit. Got a quote from Current Solutions and they were competitive and honest. Work was done on schedule, minimal disruption, and the team were tidy and polite. They tested everything properly and gave us the certification we needed. Top work.",
+      "author": "Emma L.",
+      "loc": "City Centre, Leeds \u2014 August 2024"
+    },
+    {
+      "text": "Electrical emergency on Christmas Eve \u2014 my boiler had lost power and we were in the cold. Called around frantically and Current Solutions picked up and came out within the hour. Diagnosed a tripped breaker and a loose connection. Saved our Christmas. Can't praise them enough.",
+      "author": "David W.",
+      "loc": "Meanwood, Leeds \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Leeds and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency call-out line always available",
+  "emergency_banner_text": "Electrical emergency? We aim to be with you within 2 hours, any time of day or night. Call now \u2014",
+  "footer_description": "Current Solutions Leeds: qualified electrician offering domestic and commercial electrical repairs, rewires, and installations across Leeds. Fast, honest, reliable.",
+  "footer_copyright": "\u00a9 2026 Current Solutions Leeds. All rights reserved."
+}
