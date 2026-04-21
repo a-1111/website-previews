@@ -1,0 +1,107 @@
+{
+  "slug": "barrett-electrical-services-sheffield",
+  "meta_title": "Barrett Electrical Services | Electrician Sheffield",
+  "meta_description": "Barrett Electrical Services Ltd in Sheffield. NICEIC-approved electrician for domestic rewires, fault-finding, and emergency repairs. Call 07852 508287 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Certified \u2014 Emergency Call-Outs Available",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault at home or business? We diagnose and fix problems fast, with same-day appointments available across Sheffield.",
+  "badge_4": "Same-Day Service",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience in Sheffield"
+    },
+    {
+      "num": "1000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 2hrs",
+      "label": "Average Response Time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Sheffield",
+  "services_subhead": "From emergency repairs and fault-finding to new installations and full rewires, we handle every type of electrical work for homes and businesses.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Trip switches, blown fuses, dead sockets, or complete outages? We attend urgent call-outs and get your power back on safely. Available 24/7."
+    },
+    {
+      "title": "Fault-Finding & Diagnostics",
+      "desc": "Intermittent faults, burning smells, or safety concerns? We use professional testing equipment to pinpoint the problem and fix it right, first time."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Older wiring? We replace outdated installations with modern, safe systems that meet Building Regulations. Includes new consumer unit and certification."
+    },
+    {
+      "title": "Boiler & Heating Controls",
+      "desc": "Electric boiler installation, thermostat upgrades, and heating system wiring. We ensure efficient, reliable heat and hot water all year round."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace old fuse boxes with modern RCD-protected consumer units. Improves safety, increases capacity, and passes regulations for insurance and resale."
+    },
+    {
+      "title": "Commercial & Industrial Wiring",
+      "desc": "New shop fit-outs, office rewires, and factory electrical work. We manage complex installations with minimal downtime and full compliance."
+    }
+  ],
+  "about_pullquote": "I started Barrett Electrical because I saw too many cowboys charging too much for dodgy work.",
+  "about_para_1": "Barrett Electrical Services was founded in 2006 in Sheffield with one aim: honest, straightforward electrical work at a fair price. Over 18 years, we've built our reputation on turning up on time, diagnosing faults correctly, and finishing jobs properly \u2014 the first time. We're NICEIC-approved and carry full public liability insurance for every job, whether it's a leaky socket in a terraced house or a complete commercial rewire.",
+  "about_para_2": "Our customers come back to us because we explain what's wrong in plain English, never oversell, and charge what we quote. We've completed over 1,000 jobs across Sheffield and the surrounding areas \u2014 everything from emergency repairs to full house rewires and new installations. Whether you're a homeowner, landlord, or business, you get the same reliable service and personal attention.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading in Sheffield"
+    },
+    {
+      "num": "1000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "NICEIC Approved",
+      "label": "Qualified & Certified"
+    },
+    {
+      "num": "All of Sheffield",
+      "label": "Areas Covered"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners & Businesses Say",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Had a nightmare with my electrics \u2014 kept tripping switches and didn't know where to start. Called Barrett and they came out the next morning. Phil diagnosed the problem in minutes, replaced a faulty circuit breaker, and had me sorted by lunchtime. Gave me a very fair quote and did exactly what he said. Would recommend without hesitation.",
+      "author": "Michael T.",
+      "loc": "Crookes, Sheffield \u2014 February 2025"
+    },
+    {
+      "text": "We're a small caf\u00e9 in town and needed rewiring work done without closing down for weeks. Barrett Electrical came in, planned it brilliantly, and worked evenings to minimise disruption. Friendly, professional, and they left the place spotless. Our electrics are now up to standard and they've saved us money on our next insurance renewal.",
+      "author": "Amelia S.",
+      "loc": "City Centre, Sheffield \u2014 December 2024"
+    },
+    {
+      "text": "Emergency call-out on a Sunday evening \u2014 thought I'd be charged a fortune. Not at all. The engineer arrived in under two hours, found a loose terminal that was causing a burning smell, tightened it and made sure everything was safe. Told me what would have happened if we'd left it. Honest, competent, and quick. They've got my number for next time.",
+      "author": "James P.",
+      "loc": "Ecclesall, Sheffield \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving all of Sheffield and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Electrical emergency in Sheffield? We aim to be with you in under two hours, 24/7. Call now \u2014",
+  "footer_description": "NICEIC-approved electrician serving Sheffield for 18 years. Emergency repairs, rewires, fault-finding, and commercial installations \u2014 honest pricing, same-day service.",
+  "footer_copyright": "\u00a9 2026 Barrett Electrical Services Ltd. Registered in England & Wales."
+}
