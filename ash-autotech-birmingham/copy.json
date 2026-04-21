@@ -1,0 +1,107 @@
+{
+  "slug": "ash-autotech-birmingham",
+  "meta_title": "Ash Autotech | Mobile Mechanic Birmingham",
+  "meta_description": "Ash Autotech is a mobile mechanic and electrician serving Birmingham. We come to you for fast, honest vehicle repairs and electrical diagnostics.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Mobile Mechanic \u2014 We Come to You",
+  "hero_headline": "Car Trouble in",
+  "hero_highlight": "Birmingham?",
+  "hero_subhead": "Ash Autotech brings professional diagnostics and repairs to your driveway. No garage delays, no excessive markups.",
+  "badge_4": "Same-Day Repairs Available",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Hands-on Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Vehicles Serviced"
+    },
+    {
+      "num": "30min",
+      "label": "Average Call-Out Time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Satisfaction"
+    }
+  ],
+  "services_heading": "Mobile Mechanic Services Across Birmingham",
+  "services_subhead": "From routine maintenance to complex electrical faults, Ash Autotech diagnoses and fixes your car at home or work.",
+  "services": [
+    {
+      "title": "Engine Diagnostics & Repair",
+      "desc": "Computer-aided fault-finding and repair for all makes. Most issues identified and resolved on the first visit, saving you time and money."
+    },
+    {
+      "title": "Vehicle Electrical Work",
+      "desc": "Alternators, starter motors, battery issues, and wiring faults diagnosed and fixed with modern test equipment. Specialists in modern vehicle electrics."
+    },
+    {
+      "title": "Brake & Suspension Repairs",
+      "desc": "Pads, discs, calipers, shock absorbers, and suspension geometry work. We carry common parts on the van for faster turnaround."
+    },
+    {
+      "title": "MOT Preparation & Repairs",
+      "desc": "Pre-MOT checks and repairs to ensure your vehicle passes first time. Honest advice on what needs fixing and what can wait."
+    },
+    {
+      "title": "Routine Servicing & Maintenance",
+      "desc": "Oil changes, filter replacements, fluid top-ups, and seasonal checks. Extends vehicle life and prevents costly breakdowns."
+    },
+    {
+      "title": "Air Conditioning & Cooling System Work",
+      "desc": "AC regas, condenser repairs, radiator flushes, and coolant diagnostics. Keeps your car running cool and reliably."
+    }
+  ],
+  "about_pullquote": "I started this because people were paying through the nose for simple jobs.",
+  "about_para_1": "Ash Autotech was born from frustration \u2014 seeing friends and neighbours overcharged for straightforward vehicle repairs. With 12 years of hands-on experience under my belt, I decided to offer Birmingham a better alternative: honest, skilled mobile mechanics who come to you. No inflated garage forecourt prices, no pressure to fix things that don't need fixing.",
+  "about_para_2": "We've built a strong reputation on transparency and reliability. Customers return because we explain what we find, quote fairly, and get the job done right first time. Whether you're in King's Heath, Edgbaston, or across Greater Birmingham, Ash Autotech brings workshop-standard diagnostics and repair skill directly to your driveway.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "Professional Mechanic"
+    },
+    {
+      "num": "500+",
+      "label": "Vehicles Repaired"
+    },
+    {
+      "num": "95%",
+      "label": "First-Time Fix Rate"
+    },
+    {
+      "num": "Greater Birmingham",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Birmingham Car Owners Say",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Ash came out on a Saturday morning when my car wouldn't start. Diagnosed a faulty alternator, had a replacement fitted in under two hours. Charged me a fair price and even explained what caused the fault. Best mechanic I've found in Birmingham.",
+      "author": "Michael T.",
+      "loc": "Edgbaston, Birmingham \u2014 February 2025"
+    },
+    {
+      "text": "No more garage visits for me. Ash is brilliant \u2014 turns up on time, knows what he's doing, and doesn't try to sell you work you don't need. My Mrs won't go anywhere else now. Proper honest tradesman.",
+      "author": "David K.",
+      "loc": "King's Heath, Birmingham \u2014 January 2025"
+    },
+    {
+      "text": "Called Ash about a warning light on the dashboard. He came round, plugged in his diagnostic kit, and found the issue in minutes. Fixed it for a fraction of what Halfords quoted me. Definitely recommend him to anyone with car trouble.",
+      "author": "Sarah P.",
+      "loc": "Harborne, Birmingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving King's Heath, Edgbaston, Harborne, and all of Greater Birmingham",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency repairs by arrangement",
+  "emergency_banner_text": "Car broken down or won't start? Ash Autotech often attends same day. Call now \u2014",
+  "footer_description": "Ash Autotech is a mobile mechanic and electrician serving Birmingham. Honest diagnostics, fair prices, and expert repairs brought to your driveway.",
+  "footer_copyright": "\u00a9 2026 Ash Autotech. Mobile Mechanic, Birmingham."
+}
