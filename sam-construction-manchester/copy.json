@@ -1,0 +1,108 @@
+{
+  "slug": "sam-construction-manchester",
+  "meta_title": "SAM Construction | Garden Design & Landscaping Manchester",
+  "meta_description": "SAM Construction brings your Manchester garden to life. Expert landscaping, garden design and maintenance. Free quotes. Call 07471 291964.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00",
+    "Su 10:00-16:00"
+  ],
+  "hero_eyebrow": "Expert Landscaping & Garden Design \u2014 Levenshulme Based",
+  "hero_headline": "Transform Your Manchester",
+  "hero_highlight": "Garden Today",
+  "hero_subhead": "From overgrown borders to stunning outdoor spaces \u2014 we design and build gardens that work for your lifestyle.",
+  "badge_4": "Free Site Visits & Quotes",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "450+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "98%",
+      "label": "Would Recommend"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Manchester",
+  "services_subhead": "Whether you need a full garden redesign or regular maintenance, we've got the skills and expertise to bring your vision to life.",
+  "services": [
+    {
+      "title": "Garden Design & Planning",
+      "desc": "Bespoke designs tailored to your budget and space. We create detailed plans, source materials, and guide you through every step of the build."
+    },
+    {
+      "title": "Landscaping & Groundworks",
+      "desc": "Patios, decking, raised beds, and retaining walls. We handle levelling, drainage, and construction to create a solid foundation for your garden."
+    },
+    {
+      "title": "Planting & Soft Landscaping",
+      "desc": "Expert plant selection, borders, hedging, and turf laying. We choose plants suited to Manchester's climate and your maintenance preferences."
+    },
+    {
+      "title": "Fencing & Boundaries",
+      "desc": "Strong, attractive fencing and gates that define your space and increase privacy. All materials sourced and installed to last."
+    },
+    {
+      "title": "Garden Maintenance & Clearance",
+      "desc": "Regular upkeep, seasonal tidying, and overgrown garden clearance. Keep your outdoor space looking immaculate year-round."
+    },
+    {
+      "title": "Water Features & Lighting",
+      "desc": "Ponds, fountains, outdoor lighting, and electrics installed safely. Add atmosphere and usability to your garden after dark."
+    }
+  ],
+  "about_pullquote": "I build gardens people actually want to spend time in.",
+  "about_para_1": "SAM Construction has been transforming Levenshulme and Manchester gardens for over a decade. We started because we saw a gap: too many garden firms promising the earth but delivering mediocre results. From the first site visit to the final plant, we manage every detail so you don't have to.",
+  "about_para_2": "Our customers return to us because we listen, deliver on time, and take genuine pride in our work. We're not cowboys: we're a trusted, local team that treats every garden like it's our own. Whether it's a weekend refresh or a total redesign, we bring experience, creativity, and practical know-how to every project.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "15",
+      "label": "Team Members"
+    },
+    {
+      "num": "95%",
+      "label": "Customer Retention"
+    },
+    {
+      "num": "Greater Manchester",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Manchester Homeowners Say About SAM Construction",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "We had an absolute tip of a garden when we moved in. Sam and the lads came in, cleared everything, built a new patio, and laid turf. Three weeks start to finish. Now it's our favourite room in the house. Really reasonable price too.",
+      "author": "Michael T.",
+      "loc": "Levenshulme, Manchester \u2014 November 2024"
+    },
+    {
+      "text": "Couldn't recommend SAM Construction highly enough. They listened to what we wanted, showed us design options, and the workmanship was brilliant. The garden looks like something from a magazine. Professional and friendly throughout.",
+      "author": "Emma K.",
+      "loc": "Didsbury, Manchester \u2014 September 2024"
+    },
+    {
+      "text": "Got a quote off three firms. Sam was the only one who actually explained what he was doing and why. Didn't oversell us anything we didn't need. Finished ahead of schedule. They're proper tradesmen.",
+      "author": "David R.",
+      "loc": "Stockport \u2014 July 2024"
+    }
+  ],
+  "address_sub": "Based in Levenshulme, serving all of Greater Manchester",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Sun: 10am \u2013 4pm \u2022 Call for emergency works",
+  "emergency_banner_text": "Need a garden urgent clearance or emergency repair? We can usually fit you in within 48 hours. Call now \u2014",
+  "footer_description": "SAM Construction \u2014 expert garden design and landscaping in Manchester. Free quotes, 12+ years' experience, trusted local team.",
+  "footer_copyright": "\u00a9 2026 SAM Construction. All rights reserved."
+}
