@@ -1,0 +1,107 @@
+{
+  "slug": "power-plus-electrical-services-birmingham",
+  "meta_title": "Power Plus Electrical | Electrician Birmingham",
+  "meta_description": "Power Plus Electrical Services Ltd in Birmingham. NICEIC-approved electrician offering domestic rewires, fault finding, and emergency callouts. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Fully Qualified \u2014 Emergency Call-Outs Available",
+  "hero_headline": "Birmingham's Trusted",
+  "hero_highlight": "Electrician",
+  "hero_subhead": "Faulty electrics, tripped circuits, or complete rewires in Birmingham. We arrive promptly and fix the problem right.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading since 2008"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Electrical Services Across Birmingham",
+  "services_subhead": "From emergency repairs to full property rewires, we handle all domestic and small commercial electrical work.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Tripped circuits, dead sockets, or flickering lights? We diagnose and repair faults same day, often within the hour of your call."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Rewiring an older property cuts fire risk and boosts resale value. We work methodically to minimise disruption and complete on schedule."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Unsure what's causing your electrical issues? We use diagnostic testing to pinpoint faults accurately before any work begins."
+    },
+    {
+      "title": "Fusebox & Consumer Unit Upgrades",
+      "desc": "Upgrade to a modern consumer unit with RCD protection. Safer, more efficient, and often improves your home insurance premiums."
+    },
+    {
+      "title": "New Circuits & Socket Installation",
+      "desc": "Adding extra circuits, sockets, or USB outlets? We route cables neatly and install to current building regulations."
+    },
+    {
+      "title": "Periodic Electrical Testing (EICR)",
+      "desc": "Annual safety inspections for landlords and older properties. We issue a full test certificate and flag any remedial work needed."
+    }
+  ],
+  "about_pullquote": "We treat every job like it's our own home \u2014 no cutting corners, no surprises.",
+  "about_para_1": "Power Plus Electrical Services was founded in 2008 with one aim: to provide honest, skilled electrical work at fair prices. We've grown to complete over 2,400 jobs across Birmingham and the surrounding areas. Every member of our team is fully qualified and insured, and we pride ourselves on arriving promptly and getting the job done right the first time.",
+  "about_para_2": "Our customers return to us because we're reliable, transparent, and friendly. We don't use scare tactics or recommend unnecessary work \u2014 we fix what's broken and leave your home safer. Whether it's a midnight emergency or a planned rewire, you'll find us straightforward, professional, and genuinely interested in solving your problem.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years in business"
+    },
+    {
+      "num": "2,400+",
+      "label": "Domestic & commercial jobs"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat & referred customers"
+    },
+    {
+      "num": "Birmingham & 10-mile radius",
+      "label": "Service area"
+    }
+  ],
+  "reviews_heading": "What Birmingham Customers Say",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Had a complete rewire done last year and they were brilliant from start to finish. No mess, worked around our schedules, and everything's been faultless since. Highly recommend.",
+      "author": "David P.",
+      "loc": "Harborne, Birmingham \u2014 November 2024"
+    },
+    {
+      "text": "Called them out at 10pm on a Sunday when we had no power downstairs. They came within 45 minutes, tracked down a faulty circuit breaker, and had us back on within an hour. Fantastic service.",
+      "author": "Michelle T.",
+      "loc": "Kings Heath, Birmingham \u2014 January 2025"
+    },
+    {
+      "text": "Really professional and friendly. Got a free quote for adding some extra sockets and they explained everything clearly without any pressure. Fair pricing too. Will definitely use again.",
+      "author": "Robert M.",
+      "loc": "Edgbaston, Birmingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Birmingham and surrounding areas within a 10-mile radius",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Electrics on the fritz? We respond to emergencies across Birmingham within the hour. Ring us now \u2014",
+  "footer_description": "Power Plus Electrical Services Ltd. Fully qualified electricians in Birmingham offering rewires, repairs, and emergency callouts. Free quotes and same-day service.",
+  "footer_copyright": "\u00a9 2026 Power Plus Electrical Services Ltd. Registered in England & Wales."
+}
