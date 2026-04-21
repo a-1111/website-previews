@@ -1,0 +1,107 @@
+{
+  "slug": "harrys-gardening-service-liverpool",
+  "meta_title": "Harry's Gardening Service | Gardener Liverpool",
+  "meta_description": "Harry's Gardening Service in Liverpool. Professional garden maintenance, landscaping, and seasonal care. Local, reliable, friendly service. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Local Liverpool Gardener \u2014 15+ Years Experience",
+  "hero_headline": "Your Garden",
+  "hero_highlight": "Transformed & Maintained",
+  "hero_subhead": "Expert garden care in Liverpool \u2014 from overgrown borders to beautiful outdoor spaces that add real value to your home.",
+  "badge_4": "Same-Week Service",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "1000+",
+      "label": "Gardens Cared For"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "All Areas",
+      "label": "Liverpool & Wirral"
+    }
+  ],
+  "services_heading": "Complete Garden Care Services Across Liverpool",
+  "services_subhead": "From one-off tidy-ups to year-round maintenance, we handle everything your garden needs.",
+  "services": [
+    {
+      "title": "Regular Garden Maintenance",
+      "desc": "Weekly or fortnightly cuts, hedge trimming, and border care to keep your garden looking sharp all year. We work around your schedule and handle the lot \u2014 you just enjoy the space."
+    },
+    {
+      "title": "Overgrown Garden Clearance",
+      "desc": "Reclaim that wilderness. We clear brambles, dead wood, and years of neglect safely and responsibly. Waste is disposed of properly, and we leave you with a blank canvas to work with."
+    },
+    {
+      "title": "Landscaping & Garden Design",
+      "desc": "New borders, pathways, raised beds, and planting schemes tailored to your space and lifestyle. We listen to what you want and create gardens that actually work."
+    },
+    {
+      "title": "Lawn Care & Treatment",
+      "desc": "Scarifying, aeration, seeding, and seasonal treatments for a thick, healthy lawn. A good lawn transforms the whole garden \u2014 we'll get yours there."
+    },
+    {
+      "title": "Seasonal Work & Pruning",
+      "desc": "Winter tree work, autumn leaf clearance, spring planting, and expert pruning of shrubs and fruit trees. Every season brings different tasks \u2014 we've got them covered."
+    },
+    {
+      "title": "Garden Tidy-Ups & Spring Clean",
+      "desc": "One-off blitzes to refresh your space \u2014 perfect after winter or before guests arrive. Fast, efficient, and thorough."
+    }
+  ],
+  "about_pullquote": "I started out because I loved gardens and hated seeing them neglected.",
+  "about_para_1": "I'm Harry, and I've been gardening professionally in Liverpool for over 15 years. I started this business because I was tired of watching neighbours' beautiful gardens fall into disrepair. Now I look after everything from small city plots to larger suburban spaces \u2014 and every garden gets the same care and attention.",
+  "about_para_2": "Customers come back to us because we're reliable, we turn up when we say we will, and we genuinely care about the work. I'm not just cutting grass \u2014 I'm helping you create an outdoor space you actually want to spend time in. No jargon, no upselling, just honest gardening done well.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "1000+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat & Referral"
+    },
+    {
+      "num": "Liverpool & Wirral",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Liverpool Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Harry's been maintaining our garden for three years now. He's reliable, fair-priced, and genuinely knows his plants. We used to dread the spring tidy-up \u2014 now it's one less thing to worry about. Highly recommend.",
+      "author": "Margaret T.",
+      "loc": "Aigburth, Liverpool \u2014 February 2025"
+    },
+    {
+      "text": "Cleared an absolute jungle of a back garden in one day. Harry was professional, efficient, and left the place spotless. He even gave us advice on what to plant next without trying to charge extra. Top bloke.",
+      "author": "David P.",
+      "loc": "Woolton, Liverpool \u2014 November 2024"
+    },
+    {
+      "text": "Called Harry on a Friday for an overgrown borders job we needed done urgently before a party. He fitted us in the following Tuesday and did a beautiful job. The garden looks completely different. Will definitely be using him again.",
+      "author": "Rachel K.",
+      "loc": "Mossley Hill, Liverpool \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Liverpool and Wirral",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Flexible scheduling available",
+  "emergency_banner_text": "Garden needs urgent attention? We offer fast same-week scheduling for clearance and tidy-ups. Ring now \u2014",
+  "footer_description": "Harry's Gardening Service in Liverpool. Expert garden maintenance, landscaping, and seasonal care. Professional, reliable, local.",
+  "footer_copyright": "\u00a9 2026 Harry's Gardening Service. All rights reserved."
+}
