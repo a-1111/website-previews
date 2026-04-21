@@ -1,0 +1,107 @@
+{
+  "slug": "steel-city-electrics-sheffield",
+  "meta_title": "Steel City Electrics | Electrician Sheffield",
+  "meta_description": "Steel City Electrics Ltd in Sheffield \u2014 trusted local electrician for installations, repairs and maintenance. NICEIC registered. Call us today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Fast, Reliable Electrical Work",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty socket or complete rewire \u2014 we diagnose and fix electrical problems fast, with honest pricing and no hidden charges.",
+  "badge_4": "Same-Day Appointments Available",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "1000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average response time"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Sheffield",
+  "services_subhead": "From emergency repairs to full house rewires, we handle domestic and small commercial electrical work with professionalism and care.",
+  "services": [
+    {
+      "title": "Emergency Repairs",
+      "desc": "Blown fuses, faulty sockets, and tripped electrics fixed fast. We carry common parts on the van and aim to diagnose most problems on your first visit."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Outdated wiring puts your home at risk. We survey, quote, and install modern safe systems with minimal disruption \u2014 all work certified and guaranteed."
+    },
+    {
+      "title": "Boiler & Heating Controls",
+      "desc": "Expert installation and repair of electric heating systems, immersion heaters, and smart controls to cut running costs and improve comfort."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Intermittent faults, persistent tripping, or electrical safety concerns. We use diagnostic equipment to pinpoint the problem and explain the fix clearly."
+    },
+    {
+      "title": "New Circuits & Additions",
+      "desc": "Adding a socket for the kitchen, wiring a shed, or installing a dedicated circuit for a home office \u2014 done to current Building Regs and tested."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Old fuse boxes replaced with modern circuit breaker units, improving safety and making it easier to isolate individual circuits when needed."
+    }
+  ],
+  "about_pullquote": "I started this because I got tired of seeing local folk overcharged for simple electrical work.",
+  "about_para_1": "Steel City Electrics was founded 18 years ago by a tradesman who believed Sheffield deserved honest, straightforward electrical work at fair prices. We've grown from a one-man operation to a small, trusted team, but we've never lost sight of that principle. Every job \u2014 whether a rewire or a single socket \u2014 gets the same care and attention to detail.",
+  "about_para_2": "Our customers come back because we turn up on time, explain what's wrong in plain language, and charge what the work is actually worth. We hold NICEIC registration, follow current Building Regulations, and test everything we install. If you're local to Sheffield, you'll find us reliable, friendly, and quick.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years in business"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Registered & certified"
+    },
+    {
+      "num": "95%",
+      "label": "Customer retention"
+    },
+    {
+      "num": "All of Sheffield",
+      "label": "Service coverage"
+    }
+  ],
+  "reviews_heading": "What Sheffield Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had an issue with sparking sockets in my Victorian terrace. Got a call within an hour, Matt came round and sorted it all. Turns out the whole circuit was dodgy \u2014 he explained it without the jargon and the price was spot on. Wouldn't go anywhere else now.",
+      "author": "David M.",
+      "loc": "Crookes, Sheffield \u2014 September 2024"
+    },
+    {
+      "text": "Full rewire on a three-bed semi. A bit daunting, but the team made it stress-free. Minimal mess, they tidied up daily, and the work was finished a day early. Best part? We've had no problems since and the new electrics are dead silent. Brilliant blokes.",
+      "author": "Angela K.",
+      "loc": "Ecclesall, Sheffield \u2014 June 2024"
+    },
+    {
+      "text": "Emergency call on a Saturday evening \u2014 fuse box was playing up and we were worried it wasn't safe. They picked up immediately, came out within the hour, diagnosed a faulty breaker, and we were sorted by bedtime. Not cheap, but definitely worth it for the peace of mind.",
+      "author": "Robert T.",
+      "loc": "Dore, Sheffield \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving all of Sheffield and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency call-outs available outside hours",
+  "emergency_banner_text": "Electrical emergency in Sheffield? We aim to respond to urgent calls within an hour. Ring us now \u2014",
+  "footer_description": "Steel City Electrics is a trusted, NICEIC-registered electrician in Sheffield. We handle repairs, rewires, and installations with honesty and care.",
+  "footer_copyright": "\u00a9 2026 Steel City Electrics Ltd. Registered in England & Wales."
+}
