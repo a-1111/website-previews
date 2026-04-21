@@ -1,0 +1,107 @@
+{
+  "slug": "leeds-handyman-services",
+  "meta_title": "Leeds Handyman Services | Local Handyman Leeds",
+  "meta_description": "Leeds Handyman Services offers reliable repairs, maintenance and odd jobs across Leeds. Same-day callouts available. Call 07976 072984 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Trusted Local Handyman \u2014 Fixed-Price Jobs, No Hidden Costs",
+  "hero_headline": "Your Leeds Handyman",
+  "hero_highlight": "For Any Job",
+  "hero_subhead": "Leaky taps, loose shelves, or dodgy electrics? We fix it right, on time, at a fair price.",
+  "badge_4": "Same-Day Callouts",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading in Leeds"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "<2hrs",
+      "label": "Average Response"
+    }
+  ],
+  "services_heading": "Handyman Services Across Leeds",
+  "services_subhead": "From emergency repairs to home improvements, we handle the jobs other trades won't touch.",
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "desc": "Burst pipes, leaking radiators, and stuck valves fixed fast. We carry common parts and most jobs are resolved same day."
+    },
+    {
+      "title": "Shelving & Wall Mounting",
+      "desc": "Secure shelves, TV brackets, and mirrors fitted level and safe. We use the right fixings for your wall type \u2014 no damage or comebacks."
+    },
+    {
+      "title": "Decorating & Painting",
+      "desc": "Interior painting, wallpaper hanging, and prep work done cleanly. We protect your furniture and leave sites spotless."
+    },
+    {
+      "title": "Door & Lock Repairs",
+      "desc": "Stuck doors, creaky hinges, and broken locks sorted quickly. We also fit new locks and handles to your specification."
+    },
+    {
+      "title": "Carpentry & Joinery",
+      "desc": "Loose floorboards, damaged skirting, and warped doors repaired or replaced. Bespoke work welcome \u2014 from coat racks to kitchen cupboards."
+    },
+    {
+      "title": "General Home Maintenance",
+      "desc": "Dripping taps, loose bannisters, blocked gutters, and creaky stairs all handled. Preventive work that saves you money down the line."
+    }
+  ],
+  "about_pullquote": "I started out because I hated waiting a week for a five-minute job.",
+  "about_para_1": "Leeds Handyman Services was founded in 2006 on a simple idea: homeowners shouldn't have to book three trades and wait three weeks for small repairs. Based in Yeadon, we've built our reputation on turning up on time, fixing the job right, and charging a fair fixed price. Over eighteen years we've completed more than 2,000 jobs across Leeds \u2014 from emergency plumbing to carpentry \u2014 and we've never had a customer wait more than two hours.",
+  "about_para_2": "Our customers come back because we listen, we don't oversell, and we treat your home with respect. We don't employ a call centre or pass jobs to contractors \u2014 you get the same experienced handyperson every time. Repeat work makes up 40% of our business, and we're insured, vetted, and CHAS-registered for complete peace of mind.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "40%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "Fixed Price",
+      "label": "Transparent Quotes"
+    },
+    {
+      "num": "Fully Insured",
+      "label": "Public Liability"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a nightmare with a leaking radiator before Christmas. Dave came out the same evening and had it sorted in 45 minutes. Fair price, no mess, brilliant bloke. Will definitely use again.",
+      "author": "Margaret T.",
+      "loc": "Bramley, Leeds \u2014 December 2024"
+    },
+    {
+      "text": "Needed some shelves put up properly in the kitchen. Came out next morning, found the studs, fitted them level and secure. Finished in an hour and left the place clean. Top job.",
+      "author": "James H.",
+      "loc": "Horsforth, Leeds \u2014 September 2024"
+    },
+    {
+      "text": "Called about a stuck door at half eight in the morning \u2014 they were here by ten. Rehung it, sorted the hinges, and it moves like new. No faffing about. Would recommend to anyone.",
+      "author": "Sandra K.",
+      "loc": "Meanwood, Leeds \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving Leeds and surrounding areas \u2014 Yeadon, Bramley, Horsforth, Meanwood",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Plumbing emergency or urgent repair needed? We aim to be with you within two hours. Call now \u2014",
+  "footer_description": "Leeds Handyman Services provides reliable repairs, maintenance, and home improvements across Leeds. 18 years of trusted, fixed-price work.",
+  "footer_copyright": "\u00a9 2026 Leeds Handyman Services. Registered in England & Wales."
+}
