@@ -1,0 +1,107 @@
+{
+  "slug": "downes-home-maintenance-leeds",
+  "meta_title": "Downes Home Maintenance | Handyman Leeds",
+  "meta_description": "Downes Home Maintenance in Leeds. Reliable local handyperson for repairs, maintenance and home improvements. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Local Handyperson \u2014 No Job Too Small",
+  "hero_headline": "Trusted Home Maintenance",
+  "hero_highlight": "in Leeds",
+  "hero_subhead": "From leaky taps to shelving, garden gates to drywall\u2014one call fixes it all without the wait.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years trading"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "Under 48hrs",
+      "label": "Typical response"
+    }
+  ],
+  "services_heading": "Complete Home Maintenance Services Across Leeds",
+  "services_subhead": "Whether it's a quick repair or a larger project, we handle interior and exterior work with care and efficiency.",
+  "services": [
+    {
+      "title": "Plumbing Repairs",
+      "desc": "Fix dripping taps, leaking pipes, and radiator issues fast. We carry common parts and aim to complete most jobs in one visit."
+    },
+    {
+      "title": "Carpentry & Joinery",
+      "desc": "Install shelving, repair doors, build decking, and hang cabinets. Bespoke work tailored to your space and style."
+    },
+    {
+      "title": "Drywall & Plastering",
+      "desc": "Patch walls, install stud partitions, and finish plasterboard to a smooth, professional standard ready for decoration."
+    },
+    {
+      "title": "Painting & Decorating",
+      "desc": "Interior and exterior painting, wallpapering, and minor decoration. We prep surfaces properly for a long-lasting finish."
+    },
+    {
+      "title": "Garden & Outdoor Work",
+      "desc": "Repair fencing, hang gates, tidy borders, and tackle outdoor repairs. Keep your garden safe and looking good year-round."
+    },
+    {
+      "title": "General Maintenance",
+      "desc": "Guttering, downpipes, skirting board repairs, and odd jobs around the home. No task too small or awkward."
+    }
+  ],
+  "about_pullquote": "I treat every job as if the home were my own\u2014honest pricing, proper finish.",
+  "about_para_1": "Downes Home Maintenance was founded on frustration with cowboys and overpricing. After years working on building sites and residential properties across Leeds, I decided to set up independently and deliver real value to homeowners who need a reliable pair of hands. Whether you need a single repair or ongoing maintenance, we're here to help.",
+  "about_para_2": "Repeat customers make up most of our work\u2014that's because we listen, we turn up on time, and we price fairly. We're not chasing every massive contract; we're focused on doing quality work in our local community and building relationships that last.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in the trade"
+    },
+    {
+      "num": "2,000+",
+      "label": "Homes maintained"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "All Leeds areas",
+      "label": "Coverage"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Called Downes on a Saturday morning with a burst pipe under the kitchen sink. He was here within two hours, sorted it, and the price was more than fair. No faffing about, just got the job done properly. Will definitely call again.",
+      "author": "Michael T.",
+      "loc": "Headingley, Leeds \u2014 November 2024"
+    },
+    {
+      "text": "Had him install a full shelf system in my lounge and paint the whole room. Work was immaculate, he protected everything, and he cleaned up after himself. Punctual, polite, and a real craftsman. Highly recommend.",
+      "author": "Louise M.",
+      "loc": "Meanwood, Leeds \u2014 September 2024"
+    },
+    {
+      "text": "Our garden gate was rotting and he rebuilt it from scratch. Used good materials, finished it beautifully, and charged us less than the quote. It's holding up great. He's become our go-to for all odd jobs now.",
+      "author": "David H.",
+      "loc": "Bramley, Leeds \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving all areas of Leeds and surrounding districts",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency repairs by arrangement",
+  "emergency_banner_text": "Urgent repair needed? We respond quickly to emergencies like burst pipes and safety issues. Call now \u2014",
+  "footer_description": "Downes Home Maintenance is a trusted local handyperson in Leeds offering repairs, maintenance, and home improvements. Fair prices, reliable work, same-day service available.",
+  "footer_copyright": "\u00a9 2026 Downes Home Maintenance. All rights reserved."
+}
