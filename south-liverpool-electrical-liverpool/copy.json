@@ -1,0 +1,107 @@
+{
+  "slug": "south-liverpool-electrical-liverpool",
+  "meta_title": "South Liverpool Electrical | Electrician Liverpool",
+  "meta_description": "South Liverpool Electrical provides expert electrical installation and repair services across Liverpool. Fast, reliable, fully certified. Call 07765 133756 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Certified \u2014 Fast & Reliable Electrical Work",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From faulty sockets to complete rewires, we fix electrical problems fast and keep your home safe.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average Response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Liverpool",
+  "services_subhead": "Whether you need urgent repairs, new installations, or a full safety inspection, we've got you covered.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped electrics, or dead sockets? We diagnose and fix the problem on the same day, keeping your home running safely."
+    },
+    {
+      "title": "New Electrics & Rewires",
+      "desc": "Full house rewires and new installations to modern standards. We handle the planning, testing, and certification so you don't have to."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace outdated fuse boxes with modern consumer units. Safer, more efficient, and compliant with current regulations."
+    },
+    {
+      "title": "Lighting Installation",
+      "desc": "From spotlights and pendant lights to outdoor garden lighting. We design, install, and test everything to spec."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Intermittent faults and electrical niggles tracked down and fixed. EICR certificates issued so you know your home is safe."
+    },
+    {
+      "title": "Power & Socket Installation",
+      "desc": "Add new power sockets, USB outlets, and dedicated circuits for kitchens and bathrooms. Buried safely behind walls or surface-mounted to your preference."
+    }
+  ],
+  "about_pullquote": "I built this business on doing the job right, first time, every time.",
+  "about_para_1": "South Liverpool Electrical was founded in 2006 by a team committed to bringing honest, straightforward electrical work to South Liverpool and beyond. With nearly two decades in the trade, we've earned the trust of hundreds of local families and businesses by turning up on time, explaining what we're doing, and charging fair prices.",
+  "about_para_2": "We're NICEIC certified and pride ourselves on treating every customer like a neighbour\u2014because in Liverpool, we are. We don't use high-pressure sales tactics or hide behind jargon. Our repeat customers come back because they know we'll do a proper job, give them a realistic quote, and leave their home cleaner than when we arrived.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Local Experience"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Fully Certified"
+    },
+    {
+      "num": "All of Liverpool",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Liverpool Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Called South Liverpool Electrical on a Saturday evening when our lights went out. They arrived within the hour and found a faulty switch causing the whole circuit to trip. Fixed it straightaway and wouldn't overcharge us. Can't ask for more than that. Will definitely use them again.",
+      "author": "Mark T.",
+      "loc": "Grassendale, Liverpool \u2014 November 2024"
+    },
+    {
+      "text": "Had a complete rewire done earlier this year. The lads were tidy, efficient, and professional throughout. They explained everything as they went and sorted out a few extra niggles we mentioned without faffing about charging extra. Highly recommended.",
+      "author": "Helen W.",
+      "loc": "Aigburth, Liverpool \u2014 September 2024"
+    },
+    {
+      "text": "Brilliant service from start to finish. Consumer unit was getting old and we were worried about safety. They came, did a full test, advised us what needed doing, and gave a fair quote. Job done in a day. Really reassuring to know the electrics are safe now.",
+      "author": "Paul D.",
+      "loc": "Wavertree, Liverpool \u2014 August 2024"
+    }
+  ],
+  "address_sub": "Serving all of Liverpool and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Electrics playing up? We aim to reach you within an hour. Call now \u2014",
+  "footer_description": "South Liverpool Electrical is a NICEIC-certified local electrician covering Liverpool. Fast repairs, new installations, and full rewires. Fair prices, honest advice.",
+  "footer_copyright": "\u00a9 2026 South Liverpool Electrical. All rights reserved."
+}
