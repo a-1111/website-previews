@@ -1,0 +1,107 @@
+{
+  "slug": "djl-electrical-services-newcastle",
+  "meta_title": "DJL Electrical Services | Electrician Newcastle",
+  "meta_description": "DJL Electrical Services in Newcastle. NICEIC-approved electrician offering domestic rewiring, fault finding, and emergency repairs. Call 07402 556065.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Emergency Call-Outs Available",
+  "hero_headline": "Newcastle's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty electrics or tripped electrics in Newcastle? We diagnose and repair faults fast, any day of the week.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "18 yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "1,200+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1 hr",
+      "label": "Emergency response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Electrical Services Across Newcastle & Whickham",
+  "services_subhead": "From emergency repairs to full rewiring, we handle all domestic and small commercial electrical work.",
+  "services": [
+    {
+      "title": "Emergency Callouts",
+      "desc": "Tripped switches, blown fuses, or dead circuits? We attend emergency repairs 24/7 and aim to restore power within the hour."
+    },
+    {
+      "title": "Fault Finding & Diagnosis",
+      "desc": "Intermittent electrics or strange behaviour in your wiring? We locate and fix the root cause quickly, saving you money on guesswork."
+    },
+    {
+      "title": "Rewiring & Installation",
+      "desc": "Full house rewiring, new circuits, and socket installation. We work to Building Regs and leave your home with a safety certificate."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Old fuse boxes replaced with modern, safer consumer units. We handle all the paperwork and testing to bring your home up to code."
+    },
+    {
+      "title": "Lighting & Fixture Installation",
+      "desc": "New light fittings, dimmer switches, and smart home wiring. Professional installation ensures safe operation and a neat finish."
+    },
+    {
+      "title": "Testing & Certification",
+      "desc": "Periodic safety inspections and EICR reports for landlords, property sales, and peace of mind. We identify issues before they become dangerous."
+    }
+  ],
+  "about_pullquote": "We fix problems properly the first time \u2014 no shortcuts, no dodgy bodges.",
+  "about_para_1": "DJL Electrical Services has been serving Newcastle and Whickham for nearly two decades. We started because we saw too many householders left stranded by electricians who didn't show up or left jobs half-finished. Our NICEIC approval means every job is tested, certified, and backed by proper guarantees.",
+  "about_para_2": "We take pride in getting to you fast and explaining what's wrong in plain English. Whether you've got a minor fault or need a full rewire, we turn up on time, do the job right, and leave your home safer than we found it. Most of our work comes from repeat customers and their neighbours.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years in business"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Certified & approved"
+    },
+    {
+      "num": "1,200+",
+      "label": "Local jobs completed"
+    },
+    {
+      "num": "98%",
+      "label": "Customer satisfaction"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say About DJL",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had an absolute nightmare with electrics in my kitchen \u2014 lights kept flickering and I was worried about fire risk. Called DJL on a Friday afternoon and they came out the same evening. Found a loose connection in the consumer unit, sorted it in twenty minutes. Charged a fair price and very professional. Would definitely use again.",
+      "author": "Mark T.",
+      "loc": "Whickham, Newcastle \u2014 February 2025"
+    },
+    {
+      "text": "Needed the whole house rewired before we could sell. Got a few quotes but DJL was clear about what needed doing and didn't try to upsell us. Work was completed on time, left the place tidy, and the buyer's surveyor was happy. Great lads.",
+      "author": "Catherine B.",
+      "loc": "Fenham, Newcastle \u2014 January 2025"
+    },
+    {
+      "text": "Tripped the main electrics at midnight \u2014 panic mode. Called DJL's emergency line and someone actually picked up. Electrician was with us in 45 minutes, found a water leak had damaged a socket, replaced it, tested everything. Reassured us it was safe. Proper emergency service, not a rip-off price.",
+      "author": "David M.",
+      "loc": "Gateshead \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Newcastle, Whickham, Gateshead, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency line 24/7",
+  "emergency_banner_text": "Tripped electrics or faulty wiring? We attend emergencies 24/7 and aim to arrive within an hour. Call now \u2014",
+  "footer_description": "NICEIC-approved electrician based in Newcastle. Fast fault finding, rewiring, and emergency repairs. Local, reliable, certified.",
+  "footer_copyright": "\u00a9 2026 DJL Electrical Services. Registered in England & Wales."
+}
