@@ -1,0 +1,107 @@
+{
+  "slug": "elecsafe-nw-liverpool",
+  "meta_title": "Elecsafe (NW) Ltd | Electrician Liverpool",
+  "meta_description": "Elecsafe (NW) Ltd is a trusted electrician in Liverpool. Domestic and commercial electrical work, rewires, inspections, and emergency repairs. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Fast, Reliable Electrical Work",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From faulty sockets to full rewires, we handle all electrical work safely and on time across Liverpool.",
+  "badge_4": "Same-Day Emergency Callouts",
+  "stats": [
+    {
+      "num": "18+",
+      "label": "Years' experience"
+    },
+    {
+      "num": "2,000+",
+      "label": "Domestic & commercial jobs"
+    },
+    {
+      "num": "60 mins",
+      "label": "Average emergency response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    }
+  ],
+  "services_heading": "Electrical Services Across Liverpool",
+  "services_subhead": "We specialise in residential and commercial electrical installations, repairs, testing, and emergency callouts.",
+  "services": [
+    {
+      "title": "Emergency Callouts",
+      "desc": "Power cuts, blown circuits, faulty sockets\u2014we respond quickly any time of day. No job too small."
+    },
+    {
+      "title": "Domestic Rewires",
+      "desc": "Full rewires for older properties bring your home up to modern safety standards and increase insurance compliance."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "Installation and repair of electrical components for boilers, heat pumps, and heating systems."
+    },
+    {
+      "title": "Periodic Testing & Inspections",
+      "desc": "EICR reports and safety checks for landlords, tenants, and commercial premises\u2014essential for compliance."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Office and retail electrical maintenance, upgrades, and fault-finding. Minimal disruption to your business."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Modern replacements for outdated fuse boxes improve safety and give you more usable circuits."
+    }
+  ],
+  "about_pullquote": "We don't cut corners\u2014every job is done right, first time.",
+  "about_para_1": "Elecsafe (NW) Ltd has been serving Liverpool's homes and businesses for over 18 years. We started because we saw too many poorly executed electrical jobs costing homeowners money and creating safety risks. Today, we're known across Liverpool for straightforward advice, honest pricing, and work we stand behind.",
+  "about_para_2": "Our customers trust us because we turn up on time, explain what we're doing, and don't oversell. We're NICEIC Approved, which means every installation meets Building Regulations. Whether it's a simple repair or a complete rewire, you get the same level of care and attention.",
+  "about_stats": [
+    {
+      "num": "18+",
+      "label": "Years trading"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Approved contractor"
+    },
+    {
+      "num": "All Liverpool",
+      "label": "Service area"
+    }
+  ],
+  "reviews_heading": "What Liverpool Customers Say",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Called them about a fault with my consumer unit and got an appointment within two days. Lad who came was polite, knew his stuff, and explained everything clearly. Fixed it properly without trying to sell me extras. Fair price too. Highly recommend.",
+      "author": "Mark T.",
+      "loc": "Crosby, Liverpool \u2014 January 2025"
+    },
+    {
+      "text": "We had a full rewire done last summer. The team were efficient, tidy, and kept us informed every step. They sorted out some dodgy wiring from a previous job and brought everything up to regs. Brilliant service, fair pricing. Already recommended them to friends.",
+      "author": "Helen M.",
+      "loc": "Aigburth, Liverpool \u2014 December 2024"
+    },
+    {
+      "text": "Emergency call-out at 10pm on a Saturday\u2014power tripped and wouldn't reset. They came out the same evening and had it diagnosed in minutes. Turned out to be a faulty outlet. Fixed and tested, all sorted. No nonsense, no huge bill. Will definitely use again.",
+      "author": "James D.",
+      "loc": "Allerton, Liverpool \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving all of Liverpool and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency callouts available 24/7",
+  "emergency_banner_text": "Electrical emergency in Liverpool? We aim to respond within the hour, any time of day. Call now \u2014",
+  "footer_description": "Elecsafe (NW) Ltd is a NICEIC Approved electrician in Liverpool, offering domestic rewires, emergency repairs, safety testing, and commercial electrical work.",
+  "footer_copyright": "\u00a9 2026 Elecsafe (NW) Ltd. Registered in England & Wales."
+}
