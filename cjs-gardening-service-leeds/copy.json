@@ -1,0 +1,107 @@
+{
+  "slug": "cjs-gardening-service-leeds",
+  "meta_title": "CJS Gardening Service | Landscape Gardener Leeds",
+  "meta_description": "CJS Gardening Service in Leeds offers expert landscape gardening, garden design, and maintenance. Local, reliable, and fully insured. Call 07389 704596 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Fully Insured Landscape Gardener \u2014 15+ Years Local Experience",
+  "hero_headline": "Transform Your Garden",
+  "hero_highlight": "In Leeds",
+  "hero_subhead": "Expert landscape design and garden maintenance that turns overgrown spaces into outdoor rooms you'll love using.",
+  "badge_4": "Same-Day Quotes Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "Moortown",
+      "label": "Based in Leeds"
+    }
+  ],
+  "services_heading": "Complete Landscape Gardening Services Across Leeds",
+  "services_subhead": "From garden design and new planting through to regular maintenance and hard landscaping \u2014 we handle every aspect of outdoor space creation and care.",
+  "services": [
+    {
+      "title": "Garden Design & Planning",
+      "desc": "Bespoke garden design tailored to your space, lifestyle, and budget. We produce detailed plans and handle all planting selection to create a garden that grows beautifully year-round."
+    },
+    {
+      "title": "New Garden Builds",
+      "desc": "Complete garden construction including paving, decking, fencing, borders, and planting. We manage the whole project from soil preparation to final planting."
+    },
+    {
+      "title": "Regular Garden Maintenance",
+      "desc": "Weekly or monthly garden care including grass cutting, hedge trimming, border maintenance, and seasonal tidying. Keeps your garden looking immaculate without the stress."
+    },
+    {
+      "title": "Hedge & Shrub Cutting",
+      "desc": "Professional hedge and shrub trimming to shape, maintain, and rejuvenate overgrown growth. Safe, tidy work that promotes healthy new growth."
+    },
+    {
+      "title": "Patio & Hard Landscaping",
+      "desc": "Supply and installation of paving, decking, gravel, steps, and garden structures. Creates durable outdoor spaces that blend seamlessly with planted areas."
+    },
+    {
+      "title": "Garden Clearance & Tidy-Ups",
+      "desc": "Complete garden clearance and waste removal for overgrown spaces. We leave your garden clean, level, and ready for new planting or landscaping."
+    }
+  ],
+  "about_pullquote": "I started this because Leeds deserves gardens that work as hard as the people who live here.",
+  "about_para_1": "CJS Gardening Service was founded over 15 years ago by a landscape gardener with a real passion for outdoor spaces. What began as a one-man operation has grown steadily through word-of-mouth and repeat customers across Leeds and the surrounding areas. We combine hands-on experience with design expertise \u2014 every project, whether a small tidy-up or a full garden build, gets the same attention to detail.",
+  "about_para_2": "Our reputation is built on reliability, honest pricing, and gardens that actually get used. We listen to what you want your space to do, source quality materials, and finish cleanly. Most of our new work comes from recommendations by existing customers \u2014 that's how we know we're doing it right.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Serving Leeds"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Created"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat & Referral Work"
+    },
+    {
+      "num": "Fully Insured",
+      "label": "Public Liability Cover"
+    }
+  ],
+  "reviews_heading": "What Leeds Gardeners Say About Us",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Had an absolute jungle at the back when we moved in. CJS came round, listened to what we wanted, and completely transformed it. The design works brilliantly \u2014 the family actually uses the garden now. Tidy workers, fair price, would recommend without hesitation.",
+      "author": "Michael T.",
+      "loc": "Moortown, Leeds \u2014 September 2024"
+    },
+    {
+      "text": "Been using CJS for regular maintenance for three years now. Always on time, always professional. The garden looks incredible every season. You can tell he actually cares about the work, not just rushing to the next job.",
+      "author": "Rachel H.",
+      "loc": "Chapel Allerton, Leeds \u2014 July 2024"
+    },
+    {
+      "text": "Got a quote same day, price was competitive and realistic. Work started when promised, finished early, and the clearance and new planting look immaculate. Would definitely book again.",
+      "author": "David K.",
+      "loc": "Meanwood, Leeds \u2014 May 2024"
+    }
+  ],
+  "address_sub": "Serving Leeds and surrounding areas including Moortown, Chapel Allerton, Meanwood, and Alwoodley",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Quotes and consultations available evenings by arrangement",
+  "emergency_banner_text": "Need a garden overhaul or emergency clearance? We fit rush jobs where possible. Call now \u2014",
+  "footer_description": "CJS Gardening Service in Leeds offers landscape design, garden builds, and regular maintenance. Local, reliable, fully insured. Trusted by hundreds of Leeds homeowners.",
+  "footer_copyright": "\u00a9 2026 CJS Gardening Service. All rights reserved."
+}
