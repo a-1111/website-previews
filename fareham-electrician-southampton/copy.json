@@ -1,0 +1,107 @@
+{
+  "slug": "fareham-electrician-southampton",
+  "meta_title": "Fareham Electrician | Local Electrician Southampton",
+  "meta_description": "Fareham Electrician provides reliable domestic and commercial electrical services across Southampton. Fast response, fully qualified. Call 07962 983556 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Qualified \u2014 Emergency Call-Outs Available",
+  "hero_headline": "Southampton's Local",
+  "hero_highlight": "Electrician",
+  "hero_subhead": "Faulty wiring, broken sockets, or urgent electrical faults in Southampton? We're here fast \u2014 same-day response for emergencies.",
+  "badge_4": "Free No-Obligation Quote",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Established locally"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Electrical Services Across Southampton & Fareham",
+  "services_subhead": "From emergency repairs and rewires to installations and safety inspections, we handle all domestic and commercial electrical work.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped electrics, or dead circuits? We diagnose and fix faults fast, any time of day. Most repairs completed same visit."
+    },
+    {
+      "title": "Rewires & Full House Upgrades",
+      "desc": "Old wiring causing problems? We install modern, safe electrics to current Building Regulations, with minimal disruption to your home."
+    },
+    {
+      "title": "Socket & Switch Installation",
+      "desc": "New sockets, USB outlets, dimmer switches, and smart home wiring. We position them where you need them and finish neatly."
+    },
+    {
+      "title": "Boiler & Heating Installation",
+      "desc": "Safe, efficient boiler and central heating setup by fully qualified engineers. We handle the electrics alongside your heating engineer."
+    },
+    {
+      "title": "Periodic Electrical Testing",
+      "desc": "EICR (electrical condition report) and safety inspections for landlords, tenants, and homebuyers. Detailed report and remedial advice included."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Businesses across Southampton trust us for shop rewires, office lighting upgrades, and fault-finding. Fast turnaround, minimal downtime."
+    }
+  ],
+  "about_pullquote": "We answer the phone and get there quickly \u2014 no hidden charges, no nonsense.",
+  "about_para_1": "Fareham Electrician has been serving Southampton and the surrounding areas for 18 years. We started as a one-man operation and have grown by word-of-mouth because we show up on time, do the job right, and charge fairly. Every electrician on our team is NICEIC qualified and insured \u2014 your safety is our priority.",
+  "about_para_2": "We're local, we're reliable, and we keep our prices honest. Whether you need an emergency callout at midnight or a planned rewire, you'll get a straight answer and no surprise bills. Most of our work comes from repeat customers and their referrals \u2014 that tells you everything.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Qualified & insured"
+    },
+    {
+      "num": "2,000+",
+      "label": "Homes & businesses"
+    },
+    {
+      "num": "99%",
+      "label": "Repeat customer rate"
+    }
+  ],
+  "reviews_heading": "What Southampton Customers Say",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Called at 11pm on a Saturday with a complete power loss. He was here by midnight and had the problem sorted within an hour. Professional, friendly, and didn't overcharge. Brilliant service.",
+      "author": "Michael T.",
+      "loc": "Park Gate, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Rewired our 1960s bungalow. The work was excellent, he explained everything clearly, and finished on schedule. We felt completely confident leaving him to it. Would definitely recommend.",
+      "author": "Catherine P.",
+      "loc": "Fareham \u2014 January 2025"
+    },
+    {
+      "text": "Came out for a landlord's inspection, found a couple of faults, and quoted us fairly to fix them. No pressure, just honest advice. That's rare these days. Top bloke.",
+      "author": "David M.",
+      "loc": "Whiteley, Southampton \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Southampton, Fareham, Park Gate, Whiteley, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency call-outs available 24/7",
+  "emergency_banner_text": "Emergency electrical fault? We aim to respond within one hour, day or night. Call now \u2014",
+  "footer_description": "NICEIC-qualified electrician based in Southampton. We handle domestic rewires, emergency repairs, and commercial work across Fareham and surrounding areas.",
+  "footer_copyright": "\u00a9 2026 Fareham Electrician. All rights reserved."
+}
