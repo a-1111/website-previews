@@ -1,0 +1,107 @@
+{
+  "slug": "mtm-electrical-services-sheffield",
+  "meta_title": "MTM Electrical Services | Electrician Sheffield",
+  "meta_description": "MTM Electrical Services in Sheffield. Professional electrician for domestic and commercial work. Same-day repairs and installations. Call 07868 230307.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Certified \u2014 24/7 Emergency Callouts",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault in Sheffield? We diagnose and repair most issues same day, with no hidden charges.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1 hr",
+      "label": "Emergency Response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Sheffield",
+  "services_subhead": "From emergency repairs and rewiring to new installations and safety testing, we handle all domestic and commercial electrical work.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped electrics, or dead sockets? We arrive fast and diagnose the fault within the hour. Most repairs completed same day with parts on the van."
+    },
+    {
+      "title": "House Rewiring & Updates",
+      "desc": "Old wiring putting your home at risk? Full house rewires bring your electrics up to current Building Regulations, improving safety and adding new circuits where you need them."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "New boiler installation wiring, heating system upgrades, and fault diagnosis. We work with plumbers and heating engineers to ensure seamless installation."
+    },
+    {
+      "title": "Lighting Installation & Design",
+      "desc": "New light fittings, LED conversions, spotlights, and exterior security lighting. We design layouts to suit your space and fit to the highest standard."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Old fuse boxes replaced with modern RCD-protected consumer units. Essential for safety and required by most insurers and mortgage lenders."
+    },
+    {
+      "title": "Periodic Testing & Inspections",
+      "desc": "EICR (Electrical Installation Condition Reports) for landlords, home buyers, and businesses. We identify faults early and provide remedial reports."
+    }
+  ],
+  "about_pullquote": "I fix electrical problems others can't be bothered with properly.",
+  "about_para_1": "MTM Electrical Services has been serving Sheffield for over 15 years. Founded on the principle that every job \u2014 whether a simple socket replacement or a full house rewire \u2014 deserves the same attention to detail and honesty. We hold NICEIC certification and stay current with all Building Regulations changes.",
+  "about_para_2": "Our reputation is built on turning up on time, explaining what's wrong without jargon, and giving you a fair price. We don't pressure-sell upgrades you don't need, and we're happy to inspect work done by other traders. Most of our work comes from repeat customers and word-of-mouth referrals.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2,000+",
+      "label": "Homes & Businesses Served"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "All of Sheffield",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Sheffield Customers Say About MTM Electrical",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Called them out at 9pm on a Saturday when all our downstairs lights went out. The lad arrived before 10, found a dodgy light switch causing the trip, replaced it and tested everything. Brilliant service, reasonable price, and a nice bloke too. Highly recommend.",
+      "author": "David P.",
+      "loc": "Ecclesall, Sheffield \u2014 November 2024"
+    },
+    {
+      "text": "Had MTM round to do a full house rewire. Very professional, kept the mess to a minimum, and explained everything as they went. New consumer unit installed and signed off. Peace of mind knowing the wiring is safe now. Will use them again.",
+      "author": "Jennifer M.",
+      "loc": "Dore, Sheffield \u2014 September 2024"
+    },
+    {
+      "text": "They came to inspect electrics for our mortgage survey. Found a couple of non-compliant circuits that the previous surveyor missed. Gave us a proper EICR report and a honest quote for the fix. Didn't rush us, answered all our questions. Great service.",
+      "author": "Marcus H.",
+      "loc": "City Centre, Sheffield \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving all of Sheffield and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency callouts 24/7",
+  "emergency_banner_text": "Electrical emergency in Sheffield? We aim to reach you within the hour, any time of day. Call now \u2014",
+  "footer_description": "MTM Electrical Services: NICEIC-certified electrician in Sheffield. Emergency repairs, rewires, and installations. Fair prices, same-day service.",
+  "footer_copyright": "\u00a9 2026 MTM Electrical Services. Registered in England & Wales."
+}
