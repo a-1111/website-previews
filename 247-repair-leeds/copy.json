@@ -1,0 +1,107 @@
+{
+  "slug": "247-repair-leeds",
+  "meta_title": "247 Repair | Handyman Services Leeds",
+  "meta_description": "247 Repair Leeds provides reliable handyman services for home repairs, maintenance, and improvements. Same-day quotes available. Call 07540 093462.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local Handyman \u2014 All Repairs, All Hours",
+  "hero_headline": "Leeds Handyman",
+  "hero_highlight": "You Can Trust",
+  "hero_subhead": "From leaky taps to broken shelves\u2014we handle every job around your home, fast and fairly priced.",
+  "badge_4": "Same-Day Quotes",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency Support"
+    }
+  ],
+  "services_heading": "Handyman Services Across Leeds",
+  "services_subhead": "Whether it's a quick fix or a bigger project, we've got the skills and tools to get it done right.",
+  "services": [
+    {
+      "title": "General Repairs & Maintenance",
+      "desc": "Leaking taps, broken door handles, loose hinges, and wall damage. We fix the everyday issues that add up\u2014call us before they get worse."
+    },
+    {
+      "title": "Shelving & Hanging",
+      "desc": "Strong, level shelves, mirrors, and artwork hung safely. We use the right fixings for your wall type so everything stays put."
+    },
+    {
+      "title": "Decorating & Painting",
+      "desc": "Interior painting, wallpapering, and prep work. We leave your rooms fresh and move your furniture back when we're done."
+    },
+    {
+      "title": "Kitchen & Bathroom Work",
+      "desc": "Cabinet repairs, tile grouting, sink replacements, and splash-back fitting. No job too small to do properly."
+    },
+    {
+      "title": "Carpentry & Joinery",
+      "desc": "Skirting board replacement, door repairs, fitted wardrobes, and bespoke wooden projects. We work to your exact spec."
+    },
+    {
+      "title": "Garden & Outdoor Work",
+      "desc": "Fence repairs, decking treatment, gate fixes, and garden shed maintenance. Keep your outdoor space in good order."
+    }
+  ],
+  "about_pullquote": "I fix what's broken, fairly and on time. No surprises.",
+  "about_para_1": "247 Repair was set up over a decade ago because too many householders were being left with half-finished jobs and inflated bills. We're based in Armley, Leeds, and we know our city inside out. Every job\u2014big or small\u2014gets the same attention to detail and honest pricing.",
+  "about_para_2": "Our customers return because we show up when we say we will, explain what needs doing, and get it done without the fuss. We're not fancy, but we're reliable. If something goes wrong, we put it right. That reputation has built us steady work across Leeds, and we're proud of that.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years in Leeds"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "2,500+",
+      "label": "Homes Repaired"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average Rating"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About 247 Repair",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Brilliant service. Had a blocked gutter and a hanging rail come loose. Called in the morning and they were here by early afternoon. Fixed both jobs properly, tidied up after themselves, and charged a fair price. Would definitely recommend.",
+      "author": "Michael T.",
+      "loc": "Armley, Leeds \u2014 September 2024"
+    },
+    {
+      "text": "Used 247 Repair for some painting and shelving work. They were punctual, professional, and the quality of finish is excellent. They took care moving furniture and didn't leave a mess. Already booked them again for more work. Highly recommended.",
+      "author": "Jennifer L.",
+      "loc": "Beeston, Leeds \u2014 November 2024"
+    },
+    {
+      "text": "We had some bathroom tile damage and a broken cabinet door. They came quickly, sorted it all out, and the work looks spot on. Good communication throughout and no hidden charges. Best handyman we've used in years.",
+      "author": "David M.",
+      "loc": "Headingley, Leeds \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving all of Leeds and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency repairs on request",
+  "emergency_banner_text": "Urgent repair needed? We'll get someone out to you as quickly as possible. Call now \u2014",
+  "footer_description": "247 Repair is a trusted handyman service in Leeds. We fix homes\u2014big jobs, small jobs, fast and fairly.",
+  "footer_copyright": "\u00a9 2026 247 Repair Leeds. Registered in England & Wales."
+}
