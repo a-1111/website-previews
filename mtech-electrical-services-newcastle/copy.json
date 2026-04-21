@@ -1,0 +1,107 @@
+{
+  "slug": "mtech-electrical-services-newcastle",
+  "meta_title": "Mtech Electrical Services | Electrician Newcastle",
+  "meta_description": "Mtech Electrical Services in Newcastle. Expert domestic and commercial electrical work. Emergency repairs, rewires, installations. Call 07886 354249.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 24/7 Emergency Call-Outs",
+  "hero_headline": "Newcastle's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty electrics at home or work? We're usually with you within an hour, day or night.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "1,200+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Typical Response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Newcastle",
+  "services_subhead": "From emergency repairs to full rewires and smart home installations, we handle all domestic and commercial electrical work.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Trip switches, dead sockets, faulty wiring. We diagnose and fix faults fast, any time of day. Most jobs completed same visit."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Outdated or dangerous wiring replaced with modern, safe installations. Includes new consumer unit and all testing and certification."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "Electrical work for central heating systems, immersion heaters, and heating controls. Tested and certified to current Building Regulations."
+    },
+    {
+      "title": "Lighting & Socket Installation",
+      "desc": "New light fittings, extra sockets, outdoor lighting, and garden power. Installed safely with proper earthing and RCD protection."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Office electrics, shop installations, garage circuits, and factory maintenance. Compliant with BS 7909 and Health & Safety standards."
+    },
+    {
+      "title": "EICR Testing & Certification",
+      "desc": "Periodic inspection and testing of your property's electrics. Identifies faults before they become dangerous. Full written report included."
+    }
+  ],
+  "about_pullquote": "We turn up on time, fix the problem properly, and don't overcharge you.",
+  "about_para_1": "Mtech Electrical Services has been serving Newcastle and the surrounding areas for over 15 years. Founded by electricians frustrated with the number of bodged jobs and overpriced quotes in the region, we built the business on honest, skilled work and fair pricing. Every member of our team is NICEIC approved and holds current certifications.",
+  "about_para_2": "We've built our reputation by getting it right the first time \u2014 no cowboys, no guesswork, no hidden charges. Whether you need an urgent repair at 11pm or a planned rewire of your house, we turn up when we say we will, do the job properly, and leave your home safe and tidy. Most of our work comes from repeat customers and word-of-mouth referrals.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Approved & Certified"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "All of NE",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say About Mtech",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Had a complete nightmare with a dodgy rewire left by the previous owner. Mark came out, found all sorts of issues, and rewired the whole house professionally. Clear explanation of what needed doing, reasonable price, and the job was done on time. Brilliant service.",
+      "author": "Peter T.",
+      "loc": "Gosforth, Newcastle \u2014 January 2025"
+    },
+    {
+      "text": "Trip switch kept going. Called in a panic at 10pm on a Wednesday. They were here by 11. Turned out to be a faulty socket. Fixed in 30 minutes. Fair price for emergency call, and no messing about. Top marks.",
+      "author": "Helen M.",
+      "loc": "Tynemouth, Newcastle \u2014 November 2024"
+    },
+    {
+      "text": "New bathroom installation needed electrics done properly. Mtech handled the lot \u2014 installed extractor, heated towel rail, new sockets. All certified, all tidy. Would definitely use again.",
+      "author": "James W.",
+      "loc": "Jesmond, Newcastle \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Newcastle, Gateshead, North Tyneside, and surrounding areas.",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency line open 24/7",
+  "emergency_banner_text": "Electrics failing now? We aim to be with you within the hour, any time of day or night. Call \u2014",
+  "footer_description": "Mtech Electrical Services is a NICEIC-approved electrician serving Newcastle and the North East. Emergency repairs, rewires, installations, and testing \u2014 fast, honest, fair.",
+  "footer_copyright": "\u00a9 2026 Mtech Electrical Services. Registered in England & Wales."
+}
