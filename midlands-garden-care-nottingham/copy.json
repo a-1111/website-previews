@@ -1,0 +1,107 @@
+{
+  "slug": "midlands-garden-care-nottingham",
+  "meta_title": "Midlands Garden Care | Gardener Nottingham",
+  "meta_description": "Midlands Garden Care offers professional gardening services across Nottingham. Regular maintenance, landscaping, and garden design. Call 07787 932932 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local Gardeners \u2022 12+ Years Caring for Nottingham Gardens",
+  "hero_headline": "Your Garden Deserves",
+  "hero_highlight": "Expert Care",
+  "hero_subhead": "From overgrown borders to year-round maintenance, we transform Nottingham gardens into outdoor spaces you'll love.",
+  "badge_4": "Free Garden Consultation",
+  "stats": [
+    {
+      "num": "850+",
+      "label": "Gardens Maintained"
+    },
+    {
+      "num": "12yrs",
+      "label": "Serving Nottingham"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "7 days",
+      "label": "Winter to Summer Available"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Nottingham",
+  "services_subhead": "Whether your garden needs a seasonal tidy or a complete redesign, we've got the expertise and equipment to bring it to life.",
+  "services": [
+    {
+      "title": "Regular Garden Maintenance",
+      "desc": "Weekly or monthly upkeep including lawn mowing, hedge trimming, and border care. We keep your garden looking sharp without the weekend work."
+    },
+    {
+      "title": "Seasonal Tidy-Ups",
+      "desc": "Spring clearance, autumn leaf removal, and winter preparation. Get your garden ready for every season with minimal fuss."
+    },
+    {
+      "title": "Garden Design & Landscaping",
+      "desc": "We design and build new gardens from scratch\u2014patios, raised beds, pathways, and planting schemes tailored to your space and budget."
+    },
+    {
+      "title": "Tree & Hedge Work",
+      "desc": "Professional pruning, felling, and shaping. We handle everything from overgrown conifers to heritage specimen trees safely."
+    },
+    {
+      "title": "Lawn Care & Restoration",
+      "desc": "Lawn treatment, aeration, seeding, and moss control. Transform patchy grass into a lush, healthy lawn."
+    },
+    {
+      "title": "Garden Clearance & Waste Removal",
+      "desc": "Tired of junk and overgrowth? We clear the lot and remove all waste responsibly, leaving you with a blank canvas."
+    }
+  ],
+  "about_pullquote": "A tidy garden is a happy garden\u2014and a happier homeowner.",
+  "about_para_1": "Midlands Garden Care started twelve years ago in Mapperley with a simple idea: help Nottingham homeowners enjoy their gardens without the stress. What began as one person with a mower has grown into a trusted local team that's maintained over 850 gardens across the city. We know Nottinghamshire soil, climate, and the common challenges that face local gardens.",
+  "about_para_2": "Our customers return year after year because we show up on time, communicate clearly, and genuinely care about the quality of our work. We're not a faceless call centre\u2014you'll speak to the same gardeners who know your garden's quirks and what works best in your space. From Victorian terraces to modern new-builds, we've got the experience to handle any garden.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "Family-Run Business"
+    },
+    {
+      "num": "850+",
+      "label": "Nottingham Gardens Tended"
+    },
+    {
+      "num": "92%",
+      "label": "Customers Return Annually"
+    },
+    {
+      "num": "All Year",
+      "label": "Seasonal & Ongoing Care"
+    }
+  ],
+  "reviews_heading": "What Nottingham Gardeners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Brilliant service. My garden was a right mess after the winter, and these lads came in and completely transformed it. Tidy, professional, and they didn't leave any mess behind. Will definitely be booking them in for regular monthly maintenance.",
+      "author": "Marcus T.",
+      "loc": "Mapperley, Nottingham \u2014 April 2025"
+    },
+    {
+      "text": "Had the team in to design and build a new patio area. From start to finish they were great\u2014listened to what we wanted, gave honest advice, and the workmanship is excellent. Can't fault them. Highly recommend.",
+      "author": "Susan K.",
+      "loc": "Sherwood, Nottingham \u2014 June 2025"
+    },
+    {
+      "text": "Called them for an emergency clearance before selling our house. They arrived the next day, worked hard, and cleared everything away. The price was fair and they were really friendly. Absolute lifesaver.",
+      "author": "David M.",
+      "loc": "Beeston, Nottingham \u2014 August 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham and the surrounding Nottinghamshire areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Winter hours available",
+  "emergency_banner_text": "Need an urgent garden clearance or storm damage repair? We can often fit emergency work in within 24 hours. Call now \u2014",
+  "footer_description": "Midlands Garden Care: professional gardeners in Nottingham. Maintenance, landscaping, and design for every season.",
+  "footer_copyright": "\u00a9 2026 Midlands Garden Care. All rights reserved."
+}
