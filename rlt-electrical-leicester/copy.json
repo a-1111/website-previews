@@ -1,0 +1,107 @@
+{
+  "slug": "rlt-electrical-leicester",
+  "meta_title": "RLT Electrical | Electrician Leicester",
+  "meta_description": "RLT Electrical is a trusted Leicester electrician offering domestic and commercial electrical work. Same-day repairs, rewires, and testing. Call us today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 24/7 Emergency Response",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Electrical Expert",
+  "hero_subhead": "Faulty socket or full rewire in Leicester? We arrive same day for emergencies and deliver safe, compliant work every time.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "15+yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency Response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Leicester",
+  "services_subhead": "From emergency repairs to full rewires, we handle domestic and commercial electrical work to Building Regulations standards.",
+  "services": [
+    {
+      "title": "Emergency Repairs",
+      "desc": "Blown fuses, tripped switches, faulty sockets \u2014 we diagnose and fix electrical faults fast, often on the same day you call."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Modernise your home's electrics with a complete rewire. Safer circuits, more outlets, and an EICR certificate for insurance and resale."
+    },
+    {
+      "title": "Boiler & Heating Installation",
+      "desc": "New combi boilers, radiators, and central heating systems installed to specification. We handle the full job, including gas and electrical work."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "EICR testing and fault diagnosis for homes and businesses. We identify hidden problems before they become expensive or dangerous."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace old fuse boxes with modern RCD-protected consumer units. Protects you and your family from electrical shock and fire."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Office rewires, lighting upgrades, power distribution, and compliance testing for small businesses and larger commercial properties."
+    }
+  ],
+  "about_pullquote": "I started RLT because electricians in Leicester were charging a fortune for sloppy work.",
+  "about_para_1": "RLT Electrical was founded over 15 years ago with one aim: to deliver honest, expert electrical work at fair prices across Leicester and the surrounding areas. We're NICEIC registered and carry up-to-date Public Liability insurance on every job.",
+  "about_para_2": "Our reputation is built on turning up on time, explaining the work clearly, and fixing the problem right the first time. Most of our work comes from repeat customers and word-of-mouth \u2014 that's because we treat every home and every business as if it were our own.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2,000+",
+      "label": "Domestic & Commercial Jobs"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "Leicester & Outlying Villages",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a dodgy socket that sparked. Called RLT on a Friday afternoon and they were here within an hour. Sorted it straight away and explained what had gone wrong. Very reasonable price too. Highly recommend.",
+      "author": "Mark T.",
+      "loc": "Stoneygate, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "We needed our 1960s house rewiring before we could get a mortgage offer. RLT did the whole job professionally and on budget. Got our EICR certificate within days. Couldn't have asked for better service.",
+      "author": "Sarah K.",
+      "loc": "Clarendon Park, Leicester \u2014 September 2024"
+    },
+    {
+      "text": "Emergency call-out at 10pm on a Sunday when our electrics went haywire. They answered immediately, explained they'd be over by 11, and fixed a faulty consumer unit. Fair price for a Sunday job. Will use them again.",
+      "author": "James P.",
+      "loc": "Belgrave, Leicester \u2014 August 2024"
+    }
+  ],
+  "address_sub": "Serving Leicester and all surrounding villages",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line 24/7",
+  "emergency_banner_text": "Electrical emergency in Leicester? We aim to arrive within 60 minutes. Call now \u2014",
+  "footer_description": "RLT Electrical is Leicester's trusted electrician. NICEIC registered, same-day emergency repairs, rewires, and commercial work.",
+  "footer_copyright": "\u00a9 2026 RLT Electrical Ltd. Registered in England & Wales."
+}
