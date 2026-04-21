@@ -1,0 +1,107 @@
+{
+  "slug": "naz-electric-leicester",
+  "meta_title": "Naz Electric | Local Electrician Leicester",
+  "meta_description": "Naz Electric Ltd is your trusted local electrician in Leicester. Fast, reliable electrical work for homes and businesses. Call 07715 358168 for a quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "Part P Certified \u2014 Local Leicester Electrician",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From rewires and fault-finding to new installations, we handle all electrical work quickly and safely across Leicester.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "8+",
+      "label": "Years trading"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    },
+    {
+      "num": "1hr",
+      "label": "Typical response time"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Leicester",
+  "services_subhead": "From emergency repairs to full house rewires, we handle domestic and commercial electrical work with care and expertise.",
+  "services": [
+    {
+      "title": "Emergency Call-Outs",
+      "desc": "Blown fuses, tripped circuits, or complete power loss? We're on hand for urgent electrical faults day or night. Most callouts attended within an hour."
+    },
+    {
+      "title": "House Rewires",
+      "desc": "If your home is over 30 years old, an outdated wiring system is a fire risk. We replace the lot with modern, safe cabling and a new consumer unit."
+    },
+    {
+      "title": "Boiler & Heating Controls",
+      "desc": "Installation and repair of electric heating systems, immersion heaters, and thermostatic controls. We'll get your hot water working reliably again."
+    },
+    {
+      "title": "Garden Electrics & Outdoor Work",
+      "desc": "Weatherproof sockets, outdoor lighting, and garden shed electrics installed to Building Regulations. All work is RCD-protected and tested."
+    },
+    {
+      "title": "Fault-Finding & Testing",
+      "desc": "Intermittent faults, tripping switches, or concerns about an old installation? We diagnose the cause and fix it properly, not just the symptom."
+    },
+    {
+      "title": "New Circuits & Upgrades",
+      "desc": "Adding a new kitchen, bathroom, or workshop? We design and install dedicated circuits so you get the power where you need it, without overloading the system."
+    }
+  ],
+  "about_pullquote": "We get the job done right, first time, and we charge fair money for it.",
+  "about_para_1": "Naz Electric was set up because I got tired of seeing dodgy electrical work in Leicester. After eight years as a qualified electrician, I went independent so I could do jobs my way \u2014 properly. We're Part P certified and all our work meets current Building Regulations.",
+  "about_para_2": "Our customers come back because we're honest. We tell you upfront what's wrong, what it'll cost, and how long it takes. No surprises, no upselling. We treat your home's wiring with the same care we'd use on our own.",
+  "about_stats": [
+    {
+      "num": "8",
+      "label": "Years in business"
+    },
+    {
+      "num": "500+",
+      "label": "Leicester jobs done"
+    },
+    {
+      "num": "95%",
+      "label": "Return customers"
+    },
+    {
+      "num": "100%",
+      "label": "Safety certified"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Naz Electric",
+  "rating": 4.8,
+  "review_count": 47,
+  "reviews": [
+    {
+      "text": "Called Naz on a Sunday afternoon with a tripped circuit board and he was round within the hour. Found a faulty socket and replaced it, checked the rest of the board, and wouldn't charge me over the odds. Proper bloke. Will use again for the rewire we're planning.",
+      "author": "David K.",
+      "loc": "Belgrave, Leicester \u2014 January 2025"
+    },
+    {
+      "text": "Had Naz rewire our 1950s semi. Three weeks, tidy job, knew what he was doing. Explained everything as he went. Got building control sign-off first time. Cost less than the quotes we got from the big firms too.",
+      "author": "Margaret T.",
+      "loc": "Clarendon Park, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "New kitchen needed new circuits and a double oven. Naz fitted everything, tested it all, gave me paperwork. That's the kind of electrician you want. No messing about.",
+      "author": "James P.",
+      "loc": "Stoneygate, Leicester \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Leicester and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency callouts available outside hours",
+  "emergency_banner_text": "Electrical emergency in Leicester? We aim to be with you in under an hour. Call now \u2014",
+  "footer_description": "Naz Electric Ltd is a Part P certified electrician in Leicester. We handle rewires, fault-finding, and emergency call-outs with honesty and care.",
+  "footer_copyright": "\u00a9 2026 Naz Electric Ltd. Registered in England & Wales."
+}
