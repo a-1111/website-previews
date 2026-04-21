@@ -1,0 +1,107 @@
+{
+  "slug": "west-park-electrics-leeds",
+  "meta_title": "West Park Electrics | Electrician Leeds",
+  "meta_description": "West Park Electrics is a trusted local electrician in Leeds. From fault finding to full rewires, we deliver safe, reliable work. Call 07889 228995 for a quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Local Leeds Electrician",
+  "hero_headline": "Reliable Electrical",
+  "hero_highlight": "Work You Can Trust",
+  "hero_subhead": "From emergency call-outs to complete rewires, West Park Electrics delivers safe, professional work across Leeds.",
+  "badge_4": "Same-Day Emergency Service",
+  "stats": [
+    {
+      "num": "15+yrs",
+      "label": "Trading in Leeds"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Leeds",
+  "services_subhead": "Whether it's an emergency repair, a planned upgrade, or a full installation, we handle all aspects of domestic and light commercial electrical work.",
+  "services": [
+    {
+      "title": "Emergency Call-Outs",
+      "desc": "Power cuts, blown fuses, tripped electrics? We respond to emergencies 24/7. Most faults diagnosed and repaired on first visit."
+    },
+    {
+      "title": "Fault Finding & Repairs",
+      "desc": "Faulty sockets, flickering lights, circuit issues \u2014 we'll track down the problem and fix it safely. Full diagnostics included."
+    },
+    {
+      "title": "Complete Rewires & Upgrades",
+      "desc": "Old wiring causing safety concerns? We carry out full house rewires to Building Regulations, with certification included."
+    },
+    {
+      "title": "Consumer Unit Replacement",
+      "desc": "Upgrade or replace your fusebox with a modern consumer unit. We install to the latest standards and test every connection."
+    },
+    {
+      "title": "PAT Testing & Inspections",
+      "desc": "Annual portable appliance testing and electrical installation condition reports for your peace of mind and safety compliance."
+    },
+    {
+      "title": "New Installations & Additions",
+      "desc": "Adding circuits for new kitchens, bathrooms, or garden installations. All work certified and signed off."
+    }
+  ],
+  "about_pullquote": "We treat every job like it's our own home. Safety and honesty come first, always.",
+  "about_para_1": "West Park Electrics has been serving Leeds households and small businesses for over 15 years. We started because we saw too many corners being cut on electrical work \u2014 dodgy wiring, unsafe installations, overpricing. We decided to do it differently: honest pricing, proper qualifications, and work that meets Building Regulations every time.",
+  "about_para_2": "Our reputation is built on showing up on time, doing the job right first time, and explaining what we're doing as we go. Customers come back to us because they trust us. We're NICEIC approved, fully insured, and we carry all our tools and parts on the van so we can often solve problems the same day we arrive.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Approved Electrician"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency Cover"
+    },
+    {
+      "num": "All Leeds",
+      "label": "Areas Covered"
+    }
+  ],
+  "reviews_heading": "What Leeds Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a complete rewire done on a 1960s semi. The lads were tidy, professional, and finished on schedule. Everything tested and certified properly. Great work and competitive price. Really pleased.",
+      "author": "David T.",
+      "loc": "Headingley, Leeds \u2014 November 2024"
+    },
+    {
+      "text": "Called them at 11 pm with a tripped electrics issue. They answered straight away and were round within the hour. Fixed a faulty RCD in 20 minutes. Professional, friendly, and fair pricing. Couldn't ask for better.",
+      "author": "Emma K.",
+      "loc": "Chapel Allerton, Leeds \u2014 January 2025"
+    },
+    {
+      "text": "West Park have done several jobs for us over the years \u2014 sockets, lights, PAT testing. Always reliable, always honest about what needs doing. They don't hard sell you stuff you don't need. Proper tradesmen.",
+      "author": "Michael R.",
+      "loc": "Meanwood, Leeds \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Leeds and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line open 24/7",
+  "emergency_banner_text": "Electrics gone wrong? We're here 24/7 and aim to be with you within the hour. Call now \u2014",
+  "footer_description": "West Park Electrics is a NICEIC approved electrician based in Leeds, delivering emergency repairs, rewires, and safe installations across the city.",
+  "footer_copyright": "\u00a9 2026 West Park Electrics. Registered in England & Wales."
+}
