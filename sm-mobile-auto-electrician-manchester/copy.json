@@ -1,0 +1,107 @@
+{
+  "slug": "sm-mobile-auto-electrician-manchester",
+  "meta_title": "SM Mobile Auto Electrician | Car Electrics Manchester",
+  "meta_description": "SM Mobile Auto Electrician in Manchester. Mobile callouts for car electrical faults, battery issues, and starter repairs. Same-day service across Greater Manchester.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Mobile Auto Electrician \u2014 Fast Roadside Diagnosis",
+  "hero_headline": "Your Car's Electrical",
+  "hero_highlight": "Problems Solved Fast",
+  "hero_subhead": "Battery won't start? Lights flickering? We come to you across Manchester and fix most issues on the spot.",
+  "badge_4": "Mobile Callouts Available",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years Specialising in Auto Electrics"
+    },
+    {
+      "num": "1000+",
+      "label": "Happy Motorists Served"
+    },
+    {
+      "num": "45 mins",
+      "label": "Average Response Time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Satisfaction"
+    }
+  ],
+  "services_heading": "Complete Mobile Auto Electrical Services Across Manchester",
+  "services_subhead": "From battery replacement to complex alternator diagnostics, we diagnose and repair on-site whenever possible.",
+  "services": [
+    {
+      "title": "Battery Replacement & Testing",
+      "desc": "Dead battery? We carry spares and fit them on the roadside. Includes full charging system check to ensure your new battery charges properly."
+    },
+    {
+      "title": "Starter Motor Repair & Replacement",
+      "desc": "If your car won't turn over, we diagnose the starter and solenoid. Most replacements completed same day with quality parts fitted."
+    },
+    {
+      "title": "Alternator & Charging Issues",
+      "desc": "Recharging problems or warning lights? We test your alternator on-site and replace if needed. Covers all vehicle types."
+    },
+    {
+      "title": "Lighting Repairs & Upgrades",
+      "desc": "Flickering headlights, failed brake lights, or HID conversion faults. We repair bulbs, ballasts, and wiring to get you road-legal again."
+    },
+    {
+      "title": "Fault Code Diagnosis & Clearing",
+      "desc": "Dashboard warning lights puzzling you? Our diagnostic scanner reads fault codes and we fix the underlying cause, not just clear the warning."
+    },
+    {
+      "title": "Vehicle Rewiring & Cable Repairs",
+      "desc": "Damaged wiring harnesses, corroded terminals, or shorted circuits. We trace faults and repair or replace sections without removing your whole loom."
+    }
+  ],
+  "about_pullquote": "I fix cars properly the first time, so you don't waste money on repeat visits.",
+  "about_para_1": "SM Mobile Auto Electrician has been diagnosing and repairing car electrical faults across Manchester and Salford for over 12 years. Founded to fill the gap between main dealers (expensive and slow) and cowboys (unqualified and unreliable), we've built a reputation for honest diagnostics and fair pricing. Based in Cheetham Hill, we operate a fully mobile service\u2014no need to tow your car to a workshop.",
+  "about_para_2": "What sets us apart is the time we spend getting to the root cause rather than replacing parts until something works. We carry spares for the most common failures and can complete many jobs roadside. Customers trust us because we explain what's wrong before we start work, never quote inflated prices, and we're just as happy to advise you to try a cheaper fix first if that's the best solution for your vehicle.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "1000+",
+      "label": "Vehicles Repaired"
+    },
+    {
+      "num": "Mobile",
+      "label": "Callout Service"
+    },
+    {
+      "num": "All Makes",
+      "label": "Vehicle Types Covered"
+    }
+  ],
+  "reviews_heading": "What Manchester Motorists Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Called out to a dead battery in Prestwich on a Sunday evening. Turned up within an hour with a replacement and fitted it straightaway. Charged me a fair price and gave me good advice about why it had failed. Brilliant service.",
+      "author": "Michael T.",
+      "loc": "Prestwich, Manchester \u2014 February 2025"
+    },
+    {
+      "text": "Been going to dealerships for years and paying through the nose. Found SM after my alternator warning came up. He diagnosed it properly, showed me the fault code, and fixed it for a third of what the dealer quoted. Does what he says and charges honest money.",
+      "author": "Patricia H.",
+      "loc": "Salford, Manchester \u2014 January 2025"
+    },
+    {
+      "text": "My starter motor packed in. Drove round three other local electricians and nobody could come for days. Rang SM in the morning, he was there by afternoon. New starter fitted and working perfectly. Would definitely use again.",
+      "author": "David K.",
+      "loc": "Cheetham Hill, Manchester \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Manchester, Salford, and surrounding areas. Mobile callouts across Greater Manchester.",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency callouts available \u2014 call for same-day response",
+  "emergency_banner_text": "Car won't start and you're stranded? We aim to reach you within 45 minutes. Call now \u2014",
+  "footer_description": "SM Mobile Auto Electrician brings expert car electrical diagnostics and repairs to your doorstep across Manchester. Honest advice, fair pricing, mobile callouts.",
+  "footer_copyright": "\u00a9 2026 SM Mobile Auto Electrician. Trading from Cheetham Hill, Manchester."
+}
