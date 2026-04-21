@@ -1,0 +1,107 @@
+{
+  "slug": "clifford-electrical-services-birmingham",
+  "meta_title": "Clifford Electrical Services | Electrician Birmingham",
+  "meta_description": "Clifford Electrical Services is a trusted electrician in Birmingham. NICEIC registered, same-day repairs, and new installations. Call 07713 564251 for a quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Part P Certified Electrician",
+  "hero_headline": "Birmingham's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From emergency circuit breakers to full rewires, we're here when you need us across Birmingham and the West Midlands.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "1,200+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency Response"
+    }
+  ],
+  "services_heading": "Electrical Services Across Birmingham",
+  "services_subhead": "Whether it's an emergency fault or a planned upgrade, we handle domestic and light commercial work to the highest safety standards.",
+  "services": [
+    {
+      "title": "Emergency Callouts",
+      "desc": "Power loss, sparking sockets, or faulty circuits? We attend emergency jobs across Birmingham with rapid response times, 24/7. Most faults identified and resolved on the first visit."
+    },
+    {
+      "title": "Fault Finding & Repairs",
+      "desc": "Flickering lights, tripped electrics, or appliances that won't power up. We test thoroughly and fix the root cause \u2014 not just the symptom."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Tired, outdated, or unsafe wiring? We carry out complete rewires with full Part P certification and building regulation sign-off, often in one week."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Old fuse boxes replaced with modern consumer units that protect your home better and handle today's demand. Fully compliant with latest regulations."
+    },
+    {
+      "title": "New Installations",
+      "desc": "EV charging points, loft lighting, kitchen electrics, and new circuits for extensions. We design and install safely and neatly, with proper certification included."
+    },
+    {
+      "title": "PAT Testing & Inspections",
+      "desc": "Landlord safety certificates, workplace PAT testing, and periodic electrical inspections. Quick turnaround and full documentation provided."
+    }
+  ],
+  "about_pullquote": "I got into this trade because corners shouldn't be cut on safety in anyone's home.",
+  "about_para_1": "Clifford Electrical Services started in Birmingham 18 years ago with a simple promise: turn up on time, do the job right, and explain everything clearly. We've built our reputation by treating every house and business as if it were our own, whether it's a minor repair or a complete rewire.",
+  "about_para_2": "We're NICEIC registered and Part P certified, which means every installation carries full legal backing and building regulation approval. Our customers come back because they trust us to spot problems other electricians miss, and to never overcharge or recommend work that isn't needed.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Established"
+    },
+    {
+      "num": "NICEIC Registered",
+      "label": "Professional Body"
+    },
+    {
+      "num": "1,200+",
+      "label": "Homes Served"
+    },
+    {
+      "num": "98%",
+      "label": "Customer Retention"
+    }
+  ],
+  "reviews_heading": "What Birmingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Called Clifford out on a Sunday evening when our lights kept tripping. He arrived within 45 minutes, found a fault in the kitchen ring circuit, and had it all sorted before bed. Brilliant service, honest pricing, and very polite. Definitely recommend.",
+      "author": "David P.",
+      "loc": "Solihull, Birmingham \u2014 November 2024"
+    },
+    {
+      "text": "Had a full rewire done on our 1960s semi. Clifford explained everything step by step, was tidy, and finished on time. All the paperwork came through properly. You can tell he really knows what he's doing. Will use again if we need anything else.",
+      "author": "Margaret T.",
+      "loc": "Edgbaston, Birmingham \u2014 August 2024"
+    },
+    {
+      "text": "Got a quote for an EV charging point installation. Cliff was really helpful, explained the options, and the install was flawless. He even tidied up after himself, which is rare. Fair price and professional job. Five stars.",
+      "author": "James H.",
+      "loc": "Harborne, Birmingham \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Birmingham, Solihull, and the West Midlands",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Circuit breaker tripped? Lights out? We aim to be with you in under an hour, any time of day. Call now \u2014",
+  "footer_description": "Clifford Electrical Services is a NICEIC-registered electrician in Birmingham. Emergency repairs, rewires, and installations with full certification.",
+  "footer_copyright": "\u00a9 2026 Clifford Electrical Services. All rights reserved."
+}
