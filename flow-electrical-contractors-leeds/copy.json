@@ -1,0 +1,107 @@
+{
+  "slug": "flow-electrical-contractors-leeds",
+  "meta_title": "Flow Electrical Contractors | Electrician Leeds",
+  "meta_description": "Flow Electrical Contractors in Leeds. Domestic and commercial electrical work, rewires, fault finding, and emergency callouts. Call 07919 258655 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved Contractor \u2014 24/7 Emergency Response",
+  "hero_headline": "Trusted Electrical Experts",
+  "hero_highlight": "in Leeds",
+  "hero_subhead": "From burst fuses to full rewires, we're here when you need us\u2014most emergencies fixed same day.",
+  "badge_4": "Same-Day Emergency Callouts",
+  "stats": [
+    {
+      "num": "18+",
+      "label": "Years in business"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Leeds",
+  "services_subhead": "Whether it's routine maintenance, urgent fault-finding, or a full rewire, we deliver reliable, certified work every time.",
+  "services": [
+    {
+      "title": "Emergency Callouts",
+      "desc": "Power cuts, blown fuses, sparking sockets\u2014we're available 24/7 and aim to reach you within an hour. No call-out charge for genuine emergencies."
+    },
+    {
+      "title": "Domestic Rewires",
+      "desc": "Full or partial rewires for older homes, extensions, and upgrades. We test every circuit and leave you with a new installation certificate."
+    },
+    {
+      "title": "Fault Finding & Repairs",
+      "desc": "Flickering lights, dead outlets, or intermittent trips? We diagnose the root cause and fix it fast, with all work guaranteed."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace outdated fuse boxes with modern RCD-protected consumer units. Safer, compliant, and often required by insurers."
+    },
+    {
+      "title": "Landlord Safety Checks",
+      "desc": "EICR (periodic inspection) testing to meet legal requirements. We provide detailed reports and certification for lettings."
+    },
+    {
+      "title": "Kitchen & Bathroom Circuits",
+      "desc": "Safe installation of sockets, lights, and extractor fans in high-moisture areas, all to current Building Regulations."
+    }
+  ],
+  "about_pullquote": "I started this business because I got tired of dodgy sparks giving the trade a bad name.",
+  "about_para_1": "Flow Electrical Contractors has been serving Leeds homes and businesses since 2008. We're NICEIC Approved and Part P certified, which means every job meets Building Regulations and comes with proper certification. From Victorian terraces in Headingley to new-builds in Adel, we've rewired thousands of properties and earned the trust of homeowners, landlords, and commercial clients across Yorkshire.",
+  "about_para_2": "We're known for straight talk, transparent pricing, and turning up when we say we will. Most of our work comes from repeat customers and referrals\u2014that's not luck, it's because we treat your home with respect and leave the job clean. Our emergency team operates 24/7, and we pride ourselves on diagnosing faults properly rather than just replacing parts.",
+  "about_stats": [
+    {
+      "num": "18+",
+      "label": "Years established"
+    },
+    {
+      "num": "NICEIC & Part P",
+      "label": "Fully certified"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "All Leeds",
+      "label": "Local coverage"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About Flow",
+  "rating": 4.8,
+  "review_count": 287,
+  "reviews": [
+    {
+      "text": "Had a complete nightmare with electrics in my 1920s terrace\u2014lights kept tripping and the fusebox was ancient. Called Flow on a Monday morning and they fitted a new consumer unit by Wednesday. Really professional team, tidy work, and the paperwork was spot on. Highly recommend.",
+      "author": "Michael T.",
+      "loc": "Headingley, Leeds \u2014 February 2025"
+    },
+    {
+      "text": "Emergency call-out at 11pm on a Saturday\u2014socket was sparking in the kitchen. They arrived before midnight, found the fault in 20 minutes, and sorted it safely. No faffing about, honest pricing, and they even checked a couple of other dodgy outlets while they were here. Top blokes.",
+      "author": "Jennifer L.",
+      "loc": "Chapel Allerton, Leeds \u2014 January 2025"
+    },
+    {
+      "text": "As a landlord I needed EICR testing on a rental property. Flow came out, tested everything properly, gave me a detailed report, and the cert was with me in days. Fair price and they didn't try to sell me unnecessary work. Will use them again next year.",
+      "author": "David K.",
+      "loc": "Adel, Leeds \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Leeds and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Sparking socket or power cut? We aim to reach you within an hour, 24/7. Call now \u2014",
+  "footer_description": "Flow Electrical Contractors in Leeds. NICEIC-approved domestic and commercial electrical work, emergency callouts, rewires, and landlord testing. Trusted by thousands of Yorkshire homeowners.",
+  "footer_copyright": "\u00a9 2026 Flow Electrical Contractors. Registered in England & Wales."
+}
