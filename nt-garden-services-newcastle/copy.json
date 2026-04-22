@@ -1,0 +1,107 @@
+{
+  "slug": "nt-garden-services-newcastle",
+  "meta_title": "N T Garden Services | Landscape Gardener Newcastle",
+  "meta_description": "N T Garden Services brings your Newcastle garden to life. Expert landscaping, garden design, and maintenance. Local, reliable, fully insured. Get a free quote today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Fully Insured Landscape Gardener \u2014 Newcastle & Surrounding Areas",
+  "hero_headline": "Your Newcastle Garden",
+  "hero_highlight": "Transformed",
+  "hero_subhead": "From overgrown borders to bespoke patios, we design and build gardens that suit your home and lifestyle.",
+  "badge_4": "Free Garden Design Consultation",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Landscaping Experience"
+    },
+    {
+      "num": "300+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "2-3",
+      "label": "Days Average Turnaround"
+    },
+    {
+      "num": "100%",
+      "label": "Customer Satisfaction Rate"
+    }
+  ],
+  "services_heading": "Complete Garden Design & Landscaping Services Across Newcastle",
+  "services_subhead": "Whether you need a full garden overhaul, routine maintenance, or a one-off tidy, we handle it with care and expertise.",
+  "services": [
+    {
+      "title": "Garden Design & Planning",
+      "desc": "We create bespoke garden plans tailored to your space, style, and budget. From initial consultation through to final planting, you'll have a garden you love."
+    },
+    {
+      "title": "Patio & Decking Installation",
+      "desc": "Professional laying of patios, decking, and hard landscaping. We use quality materials and precise workmanship to create outdoor spaces built to last."
+    },
+    {
+      "title": "Planting & Borders",
+      "desc": "Expert selection and planting of shrubs, trees, and perennials suited to Newcastle's climate. We design borders for year-round colour and interest."
+    },
+    {
+      "title": "Garden Maintenance",
+      "desc": "Regular lawn care, hedge trimming, weeding, and seasonal upkeep. Monthly or quarterly visits keep your garden healthy and looking its best."
+    },
+    {
+      "title": "Fencing & Screening",
+      "desc": "We install durable fencing, trellises, and screening solutions to define boundaries and add privacy to your garden space."
+    },
+    {
+      "title": "Garden Clearance & Removal",
+      "desc": "Overgrown? We clear away old plants, debris, and waste responsibly, leaving you with a blank canvas ready for a fresh start."
+    }
+  ],
+  "about_pullquote": "I got into this because a beautiful garden changes how you feel about your home every single day.",
+  "about_para_1": "N T Garden Services has been designing and building gardens across Newcastle and the North East for over 15 years. We started with a passion for creating outdoor spaces that work for real families and businesses. Today, we've completed hundreds of projects \u2014 from modest borders to full garden transformations \u2014 always with the same care and attention to detail.",
+  "about_para_2": "Our customers come back because we listen first, plan thoroughly, and deliver on time. We're not here to upsell; we're here to make your garden something you're genuinely proud of. Every project is insured, every team member trained, and every plant we choose is right for Newcastle's climate.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "300+",
+      "label": "Satisfied Customers"
+    },
+    {
+      "num": "Fully",
+      "label": "Insured & Certified"
+    },
+    {
+      "num": "Newcastle",
+      "label": "& North East Coverage"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say About N T Garden Services",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Transformed our back garden from an absolute mess into somewhere we actually want to spend time. Niall was brilliant \u2014 gave us clear advice, didn't rush the job, and the patio looks fantastic. Would definitely recommend.",
+      "author": "Michael T.",
+      "loc": "Monkseaton, Newcastle \u2014 October 2024"
+    },
+    {
+      "text": "We had no idea what we wanted at first. Niall drew up a design, we tweaked it together, and the result is even better than we imagined. Very fair pricing and he cleaned up after himself properly. Top bloke.",
+      "author": "Claire L.",
+      "loc": "Whitley Bay, Newcastle \u2014 August 2024"
+    },
+    {
+      "text": "Been using N T Garden Services for regular maintenance for two years now. The lads are always on time, they know what they're doing, and our garden looks immaculate year-round. Genuinely great value.",
+      "author": "Robert H.",
+      "loc": "Gosforth, Newcastle \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Based in Monkseaton, serving Newcastle, Whitley Bay, Gosforth, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Emergency garden work by arrangement",
+  "emergency_banner_text": "Need your garden sorted fast? We offer quick turnaround on clearance and maintenance work. Call us now \u2014",
+  "footer_description": "N T Garden Services: Newcastle's trusted landscape gardener. Bespoke design, expert installation, and year-round maintenance. Fully insured, fully local.",
+  "footer_copyright": "\u00a9 2026 N T Garden Services. All rights reserved."
+}
