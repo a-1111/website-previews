@@ -1,0 +1,107 @@
+{
+  "slug": "mp-building-nottingham",
+  "meta_title": "MP Building | Fence Contractor Nottingham",
+  "meta_description": "MP Building delivers expert fencing, gardening and building services across Nottingham. Quality workmanship, fair pricing, local team. Call 07932 308171 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local Fencing & Building Specialist \u2014 15+ Years' Experience",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Fencing & Building Expert",
+  "hero_subhead": "From new fence installation to garden overhauls, we transform outdoor spaces with quality materials and honest pricing.",
+  "badge_4": "Free Site Survey & Quote",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical Quote Turnaround"
+    }
+  ],
+  "services_heading": "Complete Fencing, Building & Gardening Services Across Nottingham",
+  "services_subhead": "From fence repairs and new installations to garden landscaping and building works, we handle residential and commercial projects with care.",
+  "services": [
+    {
+      "title": "Fence Installation & Replacement",
+      "desc": "New timber, composite or metal fencing tailored to your garden and budget. We handle groundwork, post setting and finishing to last 10+ years."
+    },
+    {
+      "title": "Fence Repair & Maintenance",
+      "desc": "Damaged panels, loose posts, rot damage \u2014 we fix it fast. Regular maintenance extends fence life and keeps your property secure."
+    },
+    {
+      "title": "Garden Landscaping",
+      "desc": "Create the garden you've always wanted. Patio laying, raised beds, decking, planting schemes and hard landscaping all handled in-house."
+    },
+    {
+      "title": "Garden Clearance & Tidy-Ups",
+      "desc": "Overgrown garden? We clear, remove waste and leave you with a blank canvas ready for design or simply maintained and neat."
+    },
+    {
+      "title": "Decking & Outdoor Structures",
+      "desc": "Hardwood or composite decking, pergolas and garden structures built to withstand Nottingham weather and add real value to your home."
+    },
+    {
+      "title": "Building & Groundwork Services",
+      "desc": "Small building projects, foundations, paths and drainage work carried out by our experienced team with full site safety."
+    }
+  ],
+  "about_pullquote": "We treat every job like it's our own garden \u2014 no shortcuts, just honest work and fair prices.",
+  "about_para_1": "MP Building was established over 15 years ago by Mark, a tradesman fed up with seeing homeowners overcharged and let down by unreliable contractors. What started as a one-man fencing operation has grown into a small team of skilled builders, fencers and gardeners serving Carlton, Nottingham and beyond. We're proud to have completed over 500 residential and commercial projects without cutting corners.",
+  "about_para_2": "Our reputation is built on turning up on time, delivering exactly what we've quoted, and treating your property with respect. We stock quality materials, carry all tools needed, and clear up after ourselves \u2014 every time. Customers come back because they know they'll get a fair price, skilled work, and someone who actually listens to what they want.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "3-Person",
+      "label": "Local Team"
+    },
+    {
+      "num": "Nottingham",
+      "label": "Primary Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Brilliant job on our garden fence. Mark came out, quoted us honestly, and finished the work in two days. Posts are solid, panels are straight, and the price was way better than the other lads we asked. Would definitely recommend.",
+      "author": "David T.",
+      "loc": "Carlton, Nottingham \u2014 September 2024"
+    },
+    {
+      "text": "Had a nightmare with Japanese knotweed in the garden. These guys cleared the lot, disposed of it properly, and levelled the ground ready for new planting. Professional and thorough. Saved us a fortune compared to specialist firms.",
+      "author": "Linda K.",
+      "loc": "Mapperley, Nottingham \u2014 July 2024"
+    },
+    {
+      "text": "Called about a damaged fence panel and Mark fitted a replacement the next day. No faffing about, no inflated bill. That's how it should be. He's now my go-to for any outdoor work. Top bloke.",
+      "author": "Robert P.",
+      "loc": "Basford, Nottingham \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Based in Carlton, serving Nottingham and surrounding areas within 15 miles",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency repairs by arrangement",
+  "emergency_banner_text": "Fence damage or urgent garden work? Contact us today for same-week appointments. Call \u2014",
+  "footer_description": "MP Building delivers fencing, landscaping and building services across Nottingham. Honest pricing, quality materials, local team you can trust.",
+  "footer_copyright": "\u00a9 2026 MP Building. Nottingham-based fencing and building contractor."
+}
