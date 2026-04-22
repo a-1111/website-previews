@@ -1,17 +1,21 @@
 {
   "slug": "bd-plastering-manchester",
-  "meta_title": "BD Plastering | Expert Plasterer Manchester",
-  "meta_description": "BD Plastering Manchester delivers expert plastering, skimming, and rendering. Fast, professional work. Free quotes. Call 07977 511428.",
+  "meta_title": "BD Plastering | Plasterer Manchester",
+  "meta_description": "BD Plastering specialises in internal and external plastering across Manchester. Fast, reliable work with a personal touch. Get a free quote today.",
   "schema_opening_hours": [
     "Mo-Fr 08:00-18:00",
     "Sa 09:00-14:00"
   ],
-  "hero_eyebrow": "20+ Years Experience \u2014 Local Manchester Plasterer",
-  "hero_headline": "Expert Plastering for",
-  "hero_highlight": "Manchester Homes",
-  "hero_subhead": "Cracked walls or uneven plaster? BD Plastering transforms your interior with precision work and fast turnarounds across Greater Manchester.",
+  "hero_eyebrow": "Experienced Plasterer \u2014 Quality Finish Every Time",
+  "hero_headline": "Manchester's Trusted",
+  "hero_highlight": "Plastering Specialist",
+  "hero_subhead": "Cracked walls, damp patches, or a room that needs replastering? We deliver smooth, professional finishes on time and on budget.",
   "badge_4": "Free Quotes",
   "stats": [
+    {
+      "num": "15+yrs",
+      "label": "Experience"
+    },
     {
       "num": "500+",
       "label": "Jobs Completed"
@@ -21,87 +25,83 @@
       "label": "Customer Rating"
     },
     {
-      "num": "20yrs",
-      "label": "In Business"
-    },
-    {
-      "num": "48hr",
-      "label": "Typical Turnaround"
+      "num": "2-day",
+      "label": "Average Turnaround"
     }
   ],
-  "services_heading": "Professional Plastering Services Across Manchester",
-  "services_subhead": "From minor repairs to full room skimming, we handle every plastering job with skill and attention to detail.",
+  "services_heading": "Complete Plastering Services Across Manchester",
+  "services_subhead": "From small patch repairs to whole-room replastering, we handle domestic and commercial projects with precision and care.",
   "services": [
     {
-      "title": "Interior Plastering & Skimming",
-      "desc": "Full room plaster, feature walls, and ceiling work to a smooth, professional finish. We prepare walls properly and match existing plaster textures."
+      "title": "Internal Wall Plastering",
+      "desc": "Smooth, flat finishes on new builds, extensions, and renovation projects. We prep properly and deliver a surface ready for paint or wallpaper."
     },
     {
-      "title": "Render & External Plastering",
-      "desc": "Weather-resistant external renders and pebbledash repairs. We use quality materials and techniques to protect your home exterior."
+      "title": "Ceiling Plastering & Repair",
+      "desc": "Sagging ceilings, cracks, and water damage fixed. We reinforce and resurface to restore a clean, level finish that lasts."
     },
     {
-      "title": "Damp Repairs & Plaster Recovery",
-      "desc": "Damaged plaster from damp? We treat the source, apply tanking where needed, and replaster to prevent future issues."
+      "title": "External Rendering",
+      "desc": "Weather-resistant external renders protect your walls and boost kerb appeal. We use quality finishes that resist cracking and damp ingress."
     },
     {
-      "title": "Patch & Repair Work",
-      "desc": "Crack repairs, hole patching, and small wall damage fixed quickly. Ideal for landlords and homeowners between projects."
+      "title": "Patch Repairs & Skimming",
+      "desc": "Small holes, dents, and cracks repaired and skimmed to blend seamlessly with existing walls. No need to replaster the whole room."
     },
     {
-      "title": "Textured & Decorative Finishes",
-      "desc": "Artexed ceilings, Venetian finishes, and specialty wall textures applied with precision and care."
+      "title": "Damp & Water Damage Repair",
+      "desc": "After damp treatment, we replaster affected areas with moisture-resistant board and finish to prevent further damage."
     },
     {
-      "title": "New Build & Renovation Plastering",
-      "desc": "Full plaster specifications for extensions, loft conversions, and renovation work. We work to schedule and building regs standards."
+      "title": "Commercial & Industrial Plastering",
+      "desc": "Retail spaces, offices, and warehouses replastered to specification. We work around your schedule and minimise disruption."
     }
   ],
-  "about_pullquote": "I started BD Plastering because I saw too much rushed work. We do it properly, every time.",
-  "about_para_1": "BD Plastering was established over 20 years ago with a simple aim: deliver honest, high-quality plastering work at fair prices. Based in Urmston, we've built our reputation across Greater Manchester by turning up on time, listening to what our customers need, and leaving every job finished to a standard we'd be proud of in our own homes.",
-  "about_para_2": "Our repeat customer rate speaks for itself \u2014 homeowners, landlords, and contractors come back because we're reliable, efficient, and we don't cut corners. Whether it's a single patch or a full house renovation, we treat every job with the same care and attention. We're insured, experienced, and always happy to provide free quotes and advice before we start.",
+  "about_pullquote": "I started plastering because I saw poor finishes everywhere\u2014I wanted to do it right.",
+  "about_para_1": "BD Plastering was founded on a simple principle: turn up on time, do the job properly, and charge fairly. Over 15 years, we've built a reputation across Manchester for reliable, high-quality work\u2014from small residential repairs to larger commercial projects. Our team takes pride in every finish, whether it's a single wall or a whole building.",
+  "about_para_2": "Most of our work comes from repeat customers and referrals. We listen to what you need, give honest advice, and don't cut corners. A good plaster finish isn't just about looks\u2014it protects your walls and adds real value to your home. That's why we get called back, time and again.",
   "about_stats": [
     {
-      "num": "20+",
+      "num": "15+",
       "label": "Years Trading"
     },
     {
       "num": "500+",
-      "label": "Projects Completed"
+      "label": "Manchester Homes"
     },
     {
-      "num": "70%",
-      "label": "Repeat Customers"
+      "num": "4.8\u2605",
+      "label": "Average Rating"
     },
     {
-      "num": "Greater Manchester",
-      "label": "Coverage Area"
+      "num": "95%",
+      "label": "Repeat & Referral Work"
     }
   ],
-  "reviews_heading": "What Manchester Customers Say About BD Plastering",
+  "reviews_heading": "What Manchester Homeowners Say About Us",
   "rating": 4.8,
   "review_count": 87,
   "reviews": [
     {
-      "text": "Had two rooms skimmed after fitting new windows. BD Plastering made a right mess look brilliant. Very tidy workers, finished on time, and the plaster is smooth as anything. Definitely recommend.",
-      "author": "Michael T.",
-      "loc": "Urmston, Manchester \u2014 November 2024"
+      "text": "Had the entire lounge replastered after a leak. BD Plastering was brilliant\u2014turned up when they said they would, got it done in two days, and the finish is immaculate. Highly recommend.",
+      "author": "Mark T.",
+      "loc": "Fallowfield, Manchester \u2014 January 2025"
     },
     {
-      "text": "Nightmare damp patch on the bedroom wall. They sorted the cause, applied the treatment, and replastered it. Six months on and no sign of it coming back. Honest blokes, fair pricing. Top job.",
-      "author": "Claire P.",
-      "loc": "Stretford, Manchester \u2014 August 2024"
+      "text": "Small crack in my bedroom ceiling was driving me mad. Called BD and they came out the same week. Fixed it quickly, tidied up properly, and charged a fair price. Will definitely use them again.",
+      "author": "Helen R.",
+      "loc": "Withington, Manchester \u2014 November 2024"
     },
     {
-      "text": "Called on a Tuesday for a free quote on our extension plaster. Started work the following Monday. Quick, professional, and the finish is perfect. Will use them again without question.",
-      "author": "David S.",
-      "loc": "Flixton, Manchester \u2014 September 2024"
+      "text": "Needed external rendering on our semi after damp issues. They knew exactly what they were doing, explained everything clearly, and the work looks great. No mess, no fuss. Really pleased.",
+      "author": "David K.",
+      "loc": "Didsbury, Manchester \u2014 December 2024"
     }
   ],
-  "address_sub": "Serving Urmston, Stretford, Flixton, and all of Greater Manchester",
+  "address_sub": "Serving all of Greater Manchester and surrounding areas",
   "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
-  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Free estimates by appointment",
-  "emergency_banner_text": "Need urgent plaster repair? We prioritise emergency damp and structural work. Call now \u2014",
-  "footer_description": "BD Plastering: expert interior and exterior plastering across Manchester. 20+ years, free quotes, fully insured.",
-  "footer_copyright": "\u00a9 2026 BD Plastering. Registered in England & Wales."
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Weekday quotes available",
+  "emergency_banner_text": "Need an urgent repair? We can often fit emergency plaster repairs within 48 hours. Call now \u2014",
+  "footer_description": "BD Plastering is a trusted Manchester-based plasterer with over 15 years' experience. We specialise in internal and external plastering, repairs, and renovation work.",
+  "footer_copyright": "\u00a9 2026 BD Plastering. All rights reserved."
 }
