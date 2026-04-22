@@ -1,0 +1,107 @@
+{
+  "slug": "don-w-electrical-nottingham",
+  "meta_title": "Don W Electrical | Electrician Nottingham",
+  "meta_description": "Don W Electrical is a qualified electrician in Nottingham. NICEIC certified, fast response times, and transparent pricing for all domestic and commercial work.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Certified \u2014 Same-Day Callouts Available",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty electrics? From urgent rewires to minor repairs, we fix problems fast without the premium price tag.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "Under 1 hour",
+      "label": "Typical Response Time"
+    },
+    {
+      "num": "250+",
+      "label": "Local Jobs Completed"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Fully Certified & Insured"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Nottingham",
+  "services_subhead": "Whether it's a sparking socket, a full house rewire, or new lighting, we handle all domestic and small commercial work with care and precision.",
+  "services": [
+    {
+      "title": "Emergency Repairs",
+      "desc": "Sparking sockets, burnt-out circuits, or blown fuses? We diagnose and repair electrical faults the same day, any day of the week."
+    },
+    {
+      "title": "House Rewires",
+      "desc": "Old, dangerous wiring puts your family at risk. We install modern, safe systems to Building Regulations with a 10-year guarantee."
+    },
+    {
+      "title": "Lighting Installation",
+      "desc": "From recessed ceiling lights to feature pendants, we plan, install, and test bespoke lighting schemes that transform your rooms."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace outdated fuse boards with modern RCD-protected consumer units \u2014 safer, more reliable, and essential for home insurance compliance."
+    },
+    {
+      "title": "Testing & Certification",
+      "desc": "Landlords and new homebuyers: we carry out full electrical inspections and provide EICR certificates for peace of mind."
+    },
+    {
+      "title": "Garden & Outdoor Wiring",
+      "desc": "Safe, weatherproof installations for garden lighting, outdoor sockets, and water features \u2014 all IP-rated and fully tested."
+    }
+  ],
+  "about_pullquote": "I start every job like it's my own home \u2014 no shortcuts, no surprises.",
+  "about_para_1": "Don W Electrical was founded on a simple idea: homeowners deserve an electrician they can trust. With over 15 years on the job in Nottingham, I've built a reputation for honest advice, fast turnarounds, and work that lasts. I'm NICEIC certified and fully insured, which means every installation meets Building Regulations and comes with proper documentation.",
+  "about_para_2": "Customers come back because they know they won't be overcharged or oversold unnecessary work. I'll always give you a clear explanation of what's wrong and what needs doing before I start. That transparency and reliability have made Don W Electrical the electrician neighbours recommend to neighbours across Nottingham.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "250+",
+      "label": "Homes & Businesses Served"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Certified & Insured"
+    },
+    {
+      "num": "Nottingham",
+      "label": "Local & Based Here"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 47,
+  "reviews": [
+    {
+      "text": "Had a problem with a blown circuit and was dreading the cost. Don came out the next morning, found a faulty kettle was causing it, and the fix only took 20 minutes. Honest bloke, fair price, no messing about. Highly recommend.",
+      "author": "Michael T.",
+      "loc": "West Bridgford, Nottingham \u2014 January 2025"
+    },
+    {
+      "text": "We needed our old house rewired before we could get insurance. Don sorted it out in under a week, kept the disruption minimal, and his paperwork was spot on. Very professional. We'd use him again for anything.",
+      "author": "Emma L.",
+      "loc": "Sherwood, Nottingham \u2014 November 2024"
+    },
+    {
+      "text": "Called for an emergency \u2014 lights kept flickering throughout the house. Don was here within the hour, diagnosed a problem in the consumer unit, and had us back to normal by evening. That's the level of service you want in a crisis.",
+      "author": "David P.",
+      "loc": "Beeston, Nottingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency calls welcome 24/7",
+  "emergency_banner_text": "Electrics failing? I aim to be with you within the hour. Call now \u2014",
+  "footer_description": "Don W Electrical is a NICEIC-certified electrician serving Nottingham. Honest repairs, fast response, no cowboys.",
+  "footer_copyright": "\u00a9 2026 Don W Electrical. Registered in England & Wales."
+}
