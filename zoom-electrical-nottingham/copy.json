@@ -1,0 +1,107 @@
+{
+  "slug": "zoom-electrical-nottingham",
+  "meta_title": "Zoom Electrical | Electrical Installation Nottingham",
+  "meta_description": "Zoom Electrical Nottingham. Expert electrical installation, rewiring, and testing. Reliable service across Nottinghamshire. Call 07356 209989.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered Electrician \u2014 Fully Insured",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Electrical Installation Expert",
+  "hero_subhead": "From new circuits to complete rewires, we get your Nottinghamshire home safely wired and up to standard.",
+  "badge_4": "Same-Day Quotes Available",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "800+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical Callout"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Nottinghamshire",
+  "services_subhead": "Whether you need a new socket, a full rewire, or an urgent repair, Zoom Electrical has the expertise and speed to get it done right.",
+  "services": [
+    {
+      "title": "Full House Rewiring",
+      "desc": "Complete electrical system overhaul to meet modern safety standards. We test, certify, and leave you with peace of mind and a new EICR certificate."
+    },
+    {
+      "title": "New Circuits & Socket Installation",
+      "desc": "Add sockets, USB points, or dedicated circuits for appliances without overloading your system. Clean, safe installations with a 25-year guarantee."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace old fuse boxes with modern dual RCD consumer units. Improves safety, gives you more circuits, and reduces the risk of tripping."
+    },
+    {
+      "title": "Fault Finding & Repair",
+      "desc": "Tripped electrics, flickering lights, or dead outlets? We diagnose the fault quickly and fix it the same day, most jobs under \u00a3200."
+    },
+    {
+      "title": "Electrical Testing & Certification",
+      "desc": "EICR inspections for landlords, surveyors, and peace of mind. Full report with remedial works quoted and carried out on site."
+    },
+    {
+      "title": "Outdoor & Garden Electrics",
+      "desc": "Garden lighting, hot tub installations, and shed circuits. All work IP-rated and weatherproof, with RCD protection as standard."
+    }
+  ],
+  "about_pullquote": "Every job done as if it were my own home \u2014 safely, fairly, no hidden costs.",
+  "about_para_1": "Zoom Electrical was founded in Nottingham over 12 years ago by a frustrated sparky tired of seeing customers ripped off by cowboys. From a one-man van, we've grown to a reliable team serving West Bridgford, Beeston, and across Nottinghamshire. We're NICEIC Registered and carry full public liability insurance \u2014 your work is always covered and certified.",
+  "about_para_2": "Our reputation is built on straightforward pricing, honest diagnostics, and getting jobs done on time. Most of our new customers come from word-of-mouth \u2014 and we're proud that around 60% of our work is from repeat clients or their friends. We turn up when we say we will, explain what's needed in plain English, and stand behind every job with a guarantee.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years in Nottingham"
+    },
+    {
+      "num": "60%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Registered & Certified"
+    },
+    {
+      "num": "48hrs",
+      "label": "Average Response Time"
+    }
+  ],
+  "reviews_heading": "What Nottinghamshire Homeowners Say About Zoom Electrical",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Brilliant service from start to finish. Had a dodgy socket that was sparking and was worried it'd be an expensive job. The lad came out same day, found the issue in the consumer unit, and sorted it for a fair price. Very professional and explained everything clearly. Would definitely recommend.",
+      "author": "David P.",
+      "loc": "West Bridgford, Nottingham \u2014 February 2025"
+    },
+    {
+      "text": "We needed the whole house rewiring and were dreading the upheaval. Zoom Electrical worked around our schedule, kept disruption to a minimum, and finished bang on time. The team were respectful and tidy. Got our EICR cert in the post within a week. Top job.",
+      "author": "Nicola M.",
+      "loc": "Beeston, Nottingham \u2014 December 2024"
+    },
+    {
+      "text": "Called for an emergency \u2014 my bathroom electrics had blown and I had guests arriving. They came within the hour, diagnosed a faulty extraction fan, and replaced it. Professional, no faffing about, and reasonably priced. Exactly what you want in a sparky.",
+      "author": "James T.",
+      "loc": "Mapperley, Nottingham \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving West Bridgford, Beeston, Mapperley, and all of Nottinghamshire",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency callouts arranged outside hours",
+  "emergency_banner_text": "Electrics playing up? We aim to attend urgent faults within 24 hours. Call now \u2014",
+  "footer_description": "Zoom Electrical: NICEIC-registered electricians in Nottingham. Full rewires, installations, fault finding, and testing. Fair prices, fast response, certified work.",
+  "footer_copyright": "\u00a9 2026 Zoom Electrical Nottingham. All rights reserved."
+}
