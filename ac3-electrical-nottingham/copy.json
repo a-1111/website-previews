@@ -1,0 +1,107 @@
+{
+  "slug": "ac3-electrical-nottingham",
+  "meta_title": "AC3 Electrical | Electricians Nottingham",
+  "meta_description": "AC3 Electrical provides reliable electrical installation, repair and maintenance services across Nottingham. NICEIC registered. Call 07814 508060 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Fast, Reliable Electrical Work",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From faulty sockets to full rewires, AC3 Electrical fixes problems quickly and gives you peace of mind.",
+  "badge_4": "Same-Day Call-Outs Available",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "1hr",
+      "label": "Average Response Time"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Nottingham",
+  "services_subhead": "Whether you need an emergency repair or a planned installation, we handle domestic and small commercial work with precision and care.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown circuits, flickering lights, or dead sockets? We diagnose and fix faults fast, often the same day. No job too small."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Old, unsafe wiring? We replace it completely, test every circuit, and leave you with a modern installation and an NICEIC certificate."
+    },
+    {
+      "title": "Kitchen & Bathroom Electrics",
+      "desc": "Specialists in installing sockets, lighting, and cooker circuits to Building Regulations. Wet room wiring done correctly."
+    },
+    {
+      "title": "Boiler & Heating Controls",
+      "desc": "Wire in your new boiler or upgrade heating controls. We work with all major brands and ensure safe, code-compliant installation."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Can't find the cause of a trip switch or intermittent fault? We test systematically, trace the problem, and fix it."
+    },
+    {
+      "title": "Garden & Outdoor Electrics",
+      "desc": "Weatherproof sockets, outdoor lighting, and EV charging points installed to the highest standards. RCD protection included."
+    }
+  ],
+  "about_pullquote": "I fix things properly the first time, not just patch them over.",
+  "about_para_1": "AC3 Electrical was founded on the principle that householders deserve honest, straightforward electrical work without the jargon or the rip-off prices. With over 12 years' experience across Nottingham, we've built our reputation on turning up on time, doing the job right, and explaining what we've done in plain English.",
+  "about_para_2": "We're NICEIC registered, which means every installation we carry out meets Building Regulations and carries a certificate you can trust. Our customers come back to us because we don't overcomplicate things, we charge fairly, and we take pride in leaving your home safe and working properly.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2,500+",
+      "label": "Satisfied Customers"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Registered & Certified"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat Business Rate"
+    }
+  ],
+  "reviews_heading": "What Nottingham Customers Say About AC3",
+  "rating": 4.8,
+  "review_count": 186,
+  "reviews": [
+    {
+      "text": "Called AC3 on a Saturday with a burnt-out socket in the kitchen. They fitted a new one and sorted out the circuit within an hour. No nonsense, fair price, and my kitchen's now safe. Highly recommend.",
+      "author": "Michael T.",
+      "loc": "Sherwood, Nottingham \u2014 February 2025"
+    },
+    {
+      "text": "Had to get the whole house rewired. Was dreading the mess and cost, but AC3 made it clear from the start what they were doing and why. Tidy job, completed on time, NICEIC certificate in hand. Brilliant service.",
+      "author": "Catherine L.",
+      "loc": "Beeston, Nottingham \u2014 January 2025"
+    },
+    {
+      "text": "After two other electricians gave up on finding my intermittent trip switch fault, AC3 came in and found it within an hour. Professional, patient, and honest. Would absolutely use them again.",
+      "author": "James P.",
+      "loc": "Lace Market, Nottingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham city centre, suburbs, and surrounding areas within 20 miles",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency call-outs available outside hours",
+  "emergency_banner_text": "Emergency? Call us now for same-day attendance on electrical faults and repairs \u2014",
+  "footer_description": "AC3 Electrical provides NICEIC-registered electrical installation, repair, and testing across Nottingham. Fast, reliable, fair-priced.",
+  "footer_copyright": "\u00a9 2026 AC3 Electrical. Registered in England & Wales."
+}
