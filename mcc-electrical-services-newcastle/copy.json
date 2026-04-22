@@ -1,0 +1,107 @@
+{
+  "slug": "mcc-electrical-services-newcastle",
+  "meta_title": "MCC Electrical Services | Electrician Newcastle",
+  "meta_description": "MCC Electrical Services NE Ltd, Newcastle. Domestic and commercial electrical work. Local, reliable, fully qualified. Call 07951 602817 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Fully Qualified \u2014 24/7 Emergency Call-Outs Available",
+  "hero_headline": "Newcastle's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault in Newcastle? We attend emergencies the same day, with parts carried on the van.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading since 2008"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Newcastle",
+  "services_subhead": "From emergency repairs to new installations, we handle every type of electrical work for homes and businesses.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Trip switches, blown fuses, socket faults, and broken lights \u2014 diagnosed and fixed fast. We carry common parts on the van to get you back to normal the same day."
+    },
+    {
+      "title": "Boiler and Heating Controls",
+      "desc": "Installation and repair of electric heating systems, immersion heaters, and smart thermostats. We ensure efficient, reliable heat with full certification."
+    },
+    {
+      "title": "New Installations and Extensions",
+      "desc": "Adding sockets, lighting circuits, or entire electrical systems to new builds and extensions. All work meets Part P Building Regulations with certification provided."
+    },
+    {
+      "title": "Rewiring and Upgrades",
+      "desc": "Old wiring posing a fire risk? We replace aged consumer units, rewire properties, and upgrade fuse boxes to modern safety standards."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Shop fittings, office wiring, and workplace electrics. We understand deadlines and minimise disruption to your business."
+    },
+    {
+      "title": "Periodic Testing and Inspections",
+      "desc": "EICR (electrical installation condition reports) for landlords, employers, and home sellers. We test, report, and recommend remedial work."
+    }
+  ],
+  "about_pullquote": "We treat every job as if it were our own home \u2014 no shortcuts, no surprises on the bill.",
+  "about_para_1": "MCC Electrical Services has been serving Newcastle and the surrounding area since 2008. Founded by electricians who got tired of seeing customers overcharged and let down by unreliable tradespeople, we built the business on a simple promise: fair pricing, fast response, and work you can trust. Every member of our team is fully qualified and insured.",
+  "about_para_2": "Hundreds of Newcastle homeowners and business owners have relied on us for emergencies, refurbishments, and new builds. We're known for turning up on time, explaining what's wrong in plain English, and giving honest advice \u2014 not upselling work you don't need. If something goes wrong, we put it right. That's why our customers come back and recommend us to their friends.",
+  "about_stats": [
+    {
+      "num": "18 years",
+      "label": "Established 2008"
+    },
+    {
+      "num": "2,400+",
+      "label": "Local jobs completed"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "100%",
+      "label": "Work guarantee"
+    }
+  ],
+  "reviews_heading": "What Newcastle Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a nightmare with an electrical fault just before Christmas \u2014 the lights kept cutting out. Called MCC on the recommendation of my sister and they came out the same afternoon. Really quick diagnosis, reasonable price, and the lad knew exactly what he was doing. Brilliant. Will use again.",
+      "author": "Mark T.",
+      "loc": "Gosforth, Newcastle \u2014 December 2024"
+    },
+    {
+      "text": "We needed the office rewired ahead of a lease inspection. They worked around our hours, were professional and tidy, and the whole job was done in a week. Best part \u2014 they explained everything and didn't charge us for work we didn't actually need. Rare these days!",
+      "author": "Helen C.",
+      "loc": "City Centre, Newcastle \u2014 September 2024"
+    },
+    {
+      "text": "Emergency call-out for a tripped consumer unit \u2014 we were in the dark. They answered the phone instantly, arrived within 50 minutes, and had us back up and running in about an hour. Very fair price. Definitely keeping their number.",
+      "author": "David M.",
+      "loc": "Jesmond, Newcastle \u2014 July 2024"
+    }
+  ],
+  "address_sub": "Serving Newcastle, Gateshead, Sunderland, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Electrical emergency in Newcastle? We aim to arrive within an hour. Call now \u2014",
+  "footer_description": "MCC Electrical Services, Newcastle. Fully qualified electricians. Emergency repairs, installations, rewiring, and commercial work. 18 years local experience.",
+  "footer_copyright": "\u00a9 2026 MCC Electrical Services (NE) Ltd. Registered in England & Wales."
+}
