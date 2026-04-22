@@ -1,0 +1,107 @@
+{
+  "slug": "perfect-garden-care-southampton",
+  "meta_title": "Perfect Garden Care | Gardeners Southampton",
+  "meta_description": "Perfect Garden Care in Southampton offers professional garden maintenance, landscaping, and seasonal care. Local gardeners serving Holbury and surrounding areas.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 08:00-16:00"
+  ],
+  "hero_eyebrow": "Local Southampton Gardeners \u2014 Reliable Year-Round Care",
+  "hero_headline": "Transform Your Southampton",
+  "hero_highlight": "Garden",
+  "hero_subhead": "From overgrown borders to stunning outdoor spaces, we handle the hard work so you can enjoy your garden.",
+  "badge_4": "Same-Day Quotes Available",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Established"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Maintained"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "2-Day",
+      "label": "Average Response"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Southampton",
+  "services_subhead": "Whether you need regular maintenance, a complete redesign, or seasonal tidying, we've got your garden covered.",
+  "services": [
+    {
+      "title": "Garden Maintenance",
+      "desc": "Weekly or fortnightly cuts, edging, and tidying. We keep your lawn pristine and borders weed-free throughout the year, whatever the season throws at you."
+    },
+    {
+      "title": "Hedge Trimming & Pruning",
+      "desc": "Professional shaping and cutting of hedges, shrubs, and trees. Safe removal of overgrown branches and proper disposal of all waste."
+    },
+    {
+      "title": "Patio & Decking Cleaning",
+      "desc": "Deep clean patios, decking, and driveways using specialist equipment. Removes moss, algae, and years of grime to restore your outdoor space."
+    },
+    {
+      "title": "Garden Clearance",
+      "desc": "Complete removal of overgrown vegetation, dead trees, and garden waste. We leave your garden ready for a fresh start, with all rubbish responsibly disposed of."
+    },
+    {
+      "title": "Landscaping & Design",
+      "desc": "Bespoke garden designs and installation of new beds, borders, and planting schemes. Transform a dull space into a garden you'll actually want to spend time in."
+    },
+    {
+      "title": "Seasonal Services",
+      "desc": "Spring preparation, summer feeding and watering, autumn leaf clearance, and winter protection for your plants. Year-round care tailored to what your garden needs."
+    }
+  ],
+  "about_pullquote": "A well-kept garden shouldn't feel like a burden \u2014 it should feel like a sanctuary.",
+  "about_para_1": "Perfect Garden Care was founded over a decade ago because we saw too many gardens in Southampton left neglected or handled by unreliable contractors. We started with a simple idea: turn up on time, do the work properly, and leave customers genuinely satisfied. That commitment has grown us from a one-person operation to a respected team handling everything from basic maintenance to full garden redesigns.",
+  "about_para_2": "Our customers choose us because we listen, we show up when we say we will, and we take pride in every job \u2014 whether it's a quick tidy or a complete overhaul. We've built our reputation through word-of-mouth recommendations across Holbury and beyond, and we still treat every garden like it matters.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "Years in Business"
+    },
+    {
+      "num": "500+",
+      "label": "Regular Clients"
+    },
+    {
+      "num": "95%",
+      "label": "Return Rate"
+    },
+    {
+      "num": "5\u2605",
+      "label": "On-Time Promise"
+    }
+  ],
+  "reviews_heading": "What Southampton Gardeners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Been using Perfect Garden Care for three years now. They come every fortnight without fail, and my garden looks immaculate. Fair prices and genuinely nice blokes. Can't fault them.",
+      "author": "Michael T.",
+      "loc": "Holbury, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Had a nightmare jungle of a garden that'd been left to go wild. They cleared it completely in two days and gave me a quote for redesigning it. Professional, efficient, and didn't rip me off. Highly recommend.",
+      "author": "Sarah K.",
+      "loc": "Totton, Southampton \u2014 December 2024"
+    },
+    {
+      "text": "Called them for emergency patio cleaning before a family gathering and they squeezed me in the next day. Patio looks brand new. Will definitely use them again for regular maintenance.",
+      "author": "James P.",
+      "loc": "Marchwood, Southampton \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Holbury, Totton, Marchwood, and surrounding Southampton areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 Closed Sundays",
+  "emergency_banner_text": "Need urgent garden work before an event? We handle emergency clearances and deep cleans. Call now \u2014",
+  "footer_description": "Perfect Garden Care is a local Southampton gardening team specialising in maintenance, landscaping, and seasonal care. Serving Holbury and beyond for over a decade.",
+  "footer_copyright": "\u00a9 2026 Perfect Garden Care. Trading from Southampton, Hampshire."
+}
