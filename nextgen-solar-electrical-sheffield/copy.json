@@ -1,0 +1,107 @@
+{
+  "slug": "nextgen-solar-electrical-sheffield",
+  "meta_title": "Nextgen Solar & Electrical | Electricians Sheffield",
+  "meta_description": "Nextgen Solar & Electrical Ltd \u2014 qualified electricians in Sheffield. Solar installations, rewires, and electrical repairs. Free quotes. Call 07947 785977.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Part P Certified \u2014 Solar & Electrical Experts",
+  "hero_headline": "Sheffield's",
+  "hero_highlight": "Solar & Electrical Specialists",
+  "hero_subhead": "From solar panel installations to emergency electrical repairs, we keep Sheffield homes and businesses powered safely and efficiently.",
+  "badge_4": "Free Quotes & Site Surveys",
+  "stats": [
+    {
+      "num": "12 yrs",
+      "label": "In business"
+    },
+    {
+      "num": "800+",
+      "label": "Solar systems installed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency callouts available"
+    }
+  ],
+  "services_heading": "Complete Electrical & Solar Services Across Sheffield",
+  "services_subhead": "Whether you need a new solar array, a full house rewire, or urgent fault-finding, we handle domestic and commercial work to the highest standards.",
+  "services": [
+    {
+      "title": "Solar Panel Installation",
+      "desc": "Bespoke solar systems designed to cut your electricity bills and maximise government grants. We handle design, installation, and grid connection from start to finish."
+    },
+    {
+      "title": "Domestic Rewiring",
+      "desc": "Full or partial house rewires to modern safety standards. We test all circuits, upgrade fusebox and consumer units, and provide a full electrical certificate."
+    },
+    {
+      "title": "Emergency Electrical Repair",
+      "desc": "Trip switches, flickering lights, dead sockets, or burning smells \u2014 we're out within hours. Available 24/7 for urgent faults that could risk your safety."
+    },
+    {
+      "title": "Fault-Finding & Diagnosis",
+      "desc": "Intermittent electrical problems can be tricky. We use professional test equipment to pinpoint faults quickly, then quote a fixed price for the repair."
+    },
+    {
+      "title": "EV Charging Point Installation",
+      "desc": "OLEV-approved installers fitting home and workplace chargers. We handle site survey, planning, installation, and certification."
+    },
+    {
+      "title": "Consumer Unit & Fusebox Upgrade",
+      "desc": "Old fuses or an overloaded board? We replace it with a modern RCD-protected consumer unit, improving safety and adding extra capacity."
+    }
+  ],
+  "about_pullquote": "We built this business on doing the job right first time, every time.",
+  "about_para_1": "Nextgen Solar & Electrical started in Sheffield in 2012 with a simple mission: to bring affordable solar power and honest electrical work to homes and businesses across South Yorkshire. We've grown from a one-man operation to a team of qualified electricians and solar engineers, completing over 800 solar installations and thousands of rewires, repairs, and upgrades. All our work carries full Part P certification and a comprehensive guarantee.",
+  "about_para_2": "Our customers trust us because we show up when we say we will, quote fairly, and explain what needs doing in plain English \u2014 no unnecessary upsells. We're based locally, we know Sheffield's properties and quirks, and we're proud to have built a reputation for reliability. Many of our clients have been with us for years, recommending us to friends and family.",
+  "about_stats": [
+    {
+      "num": "800+",
+      "label": "Solar systems fitted"
+    },
+    {
+      "num": "12 yrs",
+      "label": "Trading in Sheffield"
+    },
+    {
+      "num": "95%",
+      "label": "Customer return rate"
+    },
+    {
+      "num": "10-yr",
+      "label": "Solar panel warranty"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About Nextgen",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a solar system fitted last summer. The team was professional and tidy, finished on time, and everything's working brilliantly. Bill's gone down massively. Couldn't ask for better \u2014 highly recommend.",
+      "author": "Mark T.",
+      "loc": "Crookes, Sheffield \u2014 August 2024"
+    },
+    {
+      "text": "Called them out for a tripped electrics issue on a Saturday evening. They came within an hour, diagnosed a faulty socket in the kitchen, and had it sorted before midnight. Fair price, no fuss. Top marks.",
+      "author": "Susan B.",
+      "loc": "Dore, Sheffield \u2014 January 2025"
+    },
+    {
+      "text": "Got a full house rewire done by Nextgen. They explained everything, were respectful of the property, and all the work was signed off properly. Gave us peace of mind knowing it's all up to code. Will use them again.",
+      "author": "James P.",
+      "loc": "Ecclesall, Sheffield \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving all of Sheffield and South Yorkshire",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency line: 24/7",
+  "emergency_banner_text": "Electrical emergency in Sheffield? We're on call 24/7 and aim to be with you within the hour. Call now \u2014",
+  "footer_description": "Nextgen Solar & Electrical Ltd \u2014 Sheffield's trusted electricians for solar installation, rewiring, and emergency repairs. Part P certified, 12 years' experience.",
+  "footer_copyright": "\u00a9 2026 Nextgen Solar & Electrical Ltd. Registered in England & Wales."
+}
