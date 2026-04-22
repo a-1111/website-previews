@@ -1,0 +1,107 @@
+{
+  "slug": "kcm-services-southampton",
+  "meta_title": "KCM Services | Electrician Southampton",
+  "meta_description": "KCM Services is your Southampton electrician for domestic and commercial electrical work. Fast, reliable, fully qualified. Call 07875 715396 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Same-Day Emergency Callouts",
+  "hero_headline": "Southampton's Trusted",
+  "hero_highlight": "Electrician",
+  "hero_subhead": "Faulty electrics at 11pm? We're here for Southampton homes and businesses. Fast diagnosis, expert fix, fair pricing.",
+  "badge_4": "No Call-Out Fee",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Southampton",
+  "services_subhead": "From emergency repairs to full rewires, we handle every electrical job with safety and speed.",
+  "services": [
+    {
+      "title": "Emergency Callouts",
+      "desc": "Blown fuses, power outages, or sparking sockets? We attend within the hour, 24/7, and diagnose the fault on arrival."
+    },
+    {
+      "title": "Domestic Rewires",
+      "desc": "Outdated wiring putting your family at risk? We replace it safely to modern standards, with all work tested and certified."
+    },
+    {
+      "title": "Boiler & Heating Installation",
+      "desc": "Professional installation of gas boilers, heat pumps, and heating systems. Work carried out to Building Regulations and guaranteed."
+    },
+    {
+      "title": "Landlord Safety Certificates",
+      "desc": "Annual EICR inspection and certification for buy-to-let properties. Comply with regulations and protect your tenants."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Intermittent faults, earth issues, or safety concerns? We use diagnostic equipment to pinpoint the problem fast."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Office rewires, lighting upgrades, and ongoing maintenance for small businesses. Minimal disruption, full compliance."
+    }
+  ],
+  "about_pullquote": "I started this to prove that an electrician can be honest about costs and reliable on time.",
+  "about_para_1": "KCM Services was founded in 2006 by Kevin, who was tired of seeing customers overcharged and let down by big call-centre firms. Over 18 years, we've built our reputation on turning up on time, doing the job right first time, and always explaining what needs doing before we charge a penny. We're NICEIC registered, fully insured, and we've completed over 2,400 domestic and commercial jobs across Southampton and the surrounding area.",
+  "about_para_2": "Our customers return because we answer the phone quickly, we're honest about what can and can't be fixed, and we price fairly. Whether it's a blown fuse at midnight or a full property rewire, we treat every job with the same care and attention. We're part of the Southampton community \u2014 your neighbours know us, and we're proud of that.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "94%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "Southampton & Surrounds",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had a problem with the electrics in my kitchen after a power cut. Kevin arrived within 45 minutes and found a tripped RCD protecting the circuit. He explained what happened and the job was done in 20 minutes. No faffing about, no upselling. Will definitely use him again.",
+      "author": "David K.",
+      "loc": "Totton, Southampton \u2014 January 2025"
+    },
+    {
+      "text": "Needed the whole house rewired before we could sell. KCM quoted honestly and weren't trying to sell me things I didn't need. Work was finished on time, all certified properly, and the surveyor was happy. Brilliant bloke and fair price.",
+      "author": "Rachel P.",
+      "loc": "Shirley, Southampton \u2014 November 2024"
+    },
+    {
+      "text": "Boiler wouldn't fire up on Christmas Eve. Thought I'd have to wait until Boxing Day, but Kevin came out and got it running again same evening. Legend. That's what good customer service looks like.",
+      "author": "Martin T.",
+      "loc": "Bitterne Park, Southampton \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Southampton, Totton, Shirley, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line 24/7",
+  "emergency_banner_text": "Electrics down in Southampton? We're usually there within an hour. Call now \u2014",
+  "footer_description": "KCM Services is a trusted Southampton electrician offering emergency repairs, rewires, heating installation, and landlord certification.",
+  "footer_copyright": "\u00a9 2026 KCM Services. All rights reserved."
+}
