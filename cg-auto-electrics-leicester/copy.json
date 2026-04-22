@@ -1,0 +1,107 @@
+{
+  "slug": "cg-auto-electrics-leicester",
+  "meta_title": "C & G Auto Electrics | Auto Electrical Leicester",
+  "meta_description": "C & G Auto Electrics in Leicester. Expert auto electrical repairs, diagnostics, and installations. Fast, reliable service for all vehicle types. Call now.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:30",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Expert Auto Electrical Diagnosis & Repair",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Auto Electrical Specialists",
+  "hero_subhead": "Battery gone flat? Alternator failing? We diagnose and fix electrical faults fast, keeping you on the road.",
+  "badge_4": "Same-Day Diagnostics",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience in auto electrics"
+    },
+    {
+      "num": "2000+",
+      "label": "Vehicles serviced"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer satisfaction rating"
+    },
+    {
+      "num": "30 mins",
+      "label": "Average diagnostic time"
+    }
+  ],
+  "services_heading": "Complete Auto Electrical Services in Leicester",
+  "services_subhead": "From battery replacements to complex wiring faults, we handle every electrical issue your car might throw at us.",
+  "services": [
+    {
+      "title": "Battery Supply & Installation",
+      "desc": "Dead battery got you stranded? We stock quality batteries for all makes and models, fitted while you wait. No recharge time needed."
+    },
+    {
+      "title": "Alternator Repair & Replacement",
+      "desc": "Charging system not working? We test, repair, or replace faulty alternators quickly. Most jobs completed the same day."
+    },
+    {
+      "title": "Starter Motor Service",
+      "desc": "Engine won't turn over? We diagnose starter problems and fit new units. Back on the road within hours, not days."
+    },
+    {
+      "title": "Wiring & Fault Diagnosis",
+      "desc": "Flickering lights, dead circuits, or warning lights? Our diagnostic equipment pinpoints the fault, then we repair or replace damaged wiring."
+    },
+    {
+      "title": "Lighting Systems",
+      "desc": "Headlights, brake lights, interior lights \u2014 we repair and upgrade. Modern LED conversions available for better visibility and efficiency."
+    },
+    {
+      "title": "Electrical Accessory Installation",
+      "desc": "Want a dash cam, reverse sensors, or upgraded stereo? We install aftermarket electrical components safely and test everything before you leave."
+    }
+  ],
+  "about_pullquote": "I fix what others can't diagnose. That's earned us loyal customers.",
+  "about_para_1": "C & G Auto Electrics was founded on the principle that car electrical problems don't need to be expensive or complicated. With nearly two decades of hands-on experience, we've built a reputation for honest diagnosis and fair pricing across Leicester. We keep parts in stock and invest in the latest diagnostic equipment, so your car gets back to you quickly and reliably.",
+  "about_para_2": "Our customers come back because we explain what's wrong in plain English, quote fixed prices upfront, and stand behind our work. Whether it's a simple battery swap or tracking down a hidden wiring fault, we treat every job with the same care we'd give our own vehicles.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years trading"
+    },
+    {
+      "num": "2000+",
+      "label": "Vehicles repaired"
+    },
+    {
+      "num": "95%",
+      "label": "First-time fix rate"
+    },
+    {
+      "num": "All of Leicester",
+      "label": "Service area"
+    }
+  ],
+  "reviews_heading": "What Leicester Drivers Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Wouldn't go anywhere else now. My battery died on a Sunday morning and I rang on the off-chance. They fitted a new one within 90 minutes. Fair price, no faffing about, really impressed.",
+      "author": "Michael T.",
+      "loc": "Belgrave, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Took my Vauxhall in because the lights kept cutting out. They found a corroded connection in the wiring loom, fixed it, and tested everything. Cost less than I expected and it's been perfect ever since. Very professional.",
+      "author": "Helen K.",
+      "loc": "Oadby, Leicester \u2014 September 2024"
+    },
+    {
+      "text": "Brilliant service. My alternator had gone and I needed it done quickly. They diagnosed it straight away, had a replacement fitted and tested in two hours. The lad explained everything clearly. Definitely recommend.",
+      "author": "Dave W.",
+      "loc": "Westcotes, Leicester \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Based in Leicester, serving the surrounding area",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5:30pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Call for emergency callouts",
+  "emergency_banner_text": "Car won't start or lights gone? Call us now for same-day electrical repair in Leicester \u2014",
+  "footer_description": "C & G Auto Electrics: expert auto electrical diagnosis, repair, and installation in Leicester. 18 years' experience, same-day service, fair prices.",
+  "footer_copyright": "\u00a9 2026 C & G Auto Electrics. Registered in England & Wales."
+}
