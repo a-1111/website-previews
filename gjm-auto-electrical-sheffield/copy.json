@@ -1,0 +1,107 @@
+{
+  "slug": "gjm-auto-electrical-sheffield",
+  "meta_title": "GJM Auto-Electrical | Car Electrics Sheffield",
+  "meta_description": "GJM Auto-Electrical Sheffield. Expert car electrical repair, diagnostics and battery service. Fast, reliable, competitive rates. Call us today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:30",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "Expert Auto-Electrical \u2014 Fast Diagnostics & Repairs",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Auto-Electrical Specialist",
+  "hero_subhead": "Charging issues, faulty alternators, or warning lights? We diagnose and fix car electrics fast, keeping you on the road.",
+  "badge_4": "Same-Day Diagnostics",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "1000+",
+      "label": "Cars Serviced"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "30 mins",
+      "label": "Average Diagnosis Time"
+    }
+  ],
+  "services_heading": "Complete Auto-Electrical Services in Sheffield",
+  "services_subhead": "From battery replacement to full rewires, we handle all car electrical faults with speed and expertise.",
+  "services": [
+    {
+      "title": "Battery & Charging System Repair",
+      "desc": "Dead battery? Struggling to start? We test, repair or replace batteries and alternators on the spot, with brands you trust."
+    },
+    {
+      "title": "Starter Motor & Ignition Diagnostics",
+      "desc": "Engine won't turn over or clicks repeatedly? Our quick diagnostics pinpoint the fault and get you back on the road same day."
+    },
+    {
+      "title": "Fault Code Diagnostics",
+      "desc": "Warning lights on your dash? We plug in our diagnostic scanner, read the fault codes, and advise the best repair path."
+    },
+    {
+      "title": "Wiring & Rewire Work",
+      "desc": "Corroded wires, faulty connectors, or new accessory installation. We trace and repair electrical faults throughout your vehicle."
+    },
+    {
+      "title": "Lighting Repairs & Upgrades",
+      "desc": "Headlights, brake lights, or interior bulbs not working? We replace and upgrade your lighting safely and professionally."
+    },
+    {
+      "title": "Accessory Installation",
+      "desc": "Adding a reversing camera, sat-nav, or dash cam? We install and wire it correctly, with a clean, professional finish."
+    }
+  ],
+  "about_pullquote": "We fix cars properly, first time. No guesswork, no inflated bills.",
+  "about_para_1": "GJM Auto-Electrical has been serving Sheffield motorists for 18 years. We started because we were tired of seeing people ripped off by dealerships for simple electrical jobs. Today, we're known across Sheffield for honest diagnostics, fair pricing, and electrical work that lasts.",
+  "about_para_2": "Our reputation is built on speed and transparency. We diagnose most faults in 30 minutes and explain exactly what needs doing before we touch a spanner. Whether it's a \u00a340 bulb or a complex rewire, we treat your car with respect and keep costs realistic.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Established 2008"
+    },
+    {
+      "num": "1000+",
+      "label": "Vehicles Repaired"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "Sheffield",
+      "label": "Local & Trusted"
+    }
+  ],
+  "reviews_heading": "What Sheffield Drivers Say About Us",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Had an issue with my alternator and couldn't face the dealer rip-off. Called GJM and they diagnosed it straight away. Fitted a quality replacement in an hour, saved me nearly \u00a3200 compared to the main dealer. Will definitely be back.",
+      "author": "Mark T.",
+      "loc": "Ecclesall, Sheffield \u2014 January 2025"
+    },
+    {
+      "text": "My battery died on a Saturday morning and I was panicking. They fitted a new one and had me on my way before noon. Professional lads, no messing about, fair price. Couldn't ask for better.",
+      "author": "Claire P.",
+      "loc": "Dronfield, Sheffield \u2014 December 2024"
+    },
+    {
+      "text": "Took my Mondeo in with warning lights everywhere. They tested it properly, explained what was wrong, and only charged me for what actually needed doing. Rare to find an auto sparks you can trust. Highly recommend.",
+      "author": "David M.",
+      "loc": "Hillsborough, Sheffield \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Based in Sheffield city centre \u2014 serving all of South Yorkshire and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5:30pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Closed Sunday \u2022 Phone for emergency out-of-hours callouts",
+  "emergency_banner_text": "Car won't start or electrical fault on the road? We respond quickly to urgent jobs. Ring us now \u2014",
+  "footer_description": "GJM Auto-Electrical Sheffield. Expert car electrical repair, diagnostics, and battery service. Fast, honest, fair prices. 18 years trusted.",
+  "footer_copyright": "\u00a9 2026 GJM Auto-Electrical Ltd. Registered in England & Wales."
+}
