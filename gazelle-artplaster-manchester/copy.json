@@ -1,0 +1,107 @@
+{
+  "slug": "gazelle-artplaster-manchester",
+  "meta_title": "Gazelle Artplaster | Plasterer Manchester",
+  "meta_description": "Gazelle Artplaster is your Manchester plasterer for interior finishing, repairs, and decorative plasterwork. Expert craftsmanship, reliable service. Call now.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Skilled Plasterer \u2014 15+ Years in Manchester",
+  "hero_headline": "Manchester's Trusted",
+  "hero_highlight": "Plasterer & Finisher",
+  "hero_subhead": "From fresh plaster finishes to damage repair, we deliver flawless interior walls and ceilings across Manchester.",
+  "badge_4": "Same-Day Quotes Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Plastering"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "2-Day",
+      "label": "Average Turnaround"
+    }
+  ],
+  "services_heading": "Professional Plastering Services Across Manchester",
+  "services_subhead": "We specialise in internal plasterwork, from new builds and renovations to expert repairs and decorative finishes.",
+  "services": [
+    {
+      "title": "Interior Wall Plastering",
+      "desc": "Smooth, professional plaster finishes for new builds, extensions, and renovations. We deliver perfectly flat walls ready for paint or wallpaper."
+    },
+    {
+      "title": "Ceiling Plasterwork",
+      "desc": "Expert ceiling repairs and new installations, including artex removal and modern smooth finishes. Ideal for dated properties and water-damaged ceilings."
+    },
+    {
+      "title": "Damp & Damage Repairs",
+      "desc": "We reinstate plasterwork after water damage, structural cracks, or impact damage, ensuring proper drying and lasting results."
+    },
+    {
+      "title": "Decorative Plasterwork",
+      "desc": "Coving, cornicing, and ornamental finishes to enhance period properties and add character to modern homes."
+    },
+    {
+      "title": "Skimming & Re-coating",
+      "desc": "Light skim coats over damaged or uneven existing plaster. Perfect for refreshing tired walls without full replastering."
+    },
+    {
+      "title": "Partition Walls & Stud Work",
+      "desc": "We build and plaster internal partition walls and stud partitions, fully finished and ready for immediate use."
+    }
+  ],
+  "about_pullquote": "I started Gazelle because good plasterwork should last decades, not months.",
+  "about_para_1": "Gazelle Artplaster was founded on the principle that interior plasterwork is a craft worth doing properly. Based in Chorlton-cum-Hardy, we've spent over 15 years perfecting finishes across Manchester homes and commercial properties. Every job\u2014whether a new-build interior or a period property repair\u2014gets the same meticulous attention to detail.",
+  "about_para_2": "We're known locally for reliability, fair pricing, and turning up on time. Our customers appreciate that we listen to what they need, give honest quotes with no surprises, and leave the site clean. Repeat work and word-of-mouth referrals make up most of our business\u2014a testament to the quality of our plasterwork.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "500+",
+      "label": "Homes & Businesses Served"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "All Manchester",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Manchester Homeowners Say About Gazelle",
+  "rating": 4.8,
+  "review_count": 47,
+  "reviews": [
+    {
+      "text": "Had three rooms replastered after dampness issues. The lads were professional, tidy, and finished ahead of schedule. Walls are absolutely perfect\u2014best money we've spent on the house.",
+      "author": "David T.",
+      "loc": "Chorlton-cum-Hardy, Manchester \u2014 February 2025"
+    },
+    {
+      "text": "Needed urgent ceiling repair after a leak upstairs. Gazelle came within two days, sorted the water damage, and re-plastered the lot. Fair price, no messing about. Highly recommend.",
+      "author": "Karen M.",
+      "loc": "Didsbury, Manchester \u2014 December 2024"
+    },
+    {
+      "text": "Used them for skimming work in our Victorian semi. They matched the period cornicing beautifully and left no mess. Already booked them again for the landing.",
+      "author": "Michael L.",
+      "loc": "Withington, Manchester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving all of Greater Manchester from our Chorlton-cum-Hardy base",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Flexible scheduling for your project",
+  "emergency_banner_text": "Urgent plaster damage or ceiling collapse? We respond quickly to emergency repairs. Call now \u2014",
+  "footer_description": "Gazelle Artplaster specialises in interior plastering across Manchester. Expert finishes, honest pricing, reliable service.",
+  "footer_copyright": "\u00a9 2026 Gazelle Artplaster. Based in Manchester, England."
+}
