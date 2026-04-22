@@ -1,0 +1,107 @@
+{
+  "slug": "earth-electrical-nottingham",
+  "meta_title": "Earth Electrical | Electricians Nottingham",
+  "meta_description": "Earth Electrical in Nottingham provides domestic and commercial electrical services. Fast, reliable, and fully qualified. Call 07850 790026 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Emergency Call-Outs Available",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty wiring, trip switches, or urgent repairs in Nottingham? We're here fast, any time of day.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading in Nottingham"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Electrical Services Across Nottingham",
+  "services_subhead": "From emergency repairs to full rewires, we handle domestic and commercial electrical work with speed and precision.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Trip switches, dead sockets, flickering lights \u2014 we diagnose and fix faults the same day. Available 24/7 for genuine emergencies."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Ageing wiring puts your home at risk. We replace outdated systems with modern, safety-certified installations backed by a 10-year guarantee."
+    },
+    {
+      "title": "Fusebox & Consumer Unit Upgrades",
+      "desc": "Old or dangerous fuseboxes replaced with modern, safety-compliant units. Improves safety and allows you to add modern appliances."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Can't locate an electrical fault? We use diagnostic equipment to pinpoint problems quickly, saving you time and money on guesswork."
+    },
+    {
+      "title": "Commercial & Industrial Wiring",
+      "desc": "Offices, workshops, and retail units need reliable electrical systems. We install and maintain circuits that keep your business running."
+    },
+    {
+      "title": "EV Charging Point Installation",
+      "desc": "Install a home or workplace EV charger safely and compliantly. Future-proof your property and charge smarter."
+    }
+  ],
+  "about_pullquote": "I started Earth Electrical because I hated seeing customers ripped off by cowboys.",
+  "about_para_1": "Earth Electrical has been serving Nottingham for 18 years. We were founded on a simple belief: honest work at fair prices, no cowboy tactics. Over that time, we've completed more than 2,500 jobs, from emergency callouts to full house rewires, and built a reputation for turning up on time and getting the job right first time.",
+  "about_para_2": "Our customers come back because we explain what's wrong, quote upfront, and stick to it. We're NICEIC-approved, insured, and qualified to handle everything from a blown socket to a full commercial install. Whether you're in New Basford or across Nottingham, you'll get the same honest service and competitive pricing.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2,500+",
+      "label": "Installations Completed"
+    },
+    {
+      "num": "89%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "Nottingham-wide",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Had a problem with the electrics in my kitchen and was worried it'd be expensive. Called Earth Electrical and they came out within an hour. Turned out it was just a loose connection, took 10 minutes to fix, and they only charged for the callout. Brilliant service, no messing about.",
+      "author": "David T.",
+      "loc": "New Basford, Nottingham \u2014 February 2025"
+    },
+    {
+      "text": "Got our whole house rewired last year. The team was professional, tidy, and actually explained what they were doing. Finished on time, on budget, and came with a 10-year guarantee. Would definitely recommend.",
+      "author": "Sarah M.",
+      "loc": "Lenton, Nottingham \u2014 December 2024"
+    },
+    {
+      "text": "Emergency call at 11pm \u2014 kitchen electrics were arcing. They picked up straight away, came out within 45 minutes, and had it sorted by midnight. Fair price too, considering the time. You don't forget service like that.",
+      "author": "James L.",
+      "loc": "Wollaton, Nottingham \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving New Basford, Lenton, Wollaton, and across greater Nottingham",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Electrical emergency in Nottingham? We aim to be with you in under an hour, any time of day or night. Call now \u2014",
+  "footer_description": "Earth Electrical is a NICEIC-approved electrician in Nottingham, specialising in emergency repairs, rewires, and commercial installations.",
+  "footer_copyright": "\u00a9 2026 Earth Electrical. All rights reserved."
+}
