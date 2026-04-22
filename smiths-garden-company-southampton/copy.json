@@ -1,0 +1,107 @@
+{
+  "slug": "smiths-garden-company-southampton",
+  "meta_title": "Smiths Garden Company | Landscape Gardener Southampton",
+  "meta_description": "Smiths Garden Company is a Southampton landscape gardener specialising in garden design, planting, and maintenance. Free quotes available. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Professional Landscape Design & Garden Maintenance",
+  "hero_headline": "Transform Your Southampton",
+  "hero_highlight": "Garden Space",
+  "hero_subhead": "Expert landscape design and maintenance that turns your outdoor space into a place you actually want to spend time in.",
+  "badge_4": "Free Design Consultation",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in Landscaping"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Same-Day",
+      "label": "Quote Response"
+    }
+  ],
+  "services_heading": "Complete Garden & Landscape Services Across Southampton",
+  "services_subhead": "From initial design through to ongoing maintenance, we handle every aspect of creating and caring for beautiful outdoor spaces.",
+  "services": [
+    {
+      "title": "Garden Design & Planning",
+      "desc": "Bespoke garden designs tailored to your space, style, and budget. We listen to your vision and create detailed plans before any work begins."
+    },
+    {
+      "title": "Planting & Landscaping",
+      "desc": "Professional planting schemes using shrubs, perennials, and trees that thrive in Southampton's climate. We source quality plants and ensure expert installation."
+    },
+    {
+      "title": "Patio & Hardscaping",
+      "desc": "Durable patios, pathways, and raised beds using quality materials. We design functional outdoor living areas that complement your home."
+    },
+    {
+      "title": "Garden Maintenance",
+      "desc": "Regular maintenance packages including lawn care, hedge trimming, weeding, and seasonal tidying. Keep your garden looking pristine year-round."
+    },
+    {
+      "title": "Lawn Care & Seeding",
+      "desc": "Lawn treatments, overseeding, and expert maintenance to achieve a lush, healthy grass area. We handle aeration, feeding, and moss control."
+    },
+    {
+      "title": "Tree & Hedge Work",
+      "desc": "Professional pruning, trimming, and removal of trees and hedges. We keep growth under control whilst maintaining plant health and garden aesthetics."
+    }
+  ],
+  "about_pullquote": "We believe every garden deserves expert care and attention to detail.",
+  "about_para_1": "Smiths Garden Company has been creating and maintaining beautiful gardens across Southampton and the surrounding areas for over 15 years. What started as a passion for landscape design has grown into a trusted local business, with a reputation built on quality workmanship and genuine customer relationships.",
+  "about_para_2": "We specialise in turning overgrown or uninspiring outdoor spaces into gardens you'll love to spend time in. Our team takes time to understand your vision and deliver results that exceed expectations. Many of our customers come back year after year for maintenance \u2014 that's the kind of service we pride ourselves on.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Operating"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Completed"
+    },
+    {
+      "num": "90%",
+      "label": "Repeat Clients"
+    },
+    {
+      "num": "10",
+      "label": "Staff & Team"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "We had a neglected back garden that we didn't know where to start with. Smiths came out, listened to what we wanted, and the transformation was incredible. They managed the whole project from design to planting. Really professional and good value.",
+      "author": "Claire T.",
+      "loc": "Waltham Chase, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Been using Smiths for maintenance for three years now. They're reliable, thorough, and actually care about the garden. Always turn up on time and the lawn looks fantastic. Can't recommend them enough.",
+      "author": "Mark P.",
+      "loc": "Shirley, Southampton \u2014 January 2025"
+    },
+    {
+      "text": "Had a massive overgrown hedge sorted in a day. The team were tidy, professional, and kept the costs reasonable. Much better than the quotes I got elsewhere. Will be booking them again for spring planting.",
+      "author": "Emma K.",
+      "loc": "Totton, Southampton \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Southampton, Waltham Chase, Totton, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Free site visits available",
+  "emergency_banner_text": "Ready to start your garden transformation? Get a free design consultation and quote \u2014",
+  "footer_description": "Smiths Garden Company delivers expert landscape design, planting, and maintenance across Southampton. Free quotes, professional service, proven results.",
+  "footer_copyright": "\u00a9 2026 Smiths Garden Company. All rights reserved."
+}
