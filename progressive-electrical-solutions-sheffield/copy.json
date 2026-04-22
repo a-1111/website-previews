@@ -1,0 +1,107 @@
+{
+  "slug": "progressive-electrical-solutions-sheffield",
+  "meta_title": "Progressive Electrical Solutions | Electrician Sheffield",
+  "meta_description": "Progressive Electrical Solutions is your trusted Sheffield electrician. Fast response, fully certified, domestic and commercial work. Call 07740 552720 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Certified \u2014 24/7 Emergency Call-Outs Available",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Broken socket at 11pm? Sparks flying from your fuse board? We're here within the hour, seven days a week.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "850+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "15yrs",
+      "label": "In business"
+    },
+    {
+      "num": "100%",
+      "label": "Upfront pricing"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Sheffield",
+  "services_subhead": "From urgent fault-finding to full rewires, we handle every electrical need for homes and businesses.",
+  "services": [
+    {
+      "title": "Emergency Call-Outs",
+      "desc": "Power cuts, burning smells, tripped electrics \u2014 we diagnose and fix faults fast, any time day or night. Most jobs resolved on first visit."
+    },
+    {
+      "title": "Boiler Repairs & Electrics",
+      "desc": "Faults with immersion heaters, blown thermal cutouts, and wiring issues fixed quickly. Get your hot water back and your heating running smoothly."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Upgrade aging wiring to modern safety standards. We'll minimise disruption, run new circuits, upgrade your consumer unit, and test everything to Building Regs."
+    },
+    {
+      "title": "Fault-Finding & Testing",
+      "desc": "Strange trips on your electrics? Lights flickering? We trace the problem methodically and explain what's wrong in plain English before quoting."
+    },
+    {
+      "title": "Commercial & Industrial",
+      "desc": "Shops, workshops, and offices need reliable power. We design installations, handle upgrades, and maintain your systems to keep downtime to zero."
+    },
+    {
+      "title": "EV Charger Installation",
+      "desc": "Future-proof your home or business with a fast, safe electric vehicle charger. We handle all paperwork and certification."
+    }
+  ],
+  "about_pullquote": "I started this to be the electrician I'd have wanted to call myself.",
+  "about_para_1": "Progressive Electrical Solutions was founded 15 years ago in Sheffield with a simple idea: be the electrician your mum would trust. We've grown from a one-man operation to a small, tight team, but we've never lost that principle. Every member is NICEIC certified, properly trained, and holds current Part P certification. We're proud that most of our work comes from repeat customers and their neighbours.",
+  "about_para_2": "What sets us apart is honesty. We won't oversell you a new consumer unit when a single repair will do. We'll turn up on time, explain what we find in plain English, and quote upfront before we touch anything. Our emergency line is genuinely answered by a real electrician \u2014 not a call centre \u2014 and we aim to be with you in under an hour for any urgent fault in Sheffield.",
+  "about_stats": [
+    {
+      "num": "15yrs",
+      "label": "Local family business"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency available"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a complete rewire done last summer and couldn't fault them. Started early, finished on time, explained everything clearly. House is a 1930s terrace and they sorted out all the dodgy old wiring. Worth every penny and they left the place spotless.",
+      "author": "Michael T.",
+      "loc": "Ecclesall, Sheffield \u2014 August 2024"
+    },
+    {
+      "text": "Called at 11:30pm on a Saturday because our kitchen had no power. They came out within 45 minutes, found a burnt socket, replaced it, and tested the whole circuit. Really friendly, fair price, and I slept soundly that night. Will definitely use again.",
+      "author": "Rebecca H.",
+      "loc": "City Centre, Sheffield \u2014 February 2025"
+    },
+    {
+      "text": "Got a quote for a new consumer unit from another firm for \u00a3800. Rang Progressive and they came same day, looked at it properly, and said the existing one just needed the main switch replacing. \u00a3120 all in. That's the kind of honest service you don't find often. Top blokes.",
+      "author": "David P.",
+      "loc": "Crookes, Sheffield \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Based in Sheffield S12 \u2014 serving South Yorkshire and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line answered 24/7",
+  "emergency_banner_text": "Electricity emergency? We'll be with you within the hour, day or night. Call now \u2014",
+  "footer_description": "Progressive Electrical Solutions is a Sheffield-based electrician serving homes and businesses across South Yorkshire. NICEIC certified, 24/7 emergency cover, honest pricing.",
+  "footer_copyright": "\u00a9 2026 Progressive Electrical Solutions. All rights reserved."
+}
