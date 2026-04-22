@@ -1,0 +1,107 @@
+{
+  "slug": "eden-garden-services-southampton",
+  "meta_title": "Eden Garden Services | Gardener Southampton",
+  "meta_description": "Eden Garden Services Southampton. Professional garden maintenance, landscaping, and seasonal care. Local family business. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Local Southampton Gardener \u2014 Full Garden Care & Design",
+  "hero_headline": "Southampton's Trusted",
+  "hero_highlight": "Garden Experts",
+  "hero_subhead": "From overgrown borders to complete garden transformation\u2014we'll get your outdoor space looking brilliant again.",
+  "badge_4": "Free Garden Survey & Quote",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Established in Southampton"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Satisfaction Rating"
+    },
+    {
+      "num": "Same-Day",
+      "label": "Quotes Available"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Southampton",
+  "services_subhead": "From routine maintenance and seasonal pruning to full garden design and landscaping, we handle every aspect of garden care.",
+  "services": [
+    {
+      "title": "Garden Maintenance & Lawn Care",
+      "desc": "Regular grass cutting, edging, and lawn treatment to keep your garden looking pristine. We tailor visit frequency to suit your needs and season."
+    },
+    {
+      "title": "Hedging & Shrub Pruning",
+      "desc": "Expert pruning and shaping of hedges and shrubs to promote healthy growth and maintain neat, attractive borders year-round."
+    },
+    {
+      "title": "Seasonal Garden Tidy-Ups",
+      "desc": "Spring clearance, autumn leaf collection, and winter preparation. We clear debris, prune back dead growth, and ready your garden for the months ahead."
+    },
+    {
+      "title": "Garden Design & Landscaping",
+      "desc": "Full garden transformation from concept to completion. We design layouts that work for your lifestyle and budget, handling all planting and hard landscaping."
+    },
+    {
+      "title": "Patio & Decking Installation",
+      "desc": "New patios, decking, and garden structures built to last. We manage the whole project, from groundwork through to finishing touches."
+    },
+    {
+      "title": "Tree Surgery & Removal",
+      "desc": "Safe felling, crown reduction, and stump removal for large trees. All work follows British standards and includes proper disposal and site clearance."
+    }
+  ],
+  "about_pullquote": "We treat every garden like our own, and customers notice the difference.",
+  "about_para_1": "Eden Garden Services was founded on the principle that a well-maintained garden transforms how you enjoy your home. Over 12 years, we've built a reputation across Southampton for reliable, thorough work\u2014whether it's a fortnightly lawn cut or a complete garden redesign. We're a small, tight-knit team who know the local climate, soil, and growing conditions inside out.",
+  "about_para_2": "Our customers come back because we listen, we're punctual, and we take pride in the detail. We're not here to oversell you services you don't need\u2014we'll give you honest advice about what your garden needs and when. Many of our clients have been with us for years, and their gardens show it.",
+  "about_stats": [
+    {
+      "num": "12",
+      "label": "Years Serving Southampton"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Maintained"
+    },
+    {
+      "num": "All",
+      "label": "Areas of Southampton Covered"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Absolute lifesaver. Garden was completely overgrown after the winter and I had no idea where to start. Dave and the team came in, sorted it all out in a day, and now it's my favourite space again. Fair pricing too.",
+      "author": "Rebecca T.",
+      "loc": "Calmore, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Been using Eden for the lawn cuts for about three years now. Never let us down, always professional, and the lads actually care about what they're doing. Highly recommend them.",
+      "author": "Michael H.",
+      "loc": "Shirley, Southampton \u2014 January 2025"
+    },
+    {
+      "text": "Had them in to design and build a new patio with raised beds. They listened to what we wanted, stuck to the budget, and the finished garden is stunning. Will definitely be using them again.",
+      "author": "Linda S.",
+      "loc": "Totton, Southampton \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving Calmore, Shirley, Totton, and all surrounding Southampton areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Free quotes by arrangement",
+  "emergency_banner_text": "Garden emergency or urgent clearance needed? Call us today for same-day quotes and rapid response \u2014",
+  "footer_description": "Eden Garden Services: professional garden maintenance, landscaping, and design across Southampton. Local, reliable, trusted since 2013.",
+  "footer_copyright": "\u00a9 2026 Eden Garden Services. All rights reserved."
+}
