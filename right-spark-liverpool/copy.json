@@ -1,0 +1,107 @@
+{
+  "slug": "right-spark-liverpool",
+  "meta_title": "Right Spark | Electrician Liverpool",
+  "meta_description": "Right Spark delivers reliable electrical work across Liverpool. From rewiring to fault-finding, we're your local electrician. Call 07853 381968 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Emergency Callouts Available",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From faulty circuits to full rewiring, Right Spark diagnoses and fixes electrical problems fast \u2014 same-day appointments available across Liverpool.",
+  "badge_4": "Same-Day Service",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years in business"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "1 hour",
+      "label": "Average response time"
+    }
+  ],
+  "services_heading": "Electrical Services Across Liverpool",
+  "services_subhead": "We handle everything from emergency repairs and safety inspections to complete rewiring and new installations for homes and small businesses.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped circuits, or dead sockets? We diagnose faults on the spot and fix them fast. Most emergency call-outs completed same day."
+    },
+    {
+      "title": "Full House Rewiring",
+      "desc": "Outdated wiring puts your home at risk. We replace worn cable and upgrade your consumer unit to modern safety standards, with minimal disruption."
+    },
+    {
+      "title": "Periodic Electrical Testing",
+      "desc": "EICR safety inspections reveal hidden faults before they cause fires or shocks. Essential for landlords and peace of mind for homeowners."
+    },
+    {
+      "title": "Lighting & Power Installation",
+      "desc": "Whether you need new circuits, outdoor sockets, or a complete lighting overhaul, we design and install to Building Regulations."
+    },
+    {
+      "title": "Fault-Finding & Diagnosis",
+      "desc": "Can't work out why the lights flicker or a circuit keeps failing? We trace the problem using proper test equipment and explain the fix in plain English."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace old fuse boards with modern RCD-protected units that protect against electric shock and fire. Fully compliant and certified."
+    }
+  ],
+  "about_pullquote": "I started Right Spark because I got tired of seeing dodgy work put families at risk.",
+  "about_para_1": "Right Spark was founded over a decade ago by an electrician frustrated with cowboys cutting corners. We're NICEIC registered and committed to doing the job right \u2014 safely, on time, and fairly priced. Today we're one of Liverpool's most trusted electricians, with hundreds of happy homeowners and business owners on our books.",
+  "about_para_2": "Customers come back to us because we show up when we say we will, explain what needs doing without jargon, and never surprise you with hidden charges. We're not the cheapest, but we're the best value. Our reputation is built on honest work and genuine care for the homes and businesses we wire.",
+  "about_stats": [
+    {
+      "num": "NICEIC",
+      "label": "Registered electrician"
+    },
+    {
+      "num": "12+",
+      "label": "Years serving Liverpool"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "All L postcodes",
+      "label": "Full city coverage"
+    }
+  ],
+  "reviews_heading": "What Liverpool Homeowners Say About Right Spark",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Called them out with a dodgy socket that kept sparking. Dan arrived within the hour, found a loose connection in the consumer unit, and sorted it straight away. Really professional bloke, fair price, and he left the place spotless. Can't fault them.",
+      "author": "Paul T.",
+      "loc": "Toxteth, Liverpool \u2014 January 2025"
+    },
+    {
+      "text": "Had Right Spark rewire our whole terraced house. Big job but they were organised, tidy, and didn't mess about. All the work is certified and they explained everything as they went. Brilliant service. Highly recommend.",
+      "author": "Angela M.",
+      "loc": "Wavertree, Liverpool \u2014 November 2024"
+    },
+    {
+      "text": "Emergency call-out at 6pm on a Sunday \u2014 the cooker had stopped working and we had family coming round. They got someone to us within 45 minutes and had us back in business by 7:30. Lifesaver. Worth every penny.",
+      "author": "Robert H.",
+      "loc": "Aigburth, Liverpool \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Liverpool and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line 24/7 for urgent call-outs",
+  "emergency_banner_text": "Electrical emergency in Liverpool? We arrive within an hour, 24/7. Call now \u2014",
+  "footer_description": "Right Spark is a NICEIC-registered electrician based in Liverpool. We handle emergency repairs, rewiring, and safety inspections across the city.",
+  "footer_copyright": "\u00a9 2026 Right Spark Electrical. Registered in England & Wales."
+}
