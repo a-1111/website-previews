@@ -1,0 +1,107 @@
+{
+  "slug": "tranah-garden-services-southampton",
+  "meta_title": "Tranah Garden Services | Gardener Southampton",
+  "meta_description": "Tranah Garden Services provides expert gardening in Southampton and Hedge End. Lawn care, planting, maintenance and design. Call us today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local Family Business \u2014 20+ Years' Experience",
+  "hero_headline": "Your Garden",
+  "hero_highlight": "Deserves Better",
+  "hero_subhead": "Professional garden design, maintenance, and landscaping across Southampton. We transform tired gardens into outdoor spaces you'll actually use.",
+  "badge_4": "Free Quotes & Site Visits",
+  "stats": [
+    {
+      "num": "20+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "1000+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Southampton & Hedge End",
+  "services_subhead": "From seasonal maintenance to full garden redesigns, we handle every aspect of garden care with attention to detail and real expertise.",
+  "services": [
+    {
+      "title": "Garden Maintenance & Upkeep",
+      "desc": "Regular lawn mowing, hedge trimming, weeding, and seasonal tidying. We work on monthly, quarterly, or one-off basis to keep your garden looking its best year-round."
+    },
+    {
+      "title": "Landscape Design & Installation",
+      "desc": "Custom garden designs tailored to your space and vision. We handle soil prep, planting schemes, patio laying, and garden structures to create outdoor rooms you'll love."
+    },
+    {
+      "title": "Lawn Care & Restoration",
+      "desc": "Overseeding, aeration, feeding, and weed control to restore tired grass. We'll diagnose problems like moss and bare patches and bring your lawn back to life."
+    },
+    {
+      "title": "Tree & Shrub Pruning",
+      "desc": "Expert pruning and shaping to promote healthy growth and improve sight lines. We remove dead wood, manage overgrowth, and maintain structure safely."
+    },
+    {
+      "title": "Garden Clearance & Rubbish Removal",
+      "desc": "Full clearance of overgrown gardens, waste removal, and site preparation. Perfect for new-build properties or inherited gardens that need a fresh start."
+    },
+    {
+      "title": "Planting & Garden Borders",
+      "desc": "Seasonal bedding, herbaceous borders, and permanent planting schemes. We select plants suited to your soil, light, and maintenance preferences."
+    }
+  ],
+  "about_pullquote": "We treat every garden like it's our own home. That's the difference.",
+  "about_para_1": "Tranah Garden Services was founded over 20 years ago by someone who got tired of watching beautiful gardens fall into neglect. What started as a one-man operation now serves hundreds of homeowners across Southampton and Hedge End. We've built our reputation on reliability, honest pricing, and genuinely caring about the end result.",
+  "about_para_2": "Our customers come back year after year because we listen, we turn up when we say we will, and we deliver work that lasts. We're not the cheapest, but we're fair \u2014 and you'll spend less on replacements if the job's done right the first time. Many clients have been with us for over a decade.",
+  "about_stats": [
+    {
+      "num": "20+",
+      "label": "Years Established"
+    },
+    {
+      "num": "4-5",
+      "label": "Person Team"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "Southampton & Hedge End",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Absolutely brilliant. The garden was a complete mess when we bought the house \u2014 overgrown, weeds everywhere. James and the team cleared it all, laid a new patio, and planted it out beautifully. They even came back the following spring to make sure everything had settled in. Highly recommend.",
+      "author": "Michael T.",
+      "loc": "Hedge End, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Been using Tranah for about five years now. They come every month, keep the lawn pristine, and are never any bother. Friendly lads, reliable as they come. Why would you use anyone else?",
+      "author": "Patricia M.",
+      "loc": "Bassett, Southampton \u2014 January 2025"
+    },
+    {
+      "text": "Called them in an emergency when our neighbour's tree was damaging the fence. Within two weeks they'd assessed it, got the work scheduled, and did a brilliant job. Fair pricing too. Will definitely use them again.",
+      "author": "David R.",
+      "loc": "Totton, Southampton \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Southampton, Hedge End, Totton, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency tree work available on request",
+  "emergency_banner_text": "Garden emergency? Storm damage, fallen tree, or urgent work needed? Call us now \u2014",
+  "footer_description": "Tranah Garden Services: expert garden maintenance, landscaping, and design across Southampton. Reliable, fair-priced, trusted by local homeowners for over 20 years.",
+  "footer_copyright": "\u00a9 2026 Tranah Garden Services Ltd. All rights reserved."
+}
