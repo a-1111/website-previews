@@ -1,0 +1,107 @@
+{
+  "slug": "earthtech-electrical-bristol",
+  "meta_title": "Earthtech Electrical | Electrician Bristol",
+  "meta_description": "Earthtech Electrical is a Bristol-based electrician specialising in domestic and commercial electrical work. NICEIC certified. Emergency callouts available.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 24/7 Emergency Callouts",
+  "hero_headline": "Bristol's Trusted",
+  "hero_highlight": "Electrician",
+  "hero_subhead": "Faulty wiring or a tripped circuit in Bristol? We diagnose and fix electrical faults fast, with emergency appointments available round the clock.",
+  "badge_4": "Same-Day Emergency Service",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Bristol",
+  "services_subhead": "From emergency repairs to full rewires, we handle domestic and commercial electrical work with speed and precision.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, dead sockets, or tripped circuits fixed the same day. Our engineers carry common parts on the van for instant diagnosis and repair."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Outdated wiring puts your home at risk. We replace ageing circuits with modern, safe installations and test everything to Building Regulations."
+    },
+    {
+      "title": "Fusebox & Consumer Unit Upgrades",
+      "desc": "Old fusebox? We install modern RCD-protected consumer units that meet current safety standards and reduce fire risk."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Strange electrical behaviour? We use professional diagnostic equipment to pinpoint faults quickly and avoid guesswork repairs."
+    },
+    {
+      "title": "New Circuit Installation",
+      "desc": "Adding a new kitchen, bathroom, or outdoor space? We design and install dedicated circuits to handle extra demand safely."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Office rewires, PAT testing, and emergency lighting installations for Bristol businesses. Rapid turnaround, minimal downtime."
+    }
+  ],
+  "about_pullquote": "I started Earthtech because I was tired of customers being overcharged for simple fixes.",
+  "about_para_1": "Earthtech Electrical was founded 18 years ago on a simple idea: honest pricing and fast, reliable work. We've built our reputation by turning up on time, diagnosing faults properly, and charging fair rates. Every electrician on our team is NICEIC certified and fully insured.",
+  "about_para_2": "Bristol homeowners and businesses trust us because we don't overcomplicate things. We listen, explain what needs doing, and get the job done right the first time. Over 2,400 completed jobs and hundreds of repeat customers speak for themselves.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years trading"
+    },
+    {
+      "num": "2,400+",
+      "label": "Projects completed"
+    },
+    {
+      "num": "87%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "100%",
+      "label": "Insured & certified"
+    }
+  ],
+  "reviews_heading": "What Bristol Homeowners Say About Earthtech",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Came out to fix a dodgy socket that sparked when plugged in. Really quick diagnosis, very reasonable quote, and he was done in 20 minutes. Put my mind at ease knowing it's sorted properly. Cheers.",
+      "author": "Mark T.",
+      "loc": "Southville, Bristol \u2014 December 2024"
+    },
+    {
+      "text": "Called at 11pm on a Saturday because our lights kept flickering. They actually answered and sent someone round within the hour. Turned out to be a loose connection in the fusebox. Professional job and a fair price without the Sunday premium nonsense. Would use again.",
+      "author": "Jennifer W.",
+      "loc": "Bedminster, Bristol \u2014 November 2024"
+    },
+    {
+      "text": "Had the whole house rewired last summer. Didn't expect it to be so straightforward \u2014 they explained everything, tidied up after themselves, and even tested all the circuits properly. Great service. Still recommending them to everyone.",
+      "author": "David C.",
+      "loc": "Redland, Bristol \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving all of Bristol and South Gloucestershire",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Electrical emergency in Bristol? We aim to be with you in under 60 minutes. Call now \u2014",
+  "footer_description": "Earthtech Electrical is a Bristol-based electrician offering emergency repairs, rewires, and commercial work. NICEIC certified, fast response, fair pricing.",
+  "footer_copyright": "\u00a9 2026 Earthtech Electrical. All rights reserved."
+}
