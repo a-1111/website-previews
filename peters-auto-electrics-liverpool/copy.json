@@ -1,0 +1,107 @@
+{
+  "slug": "peters-auto-electrics-liverpool",
+  "meta_title": "Peters Auto Electrics | Vehicle Repair Liverpool",
+  "meta_description": "Peters Auto Electrics in Liverpool specialises in vehicle electrical repairs, diagnostics, and battery replacement. Fast turnaround, competitive rates. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:30",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "Expert Vehicle Electrical Repairs \u2014 Fast Diagnostics",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Auto Electrician",
+  "hero_subhead": "Battery won't hold charge? Alternator failing? We diagnose and repair vehicle electrics the same day, keeping you on the road.",
+  "badge_4": "Same-Day Diagnostics",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "2,400+",
+      "label": "Vehicles serviced"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average turnaround"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    }
+  ],
+  "services_heading": "Complete Vehicle Electrical Services Across Liverpool",
+  "services_subhead": "From starter motor replacement to full diagnostic testing, we handle every electrical fault your car, van, or HGV might throw at us.",
+  "services": [
+    {
+      "title": "Battery Replacement & Testing",
+      "desc": "Dead battery ruining your day? We test, supply, and fit quality replacement batteries with warranty. Most jobs completed while you wait."
+    },
+    {
+      "title": "Alternator & Starter Motor Repair",
+      "desc": "Struggling to turn over? Dimming lights while driving? We repair or replace faulty alternators and starter motors, keeping your charge system healthy."
+    },
+    {
+      "title": "Full Vehicle Electrical Diagnostics",
+      "desc": "Warning lights on the dash? Electrical gremlins draining your battery? We use specialist diagnostic equipment to pinpoint the fault fast."
+    },
+    {
+      "title": "Wiring & Loom Repair",
+      "desc": "Corroded or damaged wiring causing intermittent faults? We repair, rewire, or replace looms to restore reliable electrics."
+    },
+    {
+      "title": "Auxiliary Equipment Installation",
+      "desc": "Need a reversing camera, dashcam, or additional lighting? We supply and fit specialist equipment with full integration into your vehicle's electrics."
+    },
+    {
+      "title": "HGV & Commercial Vehicle Electrics",
+      "desc": "Lorries, vans, and commercial chassis need specialist care. We service 24V systems and heavy-duty electrical equipment."
+    }
+  ],
+  "about_pullquote": "We fix cars the right way \u2014 honest diagnosis, fair pricing, no surprises.",
+  "about_para_1": "Peters Auto Electrics has been keeping Liverpool's vehicles on the road for over 18 years. Founded by Peter, a fully trained vehicle electrician, the shop specialises in diagnosing and repairing electrical faults that other garages often overlook or overcharge for. We've built our reputation on getting to the root cause, not just replacing parts.",
+  "about_para_2": "Our customers return because we're straightforward: we tell you what's wrong, what it'll cost, and how long it'll take. Whether it's a one-minute battery top-up or a full diagnostic on a mystery electrical gremlin, we treat every job with the same care. Based on Britonside Ave, we serve Liverpool and the surrounding Merseyside area with same-day turnaround on most repairs.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "2,400+",
+      "label": "Vehicles repaired"
+    },
+    {
+      "num": "85%",
+      "label": "Same-day fixes"
+    },
+    {
+      "num": "Merseyside",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Liverpool Drivers Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Battery completely dead, thought I was looking at a big bill. Peter tested it, fitted a new one, and had me back on the road in 20 minutes. Fair price too \u2014 no nonsense. Brilliant service.",
+      "author": "Mark T.",
+      "loc": "Anfield, Liverpool \u2014 January 2025"
+    },
+    {
+      "text": "Alternator was playing up, another garage wanted to replace the whole lot. Peters diagnosed the fault properly and fixed it for a fraction of the price. Really knew what he was doing. Highly recommend.",
+      "author": "Christine W.",
+      "loc": "Toxteth, Liverpool \u2014 November 2024"
+    },
+    {
+      "text": "Had strange electrical gremlins draining my battery. They were brilliant at tracking down the fault without charging me a fortune in diagnostics. Quick, professional, and honest. Will definitely be back.",
+      "author": "David M.",
+      "loc": "Wavertree, Liverpool \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Liverpool and surrounding Merseyside areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5:30pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Call for emergency callout availability",
+  "emergency_banner_text": "Stranded with a dead battery or electrical fault? Call us now for rapid diagnosis and repair \u2014",
+  "footer_description": "Peters Auto Electrics repairs vehicle electrical faults across Liverpool. Fast diagnostics, same-day service, honest pricing.",
+  "footer_copyright": "\u00a9 2026 Peters Auto Electrics. Trading from Britonside Ave, Liverpool L32 6SZ."
+}
