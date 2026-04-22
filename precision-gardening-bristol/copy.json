@@ -1,0 +1,107 @@
+{
+  "slug": "precision-gardening-bristol",
+  "meta_title": "Precision Gardening | Professional Gardener Bristol",
+  "meta_description": "Precision Gardening Bristol provides expert garden maintenance, landscaping, and design across Bristol. Reliable local gardener. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "Expert Garden Design & Maintenance \u2014 Bristol",
+  "hero_headline": "Your Garden",
+  "hero_highlight": "Transformed",
+  "hero_subhead": "Professional garden maintenance and landscaping that turns overgrown spaces into outdoor rooms you'll love.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Maintained"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical Turnaround"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Bristol",
+  "services_subhead": "From routine maintenance to full landscape design, we handle every aspect of garden care with precision and attention to detail.",
+  "services": [
+    {
+      "title": "Garden Maintenance",
+      "desc": "Regular hedge trimming, grass cutting, and seasonal care keep your garden healthy and tidy year-round. We work on weekly, fortnightly, or monthly schedules to suit your needs."
+    },
+    {
+      "title": "Lawn Care & Restoration",
+      "desc": "Patchy, compacted grass? We overseed, aerate, and feed to bring your lawn back to life. Includes moss control and weed treatment."
+    },
+    {
+      "title": "Hedge & Tree Work",
+      "desc": "Safe, professional trimming and shaping of hedges and trees. Fully insured and equipped to handle larger specimens."
+    },
+    {
+      "title": "Garden Design & Landscaping",
+      "desc": "Bespoke garden design from concept to completion. Patios, raised beds, pathways, and planting schemes tailored to your space and budget."
+    },
+    {
+      "title": "Clearance & Tidying",
+      "desc": "Overgrown garden? We clear, tidy, and dispose of waste responsibly. Perfect for new homeowners or after months of neglect."
+    },
+    {
+      "title": "Seasonal Planting & Mulching",
+      "desc": "Spring bedding, autumn planting, and professional mulching to suppress weeds and improve soil. Colour and structure all year."
+    }
+  ],
+  "about_pullquote": "I build gardens that people actually want to spend time in.",
+  "about_para_1": "Precision Gardening was founded on a simple idea: that a well-maintained garden transforms how you feel about your home. Over 12 years, we've worked across Bristol and the surrounding areas, from small city courtyards to sprawling suburban plots. Every job, big or small, gets the same care and attention to detail.",
+  "about_para_2": "Our customers trust us because we listen. Whether you want a low-maintenance space or a vibrant garden full of colour, we design and maintain exactly what you need. Many of our clients have worked with us for years \u2014 that repeat business is something we're genuinely proud of.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Cared For"
+    },
+    {
+      "num": "All Bristol Areas",
+      "label": "Service Coverage"
+    }
+  ],
+  "reviews_heading": "What Bristol Homeowners Say",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Took over our garden maintenance about three years ago now. The lads are reliable, turn up when they say they will, and the garden always looks immaculate. Fair pricing too. Couldn't ask for better service.",
+      "author": "Mark T.",
+      "loc": "Southville, Bristol \u2014 February 2025"
+    },
+    {
+      "text": "Had a complete garden overhaul done. Started as a jungle of weeds and overgrown shrubs. The team drew up a design, got on with it, and now it's our favourite room in the house. Brilliant work and good value.",
+      "author": "Claire S.",
+      "loc": "Bedminster, Bristol \u2014 January 2025"
+    },
+    {
+      "text": "Emergency tidy before a garden party \u2014 gave them a call on Monday and they came out Tuesday afternoon. Sorted everything, cleaned up, and left the garden looking beautiful. Would definitely recommend.",
+      "author": "David P.",
+      "loc": "Cotham, Bristol \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Bristol and the surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Flexible scheduling available for regular clients",
+  "emergency_banner_text": "Garden looking neglected? Get a free, no-obligation quote and see what we can do. Ring now \u2014",
+  "footer_description": "Precision Gardening Bristol delivers professional garden maintenance, design, and landscaping across Bristol. Expert care, fair pricing, reliable service.",
+  "footer_copyright": "\u00a9 2026 Precision Gardening Bristol. All rights reserved."
+}
