@@ -1,0 +1,107 @@
+{
+  "slug": "kavin-electrical-services-bristol",
+  "meta_title": "Kavin Electrical Services | Electrician Bristol",
+  "meta_description": "Kavin Electrical Services in Bristol. Expert domestic and commercial electrical work, testing, and emergency repairs. Local, reliable, fully insured.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "Expert Electrician \u2014 Domestic & Commercial",
+  "hero_headline": "Bristol's Trusted",
+  "hero_highlight": "Electrical Specialists",
+  "hero_subhead": "From faulty circuits to full rewires, we fix it fast. Same-day emergency callouts across Bristol.",
+  "badge_4": "Emergency Callouts Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Experience"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "1hr",
+      "label": "Emergency Response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Bristol",
+  "services_subhead": "Whether you need urgent repairs, safety testing, or a full rewire, we handle every electrical job professionally and promptly.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped circuits, dead sockets\u2014we diagnose and repair the same day. Available evenings and weekends when you need us most."
+    },
+    {
+      "title": "Full Rewiring & Installation",
+      "desc": "Upgrading your home's electrics or installing new circuits? We design and install to current Building Regulations, with all work certified."
+    },
+    {
+      "title": "Periodic Testing & EICR Certification",
+      "desc": "Mandatory safety checks for landlords and businesses. We test your entire installation and provide detailed reports and certification."
+    },
+    {
+      "title": "Consumer Unit & Fusebox Upgrades",
+      "desc": "Old-style fuseboxes are a safety risk. We upgrade to modern RCD-protected consumer units with full certification."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "From office rewires to industrial installations, we handle commercial jobs on time and to specification. Fully insured and safety compliant."
+    },
+    {
+      "title": "Fault Finding & Problem Diagnosis",
+      "desc": "Persistent electrical faults can be tricky to track. We systematically test and diagnose the root cause, then fix it properly."
+    }
+  ],
+  "about_pullquote": "We show up on time, do the job right, and explain everything clearly.",
+  "about_para_1": "Kavin Electrical Services has been serving Bristol homes and businesses for over 15 years. What started as a one-man operation has grown into a trusted local team, built on honesty and reliability. Every electrician on our roster is fully trained, insured, and committed to safe, code-compliant work.",
+  "about_para_2": "We've built our reputation by answering emergency calls at midnight, finishing jobs on budget, and never cutting corners on safety. When a customer books us once, they book us again\u2014and they recommend us to their neighbours. That's because we treat your home's electrics as seriously as we'd treat our own.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "2000+",
+      "label": "Installations & Repairs"
+    },
+    {
+      "num": "All Bristol",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Bristol Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 148,
+  "reviews": [
+    {
+      "text": "Kavin came out on a Sunday evening when our kitchen went dark. Within the hour he'd tracked down the fault, replaced the damaged wire, and had everything working again. Professional, friendly, and didn't overcharge. Definitely calling him next time.",
+      "author": "Mark T.",
+      "loc": "Southville, Bristol \u2014 November 2024"
+    },
+    {
+      "text": "Booked him for a full EICR on our rental property. He was thorough, punctual, and provided a detailed report the next day. Made all the recommendations clear and hassle-free. Wouldn't hesitate to recommend.",
+      "author": "Priya P.",
+      "loc": "Bedminster, Bristol \u2014 September 2024"
+    },
+    {
+      "text": "Had him rewire our Victorian terraced house. Job took three days, he kept the mess to a minimum, and all the finishes are neat and properly tested. Cost was fair and he even spotted a potential hazard I'd overlooked. Top-notch work.",
+      "author": "David R.",
+      "loc": "Redland, Bristol \u2014 July 2024"
+    }
+  ],
+  "address_sub": "Serving all of Bristol and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Lights out or sparking socket? We're on our way. Call now \u2014",
+  "footer_description": "Kavin Electrical Services: experienced Bristol electrician for repairs, rewires, testing, and commercial work. Fast, reliable, fully insured.",
+  "footer_copyright": "\u00a9 2026 Kavin Electrical Services. All rights reserved."
+}
