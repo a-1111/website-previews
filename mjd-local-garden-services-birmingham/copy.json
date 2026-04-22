@@ -1,0 +1,107 @@
+{
+  "slug": "mjd-local-garden-services-birmingham",
+  "meta_title": "MJD Local Garden Services | Gardener Birmingham",
+  "meta_description": "MJD Local Garden Services in Birmingham offers professional garden maintenance, design, and landscaping. Local, reliable, and fully insured. Call today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Fully Insured \u2014 Local Birmingham Gardener",
+  "hero_headline": "Transform Your",
+  "hero_highlight": "Garden This Season",
+  "hero_subhead": "Expert garden care in Birmingham. From tidying overgrown borders to complete garden redesigns, we handle it all.",
+  "badge_4": "Same-Day Quote Available",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "1000+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "B26 & Surrounding",
+      "label": "Service Area"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Birmingham",
+  "services_subhead": "From routine maintenance and hedge trimming to full garden redesigns, we deliver the outdoor space you deserve.",
+  "services": [
+    {
+      "title": "Garden Maintenance & Tidy-Ups",
+      "desc": "Regular weeding, pruning, and grass cutting to keep your garden looking neat year-round. We handle weekly or monthly visits depending on your needs."
+    },
+    {
+      "title": "Hedge & Shrub Trimming",
+      "desc": "Professional hedge cutting and shaping to enhance your garden's structure. We clear away clippings and leave everything tidy."
+    },
+    {
+      "title": "Lawn Care & Seeding",
+      "desc": "Scarifying, overseeding, and feed programmes to restore tired lawns. Bare patches transformed within weeks into lush, green grass."
+    },
+    {
+      "title": "Garden Design & Landscaping",
+      "desc": "Complete garden redesigns, patio laying, raised beds, and planting schemes tailored to your space and budget. We handle the lot from concept to completion."
+    },
+    {
+      "title": "Fencing & Decking Installation",
+      "desc": "New fences, decking, and garden structures built to last. We source quality materials and finish with precision."
+    },
+    {
+      "title": "Garden Clearance & Waste Removal",
+      "desc": "We tackle overgrown gardens and remove all waste responsibly. No job too big or too messy."
+    }
+  ],
+  "about_pullquote": "I started this because I love seeing gardens come alive under proper care.",
+  "about_para_1": "MJD Local Garden Services has been transforming Birmingham gardens for over 12 years. Founded on a simple principle\u2014that every outdoor space deserves skilled, honest care\u2014we've built a reputation as the gardener locals trust. From family homes in Solihull to period properties across the city, we've completed well over 1000 gardens.",
+  "about_para_2": "Our customers come back because we listen, deliver on time, and never cut corners. We're fully insured, we tidy as we go, and we price fairly. Whether you need a one-off overhaul or regular fortnightly visits, we treat your garden as if it's our own.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "1000+",
+      "label": "Gardens Completed"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "Fully Insured",
+      "label": "Public Liability"
+    }
+  ],
+  "reviews_heading": "What Birmingham Garden Owners Say About Us",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Marcus came out in spring to sort out our overgrown border. What a difference. He knew exactly what to do, worked quickly, and left everything spotless. Best \u00a3200 I've spent on the garden. Already booked him in for summer maintenance.",
+      "author": "David T.",
+      "loc": "Solihull, Birmingham \u2014 April 2025"
+    },
+    {
+      "text": "Had MJD design and build a new patio with raised beds. Took about three days start to finish. Very professional, friendly lads, and they explained everything as they went. Neighbours have already asked for his number!",
+      "author": "Helen M.",
+      "loc": "Kings Norton, Birmingham \u2014 May 2025"
+    },
+    {
+      "text": "We're on a monthly maintenance contract now and honestly can't fault it. Garden looks incredible, tidy cuts, prompt and polite. No faffing about, just proper work. Would happily recommend to anyone.",
+      "author": "Robert P.",
+      "loc": "Edgbaston, Birmingham \u2014 June 2025"
+    }
+  ],
+  "address_sub": "Serving Birmingham, Solihull, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Book online or call for a free quote",
+  "emergency_banner_text": "Need your garden sorted quickly? Call us today for a free, no-obligation quote \u2014",
+  "footer_description": "MJD Local Garden Services: professional garden maintenance, design, and landscaping across Birmingham. Fully insured, trusted by locals, 12+ years in business.",
+  "footer_copyright": "\u00a9 2026 MJD Local Garden Services. All rights reserved."
+}
