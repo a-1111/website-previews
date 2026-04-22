@@ -1,0 +1,107 @@
+{
+  "slug": "omega-electrical-services-leicester",
+  "meta_title": "Omega Electrical Services | Electrician Leicester",
+  "meta_description": "Omega Electrical Services in Leicester. NICEIC-registered electrician for rewires, fault-finding, and emergency call-outs. Fast, reliable, fully insured.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Same-Day Emergency Service",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Electrical Partner",
+  "hero_subhead": "Wiring fault at home? We diagnose and fix electrical problems fast, any day of the week.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading in Leicester"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency Response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Leicester",
+  "services_subhead": "From routine maintenance to full rewires, we handle every aspect of domestic and commercial electrical work.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Power cuts, burnt-out circuits, tripped RCDs \u2014 we're on call 24/7. Most faults diagnosed and repaired same day with parts carried on the van."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Upgrading an older property or expanding capacity? We plan, quote, and complete rewires with minimal disruption and full compliance with current Building Regulations."
+    },
+    {
+      "title": "Fault-Finding & Testing",
+      "desc": "Intermittent faults, flickering lights, or persistent circuit trips? We'll trace the root cause with specialist test equipment and restore safety and reliability."
+    },
+    {
+      "title": "Consumer Unit & Board Upgrades",
+      "desc": "Outdated fuse boxes are a fire risk. We replace them with modern, fully earthed consumer units that protect your home and meet Part P standards."
+    },
+    {
+      "title": "Installation of Lighting & Sockets",
+      "desc": "Adding extra sockets, new light fittings, or outdoor electrics? Each installation is certified and tested to guarantee safety and longevity."
+    },
+    {
+      "title": "Periodic Inspections & Certificates",
+      "desc": "Landlords and property sellers: we provide EICR (Electrical Installation Condition Reports) with full test schedules and signed certification."
+    }
+  ],
+  "about_pullquote": "I started Omega because I hated seeing householders quoted \u00a3800 for a \u00a350 fix.",
+  "about_para_1": "Omega Electrical Services was founded in Leicester eighteen years ago by a journeyman electrician tired of seeing customers overcharged and left without proper advice. From a single van and a reputation for honesty, we've grown to employ four fully NICEIC-registered electricians and a dedicated office team. Every engineer carries a van-load of parts, so we fix most faults on the spot.",
+  "about_para_2": "Our customers come back because we diagnose properly before we quote, we explain the work in plain English, and we turn up when we say we will. We're equally comfortable rewiring a Victorian terrace or troubleshooting a commercial property. Repeat work and referrals make up 60% of our business\u2014that's how you know you've got it right.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In Business Since 2008"
+    },
+    {
+      "num": "4",
+      "label": "NICEIC Engineers"
+    },
+    {
+      "num": "60%",
+      "label": "Repeat & Referral Work"
+    },
+    {
+      "num": "Leicester",
+      "label": "Based & Serving Local"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had a power surge that killed the electrics on half the house. Called Omega on a Saturday afternoon and they were here within ninety minutes. Diagnosed a faulty RCD, fitted a new one and tested the whole circuit. Fair price, no messing about. Will use them again.",
+      "author": "Michael T.",
+      "loc": "Belgrave, Leicester \u2014 September 2024"
+    },
+    {
+      "text": "We needed a full rewire and a new board fitted before we could get our mortgage offer. Omega came in, did a clear quote, completed the job in three days, and provided all the certificates we needed. Professional, tidy, and they cleaned up after themselves. Highly recommend.",
+      "author": "Emma L.",
+      "loc": "Stoneygate, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "The cooker wasn't working and I thought it was the oven. Turned out to be a dodgy circuit. Called a couple of other electricians and they quoted \u00a3200+ just for the visit. Omega came out, fixed it in twenty minutes, charged me a fair rate. Genuine people.",
+      "author": "David P.",
+      "loc": "Knighton, Leicester \u2014 July 2024"
+    }
+  ],
+  "address_sub": "Serving Leicester and surrounding areas including Belgrave, Stoneygate, and Oadby",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Electrics failing? We aim to reach you in under an hour. Call now \u2014",
+  "footer_description": "NICEIC-registered electrician in Leicester. Emergency repairs, rewires, and safety inspections. Honest pricing, fast response, certified work.",
+  "footer_copyright": "\u00a9 2026 Omega Electrical Services Ltd. Registered in England & Wales."
+}
