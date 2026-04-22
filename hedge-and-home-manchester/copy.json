@@ -1,0 +1,107 @@
+{
+  "slug": "hedge-and-home-manchester",
+  "meta_title": "Hedge and Home | Landscape Gardener Manchester",
+  "meta_description": "Hedge and Home is a landscape gardener in Manchester offering garden design, planting, and maintenance. Transform your outdoor space today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Professional Landscape Design & Garden Maintenance",
+  "hero_headline": "Transform Your",
+  "hero_highlight": "Manchester Garden",
+  "hero_subhead": "From overgrown borders to stunning outdoor spaces, we design and maintain gardens that work harder and look better.",
+  "badge_4": "Free Garden Consultation",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "800+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Quote Turnaround"
+    }
+  ],
+  "services_heading": "Complete Landscape Gardening Services Across Manchester",
+  "services_subhead": "From one-off garden overhauls to year-round maintenance, we handle every aspect of creating and caring for outdoor spaces that add value and enjoyment.",
+  "services": [
+    {
+      "title": "Garden Design & Planning",
+      "desc": "Bespoke designs tailored to your space, style, and budget. We handle everything from initial consultation through to detailed planting schemes and hardscaping layouts."
+    },
+    {
+      "title": "Planting & Landscaping",
+      "desc": "Professional planting of trees, shrubs, and borders using plants suited to Manchester's climate. We create focal points and year-round colour in your garden."
+    },
+    {
+      "title": "Hedge Trimming & Maintenance",
+      "desc": "Regular hedge and shrub cutting to keep boundaries neat and healthy. We work to your preferred height and shape, keeping your garden looking maintained."
+    },
+    {
+      "title": "Garden Clearance & Tidy-Up",
+      "desc": "Complete overgrowth removal, dead wood clearance, and garden reset. Perfect for new properties or gardens that need a fresh start."
+    },
+    {
+      "title": "Patio & Decking Installation",
+      "desc": "Quality hard landscaping that extends your living space. We lay patios, decking, and pathways designed to blend with your garden scheme."
+    },
+    {
+      "title": "Seasonal Garden Care",
+      "desc": "Spring cleanup, autumn leaf clearing, winter preparation, and summer maintenance. Keep your garden looking its best throughout the year."
+    }
+  ],
+  "about_pullquote": "A good garden isn't a luxury\u2014it's an investment in your home and your wellbeing.",
+  "about_para_1": "Hedge and Home was founded on the belief that every Manchester homeowner deserves access to professional landscape design without the premium prices. Over 12 years, we've built a reputation for honest advice, meticulous work, and gardens that genuinely transform properties. We treat every project\u2014whether a border refresh or a complete garden redesign\u2014with the same care and attention to detail.",
+  "about_para_2": "Our customers return because we listen. We don't impose grand designs that don't suit your space or budget; instead, we work within your vision and show you what's possible. From East Manchester to Stockport, we've built relationships with families who trust us to maintain their gardens season after season.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "Greater Manchester",
+      "label": "Service Area"
+    },
+    {
+      "num": "\u00a30",
+      "label": "Design Consultation"
+    }
+  ],
+  "reviews_heading": "What Manchester Homeowners Say About Hedge and Home",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "We'd had the garden for three years and done nothing with it. Craig came round, listened to what we wanted, and drew up a plan that was actually affordable. The transformation is unreal\u2014neighbours keep asking for his number. Brilliant bloke.",
+      "author": "David T.",
+      "loc": "Withington, Manchester \u2014 February 2025"
+    },
+    {
+      "text": "Had him trim our hedge twice a year for five years now. Always on time, tidy workers, fair pricing. Doesn't try to upsell you on things you don't need. That's rare.",
+      "author": "Margaret P.",
+      "loc": "Didsbury, Manchester \u2014 January 2025"
+    },
+    {
+      "text": "Cleared our entire overgrown back garden and laid a new patio. The work was immaculate and they left the site spotless. Would 100% recommend to anyone in the area.",
+      "author": "James K.",
+      "loc": "Stockport, Greater Manchester \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Greater Manchester, Stockport, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Closed Sundays",
+  "emergency_banner_text": "Ready to transform your garden? Get a free consultation and custom quote within 48 hours. Call us \u2014",
+  "footer_description": "Hedge and Home specialises in bespoke garden design, planting, and year-round maintenance across Greater Manchester. Honest advice, professional work, real results.",
+  "footer_copyright": "\u00a9 2026 Hedge and Home. Registered as a sole trader in Manchester."
+}
