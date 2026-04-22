@@ -1,0 +1,107 @@
+{
+  "slug": "sst-electrical-leicester",
+  "meta_title": "SST Electrical | Domestic & Commercial Electrician Leicester",
+  "meta_description": "SST Electrical is a trusted Leicester electrician. Domestic and commercial electrical services, same-day repairs, and full installations. Call now for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Same-Day Emergency Callouts",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Domestic & Commercial Electrician",
+  "hero_subhead": "Electrical fault? We're out to you in under an hour. Domestic rewires, consumer unit upgrades, and fault-finding\u2014all backed by a safety guarantee.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Leicester & East Midlands",
+  "services_subhead": "From emergency repairs to full rewires, we handle every type of electrical work for homes and businesses.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown circuits, faulty outlets, and tripped electrics fixed fast. We carry parts on the van and aim to get power restored the same day."
+    },
+    {
+      "title": "Domestic Rewires",
+      "desc": "Full rewires for older homes using modern cable and safety standards. Includes new consumer unit installation and testing certification."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace outdated fuse boxes with modern RCD-protected units. Improves safety and lets you run more appliances without overload."
+    },
+    {
+      "title": "Commercial Electrical Installation",
+      "desc": "Lighting, power distribution, and fire safety systems for shops, offices, and warehouses. All work certified and compliant with building regulations."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Can't find an electrical fault? We diagnose and fix hidden problems using specialist test equipment. Full reports provided."
+    },
+    {
+      "title": "EV Charging Point Installation",
+      "desc": "Wall-mounted home and workplace charging stations fitted by certified installers. Grant-funded options available."
+    }
+  ],
+  "about_pullquote": "I started SST because too many Leicester homes were left without power at night.",
+  "about_para_1": "SST Electrical was founded 18 years ago on one simple idea: Leicester homeowners and businesses deserve an electrician who answers the phone at midnight and shows up fast. Since then, we've built a reputation for honest pricing, first-time fixes, and work that passes every inspection. We're NICEIC registered, fully insured, and every job comes with certification.",
+  "about_para_2": "Our customers keep coming back because we don't charge a call-out fee, we don't disappear mid-job, and we stand behind every repair. From a leaking geyser fault to a full commercial rewire, we treat your property with the same care we'd give our own. That's why 92% of our work comes from repeat customers and personal referrals.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years trading"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Accredited installer"
+    },
+    {
+      "num": "East Midlands",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners & Businesses Say",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Boiler tripped electrics at 11pm on a Saturday. Called SST and they were here by midnight. Sorted it in 20 minutes, no call-out charge. Top lads. Will use them for everything now.",
+      "author": "Marcus T.",
+      "loc": "Belgrave, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Had my whole house rewired by SST. Professional job from start to finish. They explained everything, tidied up after themselves, and provided all the certification. Fair price, no surprises. Couldn't ask for better.",
+      "author": "Christine H.",
+      "loc": "Oadby, Leicester \u2014 August 2024"
+    },
+    {
+      "text": "Commercial job for our office. SST installed new lighting and upgraded the consumer unit. Work was on schedule, they understood our downtime needs, and the team were respectful. Great communication throughout.",
+      "author": "David L.",
+      "loc": "City Centre, Leicester \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Leicester, Oadby, Belgrave, and surrounding East Midlands areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency callouts 24/7 \u2014 no extra charge",
+  "emergency_banner_text": "Electrics gone at night? We're out to you within the hour, any time. Call now \u2014",
+  "footer_description": "SST Electrical is a NICEIC-registered electrician in Leicester offering domestic rewires, emergency repairs, and commercial installations. Same-day fixes, no call-out fee.",
+  "footer_copyright": "\u00a9 2026 SST Electrical Ltd. Registered in England & Wales."
+}
