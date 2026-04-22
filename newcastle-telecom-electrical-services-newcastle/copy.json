@@ -1,0 +1,107 @@
+{
+  "slug": "newcastle-telecom-electrical-services-newcastle",
+  "meta_title": "Newcastle Telecom & Electrical | Electrician Newcastle",
+  "meta_description": "Newcastle Telecom & Electrical Services. Certified electrician in Newcastle offering rewiring, fault finding, and emergency repairs. Fast response times, competitive quotes.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Emergency Callouts Available",
+  "hero_headline": "Newcastle's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault at home or work in Newcastle? We diagnose and fix problems fast\u2014often same day.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading Locally"
+    },
+    {
+      "num": "2hrs",
+      "label": "Average Response Time"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Newcastle",
+  "services_subhead": "From emergency repairs to full rewiring and installation work, we handle all electrical needs for homes and businesses.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repair",
+      "desc": "Tripped circuits, blown fuses, or dead sockets? We diagnose faults fast and get your power back on. Available 24/7 for genuine emergencies."
+    },
+    {
+      "title": "Full House Rewiring",
+      "desc": "Old wiring putting your home at risk? We replace outdated electrics with modern, safe installations and handle all Building Control sign-off."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace your old fuse box with a modern circuit-breaker unit for better safety and reliability. Compliant with current standards."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Persistent electrical problems? We use advanced testing equipment to pinpoint faults and recommend the right fix first time."
+    },
+    {
+      "title": "Kitchen & Bathroom Installation",
+      "desc": "New circuits for extractor fans, heated towel rails, and kitchen appliances. Safe, code-compliant work with certification provided."
+    },
+    {
+      "title": "Landlord Electrical Safety Certificates",
+      "desc": "EICR testing and certification for rental properties. Annual checks keep you compliant and protect your tenants."
+    }
+  ],
+  "about_pullquote": "I started this to give Newcastle honest electrical work at fair prices.",
+  "about_para_1": "Newcastle Telecom & Electrical Services was founded to bring reliable, trustworthy electrical work to homes and businesses across the region. With 18 years' experience and NICEIC approval, we've built our reputation on turning up on time, diagnosing problems correctly, and finishing jobs to a high standard without hidden costs.",
+  "about_para_2": "We're a local, independent firm\u2014not a call centre or franchise. Our customers trust us because we take time to explain what's wrong, give clear quotes upfront, and stand behind our work. Whether it's a midnight emergency or a planned rewire, we treat your home like our own.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Approved Electrician"
+    },
+    {
+      "num": "500+",
+      "label": "Local Jobs"
+    },
+    {
+      "num": "2hrs",
+      "label": "Typical Response"
+    }
+  ],
+  "reviews_heading": "What Newcastle Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a complete rewire done last year and couldn't fault them. Turned up on time, explained everything as they went, and left the place spotless. Honest price too. Wouldn't use anyone else now.",
+      "author": "Mark T.",
+      "loc": "Jesmond, Newcastle \u2014 November 2024"
+    },
+    {
+      "text": "Our kitchen electrics weren't working properly and I was worried it'd be a nightmare to sort. Called these lads and they came out within a couple of hours. Found a loose connection, fixed it, gave me a certificate. Job done. Cheers!",
+      "author": "Helen P.",
+      "loc": "Whickham, Gateshead \u2014 January 2025"
+    },
+    {
+      "text": "Emergency call-out at 11pm on a Saturday. They answered, came out, sorted the circuit breaker and got our heating back on. No drama, no rip-off pricing. That's the kind of electrician you want on speed dial.",
+      "author": "David M.",
+      "loc": "Gosforth, Newcastle \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Newcastle, Gateshead, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line: 24/7",
+  "emergency_banner_text": "Electrical fault or power outage in Newcastle? We aim to respond within 2 hours, day or night. Call now \u2014",
+  "footer_description": "NICEIC-approved electrician serving Newcastle and Gateshead. Emergency repairs, rewiring, and testing. Fast response, no hidden charges.",
+  "footer_copyright": "\u00a9 2026 Newcastle Telecom & Electrical Services. All rights reserved."
+}
