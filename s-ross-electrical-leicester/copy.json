@@ -1,0 +1,107 @@
+{
+  "slug": "s-ross-electrical-leicester",
+  "meta_title": "S Ross Electrical | Electrician Leicester",
+  "meta_description": "S Ross Electrical is a trusted Leicester electrician offering domestic wiring, fault finding, and repairs. Part P certified. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-15:00"
+  ],
+  "hero_eyebrow": "Part P Certified \u2014 Emergency Callouts Available",
+  "hero_headline": "Leicester's Reliable",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty sockets, circuit breakers tripping, or a full rewire needed? We diagnose and fix electrical faults fast, keeping your home safe.",
+  "badge_4": "Same-Day Appointments",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    },
+    {
+      "num": "Under 2hrs",
+      "label": "Average response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services in Leicester & Blaby",
+  "services_subhead": "From emergency fault finding to full rewires, we handle every electrical job to Building Regulations and Part P standards.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped circuits, or dead sockets? We locate the fault and repair it fast, often the same day. No call-out charge on repairs."
+    },
+    {
+      "title": "Fault Finding & Diagnostics",
+      "desc": "Intermittent faults, flickering lights, or safety concerns? We test your circuits and identify the root cause, then quote a fair price to fix it."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Older homes with outdated wiring are a fire risk. We replace the lot to current standards, with a 10-year guarantee on all new cabling."
+    },
+    {
+      "title": "Boiler Servicing & Electrical Checks",
+      "desc": "Part of annual boiler maintenance, we inspect heating system electrics and ensure all controls are safe and functioning reliably."
+    },
+    {
+      "title": "Landlord Electrical Safety Certificates",
+      "desc": "EICR safety certs required by law every 5 years (or 1 year if tenant-occupied). We inspect, test, and issue the certificate on the day."
+    },
+    {
+      "title": "Kitchen & Bathroom Installation",
+      "desc": "New circuits for cookers, showers, and appliances. We handle earthing, bonding, and RCD protection to Building Regs, with certification."
+    }
+  ],
+  "about_pullquote": "I've been fixing homes' electrics right for 18 years. Honesty and safety come first.",
+  "about_para_1": "S Ross Electrical started in 2007 as a one-man operation in Blaby, built on straightforward thinking: do the job properly, charge fairly, and never cut corners on safety. Over nearly two decades, we've rewired hundreds of Leicester homes, diagnosed thousands of faults, and earned a reputation for turning up on time and getting it done right.",
+  "about_para_2": "Our customers trust us because we're honest. We don't oversell unnecessary work, and we explain what's faulty and why it needs fixing. Whether it's an urgent call-out at 11pm or a planned rewire, we treat your home with the same care we'd give our own. Most of our work now comes from repeat customers and referrals.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years trading in Leicester"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "Part P",
+      "label": "Certified installer"
+    },
+    {
+      "num": "\u00a30",
+      "label": "Call-out fee on repairs"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 67,
+  "reviews": [
+    {
+      "text": "Called at 10pm with electrics playing up. Ross answered himself, came out within an hour, and had it sorted by 11:30. Turned out to be a damp issue in the switch \u2014 he sealed it, tested everything, and wouldn't take the call-out charge. Brilliant service.",
+      "author": "Michael T.",
+      "loc": "Blaby, Leicester \u2014 February 2025"
+    },
+    {
+      "text": "Got two quotes for a full rewire and S Ross came in at a fair price with no pushy sales talk. The work took three days, electrician was tidy, and we got the certificate straight away. House is much safer now and the new sockets are so much better. Highly recommend.",
+      "author": "Diane H.",
+      "loc": "Wigston, Leicester \u2014 December 2024"
+    },
+    {
+      "text": "Had an intermittent fault that other electricians couldn't find. Ross spent time with a meter and tracked it down to a dodgy connection behind the consumer unit. Fixed it, tested it, and it's been perfect for months. That's real expertise, not a guess-and-charge job.",
+      "author": "Paul K.",
+      "loc": "Oadby, Leicester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Leicester, Blaby, Wigston, and surrounding areas within 8 miles",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 3pm \u2022 Emergency line 07971 298076 \u2014 available 24/7",
+  "emergency_banner_text": "Electrics faulty or dangerous? We aim to reach you within 2 hours on weekdays. Call now \u2014",
+  "footer_description": "S Ross Electrical is a trusted, Part P certified electrician in Leicester offering emergency repairs, fault finding, rewires, and landlord safety certs. Fair prices, same-day appointments.",
+  "footer_copyright": "\u00a9 2026 S Ross Electrical. Blaby, Leicester LE8 4AF."
+}
