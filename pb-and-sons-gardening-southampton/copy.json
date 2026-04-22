@@ -1,0 +1,107 @@
+{
+  "slug": "pb-and-sons-gardening-southampton",
+  "meta_title": "PB & Sons Gardening | Garden Services Southampton",
+  "meta_description": "PB & Sons Gardening in Southampton offers professional garden maintenance, landscaping, and design. Local, reliable, friendly service. Call us today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Family-Run Gardeners \u2014 15 Years Local Experience",
+  "hero_headline": "Southampton's Trusted",
+  "hero_highlight": "Garden Experts",
+  "hero_subhead": "From overgrown borders to complete garden transformations, we bring your outdoor space back to life.",
+  "badge_4": "Free Garden Assessment",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "Same-Day",
+      "label": "Quote Turnaround"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Southampton",
+  "services_subhead": "Whether you need regular maintenance, a complete redesign, or one-off tidying, we've got your garden covered.",
+  "services": [
+    {
+      "title": "Garden Maintenance & Lawn Care",
+      "desc": "Weekly or monthly upkeep tailored to your garden's needs. Hedge trimming, grass cutting, weeding, and seasonal tidying to keep everything looking fresh."
+    },
+    {
+      "title": "Garden Design & Landscaping",
+      "desc": "Transform tired outdoor space into a usable, beautiful garden. We design layouts, source plants, and handle all construction \u2014 patios, raised beds, pathways included."
+    },
+    {
+      "title": "Overgrown Garden Clearance",
+      "desc": "Struggling with an untamed jungle? We clear, dispose of waste responsibly, and leave you with a blank canvas ready for what's next."
+    },
+    {
+      "title": "Tree & Shrub Care",
+      "desc": "Safe pruning, felling, and removal of trees and large shrubs. We're experienced and insured, and we'll grind stumps if needed."
+    },
+    {
+      "title": "Patio & Driveway Maintenance",
+      "desc": "Pressure washing, moss and algae removal, and repair of loose slabs. We restore your hard landscaping to like-new condition."
+    },
+    {
+      "title": "Seasonal Planting & Borders",
+      "desc": "Spring bedding, autumn bulbs, and perennial borders designed for year-round colour. We source quality plants and handle all prep and aftercare."
+    }
+  ],
+  "about_pullquote": "We treat every garden like it's our own \u2014 honest pricing, real craftsmanship, no shortcuts.",
+  "about_para_1": "PB & Sons Gardening was founded over 15 years ago when Pete decided there had to be a better way \u2014 friendly, reliable gardeners who actually listen to what you want. We've grown from a one-man operation to a tight-knit team, but we've never lost that personal touch. Every job gets the same care and attention, whether it's a monthly tidy or a full garden redesign.",
+  "about_para_2": "Our customers come back because we do what we say we'll do, on time and within budget. We're based right here in Botley, we know Southampton's soil and climate inside out, and we're not afraid to give honest advice \u2014 even if it means suggesting a smaller project that suits your needs better. Word of mouth is everything to us, and we're proud that most of our work comes from recommendations.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "4-Person",
+      "label": "Local Team"
+    },
+    {
+      "num": "300+",
+      "label": "Regular Clients"
+    },
+    {
+      "num": "All Year",
+      "label": "Full Service Coverage"
+    }
+  ],
+  "reviews_heading": "What Southampton Gardeners Say About Us",
+  "rating": 4.8,
+  "review_count": 47,
+  "reviews": [
+    {
+      "text": "Brilliant blokes. Our garden was a complete mess \u2014 about 15 years of neglect! Pete and the lads cleared it all, designed a lovely new layout with raised beds and a patio, and it's transformed the whole feel of the garden. Very fair prices too. Couldn't recommend them more.",
+      "author": "Michael T.",
+      "loc": "Botley, Southampton \u2014 September 2024"
+    },
+    {
+      "text": "I've had PB & Sons round monthly for maintenance for three years now. Reliable, friendly, and they always tidy up properly after themselves. They know exactly what needs doing and don't oversell you unnecessary work. That's rare.",
+      "author": "Jennifer W.",
+      "loc": "Itchen Valley, Southampton \u2014 October 2024"
+    },
+    {
+      "text": "Had a massive overgrown hedge and two ugly stumps in the garden. Pete came round, quoted straightaway, and got the work done in a day. Professional, safe, and the garden looks twice the size now. Cheers, lads.",
+      "author": "David C.",
+      "loc": "Bitterne Park, Southampton \u2014 August 2024"
+    }
+  ],
+  "address_sub": "Serving Botley, Itchen Valley, Bitterne, and all of Southampton",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Free quotes available by appointment",
+  "emergency_banner_text": "Need your garden cleared or transformed? Get in touch for a free site visit and no-obligation quote \u2014",
+  "footer_description": "PB & Sons Gardening: 15 years of trusted garden design, maintenance, and landscaping across Southampton. Local team, honest prices, real results.",
+  "footer_copyright": "\u00a9 2026 PB & Sons Gardening. All rights reserved."
+}
