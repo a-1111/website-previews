@@ -1,0 +1,107 @@
+{
+  "slug": "gardens-and-stuff-bristol",
+  "meta_title": "Gardens & Stuff | Gardeners Bristol",
+  "meta_description": "Gardens & Stuff in Bristol offers professional garden design, maintenance, and landscaping. Local, reliable gardeners serving BS2 and beyond. Call today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Professional Gardeners \u2014 Local to Bristol",
+  "hero_headline": "Your Garden",
+  "hero_highlight": "Transformed",
+  "hero_subhead": "Whether it's overgrown borders, a full redesign, or regular upkeep, we'll get your Bristol garden looking its best.",
+  "badge_4": "Same-Day Quotations",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years in gardening"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens maintained"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "1 week",
+      "label": "Typical response time"
+    }
+  ],
+  "services_heading": "Garden Services Across Bristol",
+  "services_subhead": "From routine maintenance to complete garden transformations, we handle every aspect of outdoor space design and care.",
+  "services": [
+    {
+      "title": "Garden Maintenance",
+      "desc": "Regular lawn mowing, hedge trimming, and border care. Keep your garden looking sharp with fortnightly or monthly visits tailored to your needs."
+    },
+    {
+      "title": "Garden Design & Landscaping",
+      "desc": "Transform bare or overgrown space into a functional garden you'll love. We design around your lifestyle and budget, handling planting, hard landscaping, and patios."
+    },
+    {
+      "title": "Hedge & Tree Work",
+      "desc": "Professional pruning, shaping, and removal of overgrown hedges and trees. Safe, tidy work that encourages healthy new growth."
+    },
+    {
+      "title": "Turfing & Seeding",
+      "desc": "Prepare, lay, and seed new lawns. We'll clear the site, level it properly, and install quality turf or oversee establishment of seeded areas."
+    },
+    {
+      "title": "Clearance & Tidying",
+      "desc": "Tackle overgrown gardens, jungles of weeds, or accumulated garden waste. We'll clear, haul, and leave your space ready for a fresh start."
+    },
+    {
+      "title": "Planting & Seasonal Work",
+      "desc": "Spring and autumn planting of perennials, shrubs, and bedding. We'll advise on what thrives in Bristol's climate and maintain colour year-round."
+    }
+  ],
+  "about_pullquote": "A tidy garden isn't a luxury \u2014 it's the bit of life you actually use.",
+  "about_para_1": "Gardens & Stuff has been helping Bristol homeowners reclaim their outdoor space since 2012. We started because we saw too many beautiful gardens left to go to seed, and too many people overwhelmed by where to start. Today, we're the gardeners half of Bristol trusts with their borders, patios, and weekend peace of mind.",
+  "about_para_2": "We're not flashy, but we're reliable. We show up on time, we listen to what you want, and we don't upsell you on work you don't need. Most of our new clients come from word-of-mouth recommendations, and many have been with us for years. That's the standard we hold ourselves to.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years established"
+    },
+    {
+      "num": "500+",
+      "label": "Regular clients"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "All of Bristol",
+      "label": "Service area"
+    }
+  ],
+  "reviews_heading": "What Bristol Gardeners Say About Us",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Our garden was a complete mess when we moved in \u2014 overgrown shrubs, broken fence, nowhere to sit. The lads came in, cleared it all, laid turf, and built us a little patio. Cost less than I expected and the whole thing took three weeks. Brilliant job, no faffing about.",
+      "author": "David T.",
+      "loc": "Stoke Bishop, Bristol \u2014 September 2024"
+    },
+    {
+      "text": "Been using Gardens & Stuff for monthly maintenance for about three years now. They're not the cheapest, but they're consistent, friendly, and my garden actually looks nice. They remember what I wanted planted last spring and don't try to push extras. Proper local business.",
+      "author": "Margaret W.",
+      "loc": "Bedminster, Bristol \u2014 January 2025"
+    },
+    {
+      "text": "Had them out to tidy up before we sold the house. They quoted fair, showed up when they said they would, and the garden looked immaculate on viewing day. No complaints at all. Would use again.",
+      "author": "Nick L.",
+      "loc": "Southville, Bristol \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving all of Bristol and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Quotes by arrangement",
+  "emergency_banner_text": "Need your garden sorted urgently? We often fit emergency clearance and tidy-ups within a week. Get in touch \u2014",
+  "footer_description": "Gardens & Stuff is a family-run gardening business in Bristol. We handle garden maintenance, design, landscaping, and clearance with reliability and local know-how.",
+  "footer_copyright": "\u00a9 2026 Gardens & Stuff. Established 2012."
+}
