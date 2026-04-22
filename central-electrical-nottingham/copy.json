@@ -1,0 +1,107 @@
+{
+  "slug": "central-electrical-nottingham",
+  "meta_title": "Central Electrical | Qualified Electrician Nottingham",
+  "meta_description": "Central Electrical Nottingham provides qualified domestic and commercial electrical work, repairs, and installations. Fast, reliable service across Nottingham. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Same-Day Emergency Response",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty wiring, tripped circuits, or a full rewire needed? Central Electrical responds fast and gets the job done right, first time.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Established locally"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "45 mins",
+      "label": "Average response time"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Nottingham",
+  "services_subhead": "From emergency callouts to planned installations, we handle domestic and commercial electrical work with speed and skill.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped electrics, or live hazards? We're on call 24/7 to diagnose and fix faults fast, often on the same day."
+    },
+    {
+      "title": "Domestic Rewiring",
+      "desc": "Complete house rewires including full inspection, upgrade to modern safety standards, and certification for insurance and sale purposes."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "Installation and repair of electrical components for heating systems, immersion heaters, and smart heating controls."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace old fuse boxes with modern circuit breaker units that meet current regulations and provide better protection."
+    },
+    {
+      "title": "Testing & Certification",
+      "desc": "EICR (electrical installation condition reports) for lettings, sales, and workplace compliance \u2014 full paperwork included."
+    },
+    {
+      "title": "New Installations & Extensions",
+      "desc": "Adding sockets, lighting, or powering a kitchen extension safely and to Building Regulations. All work certified and guaranteed."
+    }
+  ],
+  "about_pullquote": "I started Central Electrical because I saw too many cowboys cutting corners on safety.",
+  "about_para_1": "Central Electrical was founded in 2006 with one aim: give Nottingham homeowners and businesses an electrician they could trust. Over 18 years, we've completed over 2,000 jobs across the city \u2014 from emergency callouts at midnight to full rewires on new builds. Every electrician on our team is NICEIC registered and trained to the latest safety standards.",
+  "about_para_2": "Our reputation is built on turning up on time, doing the job properly, and charging a fair price with no hidden fees. We don't upsell or rush; we diagnose the real problem, explain what needs doing, and let you decide. Customers come back to us because they know we'll treat their home the way we'd treat our own.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "2000+",
+      "label": "Installations & repairs"
+    },
+    {
+      "num": "95%",
+      "label": "Return customer rate"
+    },
+    {
+      "num": "All Nottingham",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had an issue with our consumer unit \u2014 lights kept tripping out and we didn't know why. Called Central Electrical on a Friday afternoon and they were round the same day. Turned out to be a faulty MCB. Cost half what I'd expected and came with a certificate. Really professional bloke, didn't take the mickey.",
+      "author": "David P.",
+      "loc": "Lenton, Nottingham \u2014 January 2025"
+    },
+    {
+      "text": "We were buying a flat and needed an EICR done. Got the report back quickly with clear recommendations. Seller's electrician had missed several things. Brilliant peace of mind, and the price was very fair. Would use again.",
+      "author": "Emma W.",
+      "loc": "City Centre, Nottingham \u2014 February 2025"
+    },
+    {
+      "text": "Emergency call on a Sunday evening \u2014 boiler had stopped heating and I thought it was an electrical fault. Got someone round within an hour, found it was the immersion heater trip. Fixed it, showed me how to reset it, and charged a reasonable call-out fee. Can't fault them. Proper service.",
+      "author": "Mark T.",
+      "loc": "Basford, Nottingham \u2014 March 2025"
+    }
+  ],
+  "address_sub": "Serving all of Nottingham and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Electrical emergency? We aim to respond within 45 minutes across Nottingham, 24 hours a day. Call now \u2014",
+  "footer_description": "Central Electrical Nottingham: qualified, local electrician for domestic and commercial work, emergency repairs, and full rewires. Fast, reliable, fair price.",
+  "footer_copyright": "\u00a9 2026 Central Electrical Nottingham. All rights reserved."
+}
