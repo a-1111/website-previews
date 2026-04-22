@@ -1,0 +1,107 @@
+{
+  "slug": "garden-direct-southampton",
+  "meta_title": "Garden Direct | Gardening Services Southampton",
+  "meta_description": "Garden Direct Southampton offers professional gardening, garden maintenance, and landscaping services across South Hampshire. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local Gardening Experts \u2014 20 Years' Experience",
+  "hero_headline": "Professional Garden Care",
+  "hero_highlight": "Southampton & Hythe",
+  "hero_subhead": "From overgrown borders to complete garden transformations, we handle everything so you don't have to.",
+  "badge_4": "Same-Day Free Quotes",
+  "stats": [
+    {
+      "num": "20+",
+      "label": "years in business"
+    },
+    {
+      "num": "1000+",
+      "label": "gardens maintained"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "customer rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "typical response time"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Southampton",
+  "services_subhead": "Whether you need regular maintenance, seasonal work, or a full garden redesign, we've got you covered.",
+  "services": [
+    {
+      "title": "Garden Maintenance & Lawn Care",
+      "desc": "Weekly or monthly grass cutting, hedge trimming, and seasonal tidying. We keep your garden looking sharp year-round without the effort."
+    },
+    {
+      "title": "Overgrown Garden Clearance",
+      "desc": "Reclaim your outdoor space from brambles, weeds, and years of neglect. We clear, dispose responsibly, and leave you with a clean slate to work with."
+    },
+    {
+      "title": "Hedge Trimming & Tree Work",
+      "desc": "Expert pruning, hedge shaping, and light tree work to enhance safety and appearance. All waste chipped or disposed of professionally."
+    },
+    {
+      "title": "Garden Design & Landscaping",
+      "desc": "Bespoke garden layouts featuring new borders, decking, paving, and planting schemes. We transform neglected gardens into outdoor rooms you'll actually use."
+    },
+    {
+      "title": "Seasonal Garden Care",
+      "desc": "Spring preparation, summer watering services, autumn leaf clearance, and winter tidy-ups tailored to Southampton's climate."
+    },
+    {
+      "title": "Turfing & Seeding",
+      "desc": "New lawns installed from turf or seed, with proper soil preparation and aftercare advice to guarantee establishment."
+    }
+  ],
+  "about_pullquote": "I started Garden Direct because I hated seeing neighbours overcharged by cowboys.",
+  "about_para_1": "Garden Direct was founded over two decades ago by a lifelong gardener determined to bring honest, affordable garden care to Southampton and Hythe. Today we're the neighbourhood's go-to service for everything from weekly mowing to complete garden overhauls. We've built our reputation one garden at a time, turning overgrown eyesores into outdoor spaces families genuinely enjoy.",
+  "about_para_2": "What sets us apart is simple: we listen to what you actually want, we show up when we say we will, and we don't upsell work you don't need. Repeat customers make up 70% of our work because they know us, trust us, and know the price will be fair. If you've had a bad experience with a gardener before, we'll restore your faith.",
+  "about_stats": [
+    {
+      "num": "20+",
+      "label": "years trading"
+    },
+    {
+      "num": "70%",
+      "label": "repeat customers"
+    },
+    {
+      "num": "15",
+      "label": "gardens per month"
+    },
+    {
+      "num": "South Hampshire",
+      "label": "coverage area"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Brilliant service. Our garden was a complete mess after years of neglect and nobody would touch it. Garden Direct came in, cleared everything, and now it's somewhere we actually want to spend time. Fair price too.",
+      "author": "Mark P.",
+      "loc": "Hythe, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Been using them for regular cuts for about three years now. Never let you down, always on time, take pride in their work. Hard to find that these days. Would definitely recommend.",
+      "author": "Linda T.",
+      "loc": "Totton, Southampton \u2014 January 2025"
+    },
+    {
+      "text": "Called on a Friday afternoon asking if they could fit in a quote before the weekend. They came out same day and gave me a proper breakdown of what needed doing. No pressure, fair price, started work the following week. Very professional.",
+      "author": "David K.",
+      "loc": "Shirley, Southampton \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Southampton, Hythe, Totton, and South Hampshire",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Call for Sunday availability",
+  "emergency_banner_text": "Need urgent garden clearance or storm damage tidied up? Call us today for a same-day quote \u2014",
+  "footer_description": "Garden Direct offers professional garden maintenance, landscaping, and clearance across Southampton and South Hampshire. 20+ years of honest, reliable service.",
+  "footer_copyright": "\u00a9 2026 Garden Direct. All rights reserved."
+}
