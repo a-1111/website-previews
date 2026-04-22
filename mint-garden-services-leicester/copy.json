@@ -1,0 +1,107 @@
+{
+  "slug": "mint-garden-services-leicester",
+  "meta_title": "Mint Garden Services | Gardener Leicester",
+  "meta_description": "Mint Garden Services is your trusted Leicester gardener for lawn care, planting, and garden maintenance. Professional, reliable, local. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Local Leicester Gardener \u2014 15+ Years Experience",
+  "hero_headline": "Your Garden",
+  "hero_highlight": "Transformed",
+  "hero_subhead": "From overgrown borders to manicured lawns, Mint Garden Services brings your Leicester garden to life with care and expertise.",
+  "badge_4": "Same-Week Service Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Gardening"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Maintained"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Local",
+      "label": "Leicester Based"
+    }
+  ],
+  "services_heading": "Complete Garden Care Services Across Leicester",
+  "services_subhead": "Whether you need a one-off tidy or regular maintenance, we handle every aspect of garden upkeep with attention to detail.",
+  "services": [
+    {
+      "title": "Regular Garden Maintenance",
+      "desc": "Weekly or fortnightly grass cutting, hedge trimming, and border tidying keep your garden looking sharp year-round. We tailor schedules to your needs and season."
+    },
+    {
+      "title": "Lawn Care & Treatment",
+      "desc": "From scarifying and aeration to moss treatment and overseeding, we restore patchy lawns to lush, healthy growth."
+    },
+    {
+      "title": "Hedge & Shrub Pruning",
+      "desc": "Expert pruning and shaping of hedges, shrubs, and climbing plants \u2014 done safely and to keep your garden in shape."
+    },
+    {
+      "title": "Garden Clearance & Tidy-Ups",
+      "desc": "Overgrown garden? We clear weeds, remove dead growth, and dispose of waste, leaving you a clean slate to work with."
+    },
+    {
+      "title": "Planting & Garden Design",
+      "desc": "We source and plant perennials, shrubs, and seasonal bedding to add colour and structure to your borders."
+    },
+    {
+      "title": "Decking & Patio Maintenance",
+      "desc": "Keep wooden decks and paved areas safe and attractive with cleaning, sealing, and repair work tailored to Leicester's climate."
+    }
+  ],
+  "about_pullquote": "I do the work I'd want done in my own garden.",
+  "about_para_1": "Mint Garden Services started over 15 years ago in Leicester with a simple idea: to deliver honest, reliable garden care without the premium prices. Since then, we've built a loyal customer base across the city, tackling everything from small suburban borders to larger landscaping projects. We're proud to be a local, hands-on business \u2014 you speak to the gardener who'll be at your property.",
+  "about_para_2": "Our customers come back because we turn up on time, listen to what matters to you, and get the job done without fuss. We don't oversell unnecessary work or push expensive treatments you don't need. Instead, we focus on keeping your garden healthy, attractive, and within budget. Many of our clients have been with us for a decade or more.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "500+",
+      "label": "Regular Clients"
+    },
+    {
+      "num": "98%",
+      "label": "Customer Retention"
+    },
+    {
+      "num": "Leicester",
+      "label": "Local & Established"
+    }
+  ],
+  "reviews_heading": "What Leicester Gardeners Say About Mint",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Had Mint come out for a complete garden overhaul in spring. The garden was a right mess \u2014 overgrown borders, moss everywhere. They cleared it all, laid new turf, and planted some lovely shrubs. Fair price, turned up when they said they would, and the results speak for themselves. Highly recommend.",
+      "author": "David P.",
+      "loc": "Clarendon Park, Leicester \u2014 April 2024"
+    },
+    {
+      "text": "Been using Mint for regular maintenance for about 3 years now. They come fortnightly to cut the grass and tidy the beds. Never a fuss, reliable as clockwork, and my garden always looks great. They're a gem to have on speed dial.",
+      "author": "Margaret T.",
+      "loc": "Belgrave, Leicester \u2014 March 2025"
+    },
+    {
+      "text": "Called them in August for a hedge trim that had got completely out of hand. Came round the next day, quoted fair, and did a brilliant job. The whole street noticed! Will definitely use them again.",
+      "author": "James M.",
+      "loc": "Stoneygate, Leicester \u2014 August 2024"
+    }
+  ],
+  "address_sub": "Serving all of Leicester and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Flexible scheduling available",
+  "emergency_banner_text": "Need an urgent garden tidy or overgrowth cleared? We often have same-week slots available. Call now \u2014",
+  "footer_description": "Mint Garden Services is a trusted Leicester gardener delivering lawn care, maintenance, and garden clearance for over 15 years.",
+  "footer_copyright": "\u00a9 2026 Mint Garden Services. All rights reserved."
+}
