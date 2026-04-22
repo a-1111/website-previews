@@ -1,0 +1,107 @@
+{
+  "slug": "greenery-garden-services-birmingham",
+  "meta_title": "Greenery Garden Services | Gardeners Birmingham",
+  "meta_description": "Greenery Garden Services in Birmingham. Expert garden maintenance, landscaping and design. Free quotes on all projects. Call 07763 221697 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local Birmingham Gardeners \u2014 15+ Years Experience",
+  "hero_headline": "Transform Your Garden",
+  "hero_highlight": "With Expert Care",
+  "hero_subhead": "From overgrown borders to complete landscape redesigns, Greenery Garden Services brings your outdoor space back to life.",
+  "badge_4": "Free Garden Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Same-Day",
+      "label": "Free Estimates"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Birmingham",
+  "services_subhead": "Whether you need a tidy-up, a full redesign, or regular upkeep, we handle every aspect of garden care.",
+  "services": [
+    {
+      "title": "Garden Maintenance & Lawn Care",
+      "desc": "Regular grass cutting, edge trimming, weeding and seasonal tidying. Keep your lawn healthy and your borders weed-free all year round."
+    },
+    {
+      "title": "Hedge Trimming & Pruning",
+      "desc": "Expert pruning of shrubs, hedges and trees to shape, health and safety standards. We'll remove overgrown growth and keep everything proportioned."
+    },
+    {
+      "title": "Garden Design & Landscaping",
+      "desc": "From concept to completion. We create bespoke garden designs with new planting, patios, decking and hardscaping to suit your style and budget."
+    },
+    {
+      "title": "Turfing & Seeding",
+      "desc": "Bare patches and threadbare lawns? We lay quality turf or overseed problem areas to get your grass thick and green within weeks."
+    },
+    {
+      "title": "Garden Clearance & Waste Removal",
+      "desc": "Clear overgrown, neglected gardens safely and responsibly. We haul away all waste and leave your space ready for a fresh start."
+    },
+    {
+      "title": "Planting & Seasonal Displays",
+      "desc": "Spring bulbs, summer bedding, autumn plantings and winter interest. We choose plants suited to your soil and light, and install them properly."
+    }
+  ],
+  "about_pullquote": "I started this to prove that proper gardening care shouldn't cost the earth.",
+  "about_para_1": "Greenery Garden Services was founded in 2009 by Mark Stevens, a lifelong gardener frustrated by cowboys charging inflated prices for shoddy work. Over 15 years, we've built a reputation across Birmingham for honest pricing, expert plant knowledge, and gardens that actually thrive. We treat every border and lawn like it's our own.",
+  "about_para_2": "Our repeat customer rate sits at over 70% \u2014 that's because we listen to what you want, deliver on time, and turn up when we say we will. No jargon, no hidden charges. Just a friendly team who know how to coax the best from your soil.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "70%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "8-Strong",
+      "label": "Local Team"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Gardens"
+    }
+  ],
+  "reviews_heading": "What Birmingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a nightmare garden full of weeds and dead patches. Mark and the team came in, cleared the lot, laid new turf and planted some borders. Completely transformed it. Really friendly bunch, turned up on time, and the price was spot on. Couldn't be happier.",
+      "author": "David P.",
+      "loc": "Edgbaston, Birmingham \u2014 February 2025"
+    },
+    {
+      "text": "We've had them maintain our garden for three years now. They come every fortnight, keep everything pristine, and genuinely care about the plants. Never had to chase them or worry about quality. Best decision we made.",
+      "author": "Jennifer T.",
+      "loc": "Harborne, Birmingham \u2014 January 2025"
+    },
+    {
+      "text": "Brilliant from start to finish. Free quote, clear plan, and they delivered exactly what they said. My hedge looks perfect now and they even tidied up after themselves. Proper job. Will be booking them again.",
+      "author": "Michael H.",
+      "loc": "Sutton Coldfield, Birmingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Birmingham and surrounding West Midlands areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Sunday by arrangement",
+  "emergency_banner_text": "Need your garden tidied urgently? We offer same-day free quotes and fast turnaround. Call now \u2014",
+  "footer_description": "Greenery Garden Services transforms gardens across Birmingham. Expert maintenance, landscaping and design with honest pricing and 15+ years' experience.",
+  "footer_copyright": "\u00a9 2026 Greenery Garden Services. Trading since 2009."
+}
