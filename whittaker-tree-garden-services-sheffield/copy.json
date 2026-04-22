@@ -1,0 +1,107 @@
+{
+  "slug": "whittaker-tree-garden-services-sheffield",
+  "meta_title": "Whittaker Tree & Garden | Arborist Sheffield",
+  "meta_description": "Whittaker Tree & Garden Services in Sheffield. Expert tree surgery, garden maintenance, and stump removal. Fast, reliable arborist service. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-15:00"
+  ],
+  "hero_eyebrow": "Certified Arborist \u2014 Tree Surgery & Garden Care",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Tree Surgeon",
+  "hero_subhead": "Overgrown trees damaging your garden? We remove, trim, and care for trees safely \u2014 with same-week appointments across Sheffield.",
+  "badge_4": "Free Site Survey",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "2,000+",
+      "label": "Trees Removed"
+    },
+    {
+      "num": "48hrs",
+      "label": "Response Time"
+    },
+    {
+      "num": "100%",
+      "label": "Customer Satisfaction"
+    }
+  ],
+  "services_heading": "Complete Tree & Garden Services Across Sheffield",
+  "services_subhead": "From dangerous limbs to garden transformation, we handle every aspect of tree care and grounds maintenance.",
+  "services": [
+    {
+      "title": "Tree Removal",
+      "desc": "Safe, efficient removal of dead, diseased, or unwanted trees. We handle site clearance and stump grinding on the same day, leaving your garden ready to use."
+    },
+    {
+      "title": "Crown Reduction & Pruning",
+      "desc": "Professional pruning to reduce weight, improve shape, and encourage healthy growth. Perfect for preserving mature trees whilst opening up your garden."
+    },
+    {
+      "title": "Emergency Storm Damage",
+      "desc": "Storm brought down a tree? We respond quickly to remove fallen branches and unstable limbs, making your property safe again."
+    },
+    {
+      "title": "Stump Grinding",
+      "desc": "Complete stump removal below ground level, eliminating trip hazards and reclaiming garden space without invasive digging."
+    },
+    {
+      "title": "Garden Maintenance & Clearance",
+      "desc": "Hedge trimming, overgrowth clearance, and seasonal garden tidy-ups. We leave your borders and lawn in perfect condition."
+    },
+    {
+      "title": "Tree Surveys & Reports",
+      "desc": "Professional health assessment and risk evaluation of your trees. Useful for insurance, conveyancing, or planning permission requirements."
+    }
+  ],
+  "about_pullquote": "We treat every tree and garden like it's our own home.",
+  "about_para_1": "Whittaker Tree & Garden Services has been caring for Sheffield's gardens for nearly two decades. Started by a qualified arborist with a passion for preserving mature trees safely, we've grown to become the area's most trusted tree surgeon. Every job is planned with precision and executed with respect for your property and neighbourhood.",
+  "about_para_2": "What sets us apart is our commitment to honest advice \u2014 we'll never recommend removal if pruning will do the job. Our team arrive on time, leave your site clean, and stand behind their work. Hundreds of Sheffield homeowners have trusted us to transform overgrown or dangerous trees into thriving, beautiful assets.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "350+",
+      "label": "5-Star Reviews"
+    },
+    {
+      "num": "15",
+      "label": "Team Members"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat Customers"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 347,
+  "reviews": [
+    {
+      "text": "Had three massive conifers taken down and stumps ground out. Brilliant job, really professional. Mark and the team were in and out in one day, left the garden spotless. Can't fault them. Highly recommend.",
+      "author": "David T.",
+      "loc": "Bradway, Sheffield \u2014 February 2025"
+    },
+    {
+      "text": "Emergency call after the storm brought a branch down onto the fence. They came out same afternoon, cleared everything safely, and even fixed part of the fence. Genuine, hardworking lads who care about doing the job right.",
+      "author": "Helen M.",
+      "loc": "Fulwood, Sheffield \u2014 January 2025"
+    },
+    {
+      "text": "Got a free quote for crown reduction on an old oak. They explained exactly what they'd do and why. Tree looks healthy again, garden's lighter, and the price was fair. Will definitely use them again for the hedge.",
+      "author": "Robert K.",
+      "loc": "Dore, Sheffield \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Sheffield and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 3pm \u2022 Emergency callouts arranged",
+  "emergency_banner_text": "Fallen tree or dangerous limb? We attend emergency jobs within 48 hours. Contact us now \u2014",
+  "footer_description": "Sheffield's trusted arborist and tree surgeon. Expert removal, pruning, and garden maintenance. Same-week appointments, free surveys.",
+  "footer_copyright": "\u00a9 2026 Whittaker Tree & Garden Services Ltd. All rights reserved."
+}
