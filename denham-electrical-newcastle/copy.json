@@ -1,0 +1,107 @@
+{
+  "slug": "denham-electrical-newcastle",
+  "meta_title": "Denham Electrical | Electrician Newcastle",
+  "meta_description": "Denham Electrical is your trusted electrician in Newcastle. Fast response times, qualified engineers, and full rewires to emergency repairs. Call 07777 165087 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Emergency Call-Outs Available",
+  "hero_headline": "Newcastle's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault at home or work in Newcastle? We're here same day with fast, honest fixes and upfront pricing.",
+  "badge_4": "No Hidden Charges",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Electrical Services Across Newcastle",
+  "services_subhead": "From emergency call-outs to complete rewires, we handle domestic and commercial electrical work with speed and precision.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Power cuts, faulty circuits, or dangerous faults? We're on call around the clock. Most jobs diagnosed and fixed within the hour."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Ageing wiring putting you at risk? We carry out complete domestic rewires with minimal disruption, all Part P certified and tested."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "Installation and repair of electric heating systems, immersion heaters, and boiler controls. Safe, reliable, and built to last."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Old fuse boxes replaced with modern safety switches and circuit breakers. Fully compliant, fully insured, quick turnaround."
+    },
+    {
+      "title": "Landlord Safety Certificates",
+      "desc": "EICR inspections and remedial work to meet current regulations. We'll flag any issues and fix them on the spot where possible."
+    },
+    {
+      "title": "Commercial & Industrial Work",
+      "desc": "Fault finding, maintenance, and installation for shops, offices, and small factories across the North East."
+    }
+  ],
+  "about_pullquote": "I started this business because I was fed up seeing customers overcharged for simple fixes.",
+  "about_para_1": "Denham Electrical was founded 18 years ago in Newcastle with a simple mission: honest, fast electrical work at fair prices. Since then, we've built our reputation one satisfied customer at a time, tackling everything from midnight emergency call-outs to complete house rewires. All our engineers are fully qualified, NICEIC registered, and carry their credentials with them.",
+  "about_para_2": "Word of mouth keeps us busy\u2014most of our work comes from repeat customers and their friends. We pride ourselves on turning up on time, diagnosing faults quickly, and explaining what needs doing before we pick up a tool. No surprises on the bill. That's why homeowners and landlords across Newcastle trust us with their electrics.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Established"
+    },
+    {
+      "num": "2,400+",
+      "label": "Domestic jobs"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "Newcastle & suburbs",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Our kitchen electrics went down on a Sunday and we panicked. Rang Denham and a lad was round within 45 minutes. Turned out to be a faulty socket. Cost a fraction of what another firm quoted. Brilliant service.",
+      "author": "Michael T.",
+      "loc": "Jesmond, Newcastle \u2014 January 2025"
+    },
+    {
+      "text": "Had my house rewired by Denham last spring. The team was tidy, professional, and finished on time. They explained everything as they went and sorted a few extra bits I was worried about without trying to upsell me. Would absolutely use them again.",
+      "author": "Emma R.",
+      "loc": "Gosforth, Newcastle \u2014 September 2024"
+    },
+    {
+      "text": "Called for an EICR certificate for my rental property. Quick appointment, clear report, and they fixed the issues on site. No messing about, no jargon. Very impressed with the whole process.",
+      "author": "David P.",
+      "loc": "Whickham, Newcastle \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving Newcastle, Gateshead, and the North East",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Electrical emergency in Newcastle? We aim to be with you within the hour. Call now \u2014",
+  "footer_description": "Denham Electrical is Newcastle's trusted local electrician. NICEIC registered, emergency response, full rewires, same-day fixes.",
+  "footer_copyright": "\u00a9 2026 Denham Electrical Ltd. Registered in England & Wales."
+}
