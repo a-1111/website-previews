@@ -1,0 +1,107 @@
+{
+  "slug": "all-rooms-electrics-leicester",
+  "meta_title": "All Rooms Electrics | Electrician Leicester",
+  "meta_description": "All Rooms Electrics Leicester provides domestic and commercial electrical work. Fast response, certified electrician. Call 07971 926918 for a free quote today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Rapid Response Electrician",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty wiring, broken sockets, or a full rewire? We diagnose and fix electrical faults fast, with no hidden charges.",
+  "badge_4": "Free Quotations",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Established in business"
+    },
+    {
+      "num": "1,200+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "30 mins",
+      "label": "Typical response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Electrical Services Throughout Leicester",
+  "services_subhead": "From emergency repairs to full house rewires, we handle domestic and commercial electrical work with precision.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped electrics, or flickering lights? We respond quickly to get your home safe and lit again. Same-day call-out available."
+    },
+    {
+      "title": "Socket and Switch Installation",
+      "desc": "Add new sockets, relocate outlets, or install modern switches throughout your home. All work tested and certified."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Older homes with aging wiring? We replace outdated circuits with modern safe systems, reducing fire risk and improving reliability."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace your fuse box with a modern circuit breaker unit. Safer, more reliable, and often reduces insurance premiums."
+    },
+    {
+      "title": "Fault Finding and Testing",
+      "desc": "Electrical problems that baffle others? We use diagnostic equipment to pinpoint faults quickly, so we fix the root cause, not just symptoms."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Office rewires, new installations, and regular safety inspections for small businesses and retail premises across Leicester."
+    }
+  ],
+  "about_pullquote": "I wire homes the way I'd wire my own\u2014safely, fairly, and with no surprises.",
+  "about_para_1": "All Rooms Electrics has served Leicester homeowners and businesses for 18 years. We started because local electricians either charged extortionately or cut corners. Our approach is simple: honest diagnosis, transparent pricing, and work that lasts. Every job is tested to the highest standards and certified in full.",
+  "about_para_2": "You'll find us on call when others aren't, and we turn up on time with the right tools. We specialise in older properties where the wiring has deteriorated, and we're equally at home upgrading modern homes or rewiring commercial spaces. Most of our new customers come through word of mouth\u2014a sign that we get the job right the first time.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading in Leicester"
+    },
+    {
+      "num": "1,200+",
+      "label": "Projects completed"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat and referral customers"
+    },
+    {
+      "num": "100%",
+      "label": "Work guarantee"
+    }
+  ],
+  "reviews_heading": "What Leicester Homes Say About Us",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Had a dodgy socket that kept tripping the breaker. Called around and everyone wanted \u00a380 just to look at it. Paul came out, diagnosed a fault in the wiring behind the wall, sorted it properly, and charged a fair price. No messing about. Top job.",
+      "author": "Michael T.",
+      "loc": "Belgrave, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Rewired our 1930s semi. Big job, could have taken weeks and a fortune. Paul was organised, clean, and finished on time. All tested and certified. House feels safer now. Really pleased.",
+      "author": "Catherine W.",
+      "loc": "Westcotes, Leicester \u2014 August 2024"
+    },
+    {
+      "text": "Emergency call at 6pm on a Sunday. Most electricians don't answer. Paul did. He arrived within an hour, replaced a burnt-out breaker, and the house was back to normal. Fair charge too. Will definitely call him again.",
+      "author": "David K.",
+      "loc": "Stoneygate, Leicester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Leicester and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line available evenings and weekends",
+  "emergency_banner_text": "Lights out or sparking sockets? We aim to be with you within 30 minutes of your call. Ring now \u2014",
+  "footer_description": "All Rooms Electrics: domestic and commercial electrical work in Leicester. Certified, honest, and fast. Free quotes on 07971 926918.",
+  "footer_copyright": "\u00a9 2026 All Rooms Electrics. Registered in England & Wales."
+}
