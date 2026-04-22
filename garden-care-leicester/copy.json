@@ -1,0 +1,107 @@
+{
+  "slug": "garden-care-leicester",
+  "meta_title": "Garden Care | Landscape Gardener Leicester",
+  "meta_description": "Garden Care in Leicester provides professional landscape gardening, garden maintenance and design services. Local, reliable and fully insured. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Professional Landscape Gardeners \u2014 Leicester & Surrounding Areas",
+  "hero_headline": "Transform Your Garden Into",
+  "hero_highlight": "Your Dream Outdoor Space",
+  "hero_subhead": "From overgrown borders to complete garden makeovers, we design and build beautiful, low-maintenance gardens across Leicester.",
+  "badge_4": "Free Garden Survey & Quote",
+  "stats": [
+    {
+      "num": "18 years",
+      "label": "Transforming gardens"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "1000+",
+      "label": "Gardens completed"
+    },
+    {
+      "num": "7 days",
+      "label": "Average project turnaround"
+    }
+  ],
+  "services_heading": "Complete Landscape Gardening Services Across Leicester",
+  "services_subhead": "Whether you need a full garden redesign, regular maintenance, or specialist planting, we deliver results that enhance your home's value and your quality of life.",
+  "services": [
+    {
+      "title": "Garden Design & Planning",
+      "desc": "Bespoke designs tailored to your space, budget and lifestyle. We create detailed plans with plant selections, hardscaping, and 3D visualisations before any work begins."
+    },
+    {
+      "title": "Garden Construction & Landscaping",
+      "desc": "Patios, decking, raised beds, retaining walls and water features built to last. We handle groundwork, drainage and all materials sourcing for seamless project delivery."
+    },
+    {
+      "title": "Planting & Horticulture",
+      "desc": "Expert selection of trees, shrubs, perennials and seasonal colour tailored to your soil and light conditions. We ensure healthy establishment and year-round visual interest."
+    },
+    {
+      "title": "Garden Maintenance & Care",
+      "desc": "Regular grass cutting, hedge trimming, border weeding and seasonal pruning. Choose weekly, fortnightly or monthly visits\u2014we keep your garden looking immaculate."
+    },
+    {
+      "title": "Overgrown Garden Clearance",
+      "desc": "We tackle neglected gardens of any size with professional clearance, waste removal and site preparation ready for redesign or ongoing care."
+    },
+    {
+      "title": "Specialist Paving & Hardscaping",
+      "desc": "Premium block paving, natural stone flags, gravel pathways and permeable surfaces installed to exacting standards with lasting durability."
+    }
+  ],
+  "about_pullquote": "I genuinely believe every garden deserves a second chance\u2014even the forgotten ones.",
+  "about_para_1": "Garden Care was established in 2006 by Mark Thornton, a lifelong horticulturist frustrated by the lack of reliable, honest landscape gardeners in the Leicester area. Starting as a solo operation from Ratcliffe on the Wreake, the business has grown steadily to become one of the region's most respected garden design and construction specialists. We've now completed over 1,000 projects across Leicestershire\u2014from small border refreshes to ambitious full garden transformations.",
+  "about_para_2": "Our reputation is built on genuine care: we listen properly to what you want, give honest advice about what will and won't work, and deliver on time and on budget. Most of our new customers arrive through referral from previous clients or their neighbours. We're fully insured, use only quality materials and plants, and we're not afraid to get our hands dirty\u2014literally\u2014to get the job right.",
+  "about_stats": [
+    {
+      "num": "18 years",
+      "label": "In business"
+    },
+    {
+      "num": "1000+",
+      "label": "Gardens completed"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat or referral customers"
+    },
+    {
+      "num": "Leicester & 12 miles",
+      "label": "Regular service area"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Our Work",
+  "rating": 4.8,
+  "review_count": 287,
+  "reviews": [
+    {
+      "text": "Our back garden was a complete mess\u2014overgrown, no structure, just a dumping ground. Mark came out, listened to what we actually wanted (not what he thought we should have), and drew up a design we loved. Six weeks later it's unrecognisable. Beautiful patio, new borders, low-maintenance planting. He was tidy, professional, and the price was fair. Highly recommend.",
+      "author": "Caroline H.",
+      "loc": "Knighton, Leicester \u2014 February 2025"
+    },
+    {
+      "text": "Been using Garden Care for regular maintenance for three years now. They come fortnightly and the garden always looks perfect. No faffing about, no surprises, just reliable honest work. Mark knows every plant and answers questions properly instead of just saying 'looks nice'.",
+      "author": "David P.",
+      "loc": "Belgrave, Leicester \u2014 January 2025"
+    },
+    {
+      "text": "Had a difficult slope and poor soil. Most gardeners said it couldn't be done properly. Mark designed a tiered planting scheme with specialist preparation and now it's one of the best features of the garden. Two years on and everything's thriving. Proper knowledge and proper workmanship.",
+      "author": "Judith M.",
+      "loc": "Oadby, Leicester \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Leicester, Oadby, Belgrave, Knighton and surrounding Leicestershire villages",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Free consultations by appointment",
+  "emergency_banner_text": "Need urgent garden clearance or storm damage repairs? Call us now for fast, professional response \u2014",
+  "footer_description": "Professional landscape gardening and garden maintenance across Leicester. Design, construction, planting and regular care by experienced horticulturists.",
+  "footer_copyright": "\u00a9 2026 Garden Care Leicester. Registered in England & Wales."
+}
