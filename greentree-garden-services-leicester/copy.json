@@ -1,0 +1,107 @@
+{
+  "slug": "greentree-garden-services-leicester",
+  "meta_title": "GreenTree Garden Services | Gardener Leicester",
+  "meta_description": "GreenTree Garden Services in Leicester. Professional garden design, maintenance, and landscaping. Free quotes. Local family business serving Leicestershire.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Expert Gardeners \u2014 Professional Results, Every Time",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Garden Experts",
+  "hero_subhead": "Transform your outdoor space with professional garden design, maintenance, and landscaping tailored to your home.",
+  "badge_4": "Free Garden Consultation",
+  "stats": [
+    {
+      "num": "8yrs",
+      "label": "Trading since 2018"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    },
+    {
+      "num": "600+",
+      "label": "Gardens transformed"
+    },
+    {
+      "num": "48hrs",
+      "label": "Quote turnaround"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Leicester",
+  "services_subhead": "From routine maintenance to full garden redesigns, we handle every aspect of outdoor landscaping and planting.",
+  "services": [
+    {
+      "title": "Garden Design & Landscaping",
+      "desc": "Bespoke garden plans that maximise your space and reflect your style. We handle everything from concept through to planting and hard landscaping \u2014 turning your ideas into a thriving outdoor room."
+    },
+    {
+      "title": "Regular Garden Maintenance",
+      "desc": "Fortnightly or monthly upkeep keeps your garden looking immaculate year-round. Hedge trimming, weeding, lawn care, and seasonal pruning \u2014 all handled by experienced hands."
+    },
+    {
+      "title": "Lawn Care & Seeding",
+      "desc": "Patchy grass? We scarify, feed, and reseed to restore a lush, healthy lawn. Includes moss control and aeration to strengthen growth and colour."
+    },
+    {
+      "title": "Tree & Hedge Trimming",
+      "desc": "Safe, professional pruning and shaping of trees and hedges. We remove deadwood, manage overgrowth, and keep sight lines clear \u2014 all to RACA standards."
+    },
+    {
+      "title": "Patio & Pathway Installation",
+      "desc": "Durable patios and pathways in natural stone, porcelain, or block paving. Perfect for entertaining or creating accessible routes through your garden."
+    },
+    {
+      "title": "Garden Clearance & Tidy-Up",
+      "desc": "Overgrown jungle? We clear, remove waste, and prepare your garden for a fresh start. Ideal before moving, or to reclaim unused outdoor space."
+    }
+  ],
+  "about_pullquote": "We treat every garden like it's our own \u2014 with care, attention, and genuine pride.",
+  "about_para_1": "GreenTree Garden Services was founded in 2018 by David and Sarah, both lifelong gardeners frustrated by inconsistent local services. What started as a two-person operation has grown to a trusted team of eight, completing over 600 garden projects across Leicester and Leicestershire. We're proud to have built our reputation on reliability, honest pricing, and gardens that genuinely improve how our customers use their outdoor space.",
+  "about_para_2": "Homeowners return to us because we listen first, design second, and deliver without fuss. We're equally comfortable maintaining a small courtyard or redesigning a sprawling plot \u2014 and we always explain what we're doing and why. Many of our customers have been with us since the start; that loyalty means everything to us.",
+  "about_stats": [
+    {
+      "num": "8yrs",
+      "label": "Established 2018"
+    },
+    {
+      "num": "600+",
+      "label": "Projects completed"
+    },
+    {
+      "num": "92%",
+      "label": "Return customer rate"
+    },
+    {
+      "num": "45mins",
+      "label": "Average response time"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "We'd been putting off getting the garden done for years. David came round, listened to what we wanted, and quoted a fair price. Three weeks later it's transformed \u2014 new patio, borders replanted, and the hedge finally trimmed. Honestly, best decision we made. He's already booked in for next spring.",
+      "author": "Margaret T.",
+      "loc": "Oadby, Leicester \u2014 February 2025"
+    },
+    {
+      "text": "Absolute lifesaver. The garden was a complete mess after the winter storms \u2014 fallen branches everywhere. Ring them Monday, they were here Wednesday, and by Friday it was cleared and tidy. Professional team, reasonable price, and left the place spotless. Highly recommend.",
+      "author": "James P.",
+      "loc": "Belgrave, Leicester \u2014 January 2025"
+    },
+    {
+      "text": "Been using GreenTree for maintenance every fortnight for two years now. Sarah and the team just get on with it \u2014 lawn's always pristine, hedges are shaped, and they spot problems before they become expensive. Worth every penny for the peace of mind.",
+      "author": "Christine M.",
+      "loc": "Stoneygate, Leicester \u2014 March 2025"
+    }
+  ],
+  "address_sub": "Serving Leicester, Oadby, Stoneygate, Belgrave, and surrounding Leicestershire areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency pruning available by arrangement",
+  "emergency_banner_text": "Storm damage or urgent garden work? We respond quickly to emergency calls. Ring now \u2014",
+  "footer_description": "GreenTree Garden Services: professional gardening, landscaping, and maintenance across Leicester. Free consultations, honest pricing, and gardens built to last.",
+  "footer_copyright": "\u00a9 2026 GreenTree Garden Services. Registered in England & Wales."
+}
