@@ -1,0 +1,107 @@
+{
+  "slug": "aw-electrical-northwest-liverpool",
+  "meta_title": "AW Electrical Northwest | Electrician Liverpool",
+  "meta_description": "AW Electrical Northwest Ltd in Liverpool. Domestic and commercial electrical work, rewires, testing, installations. Fast response, fully qualified. Call 07841 695731 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "Fully Qualified \u2014 Fast, Reliable Electrical Work",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty wiring, broken sockets, or a complete rewire? We diagnose faults fast and fix them right, with no hidden costs.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "1200+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "90%",
+      "label": "Return Customers"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Liverpool and Wirral",
+  "services_subhead": "From emergency callouts to full rewires, we handle domestic and commercial electrical work with precision and care.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, flickering lights, or dead sockets? We respond quickly to electrical faults and get you back to normal. Most jobs fixed same day."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Old wiring puts your home at risk. We replace outdated installations with modern safe cabling, new consumer units, and full testing to Building Regulations."
+    },
+    {
+      "title": "Boiler and Heating Electrics",
+      "desc": "Installing or upgrading your heating system? We handle all electrical work for boilers, heat pumps, and immersion heaters to manufacturer spec."
+    },
+    {
+      "title": "Electric Vehicle Charging",
+      "desc": "Future-proof your home with a fast, safe EV charger installation. We size the supply, install the wall unit, and test everything thoroughly."
+    },
+    {
+      "title": "Commercial and Industrial Work",
+      "desc": "Retail fit-outs, office refurbishments, factory maintenance. We understand downtime costs money \u2014 we work efficiently and stick to schedules."
+    },
+    {
+      "title": "Periodic Testing and Inspection",
+      "desc": "Landlords and letting agents: we carry out EICR surveys and provide detailed reports to keep your properties compliant and insurable."
+    }
+  ],
+  "about_pullquote": "We show up on time, do the job right, and never try to sell you work you don't need.",
+  "about_para_1": "AW Electrical Northwest Ltd was founded on a simple idea: homeowners and businesses deserve honest, skilled electrical work without the nonsense. Over 18 years, we've grown from a single van to a team of qualified electricians serving Liverpool, Wirral, and beyond. Every member of our team is fully trained and tested \u2014 no shortcuts, no cowboys.",
+  "about_para_2": "We're known in our community for turning up when we say we will, fixing things properly the first time, and charging fair prices with no surprises. Our repeat customer rate says it all \u2014 most of our work comes from people who've used us before and trust us. When you call AW Electrical, you get honest advice and fast, professional work.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Established"
+    },
+    {
+      "num": "12",
+      "label": "Qualified Electricians"
+    },
+    {
+      "num": "2000+",
+      "label": "Properties Served"
+    },
+    {
+      "num": "99%",
+      "label": "On-Time Arrival"
+    }
+  ],
+  "reviews_heading": "What Liverpool and Wirral Customers Say",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had an absolute nightmare with an old fuse box \u2014 kept tripping out without warning. Called AW Electrical and they came out within two hours. Really explained what was wrong, sorted a new consumer unit and full testing same day. Brilliant, fair price and no messing about.",
+      "author": "Michael T.",
+      "loc": "Crosby, Liverpool \u2014 September 2024"
+    },
+    {
+      "text": "We needed an EV charger installed and weren't sure about the electrics. The team assessed the supply, installed everything properly, and walked us through how to use it. They even gave us a guarantee on the work. Highly recommend.",
+      "author": "Claire M.",
+      "loc": "Formby, Liverpool \u2014 February 2025"
+    },
+    {
+      "text": "As a lettings agent managing several properties, I use AW Electrical for all EICR inspections and repairs. They're quick, thorough, and the reports are detailed enough for insurance. They've never let us down.",
+      "author": "David L.",
+      "loc": "Wallasey, Wirral \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Liverpool, Wirral, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Electrical emergency in Liverpool? We're on the job. Call now \u2014",
+  "footer_description": "AW Electrical Northwest Ltd: fully qualified electricians in Liverpool and Wirral. Rewires, testing, EV chargers, commercial work. Fast, honest, reliable.",
+  "footer_copyright": "\u00a9 2026 AW Electrical Northwest Ltd. Registered in England & Wales."
+}
