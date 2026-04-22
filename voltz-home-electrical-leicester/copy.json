@@ -1,0 +1,107 @@
+{
+  "slug": "voltz-home-electrical-leicester",
+  "meta_title": "Voltz Home Electrical | Local Electrician Leicester",
+  "meta_description": "Voltz Home Electrical in Leicester provides fast, reliable domestic electrical services. NICEIC registered. Emergency callouts available. Call 07738 783313.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-19:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Same-Day Emergency Callouts",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Domestic Electrician",
+  "hero_subhead": "Fault diagnosis, rewires, and new circuits fixed fast. Emergency callouts 7 days a week across Leicester.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "60 mins",
+      "label": "Typical Emergency Response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Leicester",
+  "services_subhead": "From emergency fault repairs to full rewires, we handle all domestic electrical work with speed and expertise.",
+  "services": [
+    {
+      "title": "Emergency Callouts",
+      "desc": "Blown circuits, sparking outlets, or a complete power loss? We respond to emergencies 24/7 and aim to diagnose the problem in under an hour."
+    },
+    {
+      "title": "Fault Diagnosis & Repair",
+      "desc": "Flickering lights, dead sockets, or trip switches failing? We test, identify the fault, and fix it the same day whenever possible."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Old wiring unsafe? We plan and install new circuits throughout your home, with minimal disruption and all work certified."
+    },
+    {
+      "title": "New Circuits & Installations",
+      "desc": "Adding a kitchen island, EV charger, or hot tub? We design and install new circuits to handle the extra load safely."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Outdated fusebox? We replace old consumer units with modern, safer distribution boards and test all circuits."
+    },
+    {
+      "title": "Periodic Inspections",
+      "desc": "Landlords and property managers can rely on our EICR reports to meet legal safety requirements and reassure tenants."
+    }
+  ],
+  "about_pullquote": "I started Voltz because too many people were being ripped off by dodgy sparks.",
+  "about_para_1": "Voltz Home Electrical has been serving Leicester homes for over 12 years. We're NICEIC registered and carry full public liability insurance on every job. Our founder trained as a fully qualified electrician and built the business on doing work right, fairly, and fast.",
+  "about_para_2": "We've completed over 2000 jobs across Leicester and earn repeat business because we show up on time, explain the problem in plain English, and price honestly. Whether it's a midnight emergency or a planned rewire, you get the same professional service and reliability.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2000+",
+      "label": "Domestic Jobs"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat & Referral Work"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Registered Contractor"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Voltz",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Woke up to find half the house without power on a Sunday morning. Called Voltz and they were here in 50 minutes. Turned out the consumer unit was overloaded. Fixed it and checked all circuits. Brilliant service, no nonsense, fair price. Can't ask for better.",
+      "author": "David P.",
+      "loc": "Belgrave, Leicester \u2014 January 2025"
+    },
+    {
+      "text": "Had them in for a complete rewire. They were tidy, professional, and finished on time. Explained everything as they went. My old place feels safe now. Highly recommend.",
+      "author": "Margaret T.",
+      "loc": "Clarendon Park, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Sparking socket in the kitchen at 11pm on a Friday. Called Voltz, they picked up straight away, came out the next morning, and sorted it. No drama, just got the job done. Will use them again.",
+      "author": "James M.",
+      "loc": "Stoneygate, Leicester \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Leicester and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 7pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Emergency? Blown circuits, power loss, or sparking outlets? We aim to be with you within the hour. Call now \u2014",
+  "footer_description": "Voltz Home Electrical is a NICEIC-registered electrician in Leicester. Same-day emergency repairs, rewires, and installations for Leicester homes.",
+  "footer_copyright": "\u00a9 2026 Voltz Home Electrical. All rights reserved."
+}
