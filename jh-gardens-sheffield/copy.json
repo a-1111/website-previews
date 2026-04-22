@@ -1,0 +1,107 @@
+{
+  "slug": "jh-gardens-sheffield",
+  "meta_title": "JH Gardens | Local Gardener Sheffield",
+  "meta_description": "JH Gardens Sheffield \u2014 reliable local gardening services for garden maintenance, landscaping, and seasonal work. Free quotes available. Call 07525 784065.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Local, Experienced Gardener \u2014 Sheffield & Penistone",
+  "hero_headline": "Your Garden",
+  "hero_highlight": "Transformed",
+  "hero_subhead": "From overgrown borders to seasonal maintenance, JH Gardens keeps your Sheffield garden looking its best year-round.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Local Gardens Cared For"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Same-Day",
+      "label": "Quote Response"
+    }
+  ],
+  "services_heading": "Garden Services Across Sheffield & Penistone",
+  "services_subhead": "Whether you need spring pruning, lawn care, hedge trimming, or a full garden redesign, we've got you covered.",
+  "services": [
+    {
+      "title": "Garden Maintenance",
+      "desc": "Regular lawn mowing, border tidying, and seasonal weeding. Keep your garden cared for without the effort."
+    },
+    {
+      "title": "Hedge & Tree Trimming",
+      "desc": "Safe, professional pruning and hedge cutting. We shape overgrown trees and keep boundaries neat and tidy."
+    },
+    {
+      "title": "Garden Clearance",
+      "desc": "Reclaim overgrown or neglected gardens. We clear debris, remove dead wood, and leave your plot ready for a fresh start."
+    },
+    {
+      "title": "Lawn Care & Seeding",
+      "desc": "Restore patchy lawns with expert scarifying, aeration, and quality seed. Enjoy a thick, healthy green carpet."
+    },
+    {
+      "title": "Planting & Garden Design",
+      "desc": "Transform bare spaces with thoughtful planting schemes. We suggest hardy shrubs, perennials, and seasonal colour."
+    },
+    {
+      "title": "Patio & Pathway Cleaning",
+      "desc": "Remove moss, algae, and grime from hard surfaces. Pressure washing brings patios and steps back to life safely."
+    }
+  ],
+  "about_pullquote": "I built this business because I love seeing gardens thrive and customers smile.",
+  "about_para_1": "JH Gardens has been serving Sheffield and Penistone for over 12 years. We started with a simple idea: offer reliable, honest gardening work at fair prices. What began as one person with a van has grown into a trusted local business, but we've never lost sight of why we do this \u2014 to help homeowners enjoy their outdoor space.",
+  "about_para_2": "We're known for turning up on time, getting the job done right, and treating your garden with the same care we'd give our own. Many of our customers have been with us for years, moving from monthly maintenance to seasonal projects and the occasional spring refresh. That's because we listen, we explain what needs doing, and we don't oversell.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Regular Customers"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Avg. Rating"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat Business"
+    }
+  ],
+  "reviews_heading": "What Sheffield Gardeners Say",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had my garden completely done over \u2014 it was a right mess before. JH came in, cleared everything, and planted some lovely shrubs and perennials. Now it actually looks nice. Can't recommend enough.",
+      "author": "Margaret T.",
+      "loc": "Penistone, Sheffield \u2014 September 2024"
+    },
+    {
+      "text": "Been using JH for the hedge trimming for about three years now. Always reliable, always does a good job, and doesn't charge the earth. Turns up when he says he will. Worth every penny.",
+      "author": "David K.",
+      "loc": "Ranmoor, Sheffield \u2014 August 2024"
+    },
+    {
+      "text": "Called for a patio clean and got a quote the same day. The work was done quickly and the patio looks brand new. Fair price, friendly bloke, and the moss and slime is completely gone.",
+      "author": "Jennifer P.",
+      "loc": "Ecclesall, Sheffield \u2014 July 2024"
+    }
+  ],
+  "address_sub": "Serving Sheffield, Penistone, and surrounding villages",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Weekday evening visits by arrangement",
+  "emergency_banner_text": "Need your garden sorted before the weekend? Call now for a same-day quote \u2014",
+  "footer_description": "JH Gardens Sheffield \u2014 trusted local gardener offering maintenance, landscaping, hedge trimming, and garden clearance across Penistone and Sheffield.",
+  "footer_copyright": "\u00a9 2026 JH Gardens. All rights reserved."
+}
