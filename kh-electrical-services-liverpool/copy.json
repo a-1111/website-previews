@@ -1,0 +1,107 @@
+{
+  "slug": "kh-electrical-services-liverpool",
+  "meta_title": "K H Electrical Services | Electrician Liverpool",
+  "meta_description": "K H Electrical Services in Liverpool. Local electrician offering domestic and commercial electrical work, rewires, and emergency callouts. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "Fully Qualified Electrician \u2014 Emergency Callouts Available",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Domestic and commercial electrical work done right. Fast response times, fair pricing, and work that lasts.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1 hour",
+      "label": "Emergency Response Time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Satisfaction"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Liverpool",
+  "services_subhead": "From routine maintenance and repairs to full rewires and new installations, we handle all your electrical needs.",
+  "services": [
+    {
+      "title": "Emergency Callouts",
+      "desc": "Power cuts, faulty electrics, or dangerous faults? We're available 24/7 to get your electrics safe and working again fast."
+    },
+    {
+      "title": "Boiler and Heating Installation",
+      "desc": "Professional installation of gas boilers, electric heating systems, and hot water cylinders with full certification and guarantees."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Old or unsafe wiring? We replace the lot with modern, compliant cabling and fittings. Safer electrics, lower fire risk, peace of mind."
+    },
+    {
+      "title": "Electrical Testing and Certification",
+      "desc": "Landlord safety checks, pre-purchase surveys, and PAT testing. We identify faults before they become dangerous."
+    },
+    {
+      "title": "Kitchen and Bathroom Installation",
+      "desc": "Safe wiring for your new kitchen or bathroom refit. We ensure circuits, sockets, and lighting meet all building regulations."
+    },
+    {
+      "title": "Commercial Electrical Maintenance",
+      "desc": "Regular servicing, fault diagnosis, and repairs for shops, offices, and small businesses across Merseyside."
+    }
+  ],
+  "about_pullquote": "I started this business to do honest electrical work at fair prices.",
+  "about_para_1": "K H Electrical Services has been serving Liverpool homes and businesses for over 15 years. We started with a simple mission: provide reliable, professional electrical work without the inflated bills or jargon. Today, we've built a reputation for turning up on time, diagnosing problems properly, and fixing them right.",
+  "about_para_2": "Our customers come back because they trust us. Whether it's a minor repair, a full rewire, or an emergency at midnight, we treat your home with the same care we'd give our own. We're locally based in Liverpool, fully qualified, and we stand behind every job we do.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2,000+",
+      "label": "Electrical Jobs Done"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "L7\u2013L15",
+      "label": "Coverage Areas"
+    }
+  ],
+  "reviews_heading": "What Liverpool Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Had a problem with the electrics in my kitchen, didn't know what was wrong. Called K H and they came out the next morning. Diagnosed it straight away, fixed it, and didn't charge me a fortune like other electricians quoted. Brilliant service, will definitely use again.",
+      "author": "Mark T.",
+      "loc": "Toxteth, Liverpool \u2014 October 2024"
+    },
+    {
+      "text": "Our office in the city centre had a complete rewire done last year. They were professional, tidy, and kept disruption to a minimum. Work finished on time and everything's been solid since. Can't fault them.",
+      "author": "Claire M.",
+      "loc": "City Centre, Liverpool \u2014 July 2024"
+    },
+    {
+      "text": "Called at 11pm with a blown fuse and water near the fuse board\u2014proper scary. They came within the hour, made it safe, and spent time explaining what happened. No judgment, no extra charges. Exactly what you need in an emergency. Top bloke.",
+      "author": "David L.",
+      "loc": "Wavertree, Liverpool \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving all of Liverpool and surrounding areas across Merseyside",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Electrics playing up? We aim to attend emergency call-outs in under an hour. Call now \u2014",
+  "footer_description": "K H Electrical Services: local electrician in Liverpool offering domestic rewires, repairs, testing, and 24/7 emergency callouts.",
+  "footer_copyright": "\u00a9 2026 K H Electrical Services. Registered in England & Wales."
+}
