@@ -1,0 +1,107 @@
+{
+  "slug": "peters-gardening-services-leeds",
+  "meta_title": "Peter's Gardening | Landscape Gardener Leeds",
+  "meta_description": "Peter's Gardening Services in Leeds offers professional landscape gardening, garden design, and maintenance. Local, reliable, and friendly. Call today for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Professional Landscape Gardener \u2014 Local to Leeds",
+  "hero_headline": "Your Garden",
+  "hero_highlight": "Transformed",
+  "hero_subhead": "From overgrown borders to show-stopping outdoor spaces, we design and build gardens that work for your home.",
+  "badge_4": "Free Garden Consultation",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "All Year",
+      "label": "Maintenance Available"
+    }
+  ],
+  "services_heading": "Complete Landscape Gardening Services Across Leeds",
+  "services_subhead": "Whether you need a full garden redesign, regular maintenance, or specialist groundwork, we've got you covered.",
+  "services": [
+    {
+      "title": "Garden Design & Build",
+      "desc": "Custom landscape designs that match your vision and budget. We handle everything from initial planning to planting and hardscaping, creating outdoor spaces that enhance your home's value and appeal."
+    },
+    {
+      "title": "Regular Garden Maintenance",
+      "desc": "Weekly or monthly visits keep your garden in peak condition. We handle pruning, weeding, lawn care, and seasonal planting so you can enjoy a beautiful garden without the work."
+    },
+    {
+      "title": "Lawn Care & Seeding",
+      "desc": "Lush, healthy lawns need expert care. We offer aeration, scarification, feeding, and seed or turf laying to give you grass that looks and feels great year-round."
+    },
+    {
+      "title": "Patio & Hardscaping",
+      "desc": "Durable patios, pathways, and decking that transform how you use your garden. We install quality block paving, sleeper features, and outdoor surfaces built to last."
+    },
+    {
+      "title": "Hedge & Tree Pruning",
+      "desc": "Safe, professional pruning and shaping that keeps hedges tidy and trees healthy. We work around buildings and boundaries with precision and care."
+    },
+    {
+      "title": "Garden Clearance & Disposal",
+      "desc": "Reclaim overgrown gardens fast. We remove debris, old fencing, and waste, leaving a clean canvas ready for redesign or replanting."
+    }
+  ],
+  "about_pullquote": "I believe a garden should be a place you love spending time, not a source of stress.",
+  "about_para_1": "Peter's Gardening Services has been transforming Leeds gardens for nearly two decades. Starting with just a van and a passion for outdoor spaces, we've grown to become a trusted name across the city. Every project, whether a small border refresh or a complete garden redesign, gets the same level of attention and craftsmanship.",
+  "about_para_2": "Our customers keep coming back because we listen first and show up on time. We don't use high-pressure sales tactics or oversell work you don't need\u2014just honest advice and reliable service. Whether you're planning a garden from scratch or need fortnightly maintenance, we treat your outdoor space like it's our own.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "10+",
+      "label": "Design Awards"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Peter and his team completely transformed our back garden. We had no idea what we wanted, but Peter listened, sketched out some ideas, and delivered exactly what we'd imagined. The patio's brilliant, plants are thriving, and he still pops round for maintenance. Couldn't ask for better.",
+      "author": "Michelle P.",
+      "loc": "Meanwood, Leeds \u2014 October 2024"
+    },
+    {
+      "text": "Had a nightmare overgrown mess when we moved in. Peter cleared the lot, laid a new lawn, and built raised beds for veg. Started on a Monday, finished Friday. Quality work, fair price, no messing about.",
+      "author": "David T.",
+      "loc": "Chapel Allerton, Leeds \u2014 August 2024"
+    },
+    {
+      "text": "Been using Peter for monthly garden care for three years now. He's reliable, knows exactly what needs doing, and my garden looks incredible. Highly recommend if you want someone who actually cares about doing it right.",
+      "author": "Sarah L.",
+      "loc": "Horsforth, Leeds \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Based in Sherburn in Elmet, serving all of Leeds and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency response available",
+  "emergency_banner_text": "Need your garden sorted fast? Get a free consultation and quote today. Call now \u2014",
+  "footer_description": "Peter's Gardening Services transforms Leeds gardens with expert design, build, and maintenance. Local, reliable, honest.",
+  "footer_copyright": "\u00a9 2026 Peter's Gardening Services. Registered in England & Wales."
+}
