@@ -1,0 +1,107 @@
+{
+  "slug": "tc-electrics-southampton",
+  "meta_title": "T C Electrics | Electrician Southampton",
+  "meta_description": "T C Electrics is your local Southampton electrician. Domestic and commercial electrical work, rewires, and fault diagnosis. Call 07967 085620 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Fully Insured & Certified",
+  "hero_headline": "Southampton's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From rewires to fault diagnosis, we fix electrical problems fast and get your home safe again.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Established & Local"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Satisfaction"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency Call-Outs"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Southampton",
+  "services_subhead": "Whether you need a new circuit installed, a full rewire, or urgent fault diagnosis, we handle domestic and commercial work with precision and care.",
+  "services": [
+    {
+      "title": "Full House Rewires",
+      "desc": "Complete rewiring of older properties to modern safety standards. We work with minimal disruption and test every circuit before signing off."
+    },
+    {
+      "title": "Emergency Fault Diagnosis",
+      "desc": "Electrics playing up? We identify the fault fast \u2014 blown circuits, faulty appliances, or wiring issues \u2014 and fix it same day where possible."
+    },
+    {
+      "title": "New Installations & Upgrades",
+      "desc": "Adding a new kitchen, bathroom, or garden outbuilding? We design, install, and certify all electrical work to Building Regulations."
+    },
+    {
+      "title": "Consumer Unit Replacements",
+      "desc": "Old fuse box causing trips? We install modern, safer consumer units with RCD protection and proper labelling."
+    },
+    {
+      "title": "Periodic Electrical Testing",
+      "desc": "Landlord or lettings manager? We carry out EICR (Electrical Installation Condition Reports) to keep properties safe and compliant."
+    },
+    {
+      "title": "Commercial & Industrial Work",
+      "desc": "Office rewires, workshop electrics, and light industrial installations. We understand health and safety requirements and deliver on time."
+    }
+  ],
+  "about_pullquote": "I started T C Electrics because I was tired of seeing cowboy electricians rip off Southampton homeowners.",
+  "about_para_1": "T C Electrics has been serving Southampton households and businesses for over 12 years. We're NICEIC registered and hold full public liability insurance, so you can trust that every job meets current Building Regulations and safety standards. We pride ourselves on turning up when we say we will and finishing the work right.",
+  "about_para_2": "Our customers come back to us because we explain what's wrong \u2014 not in jargon, but in plain English \u2014 and we quote fairly. Whether it's a small fault or a full rewire, we treat your home with the same care we'd show our own. We've built our reputation one satisfied customer at a time, and it shows in the jobs we get asked to do.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "Trusted Local Service"
+    },
+    {
+      "num": "500+",
+      "label": "Homes & Businesses Wired"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Registered Electrician"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency Response"
+    }
+  ],
+  "reviews_heading": "What Southampton Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Had a complete nightmare with the electrics in our 1970s semi. T C came round, sorted a dodgy consumer unit and rewired two bedrooms. Brilliant lad, clear about what needed doing and the cost was fair. Very tidy too \u2014 not a mess left behind. Would definitely use again.",
+      "author": "Mark T.",
+      "loc": "Shirley, Southampton \u2014 January 2025"
+    },
+    {
+      "text": "Called them out on a Saturday morning with a tripped electrics issue. T C was here within an hour, diagnosed a faulty socket, and got us back up and running. No faffing about, professional, and reasonably priced. Very impressed.",
+      "author": "Lisa M.",
+      "loc": "Totton, Southampton \u2014 December 2024"
+    },
+    {
+      "text": "Our landlord insisted on an EICR before letting the house. T C did a thorough job, found a couple of minor issues, and gave us a proper certificate. Made the whole process stress-free. Highly recommend.",
+      "author": "James P.",
+      "loc": "Bitterne Park, Southampton \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Based in Southampton, covering Southampton, Test Valley, and surrounding areas.",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency call-outs available 24/7",
+  "emergency_banner_text": "Electrics down or sparking? We aim to reach emergency call-outs in under 90 minutes. Call now \u2014",
+  "footer_description": "T C Electrics is a NICEIC-registered electrician serving Southampton and beyond. Rewires, fault diagnosis, installations, and 24/7 emergency call-outs.",
+  "footer_copyright": "\u00a9 2026 T C Electrics. All rights reserved."
+}
