@@ -1,0 +1,107 @@
+{
+  "slug": "david-electrical-bristol",
+  "meta_title": "David Electrical | Emergency Electrician Bristol",
+  "meta_description": "David Electrical provides reliable emergency and planned electrical services across Bristol. Fast response times, fully qualified engineers. Call 07481 345399 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 24/7 Emergency Cover",
+  "hero_headline": "Bristol's Trusted",
+  "hero_highlight": "Emergency Electrician",
+  "hero_subhead": "Electrical fault in Bristol? We're out within the hour, any time of day or night.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "18+ yrs",
+      "label": "Serving Bristol"
+    },
+    {
+      "num": "45 mins",
+      "label": "Average response time"
+    },
+    {
+      "num": "2,800+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Electrical Services Across Bristol & South Gloucestershire",
+  "services_subhead": "From emergency repairs and rewires to new installations and safety inspections, we handle every electrical need.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Tripped circuits, no power, or dangerous faults? We diagnose and fix most problems the same day, with a fully stocked van ready to go."
+    },
+    {
+      "title": "Domestic Rewires",
+      "desc": "Old wiring putting your home at risk? We rewire safely, test thoroughly, and provide a full certification on completion."
+    },
+    {
+      "title": "Boiler & Heating Controls",
+      "desc": "Install, repair, and upgrade your boiler electrics and smart heating controls. We work with all major brands and guarantee safe installation."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace old fuse boxes with modern safety-switched consumer units. Protects your home and improves fault detection."
+    },
+    {
+      "title": "Portable Appliance Testing (PAT)",
+      "desc": "Landlords, offices, and businesses trust us for fast, thorough PAT testing. Full certificates provided for every appliance."
+    },
+    {
+      "title": "New Installations & Extensions",
+      "desc": "Adding a kitchen, bedroom, or garden room? We design and install electrics to Building Regulations, with certification included."
+    }
+  ],
+  "about_pullquote": "I got into this business because I was tired of watching overpriced cowboys rip people off.",
+  "about_para_1": "David Electrical was founded on the principle that honest, fast electrical work shouldn't cost the earth. For over 18 years, we've built our reputation in Bristol by turning up on time, diagnosing faults properly, and charging fairly. Every engineer carries full qualifications and the right parts \u2014 no return visits, no hidden extras.",
+  "about_para_2": "Our customers return because we listen, explain the work clearly, and leave the job clean and safe. We hold full NICEIC certification and offer a 12-month parts and labour guarantee on everything we do. Whether you need an emergency callout at 2am or a planned rewire, we treat your home with the same care we'd give our own.",
+  "about_stats": [
+    {
+      "num": "18+ yrs",
+      "label": "In business"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Certified engineer"
+    },
+    {
+      "num": "94%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "100%",
+      "label": "Guaranteed safe work"
+    }
+  ],
+  "reviews_heading": "What Bristol Homeowners Say About David Electrical",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a complete nightmare with a faulty consumer unit that nearly caused a fire. David came out the same evening, sorted it quickly, and explained everything as he went. Charged a fair price too. Can't recommend highly enough.",
+      "author": "Michael T.",
+      "loc": "Bedminster, Bristol \u2014 November 2024"
+    },
+    {
+      "text": "Needed an emergency call after our electrics went down just before Christmas. David answered straight away, arrived within 45 minutes, and had us back online by dinner time. Proper professional. Will use again for our rewire next year.",
+      "author": "Jennifer P.",
+      "loc": "Southville, Bristol \u2014 December 2024"
+    },
+    {
+      "text": "Rewired our 1970s semi completely. The work was spotless, certified, and David's team cleaned up every day. They explained what was old and dangerous, what needed doing, and didn't try to upsell us. Worth every penny.",
+      "author": "Robert K.",
+      "loc": "Winterbourne, Bristol \u2014 August 2024"
+    }
+  ],
+  "address_sub": "Based in Winterbourne, serving all of Bristol and South Gloucestershire",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 24/7 emergency line for urgent callouts",
+  "emergency_banner_text": "Electrical emergency in Bristol? We arrive within 45 minutes. Call now \u2014",
+  "footer_description": "David Electrical: Bristol's trusted emergency electrician for 18+ years. NICEIC certified, same-day repairs, 24/7 callouts.",
+  "footer_copyright": "\u00a9 2026 David Electrical. Registered in England & Wales."
+}
