@@ -1,0 +1,107 @@
+{
+  "slug": "dr-volts-liverpool",
+  "meta_title": "Dr Volts | Electrician Liverpool",
+  "meta_description": "Dr Volts is a trusted Liverpool electrician offering emergency repairs, installations, and inspections. Fast response times, fully qualified. Call 07720 757309.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Emergency Callouts Available",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty wiring, tripped electrics, or a complete rewire? We fix it fast, with same-day appointments across Liverpool.",
+  "badge_4": "30-Minute Response Target",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency cover"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Liverpool",
+  "services_subhead": "From emergency repairs and safety checks to full rewires and new installations, we handle every electrical job in your home or business.",
+  "services": [
+    {
+      "title": "Emergency Repairs",
+      "desc": "Tripped electrics, blown fuses, or dead sockets? We diagnose and repair faults the same day, with engineers ready around the clock."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "Faulty controls, broken immersion heaters, and heating system wiring. We specialise in the electrical side of your heating system to keep you warm and safe."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Old wiring poses a fire risk. We install new cabling throughout your home to modern standards, with testing and certification included."
+    },
+    {
+      "title": "Socket & Switch Installation",
+      "desc": "Adding new power points, USB sockets, or smart switches? We run new circuits safely and test everything before we leave."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Old fuse boxes are a safety hazard. We replace them with modern, safer consumer units that meet current regulations."
+    },
+    {
+      "title": "Electrical Safety Inspections",
+      "desc": "A full EICR (electrical installation condition report) identifies faults before they cause damage or injury. Peace of mind in writing."
+    }
+  ],
+  "about_pullquote": "We treat every customer like family. No shortcuts, no overcharging, just honest work.",
+  "about_para_1": "Dr Volts was founded in 2008 by a frustrated tradesman fed up with seeing dodgy electricians rip off Liverpool families. Over 18 years, we've built a reputation for turning up on time, doing the job right, and charging a fair price. We're NICEIC registered and fully insured, which means your home and your money are protected.",
+  "about_para_2": "Our customers return because they know what they're getting: no fancy sales talk, no unnecessary upsells, just a proper electrician who listens. We keep our team small so you get the same face every time, and we're always reachable. That's why repeat jobs and word-of-mouth referrals make up most of our work.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading in Liverpool"
+    },
+    {
+      "num": "2,500+",
+      "label": "Homes & businesses served"
+    },
+    {
+      "num": "87%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Registered & certified"
+    }
+  ],
+  "reviews_heading": "What Liverpool Homeowners Say About Dr Volts",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Came out late on a Saturday night when our electrics went down. Diagnosed a dodgy RCD and had us back up and running in under an hour. Fair price, no fuss, exactly what you want when you're in a panic. Top bloke.",
+      "author": "Mark T.",
+      "loc": "Walton, Liverpool \u2014 February 2025"
+    },
+    {
+      "text": "Had Dr Volts quote for a full rewire before we moved in. Price was reasonable and the lads were tidy workers. Finished on time, tested everything properly, and left the place spotless. Would use again without hesitation.",
+      "author": "Claire M.",
+      "loc": "Aigburth, Liverpool \u2014 January 2025"
+    },
+    {
+      "text": "Called about a burning smell near a socket. He came the same day, found a loose connection that could've been dangerous, fixed it and charged me a reasonable call-out fee. Really know what they're doing.",
+      "author": "David H.",
+      "loc": "Toxteth, Liverpool \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Liverpool and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Electrics down? We aim to reach you within 30 minutes. Ring us now \u2014",
+  "footer_description": "Dr Volts is a NICEIC-registered electrician based in Liverpool, offering emergency repairs, rewires, and installations 24/7. Honest pricing, fast response.",
+  "footer_copyright": "\u00a9 2026 Dr Volts. Registered in England & Wales."
+}
