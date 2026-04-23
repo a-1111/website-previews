@@ -1,0 +1,107 @@
+{
+  "slug": "ncl-building-co-newcastle",
+  "meta_title": "NCL Building Co | Construction Newcastle",
+  "meta_description": "NCL Building Co in Newcastle delivers reliable construction services for residential and commercial projects. Expert builders serving North East England. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "Established Local Builders \u2014 North East Construction Specialists",
+  "hero_headline": "Newcastle's Trusted",
+  "hero_highlight": "Construction Partner",
+  "hero_subhead": "From extensions to commercial builds, we deliver on time and on budget. Free site survey and honest quotes.",
+  "badge_4": "Free Site Survey",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Building"
+    },
+    {
+      "num": "400+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "98%",
+      "label": "On-Time Delivery"
+    },
+    {
+      "num": "\u00a32M+",
+      "label": "Annual Turnover"
+    }
+  ],
+  "services_heading": "Complete Construction Services Across Newcastle",
+  "services_subhead": "Whether you need a loft conversion, kitchen extension, or full commercial build, we handle it all with precision and care.",
+  "services": [
+    {
+      "title": "House Extensions",
+      "desc": "Single and double storey extensions that blend seamlessly with your home. We manage planning permission, building control, and structural work so you don't have to."
+    },
+    {
+      "title": "Loft Conversions",
+      "desc": "Transform your attic into valuable living space. Fully insulated, with proper ventilation and structural support. Typical project takes 8\u201310 weeks."
+    },
+    {
+      "title": "Kitchen & Bathroom Refits",
+      "desc": "Complete redesign and installation, from plumbing through to tiling and joinery. We source quality units and keep disruption to a minimum."
+    },
+    {
+      "title": "Commercial Builds",
+      "desc": "Retail fit-outs, office refurbishment, and new-build projects. We maintain strict health and safety standards and work to your schedule."
+    },
+    {
+      "title": "Brickwork & Pointing",
+      "desc": "Lime mortar repointing and brickwork repairs that restore period properties and extend masonry life. Using traditional methods where appropriate."
+    },
+    {
+      "title": "Roofing & Guttering",
+      "desc": "Slate, tile, or asphalt roofing, plus guttering replacement and repair. We inspect for damage and provide weatherproofing guarantees."
+    }
+  ],
+  "about_pullquote": "We build homes and businesses the way we'd want ours done.",
+  "about_para_1": "NCL Building Co was founded in 2009 by local Newcastle tradesman Craig Lewis, who got frustrated watching clients overcharged and let down by distant contractors. Over 15 years, we've grown from a two-man operation to a team of 12 skilled builders, bricklayers, and site managers\u2014all based in the North East. We've completed over 400 projects, from Victorian terrace refurbishments to modern commercial developments.",
+  "about_para_2": "Our reputation is built on showing up on time, keeping costs realistic, and finishing the job right. We don't cut corners, and we don't disappear when snags arise. Around 60% of our work comes from repeat customers and referrals, which tells you everything about how we operate. We're proud to be Constructionline accredited and work regularly with local councils and housing associations.",
+  "about_stats": [
+    {
+      "num": "15",
+      "label": "Years Established"
+    },
+    {
+      "num": "12",
+      "label": "Full-Time Team"
+    },
+    {
+      "num": "60%",
+      "label": "Repeat & Referral Work"
+    },
+    {
+      "num": "Constructionline",
+      "label": "Accredited"
+    }
+  ],
+  "reviews_heading": "What Newcastle & Gateshead Clients Say About Us",
+  "rating": 4.8,
+  "review_count": 67,
+  "reviews": [
+    {
+      "text": "Craig and his team knocked down a wall between our kitchen and lounge. Messy job, but they kept the chaos contained, left the site clean every evening, and finished a week early. Couldn't fault it. Highly recommend.",
+      "author": "Richard T.",
+      "loc": "Jesmond, Newcastle \u2014 January 2025"
+    },
+    {
+      "text": "Had a loft conversion quote from three firms. NCL's price was fair and realistic\u2014no hidden costs. The team was professional, respectful of the house, and communicated every step. Our new bedroom is brilliant.",
+      "author": "Emma D.",
+      "loc": "Tynemouth, North Shields \u2014 November 2024"
+    },
+    {
+      "text": "We use NCL for all our commercial maintenance work. They understand timescales, they're reliable, and they don't faff about with paperwork. Proper tradesmen. Would definitely use again.",
+      "author": "Mark S.",
+      "loc": "Baltic Quarter, Gateshead \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Based in Newcastle, serving North East England including Gateshead, Sunderland, and Northumberland",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency repair callouts available 24/7",
+  "emergency_banner_text": "Urgent building repair or structural concern? We respond to emergency calls within 24 hours. Contact us now \u2014",
+  "footer_description": "NCL Building Co delivers construction and renovation across Newcastle and the North East. Extensions, lofts, refits, and commercial builds handled by experienced local tradesmen.",
+  "footer_copyright": "\u00a9 2026 NCL Building Co. Registered in England & Wales. Constructionline Accredited."
+}
