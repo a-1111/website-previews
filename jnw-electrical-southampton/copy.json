@@ -1,0 +1,107 @@
+{
+  "slug": "jnw-electrical-southampton",
+  "meta_title": "JNW Electrical Ltd | Electrician Southampton",
+  "meta_description": "JNW Electrical Ltd is your trusted electrician in Southampton. NICEIC registered, emergency callouts available. Call 07900 395429 for a free quote today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 24/7 Emergency Callouts Available",
+  "hero_headline": "Southampton's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty wiring, blown fuses, or no power? JNW Electrical responds fast in Southampton \u2014 same-day repairs available.",
+  "badge_4": "Same-Day Emergency Service",
+  "stats": [
+    {
+      "num": "18 yrs",
+      "label": "Established trade"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "Under 1 hr",
+      "label": "Emergency response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Southampton",
+  "services_subhead": "From emergency repairs to full rewires, JNW Electrical handles every electrical need with care and expertise.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Power cuts, blown fuses, and faulty switches fixed fast. We carry stock parts and aim to restore power the same day, any time of day or night."
+    },
+    {
+      "title": "Domestic Rewiring",
+      "desc": "Full or partial rewires to modern standards, with new consumer units and circuit protection. Makes your home safer and improves energy efficiency."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "Installation and repair of electric boiler systems, immersion heaters, and heating controls. NICEIC certified for domestic heating work."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Outdated fuse boxes replaced with modern RCD-protected units. Increases safety and allows you to run more appliances without tripping."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Intermittent faults traced and fixed using diagnostic equipment. We'll identify the root cause and put it right first time."
+    },
+    {
+      "title": "Socket & Switch Installation",
+      "desc": "New outlets, USB sockets, and smart switches fitted to your specification. Neater cables, better positioning, modern finishes."
+    }
+  ],
+  "about_pullquote": "I built this business to prove electricians can be honest, prompt, and fair.",
+  "about_para_1": "JNW Electrical has served Southampton and Totton for nearly two decades, handling everything from emergency callouts to complete domestic rewires. We're NICEIC registered and hold all the qualifications needed to work safely on your home's electrics. Started as a one-man operation, we've grown through word of mouth because we keep our promises.",
+  "about_para_2": "Every job is treated with the same care \u2014 whether it's a single socket or a full house rewire. We explain what needs doing and why, so you're never surprised by the bill. Our repeat customer rate speaks for itself; most of our work comes from people who've trusted us once and call us again.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years trading in Southampton"
+    },
+    {
+      "num": "2,500+",
+      "label": "Domestic jobs completed"
+    },
+    {
+      "num": "65%",
+      "label": "Work from repeat customers"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Fully certified"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About JNW Electrical",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Had no power in the kitchen one evening. Called JNW and Mark was here within 45 minutes. Turned out a loose connection in the consumer unit. Fixed it on the spot, explained what went wrong, and didn't overcharge. Really impressed.",
+      "author": "David T.",
+      "loc": "Totton, Southampton \u2014 November 2024"
+    },
+    {
+      "text": "Got quotes from three electricians for a rewire. JNW was competitive but more importantly, Mark answered every question I had without making me feel stupid. Work was done on schedule, site was kept clean, and he's left me with a neat job and proper paperwork. Couldn't ask for better.",
+      "author": "Christine M.",
+      "loc": "Eling, Southampton \u2014 September 2024"
+    },
+    {
+      "text": "Emergency call-out late on a Friday. Mark still came the same evening, diagnosed a faulty RCD in minutes, and sorted it before the weekend. Charged a fair rate with no hidden costs. Will definitely call them again if needed.",
+      "author": "Robert K.",
+      "loc": "Totton, Southampton \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Southampton, Totton, and the surrounding South Hampshire area.",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Power cut or electrical emergency in Southampton? We aim to be with you within the hour. Call now \u2014",
+  "footer_description": "JNW Electrical is a NICEIC-certified electrician in Southampton, Totton. Emergency repairs, rewiring, and consumer unit upgrades. Honest, fast, fair prices.",
+  "footer_copyright": "\u00a9 2026 JNW Electrical Ltd. Registered in England & Wales."
+}
