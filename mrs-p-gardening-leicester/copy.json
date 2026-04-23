@@ -1,0 +1,107 @@
+{
+  "slug": "mrs-p-gardening-leicester",
+  "meta_title": "Mrs P's Gardening | Garden Design Leicester",
+  "meta_description": "Mrs P's Gardening in Leicester offers expert garden design, maintenance and landscaping. Transform your outdoor space with professional local care.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "Award-Winning Garden Design \u2014 Local to Leicester",
+  "hero_headline": "Transform Your",
+  "hero_highlight": "Outdoor Space",
+  "hero_subhead": "Bespoke garden design and expert maintenance that turns overgrown plots into beautiful, usable gardens you'll love.",
+  "badge_4": "Free Garden Consultation",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in gardening"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "98%",
+      "label": "Return customers"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Leicester",
+  "services_subhead": "From initial design concept to ongoing maintenance, we handle every aspect of your outdoor space.",
+  "services": [
+    {
+      "title": "Garden Design & Planning",
+      "desc": "Bespoke designs tailored to your space, style and budget. We create detailed plans that maximise sunlight, flow and usability before a single plant goes in the ground."
+    },
+    {
+      "title": "Landscaping & Hardscaping",
+      "desc": "Patios, pathways, raised beds and garden structures built to last. We source quality materials and ensure proper drainage and foundations."
+    },
+    {
+      "title": "Garden Planting & Borders",
+      "desc": "Expert plant selection for colour, texture and season-long interest. We choose varieties suited to your soil and sunlight conditions."
+    },
+    {
+      "title": "Hedge & Tree Care",
+      "desc": "Professional pruning, trimming and maintenance to keep hedges shaped and trees healthy. Safe, insured work with all waste cleared."
+    },
+    {
+      "title": "Garden Tidy-Ups & Clearance",
+      "desc": "Overgrown garden? We clear, remove and dispose of unwanted vegetation, rubble and debris. Perfect before a redesign or renovation."
+    },
+    {
+      "title": "Seasonal Maintenance Plans",
+      "desc": "Regular weeding, deadheading and upkeep to keep your garden looking pristine year-round. Choose fortnightly or monthly visits."
+    }
+  ],
+  "about_pullquote": "Every garden tells a story \u2014 I just help you write a better one.",
+  "about_para_1": "Mrs P started gardening over 15 years ago with one simple idea: gardens should be beautiful, practical and personal. What began as helping neighbours in Glen Parva has grown into a thriving design and maintenance service across Leicester. She trained through the RHS and combines traditional gardening knowledge with modern design principles.",
+  "about_para_2": "Customers return year after year because we listen first and dig second. Whether you want a low-maintenance space, a cottage garden bursting with colour, or a family-friendly haven, we design and deliver gardens that fit your life. We're based locally in Leicester and take pride in building long-term relationships with homeowners.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in business"
+    },
+    {
+      "num": "500+",
+      "label": "Successful projects"
+    },
+    {
+      "num": "Glen Parva",
+      "label": "Local base"
+    },
+    {
+      "num": "All seasons",
+      "label": "Maintenance plans"
+    }
+  ],
+  "reviews_heading": "What Leicester Gardeners Say About Us",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "We had a massively overgrown jungle of a back garden \u2014 hadn't touched it in years. Mrs P came out, listened to what we actually wanted, and designed something beautiful without breaking the bank. She even sourced the plants herself. Six months on and it's our favourite room in the house. Brilliant.",
+      "author": "Tom H.",
+      "loc": "Glen Parva, Leicester \u2014 February 2025"
+    },
+    {
+      "text": "The garden maintenance saves me hours every month. She comes every two weeks, deadheads, weeds, keeps the borders tidy. Quality of care is noticeably better than the last gardener we tried. Fair pricing too. Highly recommend.",
+      "author": "Margaret T.",
+      "loc": "Oadby, Leicester \u2014 December 2024"
+    },
+    {
+      "text": "Transformed a sloping, awkward space into somewhere we can actually sit and enjoy. The patio's level, the planting softens the boundaries, and it all looks like it was meant to be there. Mrs P's attention to detail is meticulous.",
+      "author": "Rachel K.",
+      "loc": "Knightsbridge, Leicester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Leicester and surrounding areas including Glen Parva, Oadby and Wigston",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Free consultations by appointment",
+  "emergency_banner_text": "Ready to transform your garden? Call for a free consultation and see how we can help \u2014",
+  "footer_description": "Mrs P's Gardening: expert garden design, landscaping and maintenance across Leicester. Bespoke gardens that last.",
+  "footer_copyright": "\u00a9 2026 Mrs P's Gardening. Established in Leicester."
+}
