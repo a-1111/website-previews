@@ -1,0 +1,107 @@
+{
+  "slug": "newcastle-handyman-services-newcastle",
+  "meta_title": "Newcastle Handyman Services | Local Handyman Newcastle",
+  "meta_description": "Newcastle Handyman Services provides reliable repairs, maintenance, and odd jobs across Newcastle. Same-day callouts available. Call 07889 851067 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Fully Insured \u2014 All Trades Welcome",
+  "hero_headline": "Newcastle's Trusted",
+  "hero_highlight": "Local Handyman",
+  "hero_subhead": "Leaky tap? Broken fence? Loose shelf? We handle all the jobs your landlord won't, fast and fairly priced.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "12+ yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    },
+    {
+      "num": "60 min",
+      "label": "Typical response time"
+    }
+  ],
+  "services_heading": "Handyman Services Across Newcastle",
+  "services_subhead": "From emergency repairs to planned maintenance, we tackle the tasks that keep your home and business running smoothly.",
+  "services": [
+    {
+      "title": "Emergency Repairs",
+      "desc": "Burst pipes, broken windows, electrical faults, and urgent damage. We attend same day and get you back to normal fast."
+    },
+    {
+      "title": "Plumbing & Drainage",
+      "desc": "Leaking taps, running toilets, blocked drains, and radiator issues. Fixed properly without the premium plumber price tag."
+    },
+    {
+      "title": "Decorating & Painting",
+      "desc": "Interior and exterior painting, wallpapering, and prep work. We leave clean edges and your property looking fresh."
+    },
+    {
+      "title": "Carpentry & Joinery",
+      "desc": "Loose skirting boards, squeaky doors, shelves, cabinets, and bespoke woodwork. Built to last, finished to your taste."
+    },
+    {
+      "title": "Electrical Fixes",
+      "desc": "Blown fuses, dodgy sockets, loose light fittings, and appliance connections. Safe, compliant, and stress-free."
+    },
+    {
+      "title": "General Repairs & Maintenance",
+      "desc": "Guttering, fascia, garden fencing, fence repairs, draught-proofing, and all those nagging jobs you've been meaning to do."
+    }
+  ],
+  "about_pullquote": "I fix the jobs everyone else ignores and charge what it's actually worth.",
+  "about_para_1": "Newcastle Handyman Services was founded over a decade ago on a simple idea: Newcastle residents and small businesses shouldn't have to book five separate traders for five small jobs. We started as a one-person operation and have grown steadily, completing thousands of repairs across the city. From burst pipes at midnight to that squeaky door that's driven you mad for months, we do it all.",
+  "about_para_2": "Our customers return because we show up on time, charge fairly, and do the job properly. We're not fancy, but we're thorough \u2014 and we tidy up after ourselves. Whether it's a landlord property, a young family, or a small shop, we treat every job with the same care and attention.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years in business"
+    },
+    {
+      "num": "2,500+",
+      "label": "Repairs completed"
+    },
+    {
+      "num": "98%",
+      "label": "Return customer rate"
+    },
+    {
+      "num": "Fully insured",
+      "label": "Public liability cover"
+    }
+  ],
+  "reviews_heading": "What Newcastle Customers Say",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Called them on a Saturday afternoon with a leaking kitchen tap. Mark arrived within an hour, replaced the cartridge, and sorted a dodgy shelf I'd been worried about for months. Charged me \u00a345 total. Can't recommend highly enough.",
+      "author": "David K.",
+      "loc": "Jesmond, Newcastle \u2014 February 2025"
+    },
+    {
+      "text": "Absolute lifesaver. Radiator went off in January and the local plumber wanted \u00a3180 just to look at it. These lads fixed it for \u00a365. Honest pricing and quick work. Will definitely use them again.",
+      "author": "Claire T.",
+      "loc": "Gosforth, Newcastle \u2014 January 2025"
+    },
+    {
+      "text": "Had a burst pipe under the kitchen sink late on a Friday. rang them as a last resort thinking nobody would come out. They were here in 45 minutes and had it sorted before dinner. Brilliant service, no faffing about.",
+      "author": "Michael P.",
+      "loc": "Walker, Newcastle \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Based in Brunswick, serving all of Newcastle and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Emergency callouts available outside hours",
+  "emergency_banner_text": "Burst pipe, broken window, or urgent repair? We aim to attend Newcastle emergencies within 60 minutes. Call now \u2014",
+  "footer_description": "Newcastle's trusted local handyman for repairs, maintenance, and odd jobs. Fully insured, same-day callouts, fair prices.",
+  "footer_copyright": "\u00a9 2026 Newcastle Handyman Services. All rights reserved."
+}
