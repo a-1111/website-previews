@@ -1,0 +1,107 @@
+{
+  "slug": "dd-garden-services-newcastle",
+  "meta_title": "D&D Garden Services | Landscape Gardener Newcastle",
+  "meta_description": "D&D Garden Services Newcastle. Expert landscape gardening, garden design, and maintenance. Local family business serving Tyne & Wear. Call now for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 08:00-16:00"
+  ],
+  "hero_eyebrow": "Local Landscape Experts \u2014 Free Quotes & Design Consultations",
+  "hero_headline": "Transform Your Newcastle",
+  "hero_highlight": "Garden Space",
+  "hero_subhead": "From overgrown borders to bespoke garden design, we create outdoor spaces you'll love using sustainable, local expertise.",
+  "badge_4": "Free Design Consultation",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Landscape Experience"
+    },
+    {
+      "num": "450+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "3-day",
+      "label": "Quote Turnaround"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Newcastle & Tyne & Wear",
+  "services_subhead": "We handle everything from initial design right through to planting, paving, and year-round maintenance \u2014 backed by expert horticulture knowledge.",
+  "services": [
+    {
+      "title": "Garden Design & Planning",
+      "desc": "Bespoke designs tailored to your space, style, and budget. We create detailed plans that transform tired gardens into outdoor living spaces you'll use every season."
+    },
+    {
+      "title": "Paving & Hard Landscaping",
+      "desc": "Professional patios, driveways, pathways, and raised beds using quality materials. Properly laid foundations ensure surfaces last 15+ years without cracking or settling."
+    },
+    {
+      "title": "Planting & Garden Installation",
+      "desc": "Expert selection and positioning of trees, shrubs, and perennials suited to Newcastle's climate. We establish strong root systems and ongoing care schedules from day one."
+    },
+    {
+      "title": "Garden Clearance & Maintenance",
+      "desc": "Overgrown borders? Shed removal? Regular grass cutting and hedge trimming. We'll clear the mess, then keep your garden thriving year-round with tailored maintenance plans."
+    },
+    {
+      "title": "Decking & Garden Structures",
+      "desc": "Quality-built decking, pergolas, arbours, and seating areas. All structures are treated for longevity and designed to blend seamlessly with your garden layout."
+    },
+    {
+      "title": "Drainage & Soil Solutions",
+      "desc": "Poor drainage killing your plants? We install permeable paving, French drains, and soil amendments to resolve waterlogging and create healthy growing conditions."
+    }
+  ],
+  "about_pullquote": "We build gardens people actually want to spend time in \u2014 not just look at.",
+  "about_para_1": "D&D Garden Services was founded 18 years ago on a simple belief: a great garden improves your whole quality of life. What started as one person with a vision has grown into a trusted team serving hundreds of Newcastle families and businesses. We combine horticultural training with practical craftsmanship \u2014 whether we're designing from scratch or rescuing a neglected space.",
+  "about_para_2": "Our customers come back year after year because we listen first, deliver on time, and stand behind our work. We're not landscape designers who disappear after planting; we're committed to helping your garden thrive through every season. Most of our work comes from referrals and repeat customers \u2014 a testament to the relationships we build.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years Trading"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "6",
+      "label": "Specialist Team Members"
+    },
+    {
+      "num": "Newcastle & Surrounds",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "We had a nightmare of a back garden \u2014 just weeds and broken paving. Dave and the team came in, cleared it all, laid a new patio, and planted it up beautifully. The design consultation was free and they listened to exactly what we wanted. Brilliant job and genuinely fair prices.",
+      "author": "Mark T.",
+      "loc": "Gosforth, Newcastle \u2014 September 2024"
+    },
+    {
+      "text": "Couldn't recommend D&D more. They came out to quote for routine maintenance and noticed our drainage was terrible. They didn't just fix it \u2014 they explained what was happening and why. Six months on and the garden looks healthier than ever. Real professionals.",
+      "author": "Helen M.",
+      "loc": "Fenham, Newcastle \u2014 November 2024"
+    },
+    {
+      "text": "Absolute game-changer. Our front and back were completely overgrown. They cleared everything in a day, built a pergola, laid turf and borders. The aftercare advice was spot on. They came back in spring to check the planting was thriving. Top blokes.",
+      "author": "Robert K.",
+      "loc": "Jesmond, Newcastle \u2014 July 2024"
+    }
+  ],
+  "address_sub": "Serving Newcastle, Gateshead, and throughout Tyne & Wear",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 By appointment Sunday",
+  "emergency_banner_text": "Need urgent garden clearance or repair? We respond to emergency requests within 48 hours. Call now \u2014",
+  "footer_description": "D&D Garden Services Newcastle. Landscape design, paving, planting, and year-round maintenance. 18 years of trusted local expertise. Free quotes.",
+  "footer_copyright": "\u00a9 2026 D&D Garden Services. Registered in England & Wales."
+}
