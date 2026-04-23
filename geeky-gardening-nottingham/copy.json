@@ -1,0 +1,107 @@
+{
+  "slug": "geeky-gardening-nottingham",
+  "meta_title": "Geeky Gardening | Gardener Nottingham",
+  "meta_description": "Geeky Gardening brings expert garden design and maintenance to Nottingham. Local, reliable, and passionate about your outdoor space. Get your free quote today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local Gardener \u2022 Garden Design & Maintenance",
+  "hero_headline": "Nottingham's Garden",
+  "hero_highlight": "Experts",
+  "hero_subhead": "From overgrown borders to beautiful outdoor living spaces\u2014we transform gardens across Nottingham with care and creativity.",
+  "badge_4": "Free Garden Consultations",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Serving Nottingham"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "Same-Day",
+      "label": "Quote Turnaround"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Nottingham",
+  "services_subhead": "We handle everything from routine maintenance and hedge cutting to bespoke garden design and landscaping projects\u2014big or small.",
+  "services": [
+    {
+      "title": "Garden Design & Landscaping",
+      "desc": "Bespoke garden design tailored to your space and lifestyle. We create outdoor rooms that work for relaxation, entertaining, or family play\u2014then build them beautifully."
+    },
+    {
+      "title": "Lawn Care & Maintenance",
+      "desc": "Regular grass cutting, scarifying, aeration, and seasonal treatments keep your lawn healthy and green year-round. One-off cuts or ongoing contracts available."
+    },
+    {
+      "title": "Hedge & Shrub Trimming",
+      "desc": "Expert hedge cutting and shaping, including overgrown clearance. We keep your boundaries tidy, safe, and looking smart without damaging the plants."
+    },
+    {
+      "title": "Planting & Borders",
+      "desc": "Thoughtful plant selection and installation for borders that flower and colour through all seasons. We choose hardy, low-maintenance varieties suited to Nottingham's climate."
+    },
+    {
+      "title": "Garden Clearance & Tidy-Ups",
+      "desc": "Quick, efficient removal of overgrown beds, dead wood, and garden waste. Perfect for renovating neglected gardens or preparing space for new projects."
+    },
+    {
+      "title": "Patio & Decking Work",
+      "desc": "Installation and repair of patios, decking, and garden paths. We use quality materials and proper foundations to ensure they last and look great."
+    }
+  ],
+  "about_pullquote": "I started Geeky Gardening because I love solving garden puzzles and making outdoor spaces people actually want to use.",
+  "about_para_1": "Geeky Gardening has been tending to Nottingham gardens for over 12 years. We started with a simple mission: prove that gardening doesn't have to be complicated or expensive. Whether you're a keen gardener overwhelmed by an overgrown plot or someone who just wants a nice space outside, we listen first, plan carefully, and deliver results.",
+  "about_para_2": "Our reputation is built on reliability, attention to detail, and genuine care for your garden's long-term health. We're local, we show up on time, we clean up properly, and we take pride in the work. Repeat customers are the backbone of our business, and we treat every garden\u2014large or small\u2014as if it were our own.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "Local Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat Client Rate"
+    },
+    {
+      "num": "All Year",
+      "label": "Available for Work"
+    }
+  ],
+  "reviews_heading": "What Nottingham Gardeners Say About Us",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Our garden was a total mess when we moved in\u2014just weeds and dead shrubs. The Geeky Gardening team came in with a proper plan, cleared everything, replanted with loads of colour, and now we've actually got a garden we use. Really professional, fair price, and they cleaned up after themselves. Brilliant.",
+      "author": "Marcus T.",
+      "loc": "Basford, Nottingham \u2014 July 2024"
+    },
+    {
+      "text": "Been using them for regular lawn care and hedge cuts for about three years now. Always reliable, always on time, and the garden looks immaculate. Nice bloke to chat with too. Wouldn't go anywhere else.",
+      "author": "Jennifer K.",
+      "loc": "Beeston, Nottingham \u2014 September 2024"
+    },
+    {
+      "text": "Needed a patio laid and some new planting to brighten up a shady corner. They listened to what we wanted, gave us a clear quote, and delivered exactly what we'd discussed. Quality work, no faffing about. Recommended them to our neighbours already.",
+      "author": "David R.",
+      "loc": "Wollaton, Nottingham \u2014 May 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham, Beeston, Basford, Wollaton, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Email or call for quotes and bookings",
+  "emergency_banner_text": "Need your garden cleared or transformed fast? Get in touch now for a free consultation and same-day quote \u2014",
+  "footer_description": "Geeky Gardening brings expert garden design, landscaping, and maintenance to Nottingham. Local, reliable, and passionate about outdoor spaces.",
+  "footer_copyright": "\u00a9 2026 Geeky Gardening. All rights reserved."
+}
