@@ -1,0 +1,107 @@
+{
+  "slug": "palinedge-electrical-sheffield",
+  "meta_title": "Palinedge Electrical | Electrician Sheffield",
+  "meta_description": "Palinedge Electrical provides expert electrical installation, repair and maintenance across Sheffield. Local, reliable, fast response times. Call now.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Emergency Call-Outs Available",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty electrics or no power? Palinedge Electrical responds fast across Sheffield, with same-day fixes for urgent faults.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    }
+  ],
+  "services_heading": "Electrical Services Throughout Sheffield",
+  "services_subhead": "From urgent fault-finding to new installations and rewires, we handle every electrical job with precision and care.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Power cuts, blown circuits, or dangerous faults? We diagnose and fix most problems the same day. Available 24/7 for serious emergencies."
+    },
+    {
+      "title": "Domestic Rewiring",
+      "desc": "Old wiring causing concern? We replace outdated systems with modern safe installations, tested and certified for your peace of mind."
+    },
+    {
+      "title": "New Installations & Extensions",
+      "desc": "Adding sockets, lights, or wiring a new room? We design layouts to suit your needs and complete work to the highest building standards."
+    },
+    {
+      "title": "Periodic Testing & Inspections",
+      "desc": "Regular electrical safety checks protect your home and tenants. We issue detailed reports and highlight any risks before they become serious."
+    },
+    {
+      "title": "Boiler & Heating Controls",
+      "desc": "Install, repair, or upgrade electrical components for your heating system. We ensure thermostats and controls work reliably all winter."
+    },
+    {
+      "title": "Fault-Finding & Diagnosis",
+      "desc": "Flickering lights, tripping switches, or mystery outages? We trace electrical faults methodically and fix the root cause, not just the symptom."
+    }
+  ],
+  "about_pullquote": "I built Palinedge because every home deserves safe, reliable electrics without the premium price tag.",
+  "about_para_1": "Palinedge Electrical was founded on a simple idea: provide Sheffield families and businesses with honest, skilled electrical work at fair rates. Over 18 years, we've completed over 2,000 jobs across the city\u2014from emergency repairs at midnight to full rewires in new builds. Every team member is NICEIC registered and carries full public liability cover, so you know you're in safe hands.",
+  "about_para_2": "We've built our reputation by turning up on time, explaining the problem clearly, and charging what we quote\u2014no hidden extras. Repeat customers make up most of our work, which says everything. We specialise in getting to the root of electrical faults rather than just patching them over, and we pride ourselves on leaving your home cleaner than we found it.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "2000+",
+      "label": "Satisfied Customers"
+    },
+    {
+      "num": "65%",
+      "label": "Repeat & Referral Work"
+    },
+    {
+      "num": "All Sheffield",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Sheffield Customers Say",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Our kitchen electrics were playing up\u2014lights flickering, odd burning smell. Called Palinedge on a Wednesday morning, guy was here by 2pm. Found a dodgy junction box that could've been dangerous. Fixed it properly and didn't rip us off. Brilliant service.",
+      "author": "Mark T.",
+      "loc": "Hillsborough, Sheffield \u2014 February 2025"
+    },
+    {
+      "text": "Had the whole house rewired. The team were professional, tidy, and explained everything as they went. Finished on schedule and everything's been perfect since. Definitely recommend if you need electrical work done.",
+      "author": "Lisa D.",
+      "loc": "Ecclesall, Sheffield \u2014 January 2025"
+    },
+    {
+      "text": "Power tripped during a storm late evening. Rang Palinedge expecting an emergency call-out charge, but they came out, found a wet connection in the garage, dried it out, and tested everything. Fair price and honest advice. Top bloke.",
+      "author": "Paul K.",
+      "loc": "Dore, Sheffield \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Sheffield and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Power cut or dangerous electrics? We respond within the hour, any time of day. Call now \u2014",
+  "footer_description": "Palinedge Electrical delivers fast, honest electrical repair and installation across Sheffield. NICEIC registered, same-day service, fair pricing.",
+  "footer_copyright": "\u00a9 2026 Palinedge Electrical Ltd. Registered in England & Wales."
+}
