@@ -1,0 +1,107 @@
+{
+  "slug": "ca-units-auto-electrical-leicester",
+  "meta_title": "CA Units | Auto Electrical Leicester",
+  "meta_description": "CA Units provides expert auto electrical repairs and diagnostics in Leicester. Fast, reliable service for all vehicle makes. Call us today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:30",
+    "Sa 08:00-12:00"
+  ],
+  "hero_eyebrow": "Expert Auto Electrical \u2014 Fast Diagnostics & Repairs",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Auto Electrical Specialists",
+  "hero_subhead": "Vehicle won't start? Battery dead? We diagnose and fix electrical faults fast, keeping you on the road.",
+  "badge_4": "Same-Day Diagnostics",
+  "stats": [
+    {
+      "num": "12+ years",
+      "label": "Serving Leicester"
+    },
+    {
+      "num": "500+",
+      "label": "Vehicles Repaired"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "1 hour",
+      "label": "Average Turnaround"
+    }
+  ],
+  "services_heading": "Complete Auto Electrical Services in Leicester",
+  "services_subhead": "From battery replacement to full wiring diagnosis, we handle all electrical faults and installations.",
+  "services": [
+    {
+      "title": "Battery Testing & Replacement",
+      "desc": "We test and replace batteries on the spot, with disposal of your old battery included. Most jobs completed while you wait."
+    },
+    {
+      "title": "Starter Motor & Alternator Repair",
+      "desc": "Fast diagnosis and repair of starter and alternator faults. We carry common units in stock to minimise your downtime."
+    },
+    {
+      "title": "Wiring & Fault Diagnosis",
+      "desc": "Using modern diagnostic equipment, we pinpoint electrical faults quickly and accurately, saving you time and money."
+    },
+    {
+      "title": "Charging System Service",
+      "desc": "Complete charging system checks and repairs to keep your battery charged and your vehicle reliable every time."
+    },
+    {
+      "title": "Vehicle Lighting Installation",
+      "desc": "Professional installation of headlights, spot lights, and LED upgrades for safety and appearance."
+    },
+    {
+      "title": "Caravan & Trailer Electrics",
+      "desc": "Specialist repairs and installations for caravan and trailer electrical systems, including 7-pin plugs and solar wiring."
+    }
+  ],
+  "about_pullquote": "We fix cars the right way, not the expensive way.",
+  "about_para_1": "CA Units has been keeping Leicester vehicles on the road for over 12 years. We started on a simple principle: diagnose properly, price fairly, and get the job done right first time. From our workshop at Elms Farm Industrial Estate, we've built a reputation for honest, no-nonsense auto electrical work that customers trust and recommend.",
+  "about_para_2": "Whether you're facing a dead battery on a freezing morning or a mysterious electrical fault that's baffled the forecourt, we get to the root cause fast. Our team invests in the latest diagnostic kit and keeps stocks of common electrical units to avoid unnecessary delays. Repeat customers make up 60% of our work \u2014 that's what honest pricing and reliable results build.",
+  "about_stats": [
+    {
+      "num": "12+ yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "60%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "500+",
+      "label": "Vehicles Serviced"
+    },
+    {
+      "num": "All Makes",
+      "label": "& Models Covered"
+    }
+  ],
+  "reviews_heading": "What Leicester Drivers Say About CA Units",
+  "rating": 4.8,
+  "review_count": 94,
+  "reviews": [
+    {
+      "text": "Car wouldn't start and I was convinced it was the battery. Turned out to be the alternator. The lads diagnosed it in ten minutes and had a replacement unit on within the hour. Cost me a fraction of what the main dealer quoted. Top service.",
+      "author": "Mark T.",
+      "loc": "Huncote, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Been using CA Units for years now. They're always honest about what needs doing and what doesn't. Last month my lights were playing up \u2014 they could've charged me for a full rewire but instead fixed a dodgy connection for a tenner. Can't ask fairer than that.",
+      "author": "Paul W.",
+      "loc": "Narborough, Leicester \u2014 February 2025"
+    },
+    {
+      "text": "Needed a new battery and some work on the caravan. Rang them up and they fitted me in the same afternoon. Professional, quick, and the price was spot on. Will definitely be back.",
+      "author": "Janet L.",
+      "loc": "Leicester City \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Leicester, Narborough, Huncote, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5:30pm",
+  "opening_hours_sub": "Sat: 8am \u2013 12pm \u2022 Phone ahead for weekend repairs",
+  "emergency_banner_text": "Vehicle breakdown? Call CA Units now for rapid auto electrical repair \u2014",
+  "footer_description": "CA Units delivers fast, honest auto electrical repairs across Leicester. Battery, starter, alternator, and wiring specialists with over 12 years' experience.",
+  "footer_copyright": "\u00a9 2026 CA Units. Elms Farm Industrial Estate, Leicester LE9 3AW."
+}
