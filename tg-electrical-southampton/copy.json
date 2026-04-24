@@ -1,0 +1,107 @@
+{
+  "slug": "tg-electrical-southampton",
+  "meta_title": "TG Electrical | Electrician Southampton",
+  "meta_description": "TG Electrical is your trusted Southampton electrician. Emergency callouts, rewires, installations and repairs. Call 07427 690196 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Emergency Callouts Available",
+  "hero_headline": "Southampton's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Broken socket in Southampton? We arrive within the hour. Rewires, installations, emergency repairs \u2014 same-day service.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "15+ yrs",
+      "label": "Serving Southampton"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "Under 1 hr",
+      "label": "Emergency Response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services for Southampton Homes & Businesses",
+  "services_subhead": "From urgent repairs to full rewires, we handle every type of electrical work with speed and precision.",
+  "services": [
+    {
+      "title": "Emergency Callouts",
+      "desc": "Tripped electrics, blown fuses, or a complete loss of power? We're on call 24/7 and aim to be with you in under an hour, any time of day or night."
+    },
+    {
+      "title": "Rewires & Upgrades",
+      "desc": "Old or unsafe wiring? We carry out full rewires to modern standards, including new consumer units and earthing upgrades. Work completed to building regulations."
+    },
+    {
+      "title": "Socket & Switch Installation",
+      "desc": "Need extra sockets, USB outlets, or smart switches? We install them quickly and safely, with all work tested and certified."
+    },
+    {
+      "title": "Boiler & Heating Installation",
+      "desc": "Experienced in electric boiler and heating system installation. We handle disconnection, new pipework, and full commissioning."
+    },
+    {
+      "title": "Fault Finding & Repair",
+      "desc": "Flickering lights, buzzing panels, or intermittent power loss? We diagnose the cause and fix it properly, not just the symptom."
+    },
+    {
+      "title": "Electrical Testing & Certification",
+      "desc": "EICR testing and periodic inspections for landlords, property sales, and insurance claims. Full certified report provided."
+    }
+  ],
+  "about_pullquote": "I started this business to show Southampton there's an electrician who actually turns up on time.",
+  "about_para_1": "TG Electrical has been serving Southampton homes and businesses for over 15 years. What started as a single-handed operation has grown into a trusted local name, built on one simple idea: arrive fast, do the job right, and charge fairly. We're NICEIC registered and fully insured, with thousands of jobs completed across the city and beyond.",
+  "about_para_2": "Our customers come back because we answer the phone, we show up when we say we will, and we explain what's wrong before we start work. We don't believe in surprise invoices or cutting corners. Whether it's a midnight emergency or a planned rewire, you get the same standard of work and the same straightforward approach.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2000+",
+      "label": "Satisfied Customers"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Fully Registered"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency Available"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Nightmare with a tripped fuse box on a Sunday. Called TG Electrical expecting to wait days. Guy arrived in 45 minutes, diagnosed a faulty socket, and had us back to normal before lunch. Professional, friendly, and the bill was fair. Couldn't ask for better.",
+      "author": "Mark T.",
+      "loc": "Shirley, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Had the whole house rewired. Was worried about cost and disruption, but they worked efficiently, kept the mess to a minimum, and finished bang on schedule. All certified and guaranteed. Would definitely recommend.",
+      "author": "Lisa P.",
+      "loc": "Totton, Southampton \u2014 January 2025"
+    },
+    {
+      "text": "Called for an emergency \u2014 electric shower completely dead. TG Electrical arrived within the hour, found the problem was the RCD switch, replaced it, and tested everything. No faffing about, no overcharging. Great service.",
+      "author": "David M.",
+      "loc": "Southend, Southampton \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Based in Southampton, covering all of Hampshire and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Electrics failed in Southampton? We aim to be with you in under an hour, 24/7. Call now \u2014",
+  "footer_description": "TG Electrical: NICEIC registered electrician in Southampton. Emergency callouts, rewires, repairs. 15+ years serving Hampshire.",
+  "footer_copyright": "\u00a9 2026 TG Electrical. Registered in England & Wales."
+}
