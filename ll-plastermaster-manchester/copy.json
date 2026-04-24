@@ -1,0 +1,107 @@
+{
+  "slug": "ll-plastermaster-manchester",
+  "meta_title": "LL PlasterMaster | Plasterer Manchester",
+  "meta_description": "LL PlasterMaster is a Manchester plasterer specialising in internal finishing, repairs and decorative work. Free quotes, fast turnaround. Call 07719 253173.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Expert Plasterer \u2014 Repairs, Skimming & Finishes",
+  "hero_headline": "Manchester's Trusted",
+  "hero_highlight": "Plasterer",
+  "hero_subhead": "Cracked plasterwork, damp walls or botched repairs? We fix it first time, cleanly and on schedule.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "12+ yrs",
+      "label": "Plastering Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Homes Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average Rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical Turnaround"
+    }
+  ],
+  "services_heading": "Complete Plastering Services Across Greater Manchester",
+  "services_subhead": "From emergency repairs and ceiling skimming to decorative finishes, we handle every interior plastering job with precision and care.",
+  "services": [
+    {
+      "title": "Wall Skimming & Replastering",
+      "desc": "Smooth, professional finishes on walls damaged by damp, cracks or previous poor work. We prep, plaster and leave surfaces ready for paint or wallpaper."
+    },
+    {
+      "title": "Ceiling Repairs & Installation",
+      "desc": "Sagging, cracked or stained ceilings restored to near-new condition. Includes plasterboard fixing, joint treatment and dust-free finishing."
+    },
+    {
+      "title": "Artexed Surface Removal",
+      "desc": "Safe removal of textured Artex coatings and replacement with clean, modern skimmed finishes. Fully contained, minimal mess."
+    },
+    {
+      "title": "Damp Damage Repairs",
+      "desc": "Plaster stripped, walls dried and relined to prevent salt damage and future bloom. We work with your surveyor's recommendations."
+    },
+    {
+      "title": "Coving & Cornicing",
+      "desc": "Decorative plaster coving fitted and finished to a professional standard, adding character and a quality edge to room corners."
+    },
+    {
+      "title": "Emergency Plasterwork",
+      "desc": "Burst pipes, accidental damage or urgent decoration work? We respond quickly to minimise disruption and get you back on track."
+    }
+  ],
+  "about_pullquote": "I plaster to the standard I'd want in my own home \u2014 no shortcuts, no mess.",
+  "about_para_1": "LL PlasterMaster was founded on a simple principle: homes deserve plasterers who care about detail and finish. With over a decade of experience across Manchester, we've built a reputation for tackling awkward jobs that other tradespeople sidestep \u2014 cracked ceilings, damp-damaged walls, and botched repairs. Every job is treated as a craft, not a race.",
+  "about_para_2": "Our customers come back because we show up on time, we explain what we're doing, and the work looks immaculate when we leave. We're not the flashiest outfit in town \u2014 we're the one your neighbour actually recommends when their wall needs fixing properly. That's the reputation we've earned, and it's the one we protect every single day.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "500+",
+      "label": "Homes Plastered"
+    },
+    {
+      "num": "85%",
+      "label": "From Repeat & Referral"
+    },
+    {
+      "num": "Greater Manchester",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Manchester Homeowners Say About LL PlasterMaster",
+  "rating": 4.8,
+  "review_count": 67,
+  "reviews": [
+    {
+      "text": "Came out to fix a ceiling that had cracks everywhere. Left it looking perfect \u2014 honestly can't tell where the damage was. No faffing about, just solid work. Cheers mate.",
+      "author": "David H.",
+      "loc": "Chorlton-cum-Hardy, Manchester \u2014 October 2024"
+    },
+    {
+      "text": "Had a nightmare with water damage after a pipe burst. Plasterman removed all the damaged plaster, dried it out properly and finished it beautifully. Fair price and turned it around in a week. Highly recommend.",
+      "author": "Catherine B.",
+      "loc": "Didsbury, Manchester \u2014 July 2024"
+    },
+    {
+      "text": "Removed our Artex and re-skimmed the whole lounge ceiling. Didn't expect it to look this good. He's clearly been doing this for years \u2014 knows every trick to avoid mess and dust. Will definitely book him again for the kitchen.",
+      "author": "Michael T.",
+      "loc": "Withington, Manchester \u2014 May 2024"
+    }
+  ],
+  "address_sub": "Serving Greater Manchester and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency call-outs by arrangement",
+  "emergency_banner_text": "Need urgent plasterwork? We respond quickly to burst pipes, water damage and emergency repairs. Call now \u2014",
+  "footer_description": "LL PlasterMaster specialises in interior plastering, repairs and finishing across Greater Manchester. Over 12 years' experience, free quotes.",
+  "footer_copyright": "\u00a9 2026 LL PlasterMaster. Registered in England & Wales."
+}
