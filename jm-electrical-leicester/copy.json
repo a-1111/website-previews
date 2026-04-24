@@ -1,0 +1,107 @@
+{
+  "slug": "jm-electrical-leicester",
+  "meta_title": "JM Electrical | Electrician Leicester",
+  "meta_description": "JM Electrical Leicester provides domestic and commercial electrical work, rewires, testing and fault repairs. NICEIC registered. Call 07496 813601 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Part P Certified Electrician",
+  "hero_headline": "Leicester's Reliable",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical faults, rewires, testing, and installations. Fast response, fair pricing, work you can trust.",
+  "badge_4": "Free Quotations",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading since 2006"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Same day",
+      "label": "Emergency response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Electrical Services Across Leicester & Surrounding Areas",
+  "services_subhead": "From emergency repairs and fault diagnosis to full rewires and new installations, we handle domestic and light commercial work with speed and expertise.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped electrics, or complete power loss? We diagnose and fix faults fast. Most emergency call-outs resolved same day or within 24 hours."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Ageing electrics putting your home at risk? We replace the entire installation to modern standards, test everything, and provide an electrical installation certificate."
+    },
+    {
+      "title": "Electrical Installation & Testing",
+      "desc": "New circuits, consumer unit upgrades, and Part P-certified work for extensions and refurbishments. Full compliance testing included."
+    },
+    {
+      "title": "Periodic Electrical Testing (EICR)",
+      "desc": "Landlords and homeowners: we carry out detailed electrical installation condition reports to ensure your wiring is safe. Essential for lettings compliance."
+    },
+    {
+      "title": "Kitchen & Bathroom Electrics",
+      "desc": "Dedicated circuits for appliances, safe lighting over wet areas, and full skirting board rewiring for refurbished kitchens and bathrooms."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Shop fit-outs, office rewires, and industrial circuits. We handle scheduling around your business hours and keep disruption to a minimum."
+    }
+  ],
+  "about_pullquote": "Good electrics shouldn't cost the earth or take forever to arrange.",
+  "about_para_1": "JM Electrical has been serving Leicester and the surrounding Leicestershire villages since 2006. We're NICEIC registered and Part P certified \u2014 which means your rewires, installations, and testing carry full legal weight. Over the years we've built a strong reputation for turning up on time, pricing fairly, and getting the job done right first time.",
+  "about_para_2": "We're a small, local team that genuinely cares about our customers' homes. Most of our work comes from repeat customers and personal recommendation because people know we won't cut corners or oversell them work they don't need. Whether it's an emergency fault or a planned rewire, we treat your electrics with the same care we'd give our own homes.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Established in business"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Registered and certified"
+    },
+    {
+      "num": "500+",
+      "label": "Local jobs completed"
+    },
+    {
+      "num": "24hrs",
+      "label": "Emergency response pledge"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About JM Electrical",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Called them at 9pm on a Saturday with no power in half the house. John arrived within an hour, found a faulty breaker in the consumer unit, and had everything back on by 10:30. Charged a fair price and very professional. Will definitely use again.",
+      "author": "David P.",
+      "loc": "Countesthorpe, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "We needed a full rewire on a 1970s terrace. JM Electrical gave us a clear quote, explained everything, and the work was done in three days with minimal mess. The lads were tidy and left the site clean. Certificate provided. Excellent value.",
+      "author": "Margaret H.",
+      "loc": "Belgrave, Leicester \u2014 August 2024"
+    },
+    {
+      "text": "Landlord required an EICR before letting our flat out. John came, tested everything thoroughly, and provided a detailed report. Found a couple of minor issues we could fix quickly. Very knowledgeable and straightforward to deal with.",
+      "author": "Tom R.",
+      "loc": "Oadby, Leicester \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Leicester, Countesthorpe, Belgrave, Oadby, and surrounding Leicestershire villages",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Electrical emergency in Leicester? We aim to respond within the hour, day or night. Call now \u2014",
+  "footer_description": "JM Electrical is a NICEIC-registered electrician in Leicester. We provide emergency repairs, rewires, testing, and installations for homes and businesses across Leicestershire.",
+  "footer_copyright": "\u00a9 2026 JM Electrical (Leicester) Ltd. Registered in England & Wales."
+}
