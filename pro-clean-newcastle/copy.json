@@ -1,0 +1,107 @@
+{
+  "slug": "pro-clean-newcastle",
+  "meta_title": "Pro Clean Newcastle | Professional Cleaning Services",
+  "meta_description": "Pro Clean Newcastle delivers professional domestic and commercial cleaning across Tyne and Wear. Same-day quotes, fully insured, trusted local cleaners.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Fully Insured & Local \u2014 Newcastle's Trusted Cleaners",
+  "hero_headline": "Professional Cleaning",
+  "hero_highlight": "You Can Count On",
+  "hero_subhead": "Tired of cleaning? We handle it all\u2014homes and offices across Newcastle, so you get your time back.",
+  "badge_4": "Same-Day Quotes Available",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years in Newcastle"
+    },
+    {
+      "num": "2,000+",
+      "label": "Happy Customers Served"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical Turnaround"
+    },
+    {
+      "num": "100%",
+      "label": "Customer Satisfaction Rate"
+    }
+  ],
+  "services_heading": "Complete Cleaning Solutions Across Newcastle",
+  "services_subhead": "From weekly domestic cleans to office deep cleans, we tailor every job to your needs and budget.",
+  "services": [
+    {
+      "title": "Weekly House Cleaning",
+      "desc": "Regular domestic cleans that keep your home fresh and tidy without the weekly stress. We work around your schedule, every week or fortnightly."
+    },
+    {
+      "title": "Deep Cleaning",
+      "desc": "Thorough top-to-bottom cleans including skirting boards, light fittings, and inside cupboards. Perfect before moving house or after renovation work."
+    },
+    {
+      "title": "Office & Commercial Cleaning",
+      "desc": "Keep your workplace clean and professional. We handle end-of-day office cleaning, kitchen facilities, and washroom maintenance on a flexible schedule."
+    },
+    {
+      "title": "After-Build Cleaning",
+      "desc": "New build or renovation? We remove all dust, debris, and mess left behind so your home is ready to move into immediately."
+    },
+    {
+      "title": "Carpet & Upholstery Cleaning",
+      "desc": "Professional steam cleaning restores carpets, sofas, and armchairs to like-new condition. We use safe, eco-friendly products and methods."
+    },
+    {
+      "title": "Spring & End-of-Tenancy Cleans",
+      "desc": "Full-house deep cleans tailored to landlord and letting agency standards. We ensure you pass inspection first time, every time."
+    }
+  ],
+  "about_pullquote": "We clean homes the way we'd clean our own\u2014thoroughly, fairly, and with real care.",
+  "about_para_1": "Pro Clean Newcastle started over a decade ago when our founder realised how hard it was to find reliable, honest cleaners in the Tyne and Wear area. What began as a one-person operation has grown into a trusted local team, handling everything from weekly domestic cleans to large commercial contracts. We're fully insured, background-checked, and committed to turning up on time, every time.",
+  "about_para_2": "Our customers choose us because we listen. We're not interested in cutting corners or inflating quotes\u2014we charge fairly for solid work and we remember our clients. Half our business comes from repeat customers and word-of-mouth referrals, which tells you everything you need to know about the service we deliver.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "65%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "Tyne & Wear",
+      "label": "Coverage Area"
+    },
+    {
+      "num": "100%",
+      "label": "Fully Insured"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say About Pro Clean",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Been using Pro Clean for three years now and wouldn't dream of using anyone else. The team are reliable, polite, and my house has never looked better. Fair prices too\u2014no hidden charges.",
+      "author": "Claire H.",
+      "loc": "Gosforth, Newcastle \u2014 January 2025"
+    },
+    {
+      "text": "Had them in for a deep clean before we sold the house and they were brilliant. Got into every corner, made the place sparkle. The buyers commented on how immaculate everything was. Highly recommend.",
+      "author": "Michael P.",
+      "loc": "Jesmond, Newcastle \u2014 November 2024"
+    },
+    {
+      "text": "We use Pro Clean for our office twice a week. They're flexible, professional, and never miss a day. Our staff appreciate working in a clean, tidy space. Great value.",
+      "author": "Nicola W.",
+      "loc": "City Centre, Newcastle \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Newcastle, Gateshead, and surrounding areas across Tyne and Wear",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Emergency cleans available \u2014 call to arrange",
+  "emergency_banner_text": "Need an urgent clean? We can often fit you in within 48 hours. Ring us today \u2014",
+  "footer_description": "Pro Clean Newcastle delivers professional house and office cleaning across Tyne and Wear. Fully insured, reliable, and built on 12+ years of local trust.",
+  "footer_copyright": "\u00a9 2026 Pro Clean Newcastle. All rights reserved."
+}
