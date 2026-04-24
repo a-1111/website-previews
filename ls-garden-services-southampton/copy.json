@@ -1,0 +1,107 @@
+{
+  "slug": "ls-garden-services-southampton",
+  "meta_title": "LS Garden Services | Gardener Southampton",
+  "meta_description": "LS Garden Services Southampton. Professional garden maintenance, design, and landscaping. Local family business. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 08:00-16:00"
+  ],
+  "hero_eyebrow": "Local Southampton Gardener \u2014 Garden Design & Maintenance",
+  "hero_headline": "Your Garden",
+  "hero_highlight": "Transformed",
+  "hero_subhead": "Professional garden design and maintenance across Southampton. From overgrown lawns to complete landscaping \u2014 we handle it all.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in gardening"
+    },
+    {
+      "num": "350+",
+      "label": "Gardens transformed"
+    },
+    {
+      "num": "Same-day",
+      "label": "Quote turnaround"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average customer rating"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Southampton",
+  "services_subhead": "We handle everything from routine maintenance to full garden redesigns, helping Southampton homeowners enjoy beautiful outdoor spaces year-round.",
+  "services": [
+    {
+      "title": "Garden Maintenance",
+      "desc": "Regular lawn cutting, hedge trimming, weeding, and seasonal upkeep. We keep your garden looking pristine without you lifting a finger."
+    },
+    {
+      "title": "Garden Design & Landscaping",
+      "desc": "Bespoke garden layouts tailored to your space and style. We create functional, beautiful gardens that add value to your home."
+    },
+    {
+      "title": "Lawn Care & Restoration",
+      "desc": "Overgrown lawn? We handle scarification, aeration, seeding, and feeding to restore tired grass to lush green."
+    },
+    {
+      "title": "Hedge & Tree Work",
+      "desc": "Professional trimming, shaping, and removal of trees and hedges. Safe handling of large growth using proper equipment and technique."
+    },
+    {
+      "title": "Patio & Decking Installation",
+      "desc": "Build new patios, decking, and pathways that transform how you use your garden. Durable materials, expert construction."
+    },
+    {
+      "title": "Garden Clearance & Tidying",
+      "desc": "Full garden overhauls for cluttered or neglected spaces. We clear, dispose responsibly, and leave your garden ready for whatever's next."
+    }
+  ],
+  "about_pullquote": "Good gardening is about listening to what your space needs and delivering real results.",
+  "about_para_1": "LS Garden Services has been transforming Southampton gardens for over 15 years. Started as a solo operation, we've grown into a trusted local team handling everything from routine maintenance to ambitious landscaping projects. Our reputation is built on reliability, fair pricing, and genuine care for our customers' outdoor spaces.",
+  "about_para_2": "We're Southampton residents too, which means we understand our local soil, climate, and seasonal challenges. Repeat customers make up most of our work \u2014 that tells you we show up on time, do what we promise, and leave your garden better than we found it. We work year-round and pride ourselves on honest advice and straightforward quotes with no hidden costs.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years trading"
+    },
+    {
+      "num": "70%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "350+",
+      "label": "Completed projects"
+    },
+    {
+      "num": "Southampton",
+      "label": "Local coverage area"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About LS Garden Services",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Brilliant service. My garden was completely overgrown and I didn't know where to start. Lee came round, gave me a sensible plan, and got stuck in. Within a couple of weeks it looked amazing. Really professional and fair priced. Can't recommend highly enough.",
+      "author": "Michael T.",
+      "loc": "Shirley, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Had the lads in to do a full garden redesign last spring. They listened to what we wanted, drew up a proper plan, and the work was done on time and on budget. The patio is brilliant and the landscaping has really come together nicely. Will be using them again.",
+      "author": "Sarah K.",
+      "loc": "Portswood, Southampton \u2014 May 2024"
+    },
+    {
+      "text": "I use Lee for regular maintenance every month and he's absolutely reliable. Always turns up when he says he will, gets the job done properly, and leaves everything tidy. Great bloke, doesn't mess about. Best gardener we've had round here.",
+      "author": "David P.",
+      "loc": "Totton, Southampton \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Southampton and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 Flexible weekday appointments available",
+  "emergency_banner_text": "Need your garden sorted urgently? Get in touch for a free quote and fast turnaround \u2014",
+  "footer_description": "LS Garden Services is Southampton's trusted local gardener. Garden design, maintenance, landscaping, and clearance. Reliable, fair pricing, repeat customer favourite.",
+  "footer_copyright": "\u00a9 2026 LS Garden Services. Trading from Southampton, England."
+}
