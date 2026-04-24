@@ -1,0 +1,107 @@
+{
+  "slug": "rob-mount-electrical-nottingham",
+  "meta_title": "Rob Mount Electrical | Electrician Nottingham",
+  "meta_description": "Rob Mount Electrical is a trusted local electrician in Nottingham. Fast, reliable electrical work\u2014repairs, installations, and inspections. Call now for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-15:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Same-Day Emergency Response",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Burst socket, failing electrics, or planning a rewire? Rob arrives fast, diagnoses right, and fixes it properly the first time.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "45min",
+      "label": "Typical response time"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Nottingham",
+  "services_subhead": "From emergency fault-finding to full house rewires, we handle domestic and light commercial work with speed and expertise.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown circuits, faulty sockets, or dead lights? We diagnose and fix faults the same day, with callouts available evenings and weekends."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "Safe, compliant installation and repair of heating system wiring, thermostats, and control panels\u2014essential for reliable winter heat."
+    },
+    {
+      "title": "House Rewires & Upgrades",
+      "desc": "Old cloth wiring or overloaded circuits? We replace dated installations with modern, safety-tested systems and upgraded consumer units."
+    },
+    {
+      "title": "Testing & Certification",
+      "desc": "EICR inspections, portable appliance testing, and condition reports\u2014all you need to keep your home safe and meet insurance requirements."
+    },
+    {
+      "title": "New Installations & Extensions",
+      "desc": "Kitchen rewires, bathroom electrics, garden lighting, and new circuits for home offices\u2014installed to Building Regulations and tested."
+    },
+    {
+      "title": "Consumer Unit & Earthing Work",
+      "desc": "Trip switches, RCD upgrades, and earthing checks to bring your installation up to modern safety standards and prevent electrical hazards."
+    }
+  ],
+  "about_pullquote": "I fix it right the first time. No guessing, no repeat call-outs.",
+  "about_para_1": "Rob Mount Electrical was founded on the principle that local electricians should be honest, reliable, and fast. Over 18 years, Rob and his small team have built a solid reputation across Nottingham\u2014from Wollaton to Beeston\u2014by turning up on time, diagnosing faults properly, and finishing jobs when promised. Every job is tested and certified; no shortcuts.",
+  "about_para_2": "Customers return to Rob because he explains what's wrong without the jargon and gives fair quotes\u2014no hidden charges. Whether it's a midnight emergency or a planned rewire, the focus is always the same: safe, quality work that lasts. NICEIC registered and fully insured, Rob takes pride in knowing most of his work comes from repeat customers and word-of-mouth.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In business locally"
+    },
+    {
+      "num": "2000+",
+      "label": "Homes & businesses served"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat or referred customers"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Registered & certified"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Rob",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a major fault with the kitchen circuit\u2014sparking outlets and all that. Rob came out the same evening, found a loose connection behind the cupboards, and sorted it in under an hour. Really thorough, explained everything, and the price was fair. Top bloke.",
+      "author": "David T.",
+      "loc": "Wollaton, Nottingham \u2014 November 2024"
+    },
+    {
+      "text": "Rob rewired our 1920s terrace last summer. Professional from start to finish\u2014tested everything, left the place spotless, and gave us a full certificate. It's peace of mind knowing the house is safe now. Would definitely recommend.",
+      "author": "Emma K.",
+      "loc": "Beeston, Nottingham \u2014 August 2024"
+    },
+    {
+      "text": "Lighting kept tripping at 11pm on a Friday. Thought I'd have to wait till Monday but Rob picked up and was here within the hour. Dead RCD\u2014he replaced it and even checked the rest of the board. Can't ask for better service than that.",
+      "author": "Michael S.",
+      "loc": "Southwell Road, Nottingham \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham, Beeston, Wollaton, and the surrounding area",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 3pm \u2022 Emergency callouts available 7 days a week",
+  "emergency_banner_text": "Electrical emergency in Nottingham? We typically arrive within 45 minutes, any time of day or night. Call now \u2014",
+  "footer_description": "Rob Mount Electrical: trusted electrician serving Nottingham for 18 years. NICEIC certified, same-day repairs, and full rewires.",
+  "footer_copyright": "\u00a9 2026 Rob Mount Electrical. Registered in England & Wales."
+}
