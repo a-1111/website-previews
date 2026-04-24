@@ -1,0 +1,107 @@
+{
+  "slug": "man-electrical-solutions-newcastle",
+  "meta_title": "MAN Electrical Solutions | Electrician Newcastle",
+  "meta_description": "MAN Electrical Solutions in Newcastle. Expert residential and commercial electrical work, rewires, testing, and emergency callouts. Call 07508 868168 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 24/7 Emergency Electrician",
+  "hero_headline": "Newcastle's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Broken socket at 11pm in Newcastle? We respond to emergencies same day, with full diagnostics and repair on the spot.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "1200+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Typical Response Time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average Rating"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Newcastle",
+  "services_subhead": "From emergency repairs to full rewires, testing, and new installations \u2014 we handle every electrical job with precision and care.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Power cuts, blown circuits, and faulty sockets fixed fast. We carry stock and diagnose most faults within the hour, any day of the week."
+    },
+    {
+      "title": "Complete House Rewires",
+      "desc": "Upgrade ageing wiring safely and legally. We test your entire installation, replace old cables, and bring your home up to modern safety standards."
+    },
+    {
+      "title": "Electrical Testing & Certification",
+      "desc": "EICR inspection and testing for landlords, businesses, and homebuyers. Full compliance reporting and remedial work quoted upfront."
+    },
+    {
+      "title": "New Circuit Installation",
+      "desc": "Additional sockets, lighting circuits, and cooker/shower installs designed for your layout. All Part P certified and tested to Building Regs."
+    },
+    {
+      "title": "Fusebox & Consumer Unit Replacement",
+      "desc": "Replace outdated fuses with modern RCD-protected units. Increases capacity, improves safety, and qualifies for insurance and mortgage purposes."
+    },
+    {
+      "title": "Garden & Outdoor Electrics",
+      "desc": "Weatherproof sockets, lighting, and power to sheds and garages. All outdoor work IP-rated and earthed to protect against shock and water ingress."
+    }
+  ],
+  "about_pullquote": "I started MAN Electrical to give Newcastle families honest, quick, affordable electrical work.",
+  "about_para_1": "MAN Electrical Solutions has served Newcastle homes and businesses for nearly two decades. We pride ourselves on turning up on time, diagnosing problems accurately, and finishing the job right \u2014 without hidden charges or unnecessary work. Every electrician carries stock parts and test equipment, so most faults are resolved in a single visit.",
+  "about_para_2": "Our reputation is built on straightforward communication and real expertise. We're NICEIC registered, fully insured, and we leave your home clean and safe. Repeat customers choose us because we answer the phone, explain what's wrong, and give you a fair price before we start.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "100%",
+      "label": "NICEIC Certified"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "15+",
+      "label": "Neighbourhoods Served"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Had a dodgy socket that was sparking \u2014 honestly panicked. Called MAN at 9pm on a Friday, and the lad was here within 50 minutes. Sorted it straight away, new socket fitted, checked the whole circuit. Really professional and didn't break the bank. Brilliant service.",
+      "author": "David M.",
+      "loc": "Fenham, Newcastle \u2014 November 2024"
+    },
+    {
+      "text": "Needed a full house rewire before selling. Got a quote from another firm that was way over budget. MAN came in, explained exactly what needed doing, and got it done in a week without fuss. The new owners' surveyor signed it off first time. Couldn't recommend them more.",
+      "author": "Margaret T.",
+      "loc": "Jesmond, Newcastle \u2014 September 2024"
+    },
+    {
+      "text": "Called for an EICR test on my rental property. Thorough job, clear report, and they quoted everything that needed fixing before any work started. No pressure, fair prices. I've already booked them to come back for the rewire. That's the mark of a good tradesman.",
+      "author": "Ian C.",
+      "loc": "Gosforth, Newcastle \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Fenham, Jesmond, Gosforth, City Centre, and all of Newcastle upon Tyne",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 24/7 emergency line always open",
+  "emergency_banner_text": "Electrics emergency in Newcastle? We aim to be with you within the hour. Call now \u2014",
+  "footer_description": "MAN Electrical Solutions: NICEIC-registered electricians in Newcastle. Emergency repairs, rewires, testing, and installations \u2014 honest service, fast response.",
+  "footer_copyright": "\u00a9 2026 MAN Electrical Solutions. Registered in England & Wales."
+}
