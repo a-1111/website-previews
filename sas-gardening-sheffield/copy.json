@@ -1,0 +1,107 @@
+{
+  "slug": "sas-gardening-sheffield",
+  "meta_title": "S.A.S Gardening | Professional Gardener Sheffield",
+  "meta_description": "S.A.S Gardening is a trusted Sheffield gardener offering garden design, maintenance, and landscaping. Local, reliable, same-day quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Local Sheffield Gardener \u2014 15+ Years Experience",
+  "hero_headline": "Your Garden Deserves",
+  "hero_highlight": "Expert Care",
+  "hero_subhead": "From overgrown borders to complete garden transforms, S.A.S Gardening brings your Sheffield outdoor space to life.",
+  "badge_4": "Free Site Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Same-Day",
+      "label": "Quote Service"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Sheffield",
+  "services_subhead": "From routine maintenance to full garden design and landscaping, we handle every aspect of garden care.",
+  "services": [
+    {
+      "title": "Garden Maintenance",
+      "desc": "Regular lawn care, hedge trimming, weeding, and seasonal upkeep. Keep your garden looking pristine year-round with fortnightly or monthly visits."
+    },
+    {
+      "title": "Garden Design & Landscaping",
+      "desc": "Bespoke garden design tailored to your space and budget. We handle everything from patio installation to planting schemes and garden structures."
+    },
+    {
+      "title": "Lawn Care & Renovation",
+      "desc": "Scarifying, aeration, reseeding, and fertilising to restore tired lawns. Perfect for spring recovery or preparing your garden for summer."
+    },
+    {
+      "title": "Tree & Hedge Work",
+      "desc": "Professional pruning, crown reduction, and hedge maintenance. All work carried out safely and to industry standards."
+    },
+    {
+      "title": "Clearance & Tidy-Up",
+      "desc": "Transform overgrown gardens with full clearance and waste removal. Ideal for new homes or gardens needing a fresh start."
+    },
+    {
+      "title": "Planting & Seasonal Bedding",
+      "desc": "Expert plant selection and planting design for year-round colour and interest. We source quality plants and ensure proper establishment."
+    }
+  ],
+  "about_pullquote": "I started S.A.S because I believe every garden tells a story worth telling well.",
+  "about_para_1": "S.A.S Gardening has been transforming Sheffield gardens for over 15 years. What began as a one-person operation has grown into a trusted local service, built on honest pricing and genuine care for every project we touch. We specialise in both routine maintenance and ambitious garden redesigns.",
+  "about_para_2": "Our customers come back because we listen first and design with purpose. Whether you need weekly upkeep or a complete garden overhaul, we treat your outdoor space as an extension of your home. Hundreds of Sheffield gardens reflect our commitment to quality and attention to detail.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Gardens Completed"
+    },
+    {
+      "num": "92%",
+      "label": "Return Customers"
+    },
+    {
+      "num": "All of Sheffield",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Sheffield Gardeners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had the garden completely overgrown when we moved in. S.A.S came round, gave us a brilliant quote same day, and completely transformed it. The lads were tidy, professional, and finished ahead of schedule. Couldn't be happier. Will definitely have them back for maintenance.",
+      "author": "Michael T.",
+      "loc": "Ranmoor, Sheffield \u2014 February 2025"
+    },
+    {
+      "text": "Been using S.A.S for fortnightly maintenance for three years now. Never missed a visit, always turn up on time, and the garden looks amazing. Not the cheapest but worth every penny. Best gardener in Sheffield, no question.",
+      "author": "Linda P.",
+      "loc": "Ecclesall, Sheffield \u2014 January 2025"
+    },
+    {
+      "text": "Needed urgent clearance after a bad winter. Called on the Thursday, they were here Saturday morning and cleared the whole lot. Professional, quick, fair price. Top service. Highly recommend.",
+      "author": "David H.",
+      "loc": "Dronfield, Sheffield \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Sheffield and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Free quotes available by phone or site visit",
+  "emergency_banner_text": "Urgent garden work needed? Call us for a same-day quote and fast booking \u2014",
+  "footer_description": "S.A.S Gardening is Sheffield's trusted gardener for 15+ years. Garden design, maintenance, landscaping, and tree work. Local, professional, affordable.",
+  "footer_copyright": "\u00a9 2026 S.A.S Gardening. All rights reserved."
+}
