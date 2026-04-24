@@ -1,0 +1,107 @@
+{
+  "slug": "professional-gardening-services-manchester",
+  "meta_title": "Professional Gardening Services | Landscape Gardener Manchester",
+  "meta_description": "Professional Gardening Services in Manchester. Expert landscape design, garden maintenance, and hard landscaping. Free quotes. Call 07931 752374.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Trusted Local Landscape Gardener \u2014 15+ Years Experience",
+  "hero_headline": "Transform Your Manchester",
+  "hero_highlight": "Garden Today",
+  "hero_subhead": "From overgrown borders to stunning outdoor spaces, we design and build gardens you'll love year-round.",
+  "badge_4": "Free Garden Consultation",
+  "stats": [
+    {
+      "num": "850+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "15yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Same-Day",
+      "label": "Quotes Available"
+    }
+  ],
+  "services_heading": "Complete Garden & Landscaping Services Across Manchester",
+  "services_subhead": "Whether you need a tidy-up, a total redesign, or structural work, we've got the expertise and equipment to deliver.",
+  "services": [
+    {
+      "title": "Garden Design & Planning",
+      "desc": "Bespoke designs tailored to your space, budget, and lifestyle. We listen to your vision and create outdoor spaces that work for how you actually live."
+    },
+    {
+      "title": "Hard Landscaping",
+      "desc": "Patios, decking, raised beds, pergolas, and stone features. Built to last using quality materials and traditional craftsmanship."
+    },
+    {
+      "title": "Planting & Borders",
+      "desc": "Expert plant selection and layout for year-round colour and texture. We choose species suited to your soil and light conditions, so they thrive."
+    },
+    {
+      "title": "Garden Maintenance",
+      "desc": "Regular upkeep from spring tidy-ups to autumn clearing. Keep your garden looking its best without the weekend work."
+    },
+    {
+      "title": "Hedge Trimming & Tree Work",
+      "desc": "Safe, tidy cutting and shaping. We remove dead wood, tidy overgrowth, and keep sight lines clear."
+    },
+    {
+      "title": "Driveway & Pathway Work",
+      "desc": "Gravel, block paving, and slabbing installation. Functional, attractive entrances that enhance your property's kerb appeal."
+    }
+  ],
+  "about_pullquote": "Every garden tells a story. We're here to help you write a better one.",
+  "about_para_1": "We started Professional Gardening Services because we saw too many beautiful Manchester gardens abandoned or neglected. After 15 years on this patch, we've worked on everything from tiny courtyards in Didsbury to sprawling grounds in Altrincham. We're still here because we love what we do and because repeat customers trust us to get it right.",
+  "about_para_2": "Our customers come back because we listen first, deliver honestly, and take pride in every detail. We don't upsell or overcomplicate\u2014we show you what needs doing, give a fair price, and turn up when we say we will. Whether it's a one-off tidy-up or a multi-season garden transformation, we treat your outdoor space with the care it deserves.",
+  "about_stats": [
+    {
+      "num": "15yrs",
+      "label": "Established Locally"
+    },
+    {
+      "num": "850+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "90%",
+      "label": "Return Customer Rate"
+    },
+    {
+      "num": "Greater Manchester",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Manchester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Brilliant job on our back garden. Had an overgrown mess when they started, now it's our favourite place to sit in the summer. The lads were respectful, tidy, and finished on time. Highly recommend.",
+      "author": "Mark T.",
+      "loc": "Didsbury, Manchester \u2014 February 2025"
+    },
+    {
+      "text": "Got a free quote, which was honest and detailed. They explained everything they'd do and why. Three months on and the planting is thriving. Best decision we made. Proper tradesmen.",
+      "author": "Helen W.",
+      "loc": "Altrincham, Manchester \u2014 December 2024"
+    },
+    {
+      "text": "Needed the hedge cut and pathway cleared before winter. Called on a Monday, they came Thursday. Quick, professional, left the garden spotless. Will definitely be booking again for spring.",
+      "author": "David P.",
+      "loc": "Stockport, Greater Manchester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving all of Greater Manchester including Didsbury, Altrincham, Stockport, and Bury",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Quotes available by appointment",
+  "emergency_banner_text": "Ready to transform your garden? Get a free, no-obligation quote within 24 hours. Call now \u2014",
+  "footer_description": "Professional Gardening Services designs and builds beautiful gardens across Manchester. Expert landscaping, maintenance, and hard landscaping with 15 years' local experience.",
+  "footer_copyright": "\u00a9 2026 Professional Gardening Services Manchester. All rights reserved."
+}
