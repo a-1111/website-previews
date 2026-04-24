@@ -1,0 +1,107 @@
+{
+  "slug": "react-property-repairs-leeds",
+  "meta_title": "React Property Repairs | Handyman Leeds",
+  "meta_description": "React Property Repairs in Leeds provides professional home maintenance and repair services. Fast, reliable handyman solutions. Call us today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Professional Handyman \u2014 Fast, Reliable Repairs",
+  "hero_headline": "Your Leeds Home",
+  "hero_highlight": "Repair Specialist",
+  "hero_subhead": "From leaky taps to loose shelving, we fix the jobs that pile up. One call solves it.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "12yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "2hrs",
+      "label": "Average Response Time"
+    }
+  ],
+  "services_heading": "Complete Home Repair Services Across Leeds",
+  "services_subhead": "We handle the odd jobs and emergency fixes that make living in your home easier.",
+  "services": [
+    {
+      "title": "Plumbing Repairs",
+      "desc": "Leaking taps, burst pipes, radiator issues. We diagnose and fix most problems same day, with spares carried on the van."
+    },
+    {
+      "title": "Carpentry & Joinery",
+      "desc": "Hung doors, loose floorboards, built-in shelving, and bespoke woodwork. We measure twice and fit it right first time."
+    },
+    {
+      "title": "Decorating & Painting",
+      "desc": "Interior and exterior painting, wallpapering, and feature walls. Professional finish, minimal disruption to your home."
+    },
+    {
+      "title": "Electrical Repairs",
+      "desc": "Faulty sockets, rewiring, light fitting installation, and circuit testing. Part P compliant work you can trust."
+    },
+    {
+      "title": "Tiling & Flooring",
+      "desc": "Bathroom and kitchen tile work, vinyl and laminate fitting. We leave your space clean and ready to use."
+    },
+    {
+      "title": "Damp & General Repairs",
+      "desc": "Condensation issues, patch repairs, caulking, and maintenance. Quick fixes that stop small problems becoming big ones."
+    }
+  ],
+  "about_pullquote": "I started this to be the handyman I wish I'd found when my own roof was leaking.",
+  "about_para_1": "React Property Repairs was founded on a simple idea: homeowners in Leeds shouldn't have to wait weeks for a reliable tradesman, or worry they're being overcharged for basic fixes. Over 12 years, we've built a reputation for showing up on time, doing the job properly, and leaving your home cleaner than we found it. We're fully insured and Part P registered for electrical work.",
+  "about_para_2": "Our customers come back because we treat every job \u2014 whether it's a \u00a350 tap repair or a \u00a35,000 kitchen refit \u2014 with the same care and attention. We listen to what you need, give you a straight quote with no hidden costs, and get the work done without fuss. More than half our work now comes from repeat customers and referrals, and that's exactly how we like it.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "Trading in Leeds"
+    },
+    {
+      "num": "65%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "500+",
+      "label": "Homes Repaired"
+    },
+    {
+      "num": "Part P",
+      "label": "Electrical Certified"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had a bathroom leak that was driving me mad. Rang React on a Tuesday morning, they came out Wednesday afternoon. Found the issue, explained what needed doing, and had it fixed by Friday. Couldn't fault them. Fair price too.",
+      "author": "Mark T.",
+      "loc": "Headingley, Leeds \u2014 November 2024"
+    },
+    {
+      "text": "My kitchen cupboard doors were hanging off and I'd been putting it off for months. They came, sorted it in 90 minutes, and the units look like new. Professional and friendly. Will definitely call them again.",
+      "author": "Claire M.",
+      "loc": "Chapel Allerton, Leeds \u2014 January 2025"
+    },
+    {
+      "text": "Honest tradesman, which is rare these days. Got a leaking radiator, they diagnosed it quickly, explained the fix without jargon, and charged what they quoted. No extras, no upsell. Already recommended them to two neighbours.",
+      "author": "David H.",
+      "loc": "Roundhay, Leeds \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Leeds and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Burst pipe or urgent repair in Leeds? We aim to attend within 2 hours. Call us now \u2014",
+  "footer_description": "React Property Repairs is a professional handyman service in Leeds offering plumbing, carpentry, electrical, and general home repairs. Fully insured and Part P certified.",
+  "footer_copyright": "\u00a9 2026 React Property Repairs. Trading in Leeds and surrounding areas."
+}
