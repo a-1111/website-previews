@@ -1,0 +1,107 @@
+{
+  "slug": "sns-plastering-sheffield",
+  "meta_title": "SNS Plastering | Plasterer Sheffield",
+  "meta_description": "SNS Plastering Sheffield provides expert plastering for homes and businesses. Damp repairs, skimming, rendering. Free quotes. Call 07870 208179.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Experienced Plasterer \u2014 Quality Finishes Every Time",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Plastering Specialist",
+  "hero_subhead": "From damp repairs to interior skimming, SNS Plastering delivers flawless finishes on time and on budget.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Trading"
+    },
+    {
+      "num": "800+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical Turnaround"
+    },
+    {
+      "num": "100%",
+      "label": "Return Customer Rate"
+    }
+  ],
+  "services_heading": "Plastering Services Across Sheffield",
+  "services_subhead": "Whether you need internal skimming, external rendering, or damp repairs, we handle it all with precision and care.",
+  "services": [
+    {
+      "title": "Internal Skimming & Finishing",
+      "desc": "Smooth, professional skimming on plasterboard and existing walls. Creates a perfect base for decoration and transforms dated rooms in days."
+    },
+    {
+      "title": "External Rendering",
+      "desc": "Weather-resistant external renders protect your property and boost kerb appeal. We use proven techniques and quality materials for long-lasting results."
+    },
+    {
+      "title": "Damp Repair & Tanking",
+      "desc": "Identify and repair the root cause of damp. We apply tanking solutions and renders to keep moisture out and protect your walls for years."
+    },
+    {
+      "title": "Coving & Cornice Installation",
+      "desc": "Add period detail or modern clean lines with professional coving and cornice fitting. Expertly installed and finished to a polished standard."
+    },
+    {
+      "title": "Ceiling Repairs & Artexing",
+      "desc": "Fix damaged ceilings, remove old artex safely, or apply new textured finishes. Leave your ceilings looking smart and professional."
+    },
+    {
+      "title": "New Build & Renovation Plastering",
+      "desc": "Full plastering packages for new builds and refurbishments. We work closely with contractors to meet schedules and maintain site standards."
+    }
+  ],
+  "about_pullquote": "I treat every job as if it's my own home \u2014 that's how you get trust.",
+  "about_para_1": "SNS Plastering was established over a decade ago by a team passionate about delivering high-quality finishes to homes and businesses across Sheffield. From small domestic repairs to large commercial projects, we've built our reputation on reliability, attention to detail, and fair pricing. Every member of our team is fully trained and insured.",
+  "about_para_2": "Our customers come back because we listen, arrive on time, and leave sites clean and tidy. We specialise in damp repairs and rendering \u2014 areas where experience really counts \u2014 and we're never afraid to explain the job properly so you understand exactly what's needed and why.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "6",
+      "label": "Skilled Plasterers"
+    },
+    {
+      "num": "95%",
+      "label": "Customer Satisfaction"
+    },
+    {
+      "num": "Sheffield & 10mi",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a nasty damp patch in the living room corner. SNS came round, explained what was causing it, and fixed it properly rather than just plastering over the problem. Three months on, still bone dry. Brilliant work and very fair price.",
+      "author": "Mark T.",
+      "loc": "Woodhouse, Sheffield \u2014 January 2025"
+    },
+    {
+      "text": "Skimmed three rooms for us before redecorating. Finish was immaculate. The lads were tidy, professional, and finished exactly when they said they would. Highly recommend.",
+      "author": "Claire P.",
+      "loc": "Crosspool, Sheffield \u2014 November 2024"
+    },
+    {
+      "text": "Called for an emergency repair after a ceiling started cracking. Got an appointment same week, and the job was done properly. They didn't try to sell me anything I didn't need. Will definitely use them again.",
+      "author": "David K.",
+      "loc": "Nether Edge, Sheffield \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Sheffield and surrounding areas within 10 miles",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Call for emergency repairs",
+  "emergency_banner_text": "Urgent repair needed? We handle emergency call-outs same day. Ring us now \u2014",
+  "footer_description": "SNS Plastering is a Sheffield-based plastering specialist with 12 years' experience. We deliver expert internal skimming, rendering, damp repairs, and finishing work.",
+  "footer_copyright": "\u00a9 2026 SNS Plastering. All rights reserved."
+}
