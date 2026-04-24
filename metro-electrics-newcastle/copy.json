@@ -1,0 +1,107 @@
+{
+  "slug": "metro-electrics-newcastle",
+  "meta_title": "Metro Electrics | Qualified Electrician Newcastle",
+  "meta_description": "Metro Electrics Newcastle offers reliable domestic and commercial electrical work. Part P certified, same-day callouts available. Call 07834 354451 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Part P Certified \u2014 Local Newcastle Electrician",
+  "hero_headline": "Qualified Electrician",
+  "hero_highlight": "Newcastle Trusts",
+  "hero_subhead": "Faulty electrics, rewires, or a new circuit needed in Newcastle? We diagnose and fix problems fast, with transparent pricing and no surprises.",
+  "badge_4": "Same-Day Emergency Service",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Electrical Experience"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average Customer Rating"
+    },
+    {
+      "num": "1,200+",
+      "label": "Local Jobs Completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency Response Target"
+    }
+  ],
+  "services_heading": "Electrical Services Across Newcastle",
+  "services_subhead": "From emergency repairs to complete rewires, we handle all domestic and small commercial electrical work with speed and precision.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, flickering lights, dead sockets\u2014we diagnose and fix faults fast, often the same day. No call-out charge for Newcastle properties."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Outdated wiring is a fire risk. We replace old cloth or aluminium cables with modern, safe installation, with building regs compliance and a 10-year guarantee."
+    },
+    {
+      "title": "New Circuits & Additions",
+      "desc": "Adding a kitchen circuit, electric shower, or EV charger? We design and install to Part P standards, tested and certified."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Intermittent electrics or unexplained tripping? We use proper diagnostic equipment to pinpoint the problem and give you a clear repair quote upfront."
+    },
+    {
+      "title": "Landlord Safety Certificates",
+      "desc": "Annual electrical installation condition reports (EICR) for rental properties. Legal requirement and peace of mind in one visit."
+    },
+    {
+      "title": "Consumer Unit & Upgrades",
+      "desc": "Old fuses instead of a modern circuit breaker? We upgrade your consumer unit to the latest safety standard, RCD protected throughout."
+    }
+  ],
+  "about_pullquote": "I fix electrics the way I'd want mine done\u2014no cutting corners, no hidden costs.",
+  "about_para_1": "Metro Electrics was established in Newcastle in 2009 to serve homeowners and small businesses with honest, fast electrical work. Over 15 years we've built a reputation for turning up on time, fixing problems right, and explaining exactly what we're doing. We're Part P registered and fully insured, so whether it's a rewire, a new circuit, or an emergency fault at midnight, you know you're in safe hands.",
+  "about_para_2": "Our customers come back because we don't overcharge or oversell. We diagnose the real problem, give a fixed quote before we start, and leave the job clean and tested. Word of mouth has kept us busy across Newcastle and the surrounding areas\u2014we've completed over 1,200 jobs and aim to be with you in under an hour for emergencies.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "1,200+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Part P",
+      "label": "Registered & Certified"
+    },
+    {
+      "num": "98%",
+      "label": "Customer Recommendation Rate"
+    }
+  ],
+  "reviews_heading": "What Newcastle Customers Say",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Called Metro on a Sunday morning with no power in half the house. Not only did they answer, but Steve was at my door by 11am and had it sorted by noon. Turned out to be a faulty RCD. Charged me fairly and didn't make a meal of it. Brilliant service.",
+      "author": "Michael T.",
+      "loc": "Jesmond, Newcastle \u2014 September 2024"
+    },
+    {
+      "text": "Had them rewire our 1970s semi. They explained everything beforehand, worked cleanly, finished on schedule, and gave me all the paperwork. Five years later I'm still recommending them to neighbours. That's the mark of a decent electrician.",
+      "author": "Rachel H.",
+      "loc": "Gosforth, Newcastle \u2014 March 2024"
+    },
+    {
+      "text": "Needed an EV charger installed. No messing about, they quoted fair, came when they said, and installed it perfectly. All certified and tested. You don't get that level of attention everywhere. Very happy.",
+      "author": "David L.",
+      "loc": "Heaton, Newcastle \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Newcastle and surrounding areas, available for emergencies 24/7",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency callouts available anytime",
+  "emergency_banner_text": "Electrics down? We aim to reach you within an hour, any time of day or night. Call now \u2014",
+  "footer_description": "Metro Electrics is a Part P registered electrician in Newcastle. We fix faults fast, rewire safely, and charge fairly. Available 24/7 for emergencies.",
+  "footer_copyright": "\u00a9 2026 Metro Electrics. Part P Registered. All work certified and tested."
+}
