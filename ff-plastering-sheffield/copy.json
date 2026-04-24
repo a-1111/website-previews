@@ -1,0 +1,107 @@
+{
+  "slug": "ff-plastering-sheffield",
+  "meta_title": "FF Plastering | Expert Plasterer Sheffield",
+  "meta_description": "FF Plastering Sheffield offers professional interior and exterior plastering, renders, and wall repairs. Fast, reliable service across South Yorkshire.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Fully Insured \u2014 20+ Years Experience",
+  "hero_headline": "Expert Plastering in",
+  "hero_highlight": "Sheffield & South Yorkshire",
+  "hero_subhead": "From cracked walls to complete renders, we transform your space with precision and care.",
+  "badge_4": "Free Site Surveys",
+  "stats": [
+    {
+      "num": "20+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2,500+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Average Quote Time"
+    }
+  ],
+  "services_heading": "Complete Plastering Services Across Sheffield",
+  "services_subhead": "We handle everything from small patch repairs to full house renders and specialist finishes.",
+  "services": [
+    {
+      "title": "Interior Plastering & Skimming",
+      "desc": "Smooth, flawless wall and ceiling finishes ready for decoration. We repair cracks, patch damage, and skim coats to create perfect surfaces for painting or wallpaper."
+    },
+    {
+      "title": "Exterior Renders & Harling",
+      "desc": "Weatherproof external finishes that protect your property and boost kerb appeal. We apply cement render, silicone render, and traditional harling to suit your home's character."
+    },
+    {
+      "title": "Drywall & Dot & Dab",
+      "desc": "Fast wall boarding and adhesive-fixed plasterboard for new partitions and refurbishment. Creates even surfaces ready for finishing without mess or mess."
+    },
+    {
+      "title": "Artex Removal & Replacement",
+      "desc": "Safe removal of dated textured coatings with full disposal, replaced with modern smooth finishes or decorative alternatives you prefer."
+    },
+    {
+      "title": "Crack Repair & Structural Patching",
+      "desc": "Diagnose and repair cracks caused by settlement, impact, or age. We stabilise and reinforce before finishing to prevent recurrence."
+    },
+    {
+      "title": "Specialist Finishes & Feature Walls",
+      "desc": "Polished plaster, Venetian finishes, and bespoke textured surfaces create luxury interior details. Perfect for accent walls, period properties, and contemporary homes."
+    }
+  ],
+  "about_pullquote": "We treat every wall as if it's our own home. That's how we've built our reputation.",
+  "about_para_1": "FF Plastering was established in 2004 and has spent over two decades perfecting the craft of plastering across Sheffield and South Yorkshire. We've built our reputation one satisfied customer at a time, completing over 2,500 projects ranging from small domestic repairs to large commercial renders. Every member of our team is time-served and fully insured, with the skills and experience to handle everything from Victorian terraces to modern new builds.",
+  "about_para_2": "What sets us apart is our attention to detail and our willingness to get the finish right, even if it means an extra coat or two. We listen to what you want, give honest advice about the best approach, and stick to agreed timescales. Most of our work comes from repeat customers and word-of-mouth referrals \u2014 that tells you everything you need to know about our workmanship and our customer care.",
+  "about_stats": [
+    {
+      "num": "20+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2,500+",
+      "label": "Homes & Businesses Plastered"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat & Referral Customers"
+    },
+    {
+      "num": "5-Star",
+      "label": "Average Homeowner Rating"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had the whole of my lounge re-plastered and skimmed after some water damage. Lads were tidy, professional, and finished bang on schedule. The finish is immaculate \u2014 you'd never know there'd been any work done. Highly recommend.",
+      "author": "Mark T.",
+      "loc": "Walkley, Sheffield \u2014 November 2024"
+    },
+    {
+      "text": "External render on my Victorian cottage was crumbling. FF Plastering gave me a detailed survey, explained what needed doing, and the work was completed to a very high standard. They cleaned up properly every day. Brilliant job.",
+      "author": "Christine W.",
+      "loc": "Grindleford, Derbyshire \u2014 September 2024"
+    },
+    {
+      "text": "Needed Artex removed from two bedrooms and ceilings skimmed before redecorating. They explained the whole process, worked safely, and left no mess. Very fair price and they came back to touch up one tiny imperfection without charging extra. Top-notch service.",
+      "author": "Paul R.",
+      "loc": "Dronfield, Sheffield \u2014 July 2024"
+    }
+  ],
+  "address_sub": "Serving Sheffield, Rotherham, Chesterfield, and surrounding South Yorkshire areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Call for weekend emergency availability",
+  "emergency_banner_text": "Urgent plaster repair or structural damage? Contact us now for rapid assessment and fast turnaround \u2014",
+  "footer_description": "FF Plastering brings over 20 years' expertise to Sheffield and South Yorkshire. Interior and exterior finishes, repairs, and bespoke details \u2014 always fully insured.",
+  "footer_copyright": "\u00a9 2026 FF Plastering Ltd. All rights reserved."
+}
