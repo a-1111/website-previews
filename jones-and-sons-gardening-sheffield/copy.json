@@ -1,0 +1,107 @@
+{
+  "slug": "jones-and-sons-gardening-sheffield",
+  "meta_title": "Jones & Son's Gardening | Local Gardener Sheffield",
+  "meta_description": "Jones & Son's Gardening in Sheffield. Expert garden design, maintenance and landscaping. Free quotes. Trusted local gardeners since 2005.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Local Family Business \u2014 Sheffield's Trusted Gardeners",
+  "hero_headline": "Sheffield's Most Reliable",
+  "hero_highlight": "Garden Experts",
+  "hero_subhead": "Professional garden design, maintenance and landscaping across Sheffield. From overgrown borders to complete garden transformations.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "20yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "1000+",
+      "label": "Gardens Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat Customers"
+    }
+  ],
+  "services_heading": "Complete Garden Services Across Sheffield",
+  "services_subhead": "Whether you need a tidy-up or a complete garden overhaul, we handle everything from regular maintenance to bespoke landscape design.",
+  "services": [
+    {
+      "title": "Garden Maintenance & Tidy-Ups",
+      "desc": "Regular hedge trimming, lawn mowing, weeding and seasonal clean-ups. We keep your garden looking sharp throughout the year without the fuss."
+    },
+    {
+      "title": "Landscape Design & Installation",
+      "desc": "Custom garden designs tailored to your space and budget. From patios and raised beds to water features and decking \u2014 we handle the whole project."
+    },
+    {
+      "title": "Tree & Shrub Care",
+      "desc": "Expert pruning, felling and planting. We'll shape overgrown trees, remove deadwood safely, and advise on species suited to Sheffield's climate."
+    },
+    {
+      "title": "Lawn Renovation & Seeding",
+      "desc": "Transform patchy, worn grass into a lush lawn. We scarify, aerate, feed and reseed \u2014 or install fresh turf for instant results."
+    },
+    {
+      "title": "Patio & Decking Installation",
+      "desc": "Quality paving and wooden decking that transforms your garden into a real outdoor space. Built to last, designed for entertaining."
+    },
+    {
+      "title": "Garden Clearance & Waste Removal",
+      "desc": "Tackle overgrown, neglected gardens. We clear everything responsibly and dispose of waste properly \u2014 leaving you with a blank canvas."
+    }
+  ],
+  "about_pullquote": "We treat every garden like it's our own \u2014 no shortcuts, just honest work.",
+  "about_para_1": "Jones & Son's Gardening has been transforming Sheffield gardens for over two decades. Started by local gardener Richard Jones, the business has grown to include his son and a small team of passionate horticulturists. We've built our reputation on reliability, attention to detail, and a genuine love of outdoor spaces.",
+  "about_para_2": "From family homes to commercial properties, our customers trust us because we listen before we dig. We don't use jargon, we show up on time, and we leave your garden in pristine condition. Many of our customers have been with us for years \u2014 and that's exactly how we like it.",
+  "about_stats": [
+    {
+      "num": "20+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "3",
+      "label": "Core Team"
+    },
+    {
+      "num": "50+",
+      "label": "Annual Projects"
+    },
+    {
+      "num": "Sheffield",
+      "label": "Proudly Local"
+    }
+  ],
+  "reviews_heading": "What Sheffield Gardeners Say About Us",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Brilliant job on our back garden. Richard came round, listened to what we wanted, gave us a fair price, and finished ahead of schedule. The new patio and raised beds look amazing. Would definitely recommend.",
+      "author": "Mark T.",
+      "loc": "Ecclesall, Sheffield \u2014 June 2024"
+    },
+    {
+      "text": "Have used Jones & Son's for three years now for regular maintenance. They're reliable, tidy, and always leave the garden looking perfect. They even sorted out a problem with our fence without charging extra. Top blokes.",
+      "author": "Claire H.",
+      "loc": "Dore, Sheffield \u2014 August 2024"
+    },
+    {
+      "text": "Our garden was a complete mess when we moved in. Richard designed a proper plan, brought it in on budget, and the transformation is incredible. Really professional, no mess left behind. Highly recommend.",
+      "author": "James P.",
+      "loc": "Crookes, Sheffield \u2014 April 2024"
+    }
+  ],
+  "address_sub": "Serving all of Sheffield and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Free quotes available",
+  "emergency_banner_text": "Need your garden sorted urgently? Contact us today for a free quote and fast turnaround \u2014",
+  "footer_description": "Jones & Son's Gardening transforms Sheffield gardens. Expert design, maintenance and landscaping. Free quotes, family business you can trust.",
+  "footer_copyright": "\u00a9 2026 Jones & Son's Gardening. Registered in England & Wales."
+}
