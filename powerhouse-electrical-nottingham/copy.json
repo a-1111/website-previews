@@ -1,0 +1,107 @@
+{
+  "slug": "powerhouse-electrical-nottingham",
+  "meta_title": "Powerhouse Electrical | Electrician Nottingham",
+  "meta_description": "Powerhouse Electrical Nottingham \u2014 trusted local electrician for domestic and commercial work. Same-day callouts, fully certified. Call 07593 361517.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Emergency Callouts Available",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault or emergency in Nottingham? We're out within the hour, any time of day or night.",
+  "badge_4": "Same-Day Callouts",
+  "stats": [
+    {
+      "num": "18 yrs",
+      "label": "Trading in Nottingham"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average Response Time"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Nottingham",
+  "services_subhead": "From emergency repairs to full rewires, we handle every electrical job with speed and precision.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Power cuts, blown circuits, faulty sockets \u2014 we diagnose and fix faults on the spot. Out to you in under an hour, 24/7."
+    },
+    {
+      "title": "Boiler & Central Heating Installation",
+      "desc": "New boiler fitted and commissioned with full certification. Includes 10-year guarantee and annual servicing options."
+    },
+    {
+      "title": "Full House Rewiring",
+      "desc": "Modern, safe electrics throughout. We work room-by-room with minimal disruption, all Part P certified."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Intermittent faults driving you up the wall? We methodically trace the problem and fix it right first time."
+    },
+    {
+      "title": "Consumer Unit & RCD Upgrades",
+      "desc": "Outdated fuseboard? We replace it with a modern, safer consumer unit to meet current building regs."
+    },
+    {
+      "title": "Commercial & Industrial Electrical",
+      "desc": "Offices, shops, factories \u2014 maintenance contracts, new installations, and compliance testing all covered."
+    }
+  ],
+  "about_pullquote": "I started this because Nottingham deserves an electrician who turns up on time, does the job right, and doesn't fleece you.",
+  "about_para_1": "Powerhouse Electrical was founded in 2006 on the back of simple frustration: too many cowboys, too many hidden charges, too many repeat visits. We built the business to be different \u2014 responsive, honest, and good at what we do. Today, we're Nottingham's go-to for everything from emergency callouts to complete rewires, and we've earned the trust of hundreds of homeowners and businesses across the city.",
+  "about_para_2": "Our reputation comes from showing up when we say we will, charging what we quote, and finishing the job properly. We're NICEIC registered, fully insured, and we never use underqualified staff or cut corners. When you call Powerhouse, you get experienced electricians who take pride in their work \u2014 and customers keep coming back because of it.",
+  "about_stats": [
+    {
+      "num": "18 yrs",
+      "label": "Family-Run Business"
+    },
+    {
+      "num": "8",
+      "label": "Full-Time Engineers"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "Nottingham",
+      "label": "Local & Owner-Operated"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Called them at 11pm with no power in half the house. Guy was here by midnight, found a dodgy connection in the consumer unit, and had us back on by 12:45. Charged exactly what he'd quoted on the phone. Brilliant service.",
+      "author": "Marcus T.",
+      "loc": "Beeston, Nottingham \u2014 January 2025"
+    },
+    {
+      "text": "Got three quotes for a full rewire. Powerhouse was in the middle price-wise but their timeline was realistic and they didn't try to upsell us on stuff we didn't need. Took a week, no mess, and the paperwork was all sorted. Would use them again.",
+      "author": "Jennifer L.",
+      "loc": "West Bridgford, Nottingham \u2014 November 2024"
+    },
+    {
+      "text": "Our old fuse box kept tripping out. Called on a Friday and they came out Saturday morning. Replaced the whole thing, very professional, and didn't disappear after the job \u2014 sorted the paperwork the same day. Highly recommend.",
+      "author": "David K.",
+      "loc": "Lenton, Nottingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Electrical emergency in Nottingham? We'll be with you in under an hour. Call now \u2014",
+  "footer_description": "Powerhouse Electrical \u2014 Nottingham's trusted electrician for 18 years. NICEIC registered, same-day callouts, competitive pricing.",
+  "footer_copyright": "\u00a9 2026 Powerhouse Electrical Nottingham Ltd. Registered in England & Wales."
+}
