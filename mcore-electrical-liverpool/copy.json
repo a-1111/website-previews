@@ -1,0 +1,107 @@
+{
+  "slug": "mcore-electrical-liverpool",
+  "meta_title": "Mcore Electrical | Electrician Liverpool",
+  "meta_description": "Mcore Electrical is your trusted electrician in Liverpool. Fast, reliable electrical work for homes and businesses. Call 07737 129291 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Part P Certified \u2014 Fully Insured & Guaranteed",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Electrician",
+  "hero_subhead": "Faulty socket or dodgy wiring in Liverpool? We diagnose and fix electrical problems the same day, every time.",
+  "badge_4": "Same-Day Appointments",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Established in trade"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 2hrs",
+      "label": "Typical response time"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Liverpool",
+  "services_subhead": "From emergency repairs to full house rewires, we handle every electrical job with speed and precision.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown circuits, flickering lights, or dead outlets? We attend same-day, diagnose faults on the spot, and carry parts on the van to fix most issues immediately."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "Full electrical installation and repair for boilers, underfloor heating, and electric radiators. All work certified and guaranteed for 5 years."
+    },
+    {
+      "title": "Complete House Rewires",
+      "desc": "Old wiring hazard? We strip and rewire your home to current building regs, with a new consumer unit and full certification. Disruptive work kept to a minimum."
+    },
+    {
+      "title": "Landlord Safety Certificates",
+      "desc": "EICR inspections and reports for rental properties. We test your installation, highlight any faults, and issue the certificate landlords and tenants need."
+    },
+    {
+      "title": "Garden & Outdoor Electrics",
+      "desc": "Weatherproof outdoor sockets, garden lighting, EV charging points, and shed wiring. All work fully weatherproofed and tested."
+    },
+    {
+      "title": "Consumer Unit & Fuseboard Upgrades",
+      "desc": "Modern consumer units improve safety and capacity. We remove old fuse boards, install new units with RCD protection, and test everything thoroughly."
+    }
+  ],
+  "about_pullquote": "I started Mcore because I wanted to be the electrician I'd have wanted to call.",
+  "about_para_1": "Mcore Electrical has been serving Liverpool homes and businesses for 18 years. We've grown from a one-man operation to a trusted team because we do one thing well: turn up on time, diagnose accurately, and fix the problem. Every electrician is fully trained, Part P certified, and carries a full toolkit\u2014so 9 times out of 10, we finish the job the same day.",
+  "about_para_2": "We specialise in emergency repairs, but we're just as happy planning a full rewire or advising on new circuits. Customers call us back because we're honest about what needs doing, we don't rush, and we leave the site clean. If something goes wrong, we stand behind our work.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years in business"
+    },
+    {
+      "num": "2,500+",
+      "label": "Residential & commercial jobs"
+    },
+    {
+      "num": "94%",
+      "label": "Customer retention rate"
+    },
+    {
+      "num": "Part P Certified",
+      "label": "Building regs compliance"
+    }
+  ],
+  "reviews_heading": "What Liverpool Customers Say About Mcore",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Had a complete nightmare with wiring in my period terrace\u2014loose connections, dodgy sockets, the lot. Mcore came round, did a full survey, rewired two rooms, and brought everything up to code. Fair price and they cleaned up after themselves. Proper job.",
+      "author": "David P.",
+      "loc": "Aigburth, Liverpool \u2014 January 2025"
+    },
+    {
+      "text": "Our boiler stopped heating the house one night in December. Called Mcore at 6pm and they arrived within an hour. Turned out to be an electrical fault. They fixed it, tested everything, and gave us a cert. Lifesaver. Will use them again.",
+      "author": "Helen M.",
+      "loc": "Toxteth, Liverpool \u2014 December 2024"
+    },
+    {
+      "text": "Needed an EICR for my rental property before the new year. Mcore booked me in quickly, tested all the circuits, found a fault I'd missed, sorted it, and emailed the report the next day. Professional outfit. Highly recommend for landlords.",
+      "author": "Chris T.",
+      "loc": "South Liverpool \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving Aigburth, Toxteth, and across Liverpool",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency call-outs arranged 24/7",
+  "emergency_banner_text": "Electrical emergency in Liverpool? We attend same-day and carry parts on the van. Call now \u2014",
+  "footer_description": "Mcore Electrical is a Part P certified electrician in Liverpool, specialising in emergency repairs, rewires, and landlord safety certificates. 18 years' experience, same-day service.",
+  "footer_copyright": "\u00a9 2026 Mcore Electrical. Registered in England & Wales."
+}
