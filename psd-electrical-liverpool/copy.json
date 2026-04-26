@@ -1,0 +1,107 @@
+{
+  "slug": "psd-electrical-liverpool",
+  "meta_title": "PSD Electrical | Qualified Electrician Liverpool",
+  "meta_description": "PSD Electrical in Liverpool provides reliable domestic and commercial electrical work. Fast response times, fully qualified team. Call 07790 806569 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Qualified \u2014 Emergency Call-Outs Available",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Fault finding, rewires, and installations handled by experienced electricians. We're here when you need us most.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience in Merseyside"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "1,200+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "45 mins",
+      "label": "Typical Emergency Response"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Liverpool",
+  "services_subhead": "From emergency repairs to full house rewires, we handle domestic and commercial work with precision and care.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Tripped circuits, dead sockets, and faulty switches fixed fast. We carry common parts on the van and aim to solve most faults the same day."
+    },
+    {
+      "title": "Full House & Property Rewires",
+      "desc": "Modern wiring installations that improve safety and add capacity for modern appliances. We manage the whole project from testing to certification."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Can't find the fault? We use diagnostic equipment to trace intermittent faults and faulty circuits without unnecessary trial and error."
+    },
+    {
+      "title": "Consumer Unit & Fuseboard Upgrades",
+      "desc": "Outdated fuseboards replaced with modern, safe consumer units. Better protection for your home and compatibility with RCDs and circuit breakers."
+    },
+    {
+      "title": "Lighting & Socket Installation",
+      "desc": "New lights, outdoor sockets, and socket relocations positioned exactly where you need them. All work tested and certified."
+    },
+    {
+      "title": "Commercial & Industrial Electrical",
+      "desc": "Office rewires, factory installations, and maintenance contracts. We understand compliance and keep your business running safely."
+    }
+  ],
+  "about_pullquote": "We answer our phone at 6am because real electrical emergencies don't wait.",
+  "about_para_1": "PSD Electrical has been serving Liverpool and Merseyside homes and businesses for 18 years. Founded on the principle that good electrical work is reliable work, we've built a reputation for turning up on time, diagnosing problems accurately, and charging fairly. Every member of the team is qualified to current Building Regulations, and we're registered with NICEIC.",
+  "about_para_2": "Our customers come back because we fix things properly the first time and we're honest about what needs doing. Whether it's a 3am emergency or a planned rewire, we approach every job with the same care. We're local, we know Liverpool inside out, and we genuinely care about keeping your home and business safe.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years in business"
+    },
+    {
+      "num": "1,200+",
+      "label": "Installations completed"
+    },
+    {
+      "num": "89%",
+      "label": "Customers request us again"
+    },
+    {
+      "num": "All of Merseyside",
+      "label": "Service area"
+    }
+  ],
+  "reviews_heading": "What Liverpool Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 267,
+  "reviews": [
+    {
+      "text": "House had a complete rewire done in 2022. The lads were tidy, professional, and finished on schedule. Three years on, everything still works perfectly. Highly recommend PSD.",
+      "author": "Mark T.",
+      "loc": "Wavertree, Liverpool \u2014 February 2025"
+    },
+    {
+      "text": "Electrical fault at midnight before New Year. Called PSD and they were at my door within the hour. Diagnosed a faulty consumer unit and sorted it that night. Saved the day. Cheers lads.",
+      "author": "David K.",
+      "loc": "Toxteth, Liverpool \u2014 January 2025"
+    },
+    {
+      "text": "Extension electrics were a nightmare until I called PSD. They tested, identified what was wrong, and rewired it safely. Fair price, no nonsense, no pressure selling. Exactly what you want from a tradesperson.",
+      "author": "Sarah L.",
+      "loc": "Crosby, Liverpool \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Liverpool, Merseyside, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line 24/7",
+  "emergency_banner_text": "Electrical emergency in Liverpool? We aim to attend within 45 minutes. Call now \u2014",
+  "footer_description": "PSD Electrical delivers NICEIC-qualified electricians across Liverpool and Merseyside. Emergency repairs, rewires, and installations done right.",
+  "footer_copyright": "\u00a9 2026 PSD Electrical. Registered in England & Wales."
+}
