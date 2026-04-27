@@ -1,0 +1,107 @@
+{
+  "slug": "painto-painter-decorator-leicester",
+  "meta_title": "Painto | Painter & Decorator Leicester",
+  "meta_description": "Painto is a professional painter and decorator in Leicester. Interior and exterior work, free quotes, fully insured. Call 07448 600625 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Professional Painter & Decorator \u2014 Fully Insured",
+  "hero_headline": "Transform Your Home",
+  "hero_highlight": "With Expert Painting",
+  "hero_subhead": "Interior and exterior painting tailored to your Leicester property. Free quote, no obligation.",
+  "badge_4": "Free Estimates",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical Quote Turnaround"
+    }
+  ],
+  "services_heading": "Professional Painting & Decorating Services Across Leicester",
+  "services_subhead": "From interior room makeovers to exterior weatherproofing, we handle residential and commercial painting with meticulous attention to detail.",
+  "services": [
+    {
+      "title": "Interior Painting",
+      "desc": "Transform your living spaces with high-quality emulsion and specialist finishes. We prepare walls thoroughly, protect your furniture, and leave no mess behind."
+    },
+    {
+      "title": "Exterior Painting & Cladding",
+      "desc": "Weather-resistant exterior finishes that protect and refresh your home's appearance. We use premium paints designed to withstand the British climate."
+    },
+    {
+      "title": "Feature Walls & Accent Colours",
+      "desc": "Create focal points in any room with bold colours and designer finishes. Our colour consultation helps you choose palettes that suit your style."
+    },
+    {
+      "title": "Woodwork & Skirting",
+      "desc": "Professional preparation and finishing of skirting boards, doors, window frames and other timber. We sand, prime and apply durable, smooth finishes."
+    },
+    {
+      "title": "Commercial Decorating",
+      "desc": "Office refurbishment and shop fitting work completed on schedule and within budget. Minimal disruption to your business during working hours."
+    },
+    {
+      "title": "Wallpapering & Wall Coverings",
+      "desc": "Expert hanging of standard and specialist papers, textures and murals. Perfect pattern matching and clean, long-lasting application."
+    }
+  ],
+  "about_pullquote": "I take pride in every brush stroke and leave your home better than I found it.",
+  "about_para_1": "Painto has been painting and decorating homes across Leicester for over a decade. What began as a one-man operation has grown into a trusted local business built on honest workmanship and fair pricing. We've completed over 500 projects \u2014 from cosy terraces to substantial family homes \u2014 and we're still driven by the same principle: do the job properly the first time.",
+  "about_para_2": "Our customers return because we show up on time, communicate clearly, and protect your home as if it were our own. We don't cut corners on preparation or use cheap materials. Every project gets the same care, whether it's a single bedroom or a whole house renovation.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "In Leicester"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "100%",
+      "label": "Fully Insured"
+    },
+    {
+      "num": "Free",
+      "label": "No Obligation Quotes"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Painto",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Had Painto in to decorate our lounge and hallway. Brilliant attention to detail \u2014 moved all the furniture carefully, protected everything, and left the place spotless. The finish is immaculate. Will definitely call them again for the bedrooms.",
+      "author": "Margaret T.",
+      "loc": "Belgrave, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Needed our front door and windows done before winter. Marco came out quickly for a quote, was very reasonable, and completed the work in two days. Weather-tight and looks fantastic. Top bloke, would recommend to anyone.",
+      "author": "David P.",
+      "loc": "Stoneygate, Leicester \u2014 October 2024"
+    },
+    {
+      "text": "Repainted three bedrooms and the landing. Painto's team were professional, punctual and tidy. Colour advice was spot-on and they worked around our family without fuss. Best tradesman we've used in years.",
+      "author": "Sarah M.",
+      "loc": "Oadby, Leicester \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Leicester and surrounding areas within 10 miles",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency callouts by arrangement",
+  "emergency_banner_text": "Need a quick redecorate or urgent painting work? We aim to visit within 48 hours. Call now \u2014",
+  "footer_description": "Painto is a professional painter and decorator in Leicester. Interior, exterior, and commercial work with 12 years' experience and over 500 completed projects.",
+  "footer_copyright": "\u00a9 2026 Painto. All rights reserved."
+}
