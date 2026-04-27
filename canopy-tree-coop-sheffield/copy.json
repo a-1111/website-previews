@@ -1,0 +1,107 @@
+{
+  "slug": "canopy-tree-coop-sheffield",
+  "meta_title": "Canopy Tree Co-op | Arborist Services Sheffield",
+  "meta_description": "Canopy Tree Co-op provides expert arborist services across Sheffield. Tree surgery, pruning, removal, and stump grinding. Call 07564 016293 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Qualified Arborists \u2014 Tree Surgery & Care",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Tree Surgeons",
+  "hero_subhead": "From overgrown branches damaging your roof to dangerous dead limbs\u2014we handle safe tree removal, pruning, and stump grinding across Sheffield.",
+  "badge_4": "Same-Day Assessments Available",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "2000+",
+      "label": "Trees Treated"
+    },
+    {
+      "num": "24hrs",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Tree Surgery Services Across Sheffield",
+  "services_subhead": "From routine maintenance to emergency storm damage removal, we provide the full range of arborist services for residential and commercial properties.",
+  "services": [
+    {
+      "title": "Tree Removal",
+      "desc": "Safe felling of hazardous, dead, or unwanted trees. We handle difficult access sites and manage debris disposal or chipping on your behalf."
+    },
+    {
+      "title": "Pruning & Crown Reduction",
+      "desc": "Selective pruning to reduce weight, improve shape, and promote healthy growth. Crown reduction lifts sight lines and reduces storm risk without harming the tree."
+    },
+    {
+      "title": "Stump Grinding & Removal",
+      "desc": "Fast stump grinding to ground level or complete stump removal. Clears the space for replanting, paving, or landscaping work."
+    },
+    {
+      "title": "Tree Planting & Establishment",
+      "desc": "We source, plant, and stake new trees suited to Sheffield's climate and soil. Includes aftercare guidance to ensure strong establishment."
+    },
+    {
+      "title": "Storm Damage & Emergency Work",
+      "desc": "24-hour response to fallen branches and damaged trees. We make unsafe trees safe quickly, then plan remedial work or removal."
+    },
+    {
+      "title": "Hedge Cutting & Management",
+      "desc": "Professional hedge trimming and renovation. Keeps boundaries neat, maintains growth, and improves neighbouring relationships."
+    }
+  ],
+  "about_pullquote": "We treat every tree like it's in our own garden\u2014thoughtfully, safely, and with respect for what's growing.",
+  "about_para_1": "Canopy Tree Co-op has been serving Sheffield's homes and businesses for over 18 years. We started because we saw too many trees butchered by unskilled contractors. Today, our team combines traditional arboricultural knowledge with modern safety equipment to handle everything from routine pruning to emergency storm clearance.",
+  "about_para_2": "Our reputation is built on honesty\u2014we'll never push work you don't need. Every job is assessed on site, explained clearly, and carried out to British Standards. Customers return to us because we listen, arrive on time, and leave your garden or grounds tidier than we found them.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading in Sheffield"
+    },
+    {
+      "num": "2000+",
+      "label": "Trees Treated"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat/Referral Customers"
+    },
+    {
+      "num": "5-Star",
+      "label": "Safety Accreditation"
+    }
+  ],
+  "reviews_heading": "What Sheffield Property Owners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a massive oak that was dropping branches onto our garage roof. Rang Canopy mid-week and they came out the next day, quoted fair, and took it down safely without damaging anything. They even chipped it all on the spot. Brilliant service.",
+      "author": "Marcus T.",
+      "loc": "Walkley, Sheffield \u2014 September 2024"
+    },
+    {
+      "text": "Our hedge had got completely out of hand. I was worried they'd just hack it back, but they pruned it properly, shaped it, and explained what they'd done and why. It looks fantastic now. They're professionals\u2014you can tell they actually care about the trees.",
+      "author": "Jenny M.",
+      "loc": "Dore, Sheffield \u2014 July 2024"
+    },
+    {
+      "text": "Emergency call after a storm brought down a branch across our drive. They got here within 3 hours, cleared it all, and even offered advice on whether the tree could be saved. Wouldn't hesitate to book them again. Very fair pricing too.",
+      "author": "David K.",
+      "loc": "Crookes, Sheffield \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving all of Sheffield and surrounding South Yorkshire",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 24-hour emergency callout service",
+  "emergency_banner_text": "Storm damage or a dangerous branch? We respond to emergencies 24/7 across Sheffield. Call now \u2014",
+  "footer_description": "Sheffield arborists providing tree removal, pruning, and stump grinding. 18 years' experience, honest advice, and safe professional work.",
+  "footer_copyright": "\u00a9 2026 Canopy Tree Co-op. All rights reserved."
+}
