@@ -1,0 +1,107 @@
+{
+  "slug": "ml-treeservices-leeds",
+  "meta_title": "ML Tree Services | Arborist Leeds",
+  "meta_description": "ML Tree Services in Leeds. Expert tree surgery, felling, and pruning from experienced arborists. Same-day quotes available. Call 07837 498926.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-16:00"
+  ],
+  "hero_eyebrow": "Qualified Arborists \u2014 Tree Surgery & Felling",
+  "hero_headline": "Leeds' Trusted",
+  "hero_highlight": "Tree Surgeons",
+  "hero_subhead": "Overgrown trees damaging your property? We fell, prune, and remove safely with full insurance and disposal included.",
+  "badge_4": "Same-Day Quotes",
+  "stats": [
+    {
+      "num": "15+yrs",
+      "label": "In business"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 2hrs",
+      "label": "Quote response time"
+    },
+    {
+      "num": "\u00a30",
+      "label": "Callout charge"
+    }
+  ],
+  "services_heading": "Tree Surgery & Arborist Services Across Leeds",
+  "services_subhead": "From routine pruning and hedge cutting to complete tree felling and stump removal, we handle every aspect of tree care with safety and expertise.",
+  "services": [
+    {
+      "title": "Tree Felling & Removal",
+      "desc": "Safe, efficient felling of hazardous or unwanted trees. We manage everything from assessment through to debris removal and site clearance."
+    },
+    {
+      "title": "Tree Pruning & Trimming",
+      "desc": "Crown reduction, deadwood removal, and formative pruning to improve tree health and reduce overgrowth near buildings and services."
+    },
+    {
+      "title": "Emergency Storm Damage",
+      "desc": "Urgent response to fallen or damaged trees blocking access or threatening safety. We'll stabilise and remove debris quickly."
+    },
+    {
+      "title": "Stump Grinding & Removal",
+      "desc": "Complete stump extraction or grinding below ground level, leaving your garden clear and ready for replanting or building work."
+    },
+    {
+      "title": "Hedge Cutting & Maintenance",
+      "desc": "Regular hedge trimming, overgrown hedge restoration, and seasonal maintenance to keep boundaries neat and healthy."
+    },
+    {
+      "title": "Tree Health Assessments",
+      "desc": "Professional inspection and advice on diseased, unstable, or poorly positioned trees. We'll recommend the best course of action."
+    }
+  ],
+  "about_pullquote": "We treat every tree and every garden like it's our own responsibility.",
+  "about_para_1": "ML Tree Services has been caring for Leeds properties for over 15 years. We started because we saw too many trees cut down badly or left to become a liability. Our team hold full arborist qualifications and we operate to strict health and safety standards on every job, no matter the size.",
+  "about_para_2": "Our customers trust us because we're honest about what trees need and we never oversell work. We're fully insured, carry all our own equipment, and leave every garden cleaner than we found it. Whether you've got a veteran oak that needs careful pruning or a dangerous ash that has to come down, we'll give you a fair price and get it done right.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years trading"
+    },
+    {
+      "num": "500+",
+      "label": "Satisfied customers"
+    },
+    {
+      "num": "100%",
+      "label": "Fully insured"
+    },
+    {
+      "num": "All Leeds",
+      "label": "Areas covered"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a massive conifer taking over half the garden. Got a quote within hours, price was fair, and the lads turned up on time and made a proper job of it. The garden looks brilliant now. Would use again for sure.",
+      "author": "David T.",
+      "loc": "Meanwood, Leeds \u2014 January 2025"
+    },
+    {
+      "text": "Storm brought down a large branch into our fence. Rang ML early morning and they were here the same day. Professional, tidy, and they cleared everything away. Really impressed. Highly recommend them.",
+      "author": "Rebecca M.",
+      "loc": "Headingley, Leeds \u2014 November 2024"
+    },
+    {
+      "text": "Been overdue getting our hedges done for ages. Finally bit the bullet and called these lads. Turned up with all the right kit, got it finished in one afternoon, and charged exactly what they said. No mess left behind either. Top service.",
+      "author": "Michael J.",
+      "loc": "Chapel Allerton, Leeds \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Leeds and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 Emergency call-outs available",
+  "emergency_banner_text": "Tree down or urgent hazard? We respond same day to storm damage and emergencies. Call now \u2014",
+  "footer_description": "ML Tree Services: expert arborists in Leeds offering tree felling, pruning, and emergency removal. Fully insured, same-day quotes.",
+  "footer_copyright": "\u00a9 2026 ML Tree Services. Registered in England & Wales."
+}
