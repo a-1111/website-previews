@@ -1,0 +1,107 @@
+{
+  "slug": "dynamic-decorating-manchester",
+  "meta_title": "Dynamic Decorating | Painter & Decorator Manchester",
+  "meta_description": "Dynamic Decorating is your trusted painter and decorator in Manchester. Interior and exterior work, free quotes, reliable service. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Professional Decorators \u2014 15+ Years' Experience",
+  "hero_headline": "Manchester's Trusted",
+  "hero_highlight": "Painter & Decorator",
+  "hero_subhead": "Interior and exterior painting done right, on time, and at a fair price. Transform your home with Dynamic Decorating.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average Rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical Quote Time"
+    }
+  ],
+  "services_heading": "Complete Painting & Decorating Services Across Manchester",
+  "services_subhead": "From interior redecorating to exterior cladding and masonry work, we handle every job with attention to detail and professional pride.",
+  "services": [
+    {
+      "title": "Interior Painting & Decorating",
+      "desc": "Complete room makeovers including woodwork, walls, and ceilings. We use premium paints and prepare surfaces properly so finishes last years, not months."
+    },
+    {
+      "title": "Exterior Painting & Cladding",
+      "desc": "Weather-resistant exterior work on fascias, soffits, and rendering. We use quality exterior coatings and protect your home from the Manchester climate."
+    },
+    {
+      "title": "Wallpapering & Wall Coverings",
+      "desc": "Expert wallpaper hanging and feature wall installation. Proper surface preparation ensures seams are invisible and patterns align perfectly."
+    },
+    {
+      "title": "Masonry & Brick Painting",
+      "desc": "Durable masonry coatings for brickwork and stone. Breathable paint systems that prevent moisture damage and enhance curb appeal."
+    },
+    {
+      "title": "Woodwork Restoration",
+      "desc": "Sanding, priming, and painting of doors, frames, and fitted furniture. We restore tired woodwork to like-new condition with a premium finish."
+    },
+    {
+      "title": "Commercial Repainting",
+      "desc": "Shop fronts, office interiors, and commercial properties. We work around your schedule and deliver professional results on time."
+    }
+  ],
+  "about_pullquote": "We turn up on time, we do the job right, and we don't rip you off.",
+  "about_para_1": "Dynamic Decorating was founded in 2009 by Mark and Trevor, two experienced decorators frustrated with the lack of honest, reliable tradesmen in Manchester. Over 15 years, we've built a reputation for showing up when we say we will, delivering clean, professional finishes, and treating every customer like we'd treat our own families. Thousands of Manchester homes and businesses now bear our work.",
+  "about_para_2": "What keeps customers coming back is simple: we prepare surfaces properly, we use quality materials, and we listen to what you actually want\u2014not what we think you should have. We're not the cheapest, but we're fair, we're thorough, and we're proud of what we leave behind. That's why over 80% of our work comes from referrals and repeat customers.",
+  "about_stats": [
+    {
+      "num": "15yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "2,000+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "80%",
+      "label": "Repeat & Referral Work"
+    },
+    {
+      "num": "48hrs",
+      "label": "Free Quote Turnaround"
+    }
+  ],
+  "reviews_heading": "What Manchester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Mark and his team came to repaint our lounge and kitchen. They were professional, tidy, and got the job done in two days. The finish is absolutely brilliant\u2014really transformed the space. Wouldn't hesitate to recommend.",
+      "author": "Claire B.",
+      "loc": "Didsbury, Manchester \u2014 November 2024"
+    },
+    {
+      "text": "Had our exterior painted\u2014fascias, soffits, and some rendering work. They were reliable, stuck to the quote, and the workmanship is excellent. No mess left behind either. Top-notch service.",
+      "author": "David M.",
+      "loc": "Stockport, Manchester \u2014 September 2024"
+    },
+    {
+      "text": "Needed our office redecorated quickly before a big client meeting. Trevor squeezed us in and delivered a pristine finish on time. Professional bunch, fair pricing, and they actually listen to what you want. Will definitely use again.",
+      "author": "Helen T.",
+      "loc": "City Centre, Manchester \u2014 July 2024"
+    }
+  ],
+  "address_sub": "Serving Manchester and Greater Manchester area",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Quotes and emergency calls by arrangement",
+  "emergency_banner_text": "Need your home decorated urgently? Get a free quote within 48 hours. Call now \u2014",
+  "footer_description": "Dynamic Decorating is a professional painter and decorator in Manchester. Interior and exterior work, free quotes, 15+ years' experience. Fair prices, reliable service.",
+  "footer_copyright": "\u00a9 2026 Dynamic Decorating. Trading in Manchester, Greater Manchester."
+}
