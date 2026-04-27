@@ -1,0 +1,107 @@
+{
+  "slug": "reeson-electrical-newcastle",
+  "meta_title": "Reeson Electrical | Electrician Newcastle",
+  "meta_description": "Reeson Electrical Newcastle. Local electrician for domestic rewires, fault finding, and full electrics. Fast, reliable service. Call 07971 877150.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Part P Certified \u2014 Local Newcastle Electrician",
+  "hero_headline": "Newcastle's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From circuit repairs to full rewires, we fix electrical faults fast. Most jobs completed same day.",
+  "badge_4": "Same-Day Callouts",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "1000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    },
+    {
+      "num": "Under 2hrs",
+      "label": "Typical response time"
+    }
+  ],
+  "services_heading": "Electrical Services Across Newcastle",
+  "services_subhead": "We handle everything from emergency repairs and fault finding to full rewires and new installations.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Tripped circuits, blown fuses, or dead sockets? We diagnose and fix faults on the same day, often within hours of your call."
+    },
+    {
+      "title": "Full House Rewiring",
+      "desc": "Upgrading an older property or extending? We design and install new circuits to modern standards, with all work certified for insurance."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Strange burning smells or flickering lights? We locate the root cause with professional testing equipment and put it right."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Modern consumer units protect your home better and allow for EV charging or heat pump installation. We handle the lot."
+    },
+    {
+      "title": "Lighting & Power Installation",
+      "desc": "New pendant lights, outdoor sockets, or a full kitchen rewire \u2014 we install cleanly and ensure everything meets building regs."
+    },
+    {
+      "title": "Landlord Safety Certificates",
+      "desc": "Your EICR (electrical condition report) keeps your tenancy compliant and your insurance valid. We complete it within 24 hours."
+    }
+  ],
+  "about_pullquote": "Started this to do honest work at fair prices, not to rip people off.",
+  "about_para_1": "Reeson Electrical has been serving Newcastle homeowners and landlords for 18 years. We built the business on straightforward diagnosis, no nonsense, and genuinely helpful advice \u2014 you only pay for what you actually need. From small repairs to complete rewires, every job is done to Part P standards and fully certified.",
+  "about_para_2": "We're based in Wellburn and cover Newcastle and the surrounding areas. Most of our work comes from repeat customers and referrals \u2014 a sign that people trust us to show up on time, do the job right, and charge fairly. If a fault can be fixed quickly, we'll say so; if it needs a bigger job, we explain the options and let you decide.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "1000+",
+      "label": "Homes & businesses served"
+    },
+    {
+      "num": "60%",
+      "label": "From repeat & referral customers"
+    },
+    {
+      "num": "All areas",
+      "label": "Newcastle & surrounds"
+    }
+  ],
+  "reviews_heading": "What Newcastle Customers Say",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Called Reeson on a Friday evening with a tripped circuit board \u2014 thought I'd have to wait till Monday. Dave came out within an hour, found a faulty socket, replaced it, and had everything working again. Very professional, no faffing about. Will use again without question.",
+      "author": "Michael T.",
+      "loc": "Gosforth, Newcastle \u2014 November 2024"
+    },
+    {
+      "text": "Had them in for a full rewire on a 1960s semi. Explained everything clearly, worked methodically, made good on their quotes. Tidy workers too \u2014 didn't leave a mess. Got my EICR done the same day, so insurance is happy. Top job.",
+      "author": "Linda P.",
+      "loc": "Fenham, Newcastle \u2014 August 2024"
+    },
+    {
+      "text": "Honest bunch. My electrician mate reckoned I needed a new consumer unit, but Reeson's bloke said a couple of new breakers would do. Saved me a fortune. That's the kind of integrity you want on your side.",
+      "author": "James B.",
+      "loc": "Heaton, Newcastle \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Newcastle upon Tyne and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Tripped electrics or burning smell? We typically respond within two hours. Call now \u2014",
+  "footer_description": "Reeson Electrical Newcastle. Part P certified electrician offering rewires, repairs, and fault finding across Newcastle and the North East.",
+  "footer_copyright": "\u00a9 2026 Reeson Electrical. Registered in England & Wales."
+}
