@@ -1,0 +1,107 @@
+{
+  "slug": "arb-life-birmingham",
+  "meta_title": "Arb Life | Tree Surgery & Arborist Birmingham",
+  "meta_description": "Arb Life provides professional tree surgery, crown reduction, and stump removal across Birmingham. Fully qualified arborists. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-17:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Qualified Arborists \u2014 Safe & Insured Tree Work",
+  "hero_headline": "Birmingham's Trusted",
+  "hero_highlight": "Tree Surgeons",
+  "hero_subhead": "Overgrown trees damaging your property? We safely fell, prune, and remove trees across Birmingham with full insurance and certification.",
+  "badge_4": "Same-Day Site Visits",
+  "stats": [
+    {
+      "num": "18+",
+      "label": "Years in business"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 2hrs",
+      "label": "Average response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    }
+  ],
+  "services_heading": "Tree Surgery & Removal Services Across Birmingham",
+  "services_subhead": "From routine pruning to emergency storm damage clearance, we handle every aspect of safe, professional tree work.",
+  "services": [
+    {
+      "title": "Tree Felling & Removal",
+      "desc": "We safely fell trees of any size, including those near buildings and boundaries. Stumps are ground out or removed completely, leaving your garden clear and ready to use."
+    },
+    {
+      "title": "Crown Reduction & Shaping",
+      "desc": "Reduce overgrown canopies to let light into your home and garden. We shape trees to enhance their health and appearance whilst maintaining structural integrity."
+    },
+    {
+      "title": "Deadwood Removal",
+      "desc": "Dead and dying branches are a safety hazard. We remove them promptly to prevent damage and reduce disease risk to the rest of the tree."
+    },
+    {
+      "title": "Emergency Storm Damage",
+      "desc": "Storm-felled or damaged trees blocking your drive or threatening your home? We respond quickly to clear debris and make the area safe."
+    },
+    {
+      "title": "Hedge Trimming & Maintenance",
+      "desc": "Keep boundaries neat and healthy. Our hedge cutting keeps growth in check and encourages dense, attractive foliage year-round."
+    },
+    {
+      "title": "Stump Grinding & Removal",
+      "desc": "Dangerous and unsightly stumps removed completely. Grinding takes them below ground level so you can replant, pave, or build without obstruction."
+    }
+  ],
+  "about_pullquote": "We fell and prune safely because your family's safety matters more than rushing the job.",
+  "about_para_1": "Arb Life was established in Birmingham to bring professional, honest tree surgery to homeowners and businesses tired of overpriced or unsafe work. Over 18 years, we've built a reputation for thorough site surveys, transparent pricing, and meticulous attention to safety and environmental responsibility. Every member of the team holds relevant qualifications and insurance.",
+  "about_para_2": "We're not the cheapest, but we're reliable. Customers come back because we finish on time, tidy up thoroughly, and explain what we're doing every step of the way. Whether you need routine crown lifting or emergency storm clearance, you get the same careful, professional approach.",
+  "about_stats": [
+    {
+      "num": "18+",
+      "label": "Years operating in Birmingham"
+    },
+    {
+      "num": "2,500+",
+      "label": "Trees safely felled or pruned"
+    },
+    {
+      "num": "100%",
+      "label": "Fully insured & certified"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat or referred customers"
+    }
+  ],
+  "reviews_heading": "What Birmingham Homeowners Say About Arb Life",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had a massive oak that was leaning towards the house after the winter storms. Got a call to Arb Life on the Wednesday, they came out Friday morning and had it down and the stumps ground out by lunchtime. Tidy, professional, and fair price. Would use them again in a heartbeat.",
+      "author": "David P.",
+      "loc": "King's Norton, Birmingham \u2014 February 2025"
+    },
+    {
+      "text": "Our laurel hedge had completely taken over the back garden. Shane and the lads were round, trimmed it all back, stacked the cuttings for the tip, and left everything swept up. They were efficient and friendly. Definitely recommend.",
+      "author": "Margaret T.",
+      "loc": "Harborne, Birmingham \u2014 January 2025"
+    },
+    {
+      "text": "Dead ash tree was overhanging next door's fence and we were worried about liability. Arb Life quoted reasonable, turned up on time, felled it safely with a crane, and even helped us work out what to plant in its place. Top service.",
+      "author": "Robert G.",
+      "loc": "Edgbaston, Birmingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Birmingham and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 5pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Tree down or leaning dangerously? We attend emergency call-outs the same day. Ring us now \u2014",
+  "footer_description": "Arb Life is a Birmingham-based tree surgery specialist offering safe felling, pruning, and stump removal. Fully qualified, insured, and trusted by local homeowners for 18 years.",
+  "footer_copyright": "\u00a9 2026 Arb Life. Registered in England & Wales."
+}
