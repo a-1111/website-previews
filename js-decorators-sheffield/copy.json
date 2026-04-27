@@ -1,0 +1,107 @@
+{
+  "slug": "js-decorators-sheffield",
+  "meta_title": "J S Decorators | Painter & Decorator Sheffield",
+  "meta_description": "J S Decorators in Sheffield. Expert interior and exterior painting, decorating and wallpapering. Quality finishes, competitive rates. Call 07452 938434 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Professional Painter & Decorator \u2014 Fully Insured",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Painting & Decorating Specialist",
+  "hero_subhead": "Transform your home with expert interior and exterior work. Free quotes, no obligation, local team you can rely on.",
+  "badge_4": "Free Quotes \u2014 No Hidden Costs",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "48hrs",
+      "label": "Quote Turnaround"
+    }
+  ],
+  "services_heading": "Complete Painting & Decorating Services Across Sheffield",
+  "services_subhead": "From interior redecorating to exterior masonry work, we handle every project with precision and care.",
+  "services": [
+    {
+      "title": "Interior Decoration",
+      "desc": "Full room redecorating including wall preparation, emulsion, woodwork finishes, and feature walls. We'll transform your living space with attention to detail and minimal disruption."
+    },
+    {
+      "title": "Exterior Painting",
+      "desc": "Fascias, soffits, doors, windows and rendered walls painted to weather-resistant standards. Proper surface prep and quality paints protect your home for years to come."
+    },
+    {
+      "title": "Wallpapering",
+      "desc": "Professional hanging of all wallpaper types, from traditional to modern textured finishes. Includes removal of old paper and wall preparation to ensure a flawless fit."
+    },
+    {
+      "title": "Woodwork & Trim",
+      "desc": "Skirting boards, architraves, doors and shutters painted to a flawless finish. We use premium paints that resist chipping and maintain colour brilliance."
+    },
+    {
+      "title": "Masonry & Rendering",
+      "desc": "Exterior render and brickwork painted with breathable masonry paint. Ideal for refreshing tired facades while protecting against weather damage."
+    },
+    {
+      "title": "Specialist Finishes",
+      "desc": "Faux finishes, murals, chalkboard walls and more. Whether you want drama or subtle elegance, we create bespoke looks tailored to your vision."
+    }
+  ],
+  "about_pullquote": "I take pride in every room I walk away from \u2014 that's the only way to run a business.",
+  "about_para_1": "J S Decorators was founded on a simple belief: exceptional decorating shouldn't come with premium prices. Since 2006, we've built our reputation across Sheffield and beyond by delivering consistent, reliable work. Every project \u2014 whether a quick bedroom refresh or a full commercial refurb \u2014 gets the same meticulous preparation and finish standards.",
+  "about_para_2": "We're known in the community for honest advice, punctuality, and respecting your home as if it were our own. Most of our work comes from repeat customers and personal referrals, which is the only endorsement that matters to us. You'll work directly with experienced decorators, not sales teams.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Established 2006"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "Sheffield & Doncaster",
+      "label": "Primary Coverage"
+    },
+    {
+      "num": "Fully Insured",
+      "label": "Public Liability \u00a36m"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Outstanding work. J S came to do the hallway and landing, and the preparation was brilliant \u2014 they didn't rush anything. Paint coverage was even, no drips, no mess left behind. Quoted one price and stuck to it. Highly recommend.",
+      "author": "Mark T.",
+      "loc": "Ecclesall, Sheffield \u2014 February 2025"
+    },
+    {
+      "text": "Had the whole downstairs done. Started on Monday, finished Wednesday. The team were polite, turned up on time both days, and the finish is just what we wanted. Much better than the last decorator we used \u2014 attention to detail makes all the difference.",
+      "author": "Jennifer L.",
+      "loc": "Broomhill, Sheffield \u2014 January 2025"
+    },
+    {
+      "text": "Came out to quote for exterior rendering and wood. Fair price, clear about timescales, and the work was exactly as described. No surprises. That's rare. Will use again when we need more work done.",
+      "author": "David C.",
+      "loc": "Conisbrough, Doncaster \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Sheffield, Doncaster, Rotherham and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Sun: By appointment",
+  "emergency_banner_text": "Need a decorator urgently? We fit in emergency and last-minute jobs where possible. Call now \u2014",
+  "footer_description": "J S Decorators: Sheffield-based painter and decorator with 18 years' experience. Interior, exterior, wallpapering and specialist finishes. Free quotes, fully insured.",
+  "footer_copyright": "\u00a9 2026 J S Decorators. Established 2006."
+}
