@@ -1,0 +1,107 @@
+{
+  "slug": "ma-decor-sheffield",
+  "meta_title": "M A Decor | Painter & Decorator Sheffield",
+  "meta_description": "M A Decor is your local Sheffield painter and decorator. Professional interior and exterior work, competitive rates, free quotes. Call 07984 403679 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Experienced Local Decorator \u2014 Quality Finish Guaranteed",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Painter and Decorator",
+  "hero_subhead": "Interior and exterior painting done right. From single rooms to whole properties, we deliver a professional finish on time and within budget.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in business"
+    },
+    {
+      "num": "800+",
+      "label": "Properties painted"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "10 days",
+      "label": "Average project time"
+    }
+  ],
+  "services_heading": "Complete Painting and Decorating Services Across Sheffield",
+  "services_subhead": "Whether it's a fresh coat of emulsion, exterior cladding, or a full room makeover, we handle every job with precision and care.",
+  "services": [
+    {
+      "title": "Interior Painting",
+      "desc": "Fresh walls transform a room. We prepare surfaces properly, use premium paints, and deliver flawless finishes in any colour you choose."
+    },
+    {
+      "title": "Exterior Painting",
+      "desc": "Weatherproof your home with durable exterior paint. We work in all conditions and protect woodwork, masonry, and metal from the elements."
+    },
+    {
+      "title": "Wallpapering",
+      "desc": "Professional hanging of any wallpaper style \u2014 from feature walls to full rooms. We remove old paper, prepare walls, and ensure perfectly aligned patterns."
+    },
+    {
+      "title": "Wood Staining and Varnishing",
+      "desc": "Enhance natural timber with quality stains and varnishes. Ideal for doors, skirting, fascias, and garden features."
+    },
+    {
+      "title": "Commercial Decorating",
+      "desc": "Fast, efficient painting for shops, offices, and warehouses. We work around your schedule, manage site cleanliness, and minimise disruption."
+    },
+    {
+      "title": "Damp and Preparation Work",
+      "desc": "Correct damp issues and prepare surfaces properly \u2014 the foundation of any lasting finish. We treat mould, repair damage, and prime before painting."
+    }
+  ],
+  "about_pullquote": "Honest work, fair prices, and no shortcuts \u2014 that's how I run this business.",
+  "about_para_1": "M A Decor was founded on the principle that good decoration shouldn't be complicated or expensive. With over 15 years in the trade, we've painted hundreds of Sheffield homes and businesses, earning a reputation for reliability and attention to detail. Every project starts with a proper site visit and a clear quote \u2014 no surprises.",
+  "about_para_2": "We listen to what you want and deliver it on time. Our customers trust us because we take pride in preparation, use quality materials, and finish every job to the same high standard. Whether it's a small refresh or a major renovation, we treat your property with respect.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years trading"
+    },
+    {
+      "num": "800+",
+      "label": "Projects completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    },
+    {
+      "num": "All Sheffield",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About M A Decor",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Had the lounge and hallway completely redecorated. Mark was really professional \u2014 prepared everything properly, no mess, and the finish is perfect. Much better than the last decorator we used. Would definitely recommend.",
+      "author": "David P.",
+      "loc": "Ecclesall, Sheffield \u2014 September 2024"
+    },
+    {
+      "text": "External woodwork painted beautifully. We were worried about the weather but Mark got it done ahead of schedule and the paint's already proving tough. Great bloke, honest quote, no hassle.",
+      "author": "Christine T.",
+      "loc": "Ranmoor, Sheffield \u2014 July 2024"
+    },
+    {
+      "text": "Two-bedroom terraced house done inside and out. The preparation work was meticulous and it shows in the finish. Fair price too. Highly recommend if you're in Sheffield.",
+      "author": "James M.",
+      "loc": "Attercliffe, Sheffield \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving all of Sheffield and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Evening and weekend appointments available by arrangement",
+  "emergency_banner_text": "Need a quick refresh before the holidays? Get a free quote and book your project in. Call us now \u2014",
+  "footer_description": "M A Decor is a professional painter and decorator based in Sheffield, specialising in interior and exterior painting, wallpapering, and timber finishing. Trusted by local homeowners for 15+ years.",
+  "footer_copyright": "\u00a9 2026 M A Decor. All rights reserved."
+}
