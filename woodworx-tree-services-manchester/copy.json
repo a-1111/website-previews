@@ -1,0 +1,107 @@
+{
+  "slug": "woodworx-tree-services-manchester",
+  "meta_title": "WoodWorx Tree Services | Arborist Manchester",
+  "meta_description": "WoodWorx Tree Services in Manchester. Expert tree surgery, felling, and maintenance. Same-day quotes and emergency callouts available.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-16:00"
+  ],
+  "hero_eyebrow": "Certified Arborist \u2014 Emergency Tree Removal",
+  "hero_headline": "Manchester's Trusted",
+  "hero_highlight": "Tree Surgeon",
+  "hero_subhead": "Dangerous branch hanging over your roof? We remove, prune, and care for trees safely. Same-day emergency response.",
+  "badge_4": "Free Site Survey",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Established"
+    },
+    {
+      "num": "2000+",
+      "label": "Trees Managed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "1hr",
+      "label": "Average Response"
+    }
+  ],
+  "services_heading": "Complete Tree Surgery Services Across Manchester",
+  "services_subhead": "From routine pruning to emergency felling, we handle every aspect of tree care with precision and safety.",
+  "services": [
+    {
+      "title": "Tree Felling & Removal",
+      "desc": "Safe, controlled removal of dead, dangerous, or unwanted trees. We manage all debris and leave your garden cleared."
+    },
+    {
+      "title": "Crown Reduction & Pruning",
+      "desc": "Shape and thin your trees to reduce wind resistance, improve light, and encourage healthy new growth."
+    },
+    {
+      "title": "Emergency Storm Damage",
+      "desc": "Fallen branches or uprooted trees blocking your property? We clear and make safe 24/7, any day of the week."
+    },
+    {
+      "title": "Hedge Trimming & Shaping",
+      "desc": "Professional hedging keeps your boundaries neat, healthy, and compliant. We handle tall and overgrown hedges."
+    },
+    {
+      "title": "Stump Grinding & Removal",
+      "desc": "Remove the stump completely or grind it below ground level. Your garden is ready to replant or pave immediately after."
+    },
+    {
+      "title": "Tree Health & Inspection",
+      "desc": "Arborist assessment of diseased, pest-infested, or structurally weak trees. Get a clear diagnosis and management plan."
+    }
+  ],
+  "about_pullquote": "I started this because I care about Manchester's trees and homeowners' safety.",
+  "about_para_1": "WoodWorx Tree Services was founded 18 years ago by a qualified arborist frustrated with reckless contractors damaging gardens and leaving jobs unsafe. We've built our reputation on honesty: we tell you what's needed, quote fairly, and finish the way we found your garden \u2014 only better. Every job is insured, certified, and managed to the highest safety standards.",
+  "about_para_2": "Our customers return to us because we're straightforward, turn up on time, and genuinely care about preserving mature trees where possible. We've managed everything from storm clearance at midnight to sensitive pruning on listed properties. Manchester homeowners trust us to do the hard graft properly.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2000+",
+      "label": "Trees Handled"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "Greater Manchester",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Manchester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had two massive sycamores that were dropping branches on the shed and blocking light. WoodWorx came out, gave a proper quote \u2014 way less than the other three I had \u2014 and did the job in a day. Stumps ground out, chips collected. The bloke knew what he was doing. Can't recommend enough.",
+      "author": "Dave P.",
+      "loc": "Didsbury, Manchester \u2014 November 2024"
+    },
+    {
+      "text": "Emergency call after the storm. Tree down across our drive within an hour of ringing. They were professional, worked fast, and didn't charge extra for the emergency call. Brilliant service. Already back to do our hedges next spring.",
+      "author": "Helen R.",
+      "loc": "Stockport, Greater Manchester \u2014 January 2025"
+    },
+    {
+      "text": "Three quotes for a crown lift on our oak. WoodWorx explained exactly what they'd do and why. The work was meticulous \u2014 you could see they cared about keeping the tree healthy. Really fair price too. They're the real deal.",
+      "author": "Mark T.",
+      "loc": "Altrincham, Manchester \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Greater Manchester and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Tree emergency? Branches down or storm damage? We're out within the hour, any day. Call now \u2014",
+  "footer_description": "WoodWorx Tree Services: certified arborist felling, pruning, and emergency removal across Greater Manchester. Free quotes, same-day response.",
+  "footer_copyright": "\u00a9 2026 WoodWorx Tree Services. Registered in England & Wales."
+}
