@@ -1,0 +1,107 @@
+{
+  "slug": "electrician-nottingham-wollaton",
+  "meta_title": "Electrician Nottingham | Local Sparks Wollaton",
+  "meta_description": "Electrician Nottingham. Fast electrical repairs, installations and inspections. NICEIC registered. Same-day callouts available. Call 07883 854063 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Same-Day Callouts Available",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault in Wollaton or Nottingham? We arrive fast, diagnose on the spot, and fix most problems the same day.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Typical response time"
+    }
+  ],
+  "services_heading": "Electrical Services Across Nottingham",
+  "services_subhead": "From urgent fault repairs and replacements to full rewires and safety inspections, we handle domestic and small commercial work.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped electrics, dead sockets \u2014 we diagnose and fix the fault same day. No call-out charge if you book within 24 hours."
+    },
+    {
+      "title": "Boiler and Heating Electrics",
+      "desc": "Faulty heating controls, broken immersion heater, or thermal switch issues? We repair or replace heating electrical components quickly."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Old wiring, dangerous sockets, or planning a renovation? We strip and rewire your home to modern Building Regs, with full certification."
+    },
+    {
+      "title": "Periodic Electrical Inspections",
+      "desc": "Landlord safety certificates, pre-purchase surveys, or routine PAT testing \u2014 we test your installation and provide detailed written reports."
+    },
+    {
+      "title": "New Circuits and Installations",
+      "desc": "Adding a new kitchen circuit, installing an EV charging point, or fitting new outdoor sockets \u2014 we design and install safely."
+    },
+    {
+      "title": "Fusebox and Consumer Unit Upgrades",
+      "desc": "Old ceramic fuses, worn contactors, or no RCD protection? We upgrade to a modern, safe unit and test everything thoroughly."
+    }
+  ],
+  "about_pullquote": "I started fixing electrics because I was tired of cowboys ripping people off.",
+  "about_para_1": "I'm a qualified electrician with 18 years' experience in Nottingham. I set up this business because I kept seeing neighbours overcharged for simple fixes. Since then, I've completed over 2,400 jobs \u2014 from emergency callouts to full house rewires \u2014 and built my reputation on honest pricing and fast, thorough work.",
+  "about_para_2": "Most of my work comes from repeat customers and word-of-mouth. I turn up on time, explain what's wrong, and only recommend work that's actually needed. If I spot a small issue while I'm there, I tell you straightaway rather than bill for it separately. That's how I'd want to be treated.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In the trade"
+    },
+    {
+      "num": "2,400+",
+      "label": "Projects completed"
+    },
+    {
+      "num": "89%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "Wollaton & 4 miles",
+      "label": "Main coverage area"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a complete nightmare with a dodgy fusebox \u2014 sparks coming from it. Phoned in the morning, electrician was here by lunchtime. Diagnosed a worn main switch, replaced the whole box, tested everything, all done in two hours. Fair price, very thorough. Can't fault him.",
+      "author": "Mike T.",
+      "loc": "Wollaton, Nottingham \u2014 February 2025"
+    },
+    {
+      "text": "Kitchen electrics weren't working properly after a storm. He came out same day, found a damp connection in the board, dried it out, and tested all the circuits. Explained everything clearly so I understood what had gone wrong. Brilliant, honest service.",
+      "author": "Sarah H.",
+      "loc": "Basford, Nottingham \u2014 January 2025"
+    },
+    {
+      "text": "Needed a new RCD fitted and two outdoor sockets for a garden office. Very professional installation, all certified and signed off. Took about three hours, tidy work, and he cleared up after himself. Would use him again without hesitation.",
+      "author": "James K.",
+      "loc": "Sherwood, Nottingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Based in Wollaton. Serving Nottingham and surrounding areas within 5 miles.",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency calls 24/7 (call to arrange)",
+  "emergency_banner_text": "Electrical emergency in Nottingham? We aim to arrive within an hour. Call now \u2014",
+  "footer_description": "NICEIC-registered electrician in Nottingham. Fast emergency repairs, rewires, and installations. Same-day service, no call-out charge.",
+  "footer_copyright": "\u00a9 2026 Electrician Nottingham. All rights reserved."
+}
