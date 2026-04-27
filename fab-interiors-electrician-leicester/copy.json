@@ -1,0 +1,107 @@
+{
+  "slug": "fab-interiors-electrician-leicester",
+  "meta_title": "Fab Interiors | Electrician Leicester",
+  "meta_description": "Fab Interiors Ltd is a trusted electrician in Leicester offering rewiring, installations, repairs and maintenance. Fast, reliable service. Call now.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Domestic & Commercial Electrical Work",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From faulty wiring to complete rewires, we diagnose and fix electrical problems fast. Same-day appointments available.",
+  "badge_4": "Free Electrical Safety Checks",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Established in business"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Average response time"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Leicester",
+  "services_subhead": "Whether you need an urgent repair, a new installation, or a full property rewire, we've got the skills and experience to get it done safely.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped electrics, burnt-out sockets \u2014 we diagnose faults quickly and fix them on the spot. No call-out charge for local Leicester jobs."
+    },
+    {
+      "title": "Full Property Rewiring",
+      "desc": "Modernise old wiring and bring your home up to current regulations. We handle the whole job\u2014testing, certification, and making good afterwards."
+    },
+    {
+      "title": "Fuseboard & Consumer Unit Upgrades",
+      "desc": "Replace ageing fuse boxes with modern MCB boards. Improves safety, gives you more circuits, and often reduces your insurance premiums."
+    },
+    {
+      "title": "New Sockets, Switches & Lighting",
+      "desc": "Add power points where you need them, install dimmers, smart switches, or complete lighting schemes. All fully tested and certified."
+    },
+    {
+      "title": "Boiler Installations & Wiring",
+      "desc": "Professional electrical installation for new boilers and heating systems. We work alongside plumbers and heating engineers for seamless jobs."
+    },
+    {
+      "title": "Electrical Testing & Inspection",
+      "desc": "Annual safety checks and full EICR reports for landlords and homeowners. Identify hazards before they become serious."
+    }
+  ],
+  "about_pullquote": "I started this to show Leicester that electricians can be honest, on time, and properly qualified.",
+  "about_para_1": "Fab Interiors Ltd has been keeping Leicester homes and businesses safe and powered since 2006. We're based in Aylestone and cover the whole city and surrounding areas. Our founder trained as an electrician with a family business in the East Midlands and saw an opportunity to bring reliable, no-nonsense electrical work to Leicester residents who were tired of cowboys and inflated quotes.",
+  "about_para_2": "We're NICEIC approved and hold full Part P certification\u2014every job is tested, certified, and guaranteed. Our customers come back because we turn up when we say we will, we explain what needs doing, and we charge fair prices. We're not the flashiest outfit, but we're the electrician Leicester trusts.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Years trading"
+    },
+    {
+      "num": "96%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Fully approved"
+    },
+    {
+      "num": "All of Leicester",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Called them Monday morning with a dodgy socket that was sparking. They came out same day, found the problem in the wiring, and sorted it for a fair price. Really professional bloke\u2014knew exactly what he was doing. Can't recommend highly enough.",
+      "author": "Michael T.",
+      "loc": "Aylestone, Leicester \u2014 January 2025"
+    },
+    {
+      "text": "Had our whole house rewired. Bit daunting at first, but they explained everything clearly and worked round our schedule. Minimal disruption, left the place tidy, and gave us all the paperwork we needed. Top job.",
+      "author": "Claire H.",
+      "loc": "Belgrave, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Landlord insisted on an electrical safety check before letting the flat. These lads were quick, professional, and the report was thorough. Gave me confidence the place is safe. Would use them again without hesitation.",
+      "author": "David P.",
+      "loc": "City Centre, Leicester \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Leicester, Aylestone, Belgrave, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency call-outs arranged outside office hours",
+  "emergency_banner_text": "Electrics on the fritz? We aim to get to you within 48 hours. Call now \u2014",
+  "footer_description": "Fab Interiors Ltd \u2014 NICEIC-approved electricians in Leicester. Rewires, repairs, testing, and installations. Fair prices, honest advice.",
+  "footer_copyright": "\u00a9 2026 Fab Interiors Ltd. Registered in England & Wales."
+}
