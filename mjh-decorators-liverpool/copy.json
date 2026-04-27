@@ -1,0 +1,107 @@
+{
+  "slug": "mjh-decorators-liverpool",
+  "meta_title": "MJH Decorators | Painter & Decorator Liverpool",
+  "meta_description": "MJH Decorators is a trusted painter and decorator in Liverpool. Interior and exterior work, wallpaper hanging, and full redecoration. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Established Local Decorators \u2014 Free Quotes",
+  "hero_headline": "Liverpool's Reliable",
+  "hero_highlight": "Painter and Decorator",
+  "hero_subhead": "Transform your home with expert interior and exterior decorating. From feature walls to complete room makeovers, we deliver quality finishes on time.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading in Liverpool"
+    },
+    {
+      "num": "450+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average Rating"
+    },
+    {
+      "num": "5 days",
+      "label": "Typical Project Turnaround"
+    }
+  ],
+  "services_heading": "Complete Decorating Services Across Liverpool",
+  "services_subhead": "Whether you need a fresh coat of paint, wallpaper hanging, or a full room transformation, we handle every detail with care.",
+  "services": [
+    {
+      "title": "Interior Painting",
+      "desc": "Professional interior decoration for living rooms, bedrooms, kitchens and bathrooms. We prepare surfaces properly, use quality paints, and leave your home spotless."
+    },
+    {
+      "title": "Exterior Painting",
+      "desc": "Durable exterior finishes for fascias, soffits, doors and garden fences. We work in all weather conditions and use weatherproof coatings to protect your property."
+    },
+    {
+      "title": "Wallpaper Hanging",
+      "desc": "Expert wallpaper installation for any room. We handle pattern matching, difficult corners, and removal of old paper \u2014 leaving a seamless, professional finish."
+    },
+    {
+      "title": "Woodwork & Trim",
+      "desc": "Skirting boards, architraves, doors and window frames painted to a high standard. We sand, prime and finish all woodwork for a lasting result."
+    },
+    {
+      "title": "Feature Walls & Accent Colours",
+      "desc": "Create visual impact with bold feature walls or carefully chosen accent colours. We'll advise on colour selection and execution for maximum effect."
+    },
+    {
+      "title": "Commercial Redecorating",
+      "desc": "Shop fronts, offices and commercial premises redecorated to refresh your business. We work around your schedule and minimise disruption."
+    }
+  ],
+  "about_pullquote": "We treat every home like it's our own \u2014 that's what sets us apart.",
+  "about_para_1": "MJH Decorators was founded on a simple principle: do the work properly, on time, and at a fair price. Over 18 years, we've built a reputation across Liverpool by listening to what customers really want \u2014 whether that's advice on colours, a reliable finish, or a decorator who shows up when promised. We're not a large chain; we're a local, hands-on business that takes pride in every job.",
+  "about_para_2": "Most of our work comes from repeat customers and personal referrals, which tells you everything about the standard we maintain. We turn up on time, protect your furniture and carpets, leave the site clean, and stand behind our work. If you're not happy, we'll put it right \u2014 that's how we've stayed in business for nearly two decades.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Local Experience"
+    },
+    {
+      "num": "70%",
+      "label": "Repeat & Referred Customers"
+    },
+    {
+      "num": "450+",
+      "label": "Homes & Businesses Decorated"
+    },
+    {
+      "num": "24hr",
+      "label": "Callback Guarantee"
+    }
+  ],
+  "reviews_heading": "What Liverpool Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had Mark out to decorate our living room and hallway. Brilliant job \u2014 he prepped everything properly, was really tidy, and the finish is spotless. Fair price too. Can't recommend enough.",
+      "author": "David P.",
+      "loc": "Wavertree, Liverpool \u2014 November 2024"
+    },
+    {
+      "text": "Needed our kitchen redecorated before Christmas and wasn't sure we'd get anyone to fit us in. MJH came through \u2014 worked quickly, knew exactly what they were doing, and left everything clean. Will definitely have them back for the bedrooms.",
+      "author": "Clare T.",
+      "loc": "Aigburth, Liverpool \u2014 December 2024"
+    },
+    {
+      "text": "Second time using MJH. First was interior, now we've just had our fascia and soffits done. Professional crew, all the prep work was thorough, and they're honest about timescales. Saved us thousands by not using a big chain.",
+      "author": "Martin K.",
+      "loc": "Woolton, Liverpool \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving all areas of Liverpool and surrounding Merseyside towns",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Early starts and evening appointments available by request",
+  "emergency_banner_text": "Need a quick paint job or urgent redecoration? Get in touch for a same-week quote \u2014",
+  "footer_description": "MJH Decorators has been transforming Liverpool homes and businesses for 18 years. Expert painting, decorating and wallpaper hanging, delivered on time and on budget.",
+  "footer_copyright": "\u00a9 2026 MJH Decorators. All rights reserved."
+}
