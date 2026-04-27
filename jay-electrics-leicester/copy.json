@@ -1,0 +1,107 @@
+{
+  "slug": "jay-electrics-leicester",
+  "meta_title": "Jay Electrics | Electrician Leicester",
+  "meta_description": "Jay Electrics is your local electrician in Leicester. Expert fault finding, rewires, and emergency repairs. Same-day callouts available. Call 07965 741819.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-19:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Same-Day Emergency Callouts",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrics on the fritz in Leicester? We're out within the hour for emergencies, or book a convenient time that suits you.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency response"
+    },
+    {
+      "num": "100%",
+      "label": "Work guaranteed"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Leicester",
+  "services_subhead": "From urgent fault repairs to full rewires and new installations, we handle every type of domestic and light commercial electrical work.",
+  "services": [
+    {
+      "title": "Emergency Callouts",
+      "desc": "Tripped electrics, burnt-out sockets, or a complete power loss? We're on call seven days a week and aim to reach you within an hour. No extra charge for the call-out."
+    },
+    {
+      "title": "Fault Finding & Repair",
+      "desc": "Flickering lights, circuit breakers tripping, or sparking outlets? We diagnose the root cause and fix it fast, with all parts and labour guaranteed."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Older wiring isn't safe. We replace the entire installation to modern standards, test every circuit, and leave you with a full certification for insurance and resale."
+    },
+    {
+      "title": "Lighting & Heating Installation",
+      "desc": "New lights, underfloor heating, or electric radiators installed to your exact spec. We handle design, supply, and full testing."
+    },
+    {
+      "title": "Fusebox Upgrades & Installation",
+      "desc": "Modern, high-capacity fuseboxes with RCD protection. We upgrade old boards to cope with electric vehicles, heat pumps, and home automation."
+    },
+    {
+      "title": "Periodic Testing & Safety Certs",
+      "desc": "Annual inspections, landlord compliance testing, and electrical safety certificates. Essential for peace of mind and legal protection."
+    }
+  ],
+  "about_pullquote": "I started Jay Electrics to give Leicester honest, fair-priced work without the corporate rubbish.",
+  "about_para_1": "Jay Electrics was founded in 2006 with a simple goal: to be the electrician Leicester residents would actually want to call. Over 18 years, we've grown from a one-man operation to a trusted team, completing over 2,400 jobs across the city. We're NICEIC registered, fully insured, and every member of the team holds current qualifications and PAT certification.",
+  "about_para_2": "Customers return to us because we turn up on time, explain what's wrong in plain English, and give you a price before we start work. We don't push expensive jobs you don't need, and we never charge extra for late-night emergency callouts. That reputation has taken 18 years to build \u2014 we're not about to ruin it.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Serving Leicester"
+    },
+    {
+      "num": "2,400+",
+      "label": "Residential & commercial jobs"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Fully registered & certified"
+    },
+    {
+      "num": "7 days",
+      "label": "Emergency cover, any time"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Jay Electrics",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Had a total meltdown with the fusebox one evening \u2014 lights kept going out. Jay was here within 45 minutes, sorted it straight away. Turns out the board was overloaded. He explained everything and the price was really fair. Would 100% recommend.",
+      "author": "Mark T.",
+      "loc": "Belgrave, Leicester \u2014 January 2025"
+    },
+    {
+      "text": "We needed the whole house rewiring before selling. Jay quoted us fairly, did the work cleanly, and gave us all the paperwork. Buyer's surveyor signed it off without any issues. Professional all the way through.",
+      "author": "Claire M.",
+      "loc": "Stoneygate, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Called on a Saturday morning with sparking sockets. Jay came out same day, found a loose connection behind the wall, and fixed it safely. No drama, no upsell, proper job. He's our electrician now.",
+      "author": "David L.",
+      "loc": "Oadby, Leicester \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Leicester and surrounding areas including Belgrave, Stoneygate, Oadby, and Wigston",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 7pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Electrics failed in Leicester? We aim to be with you in under an hour, any time of day or night. Call now \u2014",
+  "footer_description": "Jay Electrics is a NICEIC-registered electrician in Leicester, offering emergency repairs, rewires, and installations with same-day response and no call-out charge.",
+  "footer_copyright": "\u00a9 2026 Jay Electrics. Registered in England & Wales."
+}
