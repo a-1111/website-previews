@@ -1,0 +1,107 @@
+{
+  "slug": "simmdec-decorating-newcastle",
+  "meta_title": "Simmdec Decorating | Painter & Decorator Newcastle",
+  "meta_description": "Simmdec Decorating is a trusted painter and decorator in Newcastle and Chester-le-Street. Interior and exterior work, free quotes, reliable service.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Trusted Local Decorator \u2014 15+ Years' Experience",
+  "hero_headline": "Newcastle's Reliable",
+  "hero_highlight": "Painter and Decorator",
+  "hero_subhead": "From fresh interior walls to exterior transformations, we deliver flawless finishes on time and on budget.",
+  "badge_4": "Free Quotes Within 24 Hours",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "800+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "5 Days",
+      "label": "Average Project Time"
+    }
+  ],
+  "services_heading": "Complete Decorating Services Across Newcastle",
+  "services_subhead": "Whether it's a bedroom refresh, commercial repaint, or full exterior renovation, we handle every job with precision and care.",
+  "services": [
+    {
+      "title": "Interior Painting & Decorating",
+      "desc": "Refresh your living spaces with expert interior painting. We prepare walls properly, use premium paints, and leave no mess behind \u2014 transforming rooms in days, not weeks."
+    },
+    {
+      "title": "Exterior Wall & Woodwork Painting",
+      "desc": "Weather-proof your home with durable exterior finishes. From fascias and soffits to rendered walls, we use quality exterior-grade paints and protect your property year-round."
+    },
+    {
+      "title": "Feature Walls & Accent Colours",
+      "desc": "Make a statement with bold feature walls or carefully chosen accent colours. We advise on colour schemes and execute flawless finishes that add character to any room."
+    },
+    {
+      "title": "Wallpaper Hanging & Removal",
+      "desc": "Expert wallpaper installation for pattern-perfect results, or swift removal of old coverings. We prepare surfaces properly to ensure your new wallpaper looks stunning and lasts."
+    },
+    {
+      "title": "Woodwork & Door Finishing",
+      "desc": "Bring doors, skirting, and built-in joinery back to life. We sand, prime, and finish woodwork to a cabinet-maker's standard \u2014 smooth, durable, and beautifully coloured."
+    },
+    {
+      "title": "Commercial Repainting",
+      "desc": "Refresh shop fronts, offices, and rental properties efficiently. We work around your schedule, use low-odour paints where needed, and leave your premises immaculate."
+    }
+  ],
+  "about_pullquote": "I got into decorating because I couldn't stand shoddy finishes. Every job's done right.",
+  "about_para_1": "Simmdec Decorating was founded on a simple principle: decorating should be stress-free and results should speak for themselves. Over 15 years, we've built a loyal customer base across Newcastle and Chester-le-Street by showing up on time, finishing on budget, and leaving homes and businesses looking better than promised. We take pride in the detail \u2014 proper prep work, quality materials, and a tidy site every single day.",
+  "about_para_2": "Our customers come back because we listen to what they want and deliver without the drama. Whether you're refreshing a single room or managing a full house redecoration, you'll get honest advice, clear timescales, and finishes that last. We're local, we're reliable, and we treat your home as carefully as our own.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "800+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "97%",
+      "label": "Repeat or Referred"
+    },
+    {
+      "num": "Newcastle & Surrounds",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Brilliant job on our lounge. Mark came round, gave us a fair quote, and got the work done in three days. Walls are perfect, no drips, no mess. Would absolutely have him back.",
+      "author": "David H.",
+      "loc": "Jesmond, Newcastle \u2014 September 2024"
+    },
+    {
+      "text": "Had our whole house redecorated inside. They moved furniture, protected everything, and left the place spotless. Took longer than quoted because they redid a couple of walls to get them perfect. That's the kind of attention you want.",
+      "author": "Catherine M.",
+      "loc": "Chester-le-Street \u2014 July 2024"
+    },
+    {
+      "text": "Front of our shop needed repainting badly. Simmdec did it outside business hours, finished early, and the finish is exactly what we asked for. Professional outfit, fair pricing, no complaints.",
+      "author": "Robert T.",
+      "loc": "City Centre, Newcastle \u2014 May 2024"
+    }
+  ],
+  "address_sub": "Based in Chester-le-Street, serving Newcastle, Sunderland and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Free quotes by appointment",
+  "emergency_banner_text": "Need a quick refresh or urgent redecoration? Call us today to book your free quote \u2014",
+  "footer_description": "Simmdec Decorating: trusted painter and decorator in Newcastle with 15+ years' experience. Interior, exterior, and commercial work done right.",
+  "footer_copyright": "\u00a9 2026 Simmdec Decorating. All rights reserved."
+}
