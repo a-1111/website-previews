@@ -1,0 +1,107 @@
+{
+  "slug": "cu-decorators-sheffield",
+  "meta_title": "CU Decorators | Painter & Decorator Sheffield",
+  "meta_description": "CU Decorators provides professional interior and exterior painting and decorating services across Sheffield and Rotherham. Reliable, expert craftsmen. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-15:00"
+  ],
+  "hero_eyebrow": "Professional Painters & Decorators \u2014 Trusted Since 2008",
+  "hero_headline": "Sheffield's Local",
+  "hero_highlight": "Decorating Experts",
+  "hero_subhead": "From feature walls to full room makeovers, we transform your home with precision finishes and meticulous attention to detail.",
+  "badge_4": "Free Colour Consultation",
+  "stats": [
+    {
+      "num": "16yrs",
+      "label": "Professional Experience"
+    },
+    {
+      "num": "800+",
+      "label": "Homes Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "3-5 days",
+      "label": "Typical Project Duration"
+    }
+  ],
+  "services_heading": "Complete Decorating Services Across Sheffield & Rotherham",
+  "services_subhead": "We handle everything from interior redecoration and exterior painting to specialist finishes, wallpapering, and comprehensive property preparation.",
+  "services": [
+    {
+      "title": "Interior Redecoration",
+      "desc": "Full room repaints, feature walls, and colour schemes that work. We prep, prime, and finish with care \u2014 no shortcuts, no mess left behind."
+    },
+    {
+      "title": "Exterior Painting & Weatherproofing",
+      "desc": "Fascias, soffits, and woodwork protected against Yorkshire weather. Durable finishes that last and enhance your home's street appeal."
+    },
+    {
+      "title": "Wallpapering & Wall Coverings",
+      "desc": "Expert pattern-matching and hang on plasterboard, artex, or newly plastered walls. Textured or smooth \u2014 we get it right."
+    },
+    {
+      "title": "Commercial Redecorating",
+      "desc": "Offices, retail, and trade premises painted to schedule. Minimal disruption, rapid turnaround, professional finish every time."
+    },
+    {
+      "title": "New Build & Renovation Painting",
+      "desc": "Partnering with builders and developers to deliver quality paintwork on time. Undercoat, topcoat, and site management included."
+    },
+    {
+      "title": "Specialist Finishes & Effects",
+      "desc": "Faux finishes, texturing, and bespoke colour work. Transform a room with artistry and technical skill."
+    }
+  ],
+  "about_pullquote": "Good decorating is about detail. We do it right the first time, every time.",
+  "about_para_1": "CU Decorators was founded in 2008 by two Sheffield lads tired of seeing sloppy work and cowboys charging premium prices for mediocre results. Over 16 years, we've built a reputation for honest, meticulous craftsmanship. Our team knows Sheffield and Rotherham inside out, and we've decorated hundreds of homes \u2014 from Victorian terraces to modern new-builds \u2014 with the same care and attention every single job deserves.",
+  "about_para_2": "What keeps customers coming back is simple: we show up on time, protect your home, and deliver finishes that look as good in five years as they do on day one. We listen to what you want, suggest colours and materials that work, and never talk down to you. References available on request \u2014 you'll find that a lot of our work comes from word of mouth and repeat customers.",
+  "about_stats": [
+    {
+      "num": "16",
+      "label": "Years Trading"
+    },
+    {
+      "num": "800+",
+      "label": "Properties Decorated"
+    },
+    {
+      "num": "65%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "Sheffield & Rotherham",
+      "label": "Local Coverage"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had CU Decorators round to do our lounge and hallway. Absolute professionals. Craig and the lads were tidy, polite, and the finish on the walls is immaculate. No drips, no mess, and they were done in three days as promised. Will definitely use them again. Highly recommended.",
+      "author": "Mark H.",
+      "loc": "Dronfield, Sheffield \u2014 September 2024"
+    },
+    {
+      "text": "Brilliant service from start to finish. They came and helped us choose colours that actually work in our space, not just what we thought we wanted. The prep work was thorough, and the painting is flawless. Fair price too. Can't fault them.",
+      "author": "Sarah P.",
+      "loc": "Ecclesall, Sheffield \u2014 July 2024"
+    },
+    {
+      "text": "Got our whole house painted inside and out. They covered everything properly, worked around our kids without fuss, and left the place spotless. Been nearly a year now and the paint still looks perfect. Top quality lads. Worth every penny.",
+      "author": "David T.",
+      "loc": "Rotherham \u2014 May 2024"
+    }
+  ],
+  "address_sub": "Based in Rotherham, serving Sheffield, Rotherham, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 3pm \u2022 Emergency call-outs available",
+  "emergency_banner_text": "Need urgent work before an event or viewing? We offer express scheduling. Call now \u2014",
+  "footer_description": "CU Decorators is a Sheffield and Rotherham painter and decorator with 16 years' experience. Interior, exterior, and commercial work. Free quotes and colour advice.",
+  "footer_copyright": "\u00a9 2026 CU Decorators Ltd. Registered in England & Wales."
+}
