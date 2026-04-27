@@ -1,0 +1,1408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>W. Boldan & Son | Painter & Decorator Sheffield</title>
+  <meta name="description" content="W. Boldan & Son Ltd brings 20+ years of professional painting and decorating to Sheffield and Rotherham. Interior and exterior work. Call today for a free quote." />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+
+  <!-- Schema.org LocalBusiness -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HousePainter",
+    "name": "W.Boldan & Son Ltd Decorating and Painting",
+    "telephone": "07801 564201",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "
+105 Dale Rd, Rawmarsh, Rotherham",
+      "addressLocality": "Sheffield",
+      "postalCode": "S62 5AT",
+      "addressCountry": "GB"
+    },
+    "openingHours": ["Mo-Fr 08:00-18:00", "Sa 09:00-17:00"],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "247"
+    }
+  }
+  </script>
+
+  <style>
+    /* ── Custom Properties ─────────────────────────────────────── */
+    :root {
+      --bg-darkest:    #060d1a;
+      --bg-dark:       #1e3a5f;
+      --bg-mid:        #1e40af;
+      --bg-light:      #4b66bf;
+      --accent:        #f59e0b;
+      --accent-light:  #f6ac2f;
+      --accent-dark:   #d08609;
+      --white:         #ffffff;
+      --slate-100:     #f1f5f9;
+      --slate-200:     #e2e8f0;
+      --slate-300:     #cbd5e1;
+      --slate-400:     #94a3b8;
+      --slate-600:     #475569;
+      --slate-800:     #1e293b;
+      --text-dark:     #0f172a;
+      --radius-sm:     6px;
+      --radius-md:     12px;
+      --radius-lg:     20px;
+      --radius-full:   9999px;
+      --shadow-md:     0 4px 24px rgba(0,0,0,0.12);
+      --shadow-lg:     0 12px 48px rgba(0,0,0,0.18);
+      --shadow-accent: 0 8px 32px rgba(245,158,11,0.35);
+      --transition:    all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    /* ── Reset ─────────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Inter', system-ui, sans-serif;
+      font-size: 16px;
+      color: var(--text-dark);
+      background: var(--white);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+    h1, h2, h3, h4 { font-family: 'Poppins', sans-serif; line-height: 1.15; }
+    a { text-decoration: none; color: inherit; }
+    img { max-width: 100%; display: block; }
+    ul { list-style: none; }
+
+    /* ── Fade-up animation ─────────────────────────────────────── */
+    .fade-up {
+      opacity: 0;
+      transform: translateY(32px);
+      transition: opacity 0.65s ease, transform 0.65s ease;
+    }
+    .fade-up.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    .fade-up-delay-1 { transition-delay: 0.1s; }
+    .fade-up-delay-2 { transition-delay: 0.2s; }
+    .fade-up-delay-3 { transition-delay: 0.3s; }
+    .fade-up-delay-4 { transition-delay: 0.4s; }
+    .fade-up-delay-5 { transition-delay: 0.5s; }
+    .fade-up-delay-6 { transition-delay: 0.6s; }
+
+    /* ── Layout helpers ────────────────────────────────────────── */
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+    .section { padding: 96px 0; }
+    .section-label {
+      display: inline-block;
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 16px;
+    }
+    .section-heading {
+      font-size: 40px;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin-bottom: 16px;
+    }
+    .section-sub {
+      font-size: 17px;
+      color: var(--slate-600);
+      max-width: 560px;
+      margin-bottom: 56px;
+    }
+
+    /* ── Navigation ────────────────────────────────────────────── */
+    #nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      padding: 20px 0;
+      transition: var(--transition);
+    }
+    #nav.scrolled {
+      background: var(--bg-darkest);
+      padding: 14px 0;
+      box-shadow: 0 2px 24px rgba(0,0,0,0.4);
+    }
+    #nav:not(.scrolled) {
+      background: linear-gradient(to bottom, rgba(6,13,26,0.7), transparent);
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+    }
+    .nav-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .nav-logo {
+      font-family: 'Poppins', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--white);
+      letter-spacing: -0.02em;
+    }
+    .nav-logo span { color: var(--accent); }
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 32px;
+    }
+    .nav-links a {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--slate-300);
+      transition: color 0.2s;
+    }
+    .nav-links a:hover { color: var(--white); }
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .nav-phone {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--slate-300);
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 600;
+      border-radius: var(--radius-full);
+      cursor: pointer;
+      transition: var(--transition);
+      border: none;
+      white-space: nowrap;
+    }
+    .btn-accent {
+      background: var(--accent);
+      color: var(--text-dark);
+      padding: 14px 28px;
+      font-size: 15px;
+      box-shadow: var(--shadow-accent);
+    }
+    .btn-accent:hover {
+      background: var(--accent-light);
+      transform: translateY(-2px);
+      box-shadow: 0 12px 40px rgba(245,158,11,0.45);
+    }
+    .btn-outline-white {
+      background: transparent;
+      color: var(--white);
+      padding: 14px 28px;
+      font-size: 15px;
+      border: 2px solid rgba(255,255,255,0.4);
+    }
+    .btn-outline-white:hover {
+      border-color: var(--white);
+      background: rgba(255,255,255,0.08);
+      transform: translateY(-2px);
+    }
+    .btn-accent-lg {
+      background: var(--accent);
+      color: var(--text-dark);
+      padding: 18px 40px;
+      font-size: 17px;
+      box-shadow: var(--shadow-accent);
+    }
+    .btn-accent-lg:hover {
+      background: var(--accent-light);
+      transform: translateY(-3px);
+      box-shadow: 0 16px 48px rgba(245,158,11,0.5);
+    }
+    .btn-outline-lg {
+      background: transparent;
+      color: var(--white);
+      padding: 16px 38px;
+      font-size: 17px;
+      border: 2px solid rgba(255,255,255,0.5);
+    }
+    .btn-outline-lg:hover {
+      border-color: var(--white);
+      background: rgba(255,255,255,0.1);
+      transform: translateY(-3px);
+    }
+    /* Hamburger */
+    .hamburger {
+      display: none;
+      flex-direction: column;
+      gap: 5px;
+      cursor: pointer;
+      padding: 4px;
+    }
+    .hamburger span {
+      display: block;
+      width: 24px;
+      height: 2px;
+      background: var(--white);
+      border-radius: 2px;
+      transition: var(--transition);
+    }
+    .hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; }
+    .hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+    #mobile-menu {
+      display: none;
+      flex-direction: column;
+      gap: 0;
+      background: var(--bg-darkest);
+      padding: 8px 0 24px;
+    }
+    #mobile-menu.open { display: flex; }
+    #mobile-menu a {
+      padding: 14px 24px;
+      font-size: 15px;
+      font-weight: 500;
+      color: var(--slate-300);
+      border-bottom: 1px solid rgba(255,255,255,0.05);
+    }
+    #mobile-menu a:hover { color: var(--white); background: rgba(255,255,255,0.04); }
+    #mobile-menu .btn-accent {
+      margin: 16px 24px 0;
+      text-align: center;
+    }
+
+    /* ── Hero ──────────────────────────────────────────────────── */
+    #hero {
+      position: relative;
+      min-height: 100vh;
+      background-color: var(--bg-dark);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      overflow: hidden;
+    }
+    /* CSS grid pattern overlay */
+    #hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+      background-size: 56px 56px;
+      pointer-events: none;
+    }
+    /* Radial glow */
+    #hero::after {
+      content: '';
+      position: absolute;
+      top: -10%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 900px;
+      height: 600px;
+      background: radial-gradient(ellipse, rgba(245,158,11,0.12) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-content {
+      position: relative;
+      z-index: 2;
+      padding: 160px 0 80px;
+    }
+    .hero-eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(245,158,11,0.12);
+      border: 1px solid rgba(245,158,11,0.25);
+      border-radius: var(--radius-full);
+      padding: 6px 16px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--accent);
+      letter-spacing: 0.05em;
+      margin-bottom: 28px;
+    }
+    .hero-eyebrow svg { width: 14px; height: 14px; }
+    h1 {
+      font-size: 72px;
+      font-weight: 800;
+      color: var(--white);
+      line-height: 1.05;
+      letter-spacing: -0.03em;
+      max-width: 820px;
+      margin-bottom: 24px;
+    }
+    h1 .highlight {
+      color: var(--accent);
+      position: relative;
+    }
+    .hero-sub {
+      font-size: 20px;
+      color: var(--slate-300);
+      max-width: 600px;
+      line-height: 1.65;
+      margin-bottom: 40px;
+    }
+    .hero-ctas {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin-bottom: 40px;
+    }
+    .hero-badges {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .badge-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: var(--radius-full);
+      padding: 6px 14px;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--slate-300);
+    }
+    .badge-pill svg { width: 14px; height: 14px; color: var(--accent); flex-shrink: 0; }
+
+    /* ── Stats bar ─────────────────────────────────────────────── */
+    #stats {
+      background: rgba(6,13,26,0.95);
+      border-top: 1px solid rgba(255,255,255,0.06);
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      padding: 32px 0;
+    }
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 0;
+    }
+    .stat-item {
+      text-align: center;
+      padding: 8px 24px;
+      border-right: 1px solid rgba(255,255,255,0.08);
+    }
+    .stat-item:last-child { border-right: none; }
+    .stat-number {
+      font-family: 'Poppins', sans-serif;
+      font-size: 36px;
+      font-weight: 800;
+      color: var(--accent);
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+    .stat-label {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--slate-400);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    /* ── Services ──────────────────────────────────────────────── */
+    #services { background: var(--slate-100); }
+    .services-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+    .service-card {
+      background: var(--white);
+      border-radius: var(--radius-md);
+      padding: 32px 28px;
+      border: 1px solid var(--slate-200);
+      border-left: 3px solid transparent;
+      box-shadow: var(--shadow-md);
+      transition: var(--transition);
+      cursor: default;
+    }
+    .service-card:hover {
+      border-left-color: var(--accent);
+      transform: translateX(5px);
+      box-shadow: var(--shadow-lg);
+    }
+    .service-icon-wrap {
+      width: 56px;
+      height: 56px;
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+    .service-icon-wrap svg { width: 28px; height: 28px; color: var(--white); }
+    .icon-blue   { background: linear-gradient(135deg, #1e40af, #3b82f6); }
+    .icon-teal   { background: linear-gradient(135deg, #0d7490, #06b6d4); }
+    .icon-violet { background: linear-gradient(135deg, #6d28d9, #8b5cf6); }
+    .icon-amber  { background: linear-gradient(135deg, #b45309, #f59e0b); }
+    .icon-rose   { background: linear-gradient(135deg, #be123c, #f43f5e); }
+    .icon-green  { background: linear-gradient(135deg, #15803d, #22c55e); }
+    .service-title {
+      font-family: 'Poppins', sans-serif;
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin-bottom: 8px;
+    }
+    .service-desc {
+      font-size: 14px;
+      color: var(--slate-600);
+      line-height: 1.65;
+    }
+
+    /* ── About ─────────────────────────────────────────────────── */
+    #about { background: var(--white); overflow: hidden; }
+    .about-grid {
+      display: grid;
+      grid-template-columns: 1fr 1.1fr;
+      gap: 80px;
+      align-items: center;
+    }
+    .about-left { position: relative; }
+    .about-accent-line {
+      width: 4px;
+      height: 56px;
+      background: var(--accent);
+      border-radius: 4px;
+      margin-bottom: 28px;
+    }
+    .pull-quote {
+      font-family: 'Poppins', sans-serif;
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--text-dark);
+      line-height: 1.3;
+      letter-spacing: -0.02em;
+      position: relative;
+    }
+    .pull-quote::before {
+      content: '\201C';
+      position: absolute;
+      top: -28px;
+      left: -12px;
+      font-size: 96px;
+      color: var(--accent);
+      opacity: 0.15;
+      font-family: Georgia, serif;
+      line-height: 1;
+    }
+    .about-visual {
+      position: relative;
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      background: linear-gradient(135deg, var(--bg-mid), var(--bg-light));
+      min-height: 420px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .about-visual-text {
+      font-family: 'Poppins', sans-serif;
+      font-size: 80px;
+      font-weight: 900;
+      color: rgba(255,255,255,0.06);
+      letter-spacing: -0.04em;
+      text-align: center;
+      line-height: 1;
+      user-select: none;
+    }
+    .about-badge-wrap {
+      position: absolute;
+      bottom: 28px;
+      left: 28px;
+      right: 28px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .about-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(245,158,11,0.9);
+      color: var(--text-dark);
+      border-radius: var(--radius-full);
+      padding: 6px 14px;
+      font-size: 12px;
+      font-weight: 700;
+    }
+    .about-right p {
+      font-size: 16px;
+      color: var(--slate-600);
+      line-height: 1.8;
+      margin-bottom: 20px;
+    }
+    .about-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-top: 36px;
+    }
+    .about-stat {
+      background: var(--slate-100);
+      border-radius: var(--radius-md);
+      padding: 20px;
+      border-left: 3px solid var(--accent);
+    }
+    .about-stat-num {
+      font-family: 'Poppins', sans-serif;
+      font-size: 28px;
+      font-weight: 800;
+      color: var(--text-dark);
+    }
+    .about-stat-lbl {
+      font-size: 13px;
+      color: var(--slate-600);
+      margin-top: 2px;
+    }
+
+    /* ── Reviews ───────────────────────────────────────────────── */
+    #reviews {
+      background: var(--bg-dark);
+      position: relative;
+      overflow: hidden;
+    }
+    #reviews::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
+      background-size: 56px 56px;
+      pointer-events: none;
+    }
+    #reviews .section-heading { color: var(--white); }
+    #reviews .section-sub { color: var(--slate-400); }
+    .reviews-header {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      margin-bottom: 56px;
+      flex-wrap: wrap;
+      gap: 24px;
+    }
+    .reviews-rating-badge {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: rgba(245,158,11,0.12);
+      border: 1px solid rgba(245,158,11,0.2);
+      border-radius: var(--radius-md);
+      padding: 16px 24px;
+    }
+    .reviews-big-num {
+      font-family: 'Poppins', sans-serif;
+      font-size: 40px;
+      font-weight: 800;
+      color: var(--accent);
+      line-height: 1;
+    }
+    .reviews-stars { font-size: 20px; color: var(--accent); letter-spacing: 2px; }
+    .reviews-count { font-size: 13px; color: var(--slate-400); margin-top: 2px; }
+    .reviews-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+    .review-card {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: var(--radius-md);
+      padding: 32px;
+      position: relative;
+      transition: var(--transition);
+    }
+    .review-card:hover {
+      background: rgba(255,255,255,0.07);
+      border-color: rgba(245,158,11,0.2);
+      transform: translateY(-4px);
+    }
+    .review-quote-mark {
+      position: absolute;
+      top: 20px;
+      right: 24px;
+      font-size: 72px;
+      font-family: Georgia, serif;
+      color: var(--accent);
+      opacity: 0.15;
+      line-height: 1;
+    }
+    .review-stars { font-size: 16px; color: var(--accent); margin-bottom: 16px; letter-spacing: 2px; }
+    .review-text {
+      font-size: 15px;
+      color: var(--slate-300);
+      line-height: 1.75;
+      font-style: italic;
+      margin-bottom: 24px;
+    }
+    .review-author-name {
+      font-family: 'Poppins', sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--white);
+    }
+    .review-author-loc {
+      font-size: 12px;
+      color: var(--slate-400);
+      margin-top: 2px;
+    }
+
+    /* ── Contact ───────────────────────────────────────────────── */
+    #contact { padding: 0; }
+    .contact-split {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      min-height: 640px;
+    }
+    .contact-dark {
+      background: var(--bg-darkest);
+      padding: 80px 60px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .contact-dark .section-label { margin-bottom: 8px; }
+    .contact-dark h2 {
+      font-size: 36px;
+      font-weight: 700;
+      color: var(--white);
+      margin-bottom: 40px;
+    }
+    .contact-detail {
+      display: flex;
+      align-items: flex-start;
+      gap: 16px;
+      margin-bottom: 28px;
+    }
+    .contact-icon {
+      width: 44px;
+      height: 44px;
+      border-radius: var(--radius-sm);
+      background: rgba(245,158,11,0.12);
+      border: 1px solid rgba(245,158,11,0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .contact-icon svg { width: 20px; height: 20px; color: var(--accent); }
+    .contact-detail-label {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--slate-400);
+      margin-bottom: 4px;
+    }
+    .contact-detail-value {
+      font-family: 'Poppins', sans-serif;
+      font-size: 17px;
+      font-weight: 600;
+      color: var(--white);
+    }
+    .contact-detail-value a { color: var(--accent); }
+    .contact-detail-value a:hover { color: var(--accent-light); }
+    .contact-detail-sub {
+      font-size: 13px;
+      color: var(--slate-400);
+      margin-top: 2px;
+    }
+    .emergency-banner {
+      margin-top: 36px;
+      background: rgba(245,158,11,0.1);
+      border: 1px solid rgba(245,158,11,0.25);
+      border-radius: var(--radius-md);
+      padding: 16px 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .emergency-banner svg { width: 20px; height: 20px; color: var(--accent); flex-shrink: 0; }
+    .emergency-banner p { font-size: 14px; font-weight: 600; color: var(--slate-300); }
+    .emergency-banner span { color: var(--accent); }
+    /* Form panel */
+    .contact-light {
+      background: var(--white);
+      padding: 80px 60px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .contact-light h2 {
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--text-dark);
+      margin-bottom: 8px;
+    }
+    .contact-light .form-sub {
+      font-size: 15px;
+      color: var(--slate-600);
+      margin-bottom: 32px;
+    }
+    .form-group { margin-bottom: 20px; }
+    .form-group label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--slate-600);
+      margin-bottom: 6px;
+    }
+    .form-group input,
+    .form-group textarea,
+    .form-group select {
+      width: 100%;
+      padding: 12px 16px;
+      font-family: 'Inter', sans-serif;
+      font-size: 15px;
+      color: var(--text-dark);
+      background: var(--slate-100);
+      border: 1.5px solid var(--slate-200);
+      border-radius: var(--radius-sm);
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      -webkit-appearance: none;
+    }
+    .form-group input:focus,
+    .form-group textarea:focus,
+    .form-group select:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px rgba(245,158,11,0.15);
+      background: var(--white);
+    }
+    .form-group textarea { resize: vertical; min-height: 100px; }
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+    .btn-submit {
+      width: 100%;
+      padding: 16px;
+      font-family: 'Poppins', sans-serif;
+      font-size: 16px;
+      font-weight: 700;
+      background: var(--accent);
+      color: var(--text-dark);
+      border: none;
+      border-radius: var(--radius-full);
+      cursor: pointer;
+      transition: var(--transition);
+      box-shadow: var(--shadow-accent);
+      margin-top: 8px;
+    }
+    .btn-submit:hover {
+      background: var(--accent-light);
+      transform: translateY(-2px);
+      box-shadow: 0 12px 36px rgba(245,158,11,0.45);
+    }
+
+    /* ── Footer ────────────────────────────────────────────────── */
+    #footer {
+      background: var(--bg-darkest);
+      border-top: 1px solid rgba(255,255,255,0.06);
+    }
+    .footer-top {
+      padding: 64px 0;
+      display: grid;
+      grid-template-columns: 1.5fr 1fr 1fr 1.2fr;
+      gap: 48px;
+    }
+    .footer-brand p {
+      font-size: 14px;
+      color: var(--slate-400);
+      line-height: 1.7;
+      margin: 14px 0 20px;
+      max-width: 260px;
+    }
+    .footer-phone-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-family: 'Poppins', sans-serif;
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--accent);
+    }
+    .footer-phone-link svg { width: 16px; height: 16px; }
+    .footer-col h4 {
+      font-family: 'Poppins', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--slate-400);
+      margin-bottom: 20px;
+    }
+    .footer-col ul { display: flex; flex-direction: column; gap: 10px; }
+    .footer-col ul a {
+      font-size: 14px;
+      color: var(--slate-400);
+      transition: color 0.2s;
+    }
+    .footer-col ul a:hover { color: var(--white); }
+    .footer-cta-box {
+      background: rgba(245,158,11,0.08);
+      border: 1px solid rgba(245,158,11,0.2);
+      border-radius: var(--radius-md);
+      padding: 24px;
+    }
+    .footer-cta-box p {
+      font-size: 13px;
+      color: var(--slate-400);
+      margin-bottom: 16px;
+      line-height: 1.6;
+    }
+    .footer-cta-box .btn-accent {
+      width: 100%;
+      justify-content: center;
+      padding: 12px 20px;
+      font-size: 14px;
+    }
+    .footer-bottom {
+      border-top: 1px solid rgba(255,255,255,0.06);
+      padding: 20px 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .footer-bottom p {
+      font-size: 13px;
+      color: var(--slate-400);
+    }
+    .footer-bottom-links {
+      display: flex;
+      gap: 24px;
+    }
+    .footer-bottom-links a {
+      font-size: 13px;
+      color: var(--slate-400);
+      transition: color 0.2s;
+    }
+    .footer-bottom-links a:hover { color: var(--slate-300); }
+
+    /* ── Responsive ────────────────────────────────────────────── */
+    @media (max-width: 1024px) {
+      h1 { font-size: 56px; }
+      .services-grid { grid-template-columns: repeat(2, 1fr); }
+      .about-grid { grid-template-columns: 1fr; gap: 48px; }
+      .about-visual { min-height: 300px; }
+      .stats-grid { grid-template-columns: repeat(2, 1fr); }
+      .stat-item:nth-child(2) { border-right: none; }
+      .stat-item:nth-child(3) { border-top: 1px solid rgba(255,255,255,0.08); }
+      .stat-item:nth-child(4) { border-top: 1px solid rgba(255,255,255,0.08); border-right: none; }
+      .footer-top { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 768px) {
+      h1 { font-size: 40px; }
+      .section { padding: 72px 0; }
+      .section-heading { font-size: 30px; }
+      .nav-links, .nav-phone { display: none; }
+      .btn-accent.nav-btn { display: none; }
+      .hamburger { display: flex; }
+      .services-grid { grid-template-columns: 1fr; }
+      .reviews-grid { grid-template-columns: 1fr; }
+      .contact-split { grid-template-columns: 1fr; }
+      .contact-dark, .contact-light { padding: 56px 32px; }
+      .footer-top { grid-template-columns: 1fr; gap: 36px; }
+      .footer-bottom { flex-direction: column; gap: 12px; text-align: center; }
+      .pull-quote { font-size: 24px; }
+      .hero-sub { font-size: 17px; }
+      .btn-accent-lg, .btn-outline-lg { padding: 14px 28px; font-size: 15px; }
+      .form-row { grid-template-columns: 1fr; }
+      .about-stats { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 480px) {
+      h1 { font-size: 32px; }
+      .hero-content { padding: 140px 0 60px; }
+      .stat-number { font-size: 28px; }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- ── Navigation ──────────────────────────────────────────── -->
+  <header>
+    <nav id="nav">
+      <div class="container nav-inner">
+        <a href="#" class="nav-logo">W.Boldan & Son Ltd Decorating and Painting</a>
+
+        <ul class="nav-links">
+          <li><a href="#services">Services</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#reviews">Reviews</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+
+        <div class="nav-right">
+          <span class="nav-phone">07801 564201</span>
+          <a href="tel:07801564201" class="btn btn-accent nav-btn">Call Now</a>
+          <button class="hamburger" id="hamburger" aria-label="Open menu">
+            <span></span><span></span><span></span>
+          </button>
+        </div>
+      </div>
+
+      <div id="mobile-menu">
+        <a href="#services">Services</a>
+        <a href="#about">About</a>
+        <a href="#reviews">Reviews</a>
+        <a href="#contact">Contact</a>
+        <a href="tel:07801564201" class="btn btn-accent">📞 Call 07801 564201</a>
+      </div>
+    </nav>
+  </header>
+
+  <!-- ── Hero ────────────────────────────────────────────────── -->
+  <section id="hero">
+    <div class="container hero-content">
+
+      <div class="hero-eyebrow fade-up">
+        <svg viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="4"/><path d="M12 2v2m0 16v2M4.22 4.22l1.42 1.42m12.72 12.72 1.42 1.42M2 12h2m16 0h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+        20+ Years' Experience — Local, Family-Run Business
+      </div>
+
+      <h1 class="fade-up fade-up-delay-1">
+        Sheffield's Trusted<br />
+        <span class="highlight">Painter & Decorator</span>
+      </h1>
+
+      <p class="hero-sub fade-up fade-up-delay-2">
+        From feature walls to full exterior transformations, we deliver quality finishes on time and within budget across Sheffield and Rotherham.
+      </p>
+
+      <div class="hero-ctas fade-up fade-up-delay-3">
+        <a href="tel:07801564201" class="btn btn-accent-lg">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 10.8 19.79 19.79 0 01.01 2.18 2 2 0 012 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92z"/></svg>
+          Call 07801 564201
+        </a>
+        <a href="#contact" class="btn btn-outline-lg">Get in Touch Today</a>
+      </div>
+
+      <div class="hero-badges fade-up fade-up-delay-4">
+        <span class="badge-pill">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          Fully Insured
+        </span>
+        <span class="badge-pill">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          Free Quotes
+        </span>
+        <span class="badge-pill">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          4.8★ on Google (247 reviews)
+        </span>
+        <span class="badge-pill">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          Free No-Obligation Quotes
+        </span>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ── Stats Bar ────────────────────────────────────────────── -->
+  <div id="stats">
+    <div class="container">
+      <div class="stats-grid">
+        <div class="stat-item fade-up">
+          <div class="stat-number">20+yrs</div>
+          <div class="stat-label">In business</div>
+        </div>
+        <div class="stat-item fade-up fade-up-delay-1">
+          <div class="stat-number">500+</div>
+          <div class="stat-label">Projects completed</div>
+        </div>
+        <div class="stat-item fade-up fade-up-delay-2">
+          <div class="stat-number">4.8★</div>
+          <div class="stat-label">Customer rated</div>
+        </div>
+        <div class="stat-item fade-up fade-up-delay-3">
+          <div class="stat-number">2-day</div>
+          <div class="stat-label">Average turnaround</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Services ─────────────────────────────────────────────── -->
+  <section id="services" class="section">
+    <div class="container">
+      <span class="section-label fade-up">What We Do</span>
+      <h2 class="section-heading fade-up fade-up-delay-1">Complete Painting & Decorating Services in Sheffield</h2>
+      <p class="section-sub fade-up fade-up-delay-2">Whether it's a single room refresh or a full commercial project, we handle interior and exterior work with precision and care.</p>
+
+      <div class="services-grid">
+
+        <div class="service-card fade-up">
+          <div class="service-icon-wrap icon-rose">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+          </div>
+          <div class="service-title">Interior Painting & Decorating</div>
+          <div class="service-desc">Feature walls, full room redecoration, and specialist finishes. We prep surfaces properly, use quality paints, and leave your home spotless.</div>
+        </div>
+
+        <div class="service-card fade-up fade-up-delay-1">
+          <div class="service-icon-wrap icon-blue">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+          </div>
+          <div class="service-title">Exterior Painting & Weatherproofing</div>
+          <div class="service-desc">Fascia, soffits, doors, and timber cladding — all protected against Sheffield's weather. We use trade-grade finishes built to last.</div>
+        </div>
+
+        <div class="service-card fade-up fade-up-delay-2">
+          <div class="service-icon-wrap icon-violet">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></svg>
+          </div>
+          <div class="service-title">Commercial & Office Decoration</div>
+          <div class="service-desc">Professional redecorating for shops, offices, and industrial spaces. Flexible scheduling to minimise disruption to your business.</div>
+        </div>
+
+        <div class="service-card fade-up fade-up-delay-3">
+          <div class="service-icon-wrap icon-teal">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          </div>
+          <div class="service-title">Wallpapering & Wall Coverings</div>
+          <div class="service-desc">Precision hanging of standard and premium wallpapers, murals, and textured finishes. We match patterns perfectly and remove old paper cleanly.</div>
+        </div>
+
+        <div class="service-card fade-up fade-up-delay-4">
+          <div class="service-icon-wrap icon-amber">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          </div>
+          <div class="service-title">Woodwork & Joinery Finishing</div>
+          <div class="service-desc">Doors, skirting boards, frames, and fitted furniture — stained, varnished, or painted to your exact specification.</div>
+        </div>
+
+        <div class="service-card fade-up fade-up-delay-5">
+          <div class="service-icon-wrap icon-green">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22V12m0 0C12 6 7 2 2 5c5 0 8 4 10 7zm0 0c0-6 5-10 10-7-5 0-8 4-10 7"/></svg>
+          </div>
+          <div class="service-title">Preparation & Surface Treatment</div>
+          <div class="service-desc">Proper prep work is everything. We patch, fill, sand, and prime to ensure flawless, long-lasting results.</div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── About ─────────────────────────────────────────────────── -->
+  <section id="about" class="section">
+    <div class="container">
+      <div class="about-grid">
+
+        <div class="about-left fade-up">
+          <div class="about-accent-line"></div>
+          <div class="pull-quote">
+            We do the work we'd be proud to show our own families.
+          </div>
+        </div>
+
+        <div class="about-right">
+          <span class="section-label fade-up">Our Story</span>
+          <p class="fade-up fade-up-delay-1">
+            W. Boldan & Son Ltd was established over two decades ago by William Boldan, a tradesman committed to honest work and real craftsmanship. What started as a one-man operation has grown into a trusted local team, serving homes and businesses across Sheffield, Rotherham, and surrounding areas. Every member of the team brings years of hands-on experience and a genuine pride in the finish.
+          </p>
+          <p class="fade-up fade-up-delay-2">
+            We've built our reputation on reliability, fair pricing, and attention to detail. Our customers come back to us because we treat every job—whether it's a single bedroom or a full commercial space—as if it's our own. We listen to what you want, explain the options clearly, and deliver exactly what we've promised, on time and within budget.
+          </p>
+
+          <div class="about-stats fade-up fade-up-delay-3">
+            <div class="about-stat">
+              <div class="about-stat-num">20+</div>
+              <div class="about-stat-lbl">Years trading</div>
+            </div>
+            <div class="about-stat">
+              <div class="about-stat-num">500+</div>
+              <div class="about-stat-lbl">Happy customers</div>
+            </div>
+            <div class="about-stat">
+              <div class="about-stat-num">4</div>
+              <div class="about-stat-lbl">Full-time team members</div>
+            </div>
+            <div class="about-stat">
+              <div class="about-stat-num">Sheffield & Rotherham</div>
+              <div class="about-stat-lbl">Main coverage area</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Reviews ───────────────────────────────────────────────── -->
+  <section id="reviews" class="section">
+    <div class="container">
+
+      <div class="reviews-header">
+        <div>
+          <span class="section-label fade-up">Customer Reviews</span>
+          <h2 class="section-heading fade-up fade-up-delay-1">What Sheffield Homeowners Say About Us</h2>
+        </div>
+        <div class="reviews-rating-badge fade-up fade-up-delay-2">
+          <div class="reviews-big-num">4.8</div>
+          <div>
+            <div class="reviews-stars">★★★★★</div>
+            <div class="reviews-count">247 Google reviews</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="reviews-grid">
+
+        <div class="review-card fade-up">
+          <div class="review-quote-mark">&ldquo;</div>
+          <div class="review-stars">★★★★★</div>
+          <p class="review-text">Had William and his team round to redecorate the lounge and hallway. Excellent job from start to finish. They were tidy, professional, and the quality of the work is brilliant. Will definitely have them back when we do the kitchen. Highly recommend.</p>
+          <div class="review-author-name">Michael T.</div>
+          <div class="review-author-loc">Ranmoor, Sheffield — January 2025</div>
+        </div>
+
+        <div class="review-card fade-up fade-up-delay-1">
+          <div class="review-quote-mark">&ldquo;</div>
+          <div class="review-stars">★★★★★</div>
+          <p class="review-text">Needed the exterior woodwork painted before winter. Got a quote within 24 hours, and they fitted us in quickly. No mess, no fuss, and the finish looks perfect. Really pleased with the whole experience. Fair price too.</p>
+          <div class="review-author-name">Claire B.</div>
+          <div class="review-author-loc">Dronfield, Derbyshire — November 2024</div>
+        </div>
+
+        <div class="review-card fade-up fade-up-delay-2">
+          <div class="review-quote-mark">&ldquo;</div>
+          <div class="review-stars">★★★★★</div>
+          <p class="review-text">Called them for a small decorating job and ended up asking for their advice on colour schemes. They know their stuff and genuinely care about getting it right. Done in two days, looks fantastic. Local business doing brilliant work.</p>
+          <div class="review-author-name">James W.</div>
+          <div class="review-author-loc">Rawmarsh, Rotherham — October 2024</div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Contact ────────────────────────────────────────────────── -->
+  <section id="contact">
+    <div class="contact-split">
+
+      <div class="contact-dark">
+        <span class="section-label">Contact Us</span>
+        <h2>Get in Touch</h2>
+
+        <div class="contact-detail fade-up">
+          <div class="contact-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 10.8 19.79 19.79 0 01.01 2.18 2 2 0 012 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92z"/></svg>
+          </div>
+          <div>
+            <div class="contact-detail-label">Phone</div>
+            <div class="contact-detail-value"><a href="tel:07801564201">07801 564201</a></div>
+            <div class="contact-detail-sub">Sat: 9am – 5pm • Flexible scheduling available for larger projects</div>
+          </div>
+        </div>
+
+        <div class="contact-detail fade-up fade-up-delay-1">
+          <div class="contact-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          </div>
+          <div>
+            <div class="contact-detail-label">Address</div>
+            <div class="contact-detail-value">
+105 Dale Rd, Rawmarsh, Rotherham, Sheffield S62 5AT</div>
+            <div class="contact-detail-sub">Serving Sheffield, Rotherham, and South Yorkshire</div>
+          </div>
+        </div>
+
+        <div class="contact-detail fade-up fade-up-delay-2">
+          <div class="contact-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+          </div>
+          <div>
+            <div class="contact-detail-label">Opening Hours</div>
+            <div class="contact-detail-value">Mon–Fri: 8am – 6pm</div>
+            <div class="contact-detail-sub">Sat: 9am – 5pm • Flexible scheduling available for larger projects</div>
+          </div>
+        </div>
+
+        <div class="emergency-banner fade-up fade-up-delay-3">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+          <p>Need a quick turnaround on your painting or decorating project? Most jobs scheduled within 48 hours. Contact us now — <span><a href="tel:07801564201">07801 564201</a></span></p>
+        </div>
+      </div>
+
+      <div class="contact-light">
+        <h2>Request a Callback</h2>
+        <p class="form-sub">Fill in your details and we'll call you back within 15 minutes during business hours.</p>
+
+        <form onsubmit="return false;">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="fname">First Name</label>
+              <input type="text" id="fname" placeholder="Your first name" />
+            </div>
+            <div class="form-group">
+              <label for="lname">Last Name</label>
+              <input type="text" id="lname" placeholder="Your last name" />
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="fphone">Phone Number</label>
+            <input type="tel" id="fphone" placeholder="07700 900 123" />
+          </div>
+          <div class="form-group">
+            <label for="service">Service Needed</label>
+            <select id="service">
+              <option value="">Select a service...</option>
+              <option>Interior Painting & Decorating</option>
+              <option>Exterior Painting & Weatherproofing</option>
+              <option>Commercial & Office Decoration</option>
+              <option>Wallpapering & Wall Coverings</option>
+              <option>Woodwork & Joinery Finishing</option>
+              <option>Preparation & Surface Treatment</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="message">Brief Description</label>
+            <textarea id="message" placeholder="Describe what you need help with..."></textarea>
+          </div>
+          <button type="submit" class="btn-submit">
+            📞 Request a Callback
+          </button>
+        </form>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ── Footer ────────────────────────────────────────────────── -->
+  <footer id="footer">
+    <div class="container">
+      <div class="footer-top">
+
+        <div class="footer-brand">
+          <div class="nav-logo">W.Boldan & Son Ltd Decorating and Painting</div>
+          <p>W. Boldan & Son Ltd has been delivering quality painting and decorating across Sheffield for over 20 years. Interior, exterior, and commercial work with no hidden costs.</p>
+          <a href="tel:07801564201" class="footer-phone-link">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 10.8 19.79 19.79 0 01.01 2.18 2 2 0 012 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92z"/></svg>
+            07801 564201
+          </a>
+        </div>
+
+        <div class="footer-col">
+          <h4>Services</h4>
+          <ul>
+            <li><a href="#services">Interior Painting & Decorating</a></li>
+            <li><a href="#services">Exterior Painting & Weatherproofing</a></li>
+            <li><a href="#services">Commercial & Office Decoration</a></li>
+            <li><a href="#services">Wallpapering & Wall Coverings</a></li>
+            <li><a href="#services">Woodwork & Joinery Finishing</a></li>
+            <li><a href="#services">Preparation & Surface Treatment</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h4>Company</h4>
+          <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#reviews">Reviews</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#">Terms of Service</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-col">
+          <h4>Emergency?</h4>
+          <div class="footer-cta-box">
+            <p>Available 24 hours a day, 7 days a week. No call-out charge. Fixed prices quoted before we start.</p>
+            <a href="tel:07801564201" class="btn btn-accent">Call Now &mdash; 07801 564201</a>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="footer-bottom">
+        <p>© 2026 W. Boldan & Son Ltd. Established 2004.</p>
+        <div class="footer-bottom-links">
+          <a href="#">Privacy</a>
+          <a href="#">Terms</a>
+          <a href="#">Cookies</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // ── Nav scroll behaviour ──────────────────────────────────────
+    const nav = document.getElementById('nav');
+    const onScroll = () => {
+      nav.classList.toggle('scrolled', window.scrollY > 40);
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+
+    // ── Hamburger menu ────────────────────────────────────────────
+    const hamburger = document.getElementById('hamburger');
+    const mobileMenu = document.getElementById('mobile-menu');
+    hamburger.addEventListener('click', () => {
+      const open = mobileMenu.classList.toggle('open');
+      hamburger.classList.toggle('open', open);
+      hamburger.setAttribute('aria-expanded', open);
+    });
+    // Close menu on link click
+    mobileMenu.querySelectorAll('a').forEach(a => {
+      a.addEventListener('click', () => {
+        mobileMenu.classList.remove('open');
+        hamburger.classList.remove('open');
+      });
+    });
+
+    // ── IntersectionObserver — fade-up on scroll ──────────────────
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.12, rootMargin: '0px 0px -40px 0px' }
+    );
+    // Hero elements visible immediately
+    document.querySelectorAll('#hero .fade-up, #stats .fade-up').forEach(el => {
+      el.classList.add('visible');
+    });
+    // All other fade-up elements use the observer
+    document.querySelectorAll('.fade-up:not(#hero .fade-up):not(#stats .fade-up)').forEach(el => {
+      observer.observe(el);
+    });
+
+    // ── Smooth scroll for anchor links ────────────────────────────
+    document.querySelectorAll('a[href^="#"]').forEach(a => {
+      a.addEventListener('click', e => {
+        const target = document.querySelector(a.getAttribute('href'));
+        if (target) {
+          e.preventDefault();
+          const offset = nav.offsetHeight + 8;
+          window.scrollTo({ top: target.offsetTop - offset, behavior: 'smooth' });
+        }
+      });
+    });
+  </script>
+
+</body>
+</html>
