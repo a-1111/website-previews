@@ -1,0 +1,107 @@
+{
+  "slug": "andrews-tree-company-bristol",
+  "meta_title": "Andrews Tree Co | Arborist Services Bristol",
+  "meta_description": "Andrews Tree Co provides expert tree surgery, cutting and removal across Bristol. Professional arborists with same-day quotes. Call 07826 528132 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Certified Arborists \u2014 Same-Day Quotes Available",
+  "hero_headline": "Bristol's Trusted",
+  "hero_highlight": "Tree Surgeons",
+  "hero_subhead": "Dangerous branches threatening your home? We'll assess, quote and remove safely \u2014 often the same day.",
+  "badge_4": "Same-Day Quotes",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Tree care experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed annually"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "Full insured",
+      "label": "Public liability cover"
+    }
+  ],
+  "services_heading": "Expert Tree Surgery Services Across Bristol",
+  "services_subhead": "From routine pruning to emergency felling, we handle every tree job safely and professionally.",
+  "services": [
+    {
+      "title": "Tree Removal",
+      "desc": "Safe, efficient felling of large or dangerous trees. We dismantle and remove all debris, leaving your garden clear."
+    },
+    {
+      "title": "Crown Reduction & Pruning",
+      "desc": "Reduce overhanging branches and restore tree shape. Improves light, reduces storm risk, and promotes healthy growth."
+    },
+    {
+      "title": "Emergency Storm Damage",
+      "desc": "Fallen or split trees causing danger? We attend same day to make the site safe and remove hazards quickly."
+    },
+    {
+      "title": "Stump Grinding",
+      "desc": "Professional stump removal below ground level. Eliminates trip hazards and reclaims usable garden space."
+    },
+    {
+      "title": "Hedge Cutting & Management",
+      "desc": "Regular hedge trimming and overgrown hedge clearance. Keeps boundaries tidy and maintains neighbour relations."
+    },
+    {
+      "title": "Tree Health Surveys",
+      "desc": "Full arboricultural assessment of tree condition and risk. Written reports with recommendations for treatment or removal."
+    }
+  ],
+  "about_pullquote": "We climb trees other people are afraid of, and we do it safely every single time.",
+  "about_para_1": "Andrews Tree Company was founded on the principle that tree work should be done right \u2014 not rushed or cut corners. With nearly two decades in Bristol's gardens, we've built a reputation for tackling jobs others won't touch. Whether it's a 60-foot oak overhanging your roof or a tangle of storm-damaged branches, we show up with the right equipment and the skill to finish it properly.",
+  "about_para_2": "Our customers return because we're straight with them: we quote fairly, explain what we're doing, and leave the site spotless. We're fully insured and abide by arboricultural standards \u2014 that's not negotiable. From a routine prune to emergency removals at midnight, we treat your garden as if it's our own.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Established in Bristol"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average customer rating"
+    },
+    {
+      "num": "500+",
+      "label": "Trees managed per year"
+    },
+    {
+      "num": "100%",
+      "label": "Fully insured & certified"
+    }
+  ],
+  "reviews_heading": "What Bristol Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a massive oak limb hanging over the house after the winter storms. Andrews came out within hours, assessed it safely, and had it down and cleared by end of day. Brilliant work, very professional. Can't fault them.",
+      "author": "Michael T.",
+      "loc": "Stockwood, Bristol \u2014 January 2025"
+    },
+    {
+      "text": "Been getting them to maintain our hedge for three years now. Always arrive on time, tidy up properly, and the hedge looks immaculate. They're a bit dearer than some, but you get what you pay for \u2014 real expertise.",
+      "author": "Jennifer W.",
+      "loc": "Southville, Bristol \u2014 November 2024"
+    },
+    {
+      "text": "Absolute nightmare overgrown tree in the garden. Got a quote from Andrews, thought it fair, and they turned up with all the gear and took it down in one morning without a mess. Very competent lads. Strongly recommend.",
+      "author": "David C.",
+      "loc": "Bedminster, Bristol \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Bristol and the surrounding South Gloucestershire area",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency call-out available",
+  "emergency_banner_text": "Tree emergency or urgent job? We aim to respond same day. Call now \u2014",
+  "footer_description": "Andrews Tree Co provides expert tree surgery, removal and hedge management across Bristol. Certified arborists, fully insured, same-day emergency response.",
+  "footer_copyright": "\u00a9 2026 Andrews Tree Company. Registered in England & Wales."
+}
