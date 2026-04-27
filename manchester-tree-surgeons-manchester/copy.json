@@ -1,0 +1,107 @@
+{
+  "slug": "manchester-tree-surgeons-manchester",
+  "meta_title": "Manchester Tree Surgeons | Expert Arborist Manchester",
+  "meta_description": "Manchester Tree Surgeons provide professional tree surgery, cutting, and stump removal across Manchester. Same-day quotes, fully insured. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-16:00"
+  ],
+  "hero_eyebrow": "Fully Insured & Professional Arborists",
+  "hero_headline": "Manchester's Trusted",
+  "hero_highlight": "Tree Surgeons",
+  "hero_subhead": "Dangerous tree? Dead limb hanging over your roof? We remove, prune, and grind stumps safely \u2014 same-day visits available across Manchester.",
+  "badge_4": "Same-Day Quotes Available",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "1500+",
+      "label": "Trees Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "<2hrs",
+      "label": "Response Time"
+    }
+  ],
+  "services_heading": "Complete Tree Care Services Across Greater Manchester",
+  "services_subhead": "From emergency crown reductions to full stump grinding, we handle every aspect of tree surgery with certified expertise.",
+  "services": [
+    {
+      "title": "Tree Removal",
+      "desc": "Full safe removal of dead, diseased, or unwanted trees. We dismantle large specimens section by section and clear all debris. Site left clean and ready for landscaping."
+    },
+    {
+      "title": "Crown Reduction & Pruning",
+      "desc": "Shape trees to reduce storm risk and restore sunlight to your garden. Precision cuts promote healthy regrowth and maintain your tree's natural form."
+    },
+    {
+      "title": "Stump Grinding & Removal",
+      "desc": "Grind out stubborn stumps below soil level, eliminating trip hazards and regrowth. Debris chipped for use as mulch or removed completely."
+    },
+    {
+      "title": "Emergency Tree Works",
+      "desc": "Storm damage? Fallen branches blocking access? We respond quickly to stabilise trees and clear fallen wood before further damage occurs."
+    },
+    {
+      "title": "Hedge Trimming & Thinning",
+      "desc": "Keep boundary hedges neat, dense, and healthy. We thin overgrown hedges and trim to shape, improving privacy and appearance."
+    },
+    {
+      "title": "Tree Surgery Consultations",
+      "desc": "Unsure whether a tree needs work? Our certified arborists assess health, identify hazards, and advise on the best course of action with a free site visit."
+    }
+  ],
+  "about_pullquote": "We treat every tree like it's in our own back garden.",
+  "about_para_1": "Manchester Tree Surgeons was founded over 12 years ago by third-generation arborist Paul Fletcher. From a small operation in Urmston, we've grown to become the trusted choice for tree work across Greater Manchester, completing over 1,500 jobs whilst maintaining our commitment to safe, environmentally responsible practice. Our team holds current professional qualifications and full public liability insurance.",
+  "about_para_2": "We've built our reputation on honesty: we only recommend work that's genuinely needed, and we always explain why. Customers return to us because we arrive on time, leave your garden as we find it, and treat the work as though we're working on our own property. Whether you're a homeowner with a leaning oak or a property manager juggling multiple sites, we're here to make tree care simple.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "1500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "100%",
+      "label": "Insured & Certified"
+    },
+    {
+      "num": "Greater Manchester",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Manchester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had a massive oak growing right into the gutters. Paul came out, assessed it, and gave a honest price. The whole job took two days. Left the garden spotless. Would definitely use again.",
+      "author": "David H.",
+      "loc": "Urmston, Manchester \u2014 September 2024"
+    },
+    {
+      "text": "After the storm last winter, we had a dead limb hanging over the conservatory. Terrifying. Paul's team came out same day, made it safe, removed the lot. Professional, quick, and fair price. Top marks.",
+      "author": "Catherine M.",
+      "loc": "Altrincham, Manchester \u2014 February 2025"
+    },
+    {
+      "text": "Got three quotes for stump removal. Manchester Tree Surgeons came in competitive and they actually showed up on the date promised. Stump gone, no mess. My only regret is not calling them sooner.",
+      "author": "James T.",
+      "loc": "Stretford, Manchester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving all of Greater Manchester including Urmston, Altrincham, Stretford, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 Emergency callouts available outside hours",
+  "emergency_banner_text": "Tree damage after a storm? We respond to emergencies 24/7 across Manchester. Call now \u2014",
+  "footer_description": "Manchester Tree Surgeons provide safe, insured tree removal, pruning, and stump grinding. 12+ years serving Greater Manchester with certified expertise.",
+  "footer_copyright": "\u00a9 2026 Manchester Tree Surgeons. All rights reserved."
+}
