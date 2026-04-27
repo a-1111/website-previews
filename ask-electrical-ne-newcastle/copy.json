@@ -1,0 +1,107 @@
+{
+  "slug": "ask-electrical-ne-newcastle",
+  "meta_title": "ASK Electrical NE | Electricians Newcastle",
+  "meta_description": "ASK Electrical NE Ltd in Newcastle offers professional electrical services for homes and businesses. Fully qualified electricians covering Newcastle and surrounding areas.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Part P Certified \u2014 Local Newcastle Electricians",
+  "hero_headline": "Newcastle's Trusted",
+  "hero_highlight": "Electrical Experts",
+  "hero_subhead": "From rewiring to emergency repairs, we fix electrical problems fast and get the job done right.",
+  "badge_4": "Free Quotations",
+  "stats": [
+    {
+      "num": "12 yrs",
+      "label": "Trading experience"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "60 mins",
+      "label": "Average response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer satisfaction"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Newcastle",
+  "services_subhead": "Whether you need a single socket replaced or a full house rewire, we handle everything from emergency call-outs to planned installations.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, sparking outlets, tripped electrics \u2014 we're here when you need us most. Same-day fixes for most common faults."
+    },
+    {
+      "title": "House Rewiring",
+      "desc": "Full rewires with modern safety standards and testing. We minimise disruption and leave your home safer and more efficient."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Modern fuse boards and RCD protection for better safety. All work tested and certified to current Building Regulations."
+    },
+    {
+      "title": "Socket and Switch Installation",
+      "desc": "New sockets, switches, and lighting circuits installed where you need them. Perfect for extending a kitchen or updating dated rooms."
+    },
+    {
+      "title": "Appliance Installation",
+      "desc": "Safe installation of cookers, hobs, ovens, and other electrical appliances with all connections certified and guaranteed."
+    },
+    {
+      "title": "Electric Heating and Boiler Services",
+      "desc": "Installation and repair of electric heating systems, water heaters, and immersion tanks with full testing and certification."
+    }
+  ],
+  "about_pullquote": "We treat every job like we'd do it in our own home \u2014 no shortcuts, always thorough.",
+  "about_para_1": "ASK Electrical NE Ltd has been serving Newcastle and the surrounding areas for over 12 years. We started with a simple mission: provide honest, reliable electrical work at fair prices. Today, we've built a reputation for turning up on time, diagnosing problems quickly, and leaving homes safer and more functional than we found them.",
+  "about_para_2": "Our customers come back because we listen to what they actually need, explain the work clearly, and never oversell. We're Part P certified, all our installations are tested and certified, and we stand behind every job. From emergency midnight call-outs to planned rewires, we handle it all with the same care and attention.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years trading"
+    },
+    {
+      "num": "500+",
+      "label": "Local jobs completed"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "Newcastle & Beyond",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Newcastle Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Had an issue with a tripped consumer unit on a Sunday afternoon \u2014 thought I'd have to wait until Monday. Rang ASK and they came out within the hour. Turned out to be a dodgy appliance causing it. Fixed it properly, explained everything, and the bill was fair. Really impressed.",
+      "author": "David M.",
+      "loc": "Gosforth, Newcastle \u2014 September 2024"
+    },
+    {
+      "text": "We needed our kitchen rewiring when we fitted new units. Rather than rip everything apart, Mark and the team carefully planned it so we could still use the space. Finished on time, left the place spotless, and all the new circuits work beautifully. Highly recommended.",
+      "author": "Jennifer K.",
+      "loc": "Jesmond, Newcastle \u2014 July 2024"
+    },
+    {
+      "text": "Our house is from the 1970s and needed a full rewire. We were nervous about the disruption, but ASK organised everything so well. They tested and certified everything properly, gave us a thorough handover, and I feel so much safer now. Worth every penny.",
+      "author": "Robert T.",
+      "loc": "Fenham, Newcastle \u2014 May 2024"
+    }
+  ],
+  "address_sub": "Serving Newcastle, Gateshead, and the North East",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency call-outs available outside hours",
+  "emergency_banner_text": "Electrical emergency in Newcastle? We aim to reach you within the hour. Ring us now \u2014",
+  "footer_description": "ASK Electrical NE Ltd provides Part P certified electrical work across Newcastle. Emergency repairs, rewiring, and installations handled by experienced local engineers.",
+  "footer_copyright": "\u00a9 2026 ASK Electrical NE Ltd. Registered in England & Wales."
+}
