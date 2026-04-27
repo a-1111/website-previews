@@ -1,0 +1,107 @@
+{
+  "slug": "jps-bristol-painter-decorator",
+  "meta_title": "JPS Bristol | Painter & Decorator Kingswood",
+  "meta_description": "JPS Bristol offers professional interior and exterior painting and decorating services across the Kingswood area. Free quotes, quality finishes. Call 07940 230222.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 08:00-16:00"
+  ],
+  "hero_eyebrow": "Trusted Local Decorator \u2014 Quality Finishes Every Time",
+  "hero_headline": "Bristol's Reliable",
+  "hero_highlight": "Painter and Decorator",
+  "hero_subhead": "From fresh interior walls to complete exterior repaints, we transform your home with precision and care across Kingswood and Bristol.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Trading in Bristol"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average Rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical Quote Response"
+    }
+  ],
+  "services_heading": "Complete Painting & Decorating Services Across Bristol",
+  "services_subhead": "Whether you need a quick refresh or a full transformation, we handle interior and exterior projects with meticulous attention to detail.",
+  "services": [
+    {
+      "title": "Interior Painting",
+      "desc": "Fresh walls, ceilings, and woodwork inside your home. We prepare surfaces properly and use quality paints to deliver a durable, flawless finish that brightens your space."
+    },
+    {
+      "title": "Exterior Painting & Rendering",
+      "desc": "Protect and refresh your home's exterior. We paint fascias, soffits, doors, windows, and render walls to shield against Bristol's wet weather whilst enhancing curb appeal."
+    },
+    {
+      "title": "Wallpapering",
+      "desc": "Precise pattern matching and smooth hanging. We source quality wallpapers and apply them flawlessly, transforming any room with style and durability."
+    },
+    {
+      "title": "Woodwork & Joinery Finishing",
+      "desc": "Doors, skirting boards, stairs, and fitted furniture painted to professional standards. Proper undercoating and finishing ensures a hardwearing, beautiful result."
+    },
+    {
+      "title": "Colour Consultation",
+      "desc": "Unsure which shade suits your space? We offer free advice on colour schemes, finishes, and design trends to help you choose with confidence."
+    },
+    {
+      "title": "Commercial Decorating",
+      "desc": "Offices, retail spaces, and hospitality venues deserve reliable, timely redecorating. We work around your business schedule with professional, efficient service."
+    }
+  ],
+  "about_pullquote": "I started JPS because I wanted to show Bristol there's an honest decorator who listens and delivers.",
+  "about_para_1": "JPS Bristol was founded over a decade ago on the principle of doing the job right, first time. We've grown from a one-man operation to a trusted team known across Kingswood and beyond for careful preparation, quality materials, and finishes that last. Every project\u2014whether a small bedroom refresh or a full commercial redecoration\u2014receives the same meticulous attention.",
+  "about_para_2": "Our customers come back because we show up on time, explain what we're doing, protect your home during the work, and stand behind the finish. We're not the cheapest, but we're fair, honest, and we take pride in transforming spaces. That reputation has earned us steady work and plenty of repeat bookings from satisfied homeowners and local businesses.",
+  "about_stats": [
+    {
+      "num": "12+yrs",
+      "label": "Established in Bristol"
+    },
+    {
+      "num": "500+",
+      "label": "Properties Decorated"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Kingswood & Beyond",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Bristol Homeowners Say About JPS",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Needed our lounge redecorated before Christmas. JPS came round, gave a sensible quote, and did the work cleanly and efficiently. Looks brilliant. Would definitely recommend to anyone in Bristol.",
+      "author": "Michael T.",
+      "loc": "Kingswood, Bristol \u2014 December 2024"
+    },
+    {
+      "text": "Had the exterior of our house painted\u2014windows, doors, the lot. Professional lads, they prepped everything properly and the finish is spotless. Really pleased with the result and the price was fair.",
+      "author": "Jenny W.",
+      "loc": "Southmead, Bristol \u2014 October 2024"
+    },
+    {
+      "text": "Small job wallpapering a hallway but they treated it like it mattered. Patient, tidy, and the pattern match is perfect. That's the kind of decorator you want to use again.",
+      "author": "David P.",
+      "loc": "Filton, Bristol \u2014 August 2024"
+    }
+  ],
+  "address_sub": "Based in Kingswood, serving all of Bristol and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 Free quotes available 7 days a week",
+  "emergency_banner_text": "Need a quick redecoration? Contact us today for a free, no-obligation quote. Call \u2014",
+  "footer_description": "JPS Bristol is a trusted painter and decorator serving Kingswood and across Bristol. Quality finishes, reliable service, fair prices.",
+  "footer_copyright": "\u00a9 2026 JPS Bristol. All rights reserved."
+}
