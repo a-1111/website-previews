@@ -1,0 +1,107 @@
+{
+  "slug": "mullally-electrical-contractors-liverpool",
+  "meta_title": "Mullally Electrical | Electricians Liverpool",
+  "meta_description": "Mullally Electrical Contractors bring 20+ years' expertise to Liverpool homes and businesses. NICEIC certified, emergency repairs, rewires, and installations. Call now for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Certified \u2014 24/7 Emergency Call-Outs",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Local Electricians",
+  "hero_subhead": "Electrical fault in your Liverpool home? We're out to fault-finding and repairs in under an hour, day or night.",
+  "badge_4": "Same-Day Emergency Service",
+  "stats": [
+    {
+      "num": "20+yrs",
+      "label": "Trading in Liverpool"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    }
+  ],
+  "services_heading": "Electrical Services Across Liverpool",
+  "services_subhead": "From emergency callouts to full rewires, we handle every electrical job with care and precision.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped circuits, or no power at all? We diagnose and fix faults fast, with parts on the van. Available 24/7 to get your home safe again."
+    },
+    {
+      "title": "Rewires & Circuit Upgrades",
+      "desc": "Old wiring putting your home at risk? We pull out dated cables and install modern, safe circuits to today's Building Regulations. Includes full testing and certification."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "New boiler installation or control upgrades? We handle all electrical connections, testing, and commissioning to ensure your heating runs safely and efficiently."
+    },
+    {
+      "title": "Consumer Unit Installation",
+      "desc": "Upgrading your fuse box to a modern consumer unit reduces fire risk and adds safety features. We install, test, and issue full certification."
+    },
+    {
+      "title": "Lighting & Socket Installation",
+      "desc": "New lights, extra sockets, or a full kitchen refit? We design circuits for your needs, install neatly, and test everything to keep your family safe."
+    },
+    {
+      "title": "Electrical Safety Certificates",
+      "desc": "Moving house or renewing a tenancy? We issue EICR safety reports and corrective work to satisfy landlords, insurers, and buyers."
+    }
+  ],
+  "about_pullquote": "I started this business to give Liverpool homes honest, reliable electrical work.",
+  "about_para_1": "Mullally Electrical has been serving Liverpool households and small businesses for over two decades. Founded on the principle of doing the job right first time, we've built a reputation for turning up on time, diagnosing faults accurately, and fixing them without fuss or hidden charges. Every member of our team is NICEIC certified and insured.",
+  "about_para_2": "Homeowners come back to us because we treat their home like our own \u2014 we explain what's wrong, show you what we're fixing, and don't upsell unnecessary work. Whether it's a midnight emergency or a planned rewire, you'll get the same friendly, professional service and a fair price every time.",
+  "about_stats": [
+    {
+      "num": "20+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Certified Electricians"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "L12, L13, L14, L15",
+      "label": "Postcodes Covered"
+    }
+  ],
+  "reviews_heading": "What Liverpool Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 126,
+  "reviews": [
+    {
+      "text": "Had a complete nightmare with our electrics \u2014 house was showing faults left and right. Mullally came out, did a full inspection, and rewired the lot to a proper standard. Took two days, fair price, and they cleared up after themselves. Couldn't fault them.",
+      "author": "David T.",
+      "loc": "Allerton, Liverpool \u2014 February 2025"
+    },
+    {
+      "text": "3am on a Sunday and our boiler cut out. Called Mullally expecting to wait hours, but they answered straight away and had an engineer round before breakfast. Turned out to be a dodgy electrical feed. Fixed it for a fraction of what I thought it'd cost. Lifesavers.",
+      "author": "Michelle P.",
+      "loc": "Childwall, Liverpool \u2014 January 2025"
+    },
+    {
+      "text": "Very honest about what needs doing and what doesn't. Came to do a socket install and spotted an old fusebox that was a fire risk. Gave me options, took their advice, and they did the whole upgrade. Professional, friendly, no pressure. Highly recommend.",
+      "author": "Robert K.",
+      "loc": "Wavertree, Liverpool \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Allerton, Childwall, Wavertree, and surrounding Liverpool postcodes L12\u2013L15.",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Electrical emergency in Liverpool? We aim to reach you within the hour, any time of day. Call now \u2014",
+  "footer_description": "Mullally Electrical Contractors: NICEIC-certified electricians in Liverpool. 20+ years delivering safe, honest electrical repairs, rewires, and installations.",
+  "footer_copyright": "\u00a9 2026 Mullally Electrical Contractors Ltd. Registered in England & Wales."
+}
