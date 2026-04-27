@@ -1,0 +1,107 @@
+{
+  "slug": "pg-decorators-sheffield",
+  "meta_title": "PG Decorators | Painter & Decorator Sheffield",
+  "meta_description": "PG Decorators Sheffield \u2014 interior and exterior painting, wallpapering, and full decoration. Local, reliable, competitive quotes.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local Sheffield Decorators \u2014 15+ Years Experience",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Painting & Decoration Experts",
+  "hero_subhead": "Transform your home or business with professional interior and exterior decoration. Free quotes, no obligation.",
+  "badge_4": "Free Quotes Within 24 Hours",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "500+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "All Sheffield",
+      "label": "Coverage Area"
+    }
+  ],
+  "services_heading": "Complete Decoration Services Across Sheffield",
+  "services_subhead": "From interior room refreshes to full exterior repaints, we handle every job with care and attention to detail.",
+  "services": [
+    {
+      "title": "Interior Painting & Decorating",
+      "desc": "Refresh any room with expert interior decoration. We prepare surfaces properly, select the right finishes, and leave your home spotless. Colours that last, applied with precision."
+    },
+    {
+      "title": "Exterior Painting & Rendering",
+      "desc": "Protect and enhance your property's exterior with quality exterior paint and render work. Weather-resistant finishes keep your home looking fresh for years."
+    },
+    {
+      "title": "Wallpapering & Wall Coverings",
+      "desc": "Professional wallpaper hanging for feature walls or complete rooms. We source quality papers and apply them flawlessly, with clean, sharp finishes."
+    },
+    {
+      "title": "Woodwork & Joinery Finishing",
+      "desc": "Doors, skirting, frames, and cupboards deserve expert finishing. We sand, prime, and paint timber work to a furniture-maker standard."
+    },
+    {
+      "title": "Commercial Decoration",
+      "desc": "Offices, retail units, and hospitality spaces. We work efficiently to minimise disruption and deliver professional results on time and budget."
+    },
+    {
+      "title": "Preparation & Surface Treatment",
+      "desc": "Proper prep is everything. Damp proof work, crack repair, and surface preparation ensure paint and finishes adhere perfectly and last longer."
+    }
+  ],
+  "about_pullquote": "We do the prep work nobody notices so the finish speaks for itself.",
+  "about_para_1": "PG Decorators was established in Sheffield over 15 years ago. What started as a one-man operation has grown into a trusted local team, built on word-of-mouth recommendations and repeat customers. We've decorated hundreds of Sheffield homes and businesses, from period properties to modern new builds.",
+  "about_para_2": "Our reputation rests on meticulous preparation, honest communication, and finishing standards that other decorators simply don't match. We turn up on time, protect your furniture and floors, and tidy up properly. Customers come back because we treat their home like our own.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "500+",
+      "label": "Homes & Businesses"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat & Referred"
+    },
+    {
+      "num": "All Sheffield",
+      "label": "Local Service Area"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Paul came round for a quote, turned up on time, and gave me a honest assessment of what needed doing. Three weeks later the job was finished \u2014 walls look immaculate, and he left the house spotless. Not the cheapest, but worth every penny.",
+      "author": "Michael T.",
+      "loc": "Ecclesall, Sheffield \u2014 November 2024"
+    },
+    {
+      "text": "Had the front of the house repainted and woodwork done. Paul took his time with prep, explained everything, and the finish is brilliant. Neighbours have already asked for his number. Highly recommend.",
+      "author": "Christine W.",
+      "loc": "Sharrow, Sheffield \u2014 September 2024"
+    },
+    {
+      "text": "Two large bedrooms wallpapered and interior repaint. Turned up when promised, left no mess, and the attention to detail is obvious. Will definitely use again when we redecorate downstairs.",
+      "author": "David L.",
+      "loc": "Dore, Sheffield \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Based in Sheffield, serving all local areas and surrounding districts",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Quotes and emergency calls available",
+  "emergency_banner_text": "Need a quick quote or emergency touch-up? Call us today for honest advice and competitive pricing \u2014",
+  "footer_description": "PG Decorators \u2014 Sheffield painters and decorators with 15+ years' experience. Interior, exterior, wallpapering, and commercial work. Local, reliable, professional.",
+  "footer_copyright": "\u00a9 2026 PG Decorators Sheffield. All rights reserved."
+}
