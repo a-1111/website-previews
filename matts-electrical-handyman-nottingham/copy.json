@@ -1,0 +1,107 @@
+{
+  "slug": "matts-electrical-handyman-nottingham",
+  "meta_title": "Matt's Electrical & Handyman | Electrician Nottingham",
+  "meta_description": "Matt's Electrical and Handyman Services in Nottingham. Fast electrical repairs, installations, and handyman work. Call 07805 758318 for a quote today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Fully Qualified Electrician \u2014 Same-Day Service Available",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Electrician & Handyman",
+  "hero_subhead": "Broken socket, flickering lights, or a full rewire needed? Matt arrives fast, fixes right, and leaves your home exactly as he found it.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 2hrs",
+      "label": "Typical response time"
+    }
+  ],
+  "services_heading": "Complete Electrical and Handyman Services in Nottingham",
+  "services_subhead": "From urgent repairs to planned installations and general handyman work \u2014 we handle it all with care and professional expertise.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped electrics, or a power cut? We diagnose and fix faults fast, often the same day. All work tested and certified for safety."
+    },
+    {
+      "title": "Socket and Switch Installation",
+      "desc": "Adding new sockets, USB outlets, or smart switches to your kitchen, bedroom, or living space. Tidy wiring, no mess, full certification included."
+    },
+    {
+      "title": "Lighting Installation and Upgrades",
+      "desc": "Recessed spotlights, pendant fittings, or outside security lighting. We handle all wiring neatly and ensure perfect brightness and control."
+    },
+    {
+      "title": "Boiler and Heating Electrics",
+      "desc": "Wiring, thermostats, and timers for your heating system. We work with gas engineers and ensure all electrical connections are safe and efficient."
+    },
+    {
+      "title": "Handyman Services",
+      "desc": "Hanging shelves, fixing doors, patching plasterwork, and general repairs around your home. Quick, reliable, and priced fairly."
+    },
+    {
+      "title": "PAT Testing and Fault-Finding",
+      "desc": "Annual portable appliance testing for home or small business. Thorough inspection and detailed report so you know your devices are safe."
+    }
+  ],
+  "about_pullquote": "I fix things properly because I know my customers trust me to keep their homes safe.",
+  "about_para_1": "Matt set up his electrical and handyman business in Nottingham over a decade ago after realising how hard it was to find someone honest and reliable. What started as evening work quickly became full-time, and today he's completed over 500 residential jobs across the city. He's trained to current Building Regulations, fully insured, and genuinely cares about getting the work right first time.",
+  "about_para_2": "Customers come back because Matt turns up on time, explains what he's doing, and leaves no mess. He's not interested in upselling; if a simple fix will do the job, that's what you'll get. His reputation speaks for itself \u2014 word-of-mouth referrals now make up most of his work, and he's become a familiar face in Nottingham's family homes and small businesses.",
+  "about_stats": [
+    {
+      "num": "12 years",
+      "label": "Established locally"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "2 hours",
+      "label": "Average call-out time"
+    },
+    {
+      "num": "500+",
+      "label": "Homes and businesses served"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Matt",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a nightmare with a loose light switch that wouldn't turn off properly. Matt came out same afternoon, sorted it in minutes, and charged me fairly. No faffing about, no overcharging \u2014 exactly what you want. Will definitely use again.",
+      "author": "Sarah K.",
+      "loc": "Beeston, Nottingham \u2014 January 2025"
+    },
+    {
+      "text": "Called Matt about a tripped electrics issue on Boxing Day. Didn't expect anyone to answer, but he came out within the hour. Really professional, found the fault straight away, and fixed it. Top bloke. Highly recommend.",
+      "author": "David M.",
+      "loc": "Lenton, Nottingham \u2014 December 2024"
+    },
+    {
+      "text": "Matt installed new spotlights in our kitchen and added USB sockets everywhere. Wiring is hidden, looks brilliant, and he cleaned up after himself. Great job, competitive price, and he knew exactly what he was doing. Can't fault him.",
+      "author": "Jennifer T.",
+      "loc": "West Bridgford, Nottingham \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham city centre, West Bridgford, Beeston, Lenton, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency callouts available outside standard hours",
+  "emergency_banner_text": "Electrics on the fritz? Matt usually arrives within two hours of your call, day or night \u2014",
+  "footer_description": "Matt's Electrical and Handyman Services \u2014 fast, reliable electrical repairs, installations, and handyman work across Nottingham. Over 12 years' experience, same-day service available.",
+  "footer_copyright": "\u00a9 2026 Matt's Electrical and Handyman Services. Trading in Nottinghamshire."
+}
