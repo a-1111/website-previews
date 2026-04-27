@@ -1,0 +1,107 @@
+{
+  "slug": "sbds-decorators-sheffield",
+  "meta_title": "SBDS Decorators | Painter & Decorator Sheffield",
+  "meta_description": "SBDS Decorators Sheffield. Professional interior and exterior painting, wallpapering, and decorating. Free quotes, reliable local service.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local Sheffield Decorators \u2014 Fully Insured & Reliable",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Decorating Experts",
+  "hero_subhead": "From fresh paint to complete room transformations, SBDS delivers professional results on time and within budget.",
+  "badge_4": "Free Quotes Within 24 Hours",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Homes Decorated"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "48hrs",
+      "label": "Quote Turnaround"
+    }
+  ],
+  "services_heading": "Complete Decorating Services Across Sheffield",
+  "services_subhead": "Whether it's a single room refresh or a full property transformation, we handle interior and exterior projects with precision.",
+  "services": [
+    {
+      "title": "Interior Painting & Decorating",
+      "desc": "Walls, ceilings, woodwork, and fitted furniture painted to a flawless finish. We prep thoroughly and use quality paints that last."
+    },
+    {
+      "title": "Exterior Painting & Protection",
+      "desc": "Weatherproof exterior walls, fascias, soffits, and doors. Proper surface prep ensures paint stays vibrant for years."
+    },
+    {
+      "title": "Wallpapering & Wall Coverings",
+      "desc": "Professional hanging of wallpaper, feature walls, and textured finishes. Expertly matched seams and pattern alignment every time."
+    },
+    {
+      "title": "Furniture & Cabinet Painting",
+      "desc": "Kitchen units, built-in wardrobes, and bespoke furniture painted to order. Durable finishes that transform your space."
+    },
+    {
+      "title": "Surface Preparation & Repairs",
+      "desc": "Thorough wall repairs, crack filling, and sanding. A properly prepared surface is the foundation of a perfect finish."
+    },
+    {
+      "title": "Commercial Decorating",
+      "desc": "Offices, retail units, and businesses painted on schedule with minimal disruption. We work flexibly around your operating hours."
+    }
+  ],
+  "about_pullquote": "We treat every property like it's our own\u2014careful prep, honest timescales, and no cutting corners.",
+  "about_para_1": "SBDS Decorators was founded on a simple principle: honest pricing, skilled work, and respect for your home. With over 15 years in the business, we've built a loyal customer base across Sheffield and South Yorkshire by delivering consistent, high-quality finishes. We're fully insured and take pride in the detail that separates professional work from DIY.",
+  "about_para_2": "We're not the fastest or the cheapest\u2014we're the decorators who show up on time, protect your furniture, and leave the site clean. Word-of-mouth referrals make up the majority of our work, and repeat customers trust us to handle their biggest decorating projects without fuss or hidden costs.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat & Referral Customers"
+    },
+    {
+      "num": "500+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "Full",
+      "label": "Public Liability Insurance"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About SBDS",
+  "rating": 4.8,
+  "review_count": 67,
+  "reviews": [
+    {
+      "text": "Had our lounge and hallway redecorated. Came in on time, finished on schedule, and the standard of work was excellent. Fair price too. Would definitely recommend and will be using again.",
+      "author": "David H.",
+      "loc": "Ecclesall, Sheffield \u2014 November 2024"
+    },
+    {
+      "text": "SBDS did the whole of our kitchen units and external fascias. Very professional team, really tidy workers, and they sorted a small issue we found after without any drama. Brilliant job.",
+      "author": "Claire M.",
+      "loc": "Ranmoor, Sheffield \u2014 September 2024"
+    },
+    {
+      "text": "After a difficult experience with another decorator, SBDS came out and got the work right. Attention to detail was spot on, and the finish on the feature wall is stunning. Would use again without hesitation.",
+      "author": "Michael T.",
+      "loc": "Dore, Sheffield \u2014 August 2024"
+    }
+  ],
+  "address_sub": "Based in Bramley, serving Sheffield and South Yorkshire",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Free quote visits available",
+  "emergency_banner_text": "Ready to transform your home? Get a free, no-obligation quote within 24 hours. Call now \u2014",
+  "footer_description": "SBDS Decorators Sheffield. Professional interior and exterior painting, wallpapering, and decorating with over 15 years' experience. Fully insured, local, reliable.",
+  "footer_copyright": "\u00a9 2026 SBDS Decorators. Registered in England & Wales."
+}
