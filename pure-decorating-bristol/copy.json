@@ -1,0 +1,107 @@
+{
+  "slug": "pure-decorating-bristol",
+  "meta_title": "Pure Decorating | Painter & Decorator Bristol",
+  "meta_description": "Pure Decorating is a Bristol-based painter and decorator offering interior and exterior work. Free quotes, fully insured. Call 07956 759927.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-16:00"
+  ],
+  "hero_eyebrow": "Fully Insured \u2014 Interior & Exterior Specialists",
+  "hero_headline": "Bristol's Trusted",
+  "hero_highlight": "Painter and Decorator",
+  "hero_subhead": "Transform your home with expert decoration work. Free quotes, honest pricing, and a finish that lasts.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Trading in Bristol"
+    },
+    {
+      "num": "1500+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "2-week",
+      "label": "Typical Turnaround"
+    }
+  ],
+  "services_heading": "Complete Decorating Services Across Bristol",
+  "services_subhead": "From interior refreshes to full external repaints, we handle domestic and commercial projects with precision and care.",
+  "services": [
+    {
+      "title": "Interior Painting & Decorating",
+      "desc": "Transform living spaces with quality paint finishes, feature walls, and colour consultation. We protect your furniture and leave no mess behind."
+    },
+    {
+      "title": "Exterior Painting",
+      "desc": "Weather-resistant exterior repaints for houses and buildings. We prepare surfaces thoroughly to ensure long-lasting protection against Bristol's elements."
+    },
+    {
+      "title": "Wallpaper Hanging",
+      "desc": "Expert wallpaper installation on any room or commercial space. We handle pattern matching and create a seamless, professional finish."
+    },
+    {
+      "title": "Surface Preparation",
+      "desc": "Proper prep work is the foundation of every job. We sand, fill, and prime surfaces to guarantee a flawless paint finish."
+    },
+    {
+      "title": "Commercial Decorating",
+      "desc": "Offices, shops, and rental properties painted to specification. We work around your schedule and minimise disruption to your business."
+    },
+    {
+      "title": "Specialty Finishes",
+      "desc": "Textured coatings, faux effects, and bespoke colour work. We bring character and personality to your interiors and exteriors."
+    }
+  ],
+  "about_pullquote": "Good decoration should speak for itself. No shortcuts, no compromise.",
+  "about_para_1": "Pure Decorating was founded on a simple principle: do the job properly or don't do it at all. Over 12 years, we've built a reputation across Bristol for meticulous surface preparation, colour expertise, and finishes that stand the test of time. Every project\u2014whether a single bedroom or a multi-storey commercial building\u2014receives the same level of care and attention.",
+  "about_para_2": "We're fully insured, punctual, and we treat your home with the respect it deserves. Customers return to us because we listen, we deliver on time, and we leave sites clean. That's not fancy\u2014it's how decorating should work.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "Established in Bristol"
+    },
+    {
+      "num": "1500+",
+      "label": "Homes & Businesses Decorated"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "100%",
+      "label": "Fully Insured & Protected"
+    }
+  ],
+  "reviews_heading": "What Bristol Homeowners Say About Pure Decorating",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Needed my hallway and stairs done urgently before Christmas. Mark turned up when he said he would, worked efficiently, and the finish is brilliant. Tidy worker, fair price. Would definitely use again.",
+      "author": "David P.",
+      "loc": "Totterdown, Bristol \u2014 December 2024"
+    },
+    {
+      "text": "Got a free quote, no pressure to book. Mark was honest about what the job needed and the timescale. Work was done to a high standard, walls are perfectly smooth. Highly recommend.",
+      "author": "Jennifer M.",
+      "loc": "Southville, Bristol \u2014 October 2024"
+    },
+    {
+      "text": "Had our whole exterior repainted. Weather's been brutal but the paint is holding up perfectly. Mark's attention to prep work really showed. Professional, reliable, and reasonably priced.",
+      "author": "Robert S.",
+      "loc": "Bedminster, Bristol \u2014 August 2024"
+    }
+  ],
+  "address_sub": "Serving Bristol and surrounding areas including Southville, Bedminster, Totterdown, and beyond",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 Emergency call-outs available",
+  "emergency_banner_text": "Urgent decorating job? Call us today for a fast quote and professional finish. Ring now \u2014",
+  "footer_description": "Pure Decorating is a Bristol-based painter and decorator with 12 years' experience. Interior, exterior, and commercial work. Free quotes, fully insured.",
+  "footer_copyright": "\u00a9 2026 Pure Decorating. All rights reserved."
+}
