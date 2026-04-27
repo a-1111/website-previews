@@ -1,0 +1,107 @@
+{
+  "slug": "hga-property-services-southampton",
+  "meta_title": "H.G.A Property Services | Painter & Decorator Southampton",
+  "meta_description": "H.G.A Property Services is your trusted painter and decorator in Southampton. Interior and exterior work, competitive quotes, fully insured. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Fully Insured \u2014 Interior & Exterior Specialists",
+  "hero_headline": "Southampton's Trusted",
+  "hero_highlight": "Painter and Decorator",
+  "hero_subhead": "Professional interior and exterior painting across Southampton. Free quotes, meticulous attention to detail, and honest pricing.",
+  "badge_4": "Free Quotations",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical Quote Time"
+    }
+  ],
+  "services_heading": "Complete Painting & Decorating Services in Southampton",
+  "services_subhead": "From interior redecorating to full exterior house painting, we handle every project with precision and care.",
+  "services": [
+    {
+      "title": "Interior Decoration",
+      "desc": "Transform your living spaces with expert interior painting. We prepare surfaces properly, use premium finishes, and protect your furniture throughout."
+    },
+    {
+      "title": "Exterior House Painting",
+      "desc": "Weather-resistant exterior work that protects and refreshes your home's fa\u00e7ade. We prep all surfaces, use trade-quality paints, and work to professional standards."
+    },
+    {
+      "title": "Wallpaper Hanging & Removal",
+      "desc": "Expert wallpaper installation and careful removal of old coverings. We measure accurately, match patterns, and leave clean, professional results."
+    },
+    {
+      "title": "Woodwork & Joinery Painting",
+      "desc": "Doors, skirting boards, windows, and built-ins need specialist finishing. We sand, prime, and paint to a silky, durable finish that lasts."
+    },
+    {
+      "title": "Masonry & Rendering Preparation",
+      "desc": "New renders and stone need proper preparation and seal coating. We assess, repair, and paint to maximise durability and appearance."
+    },
+    {
+      "title": "Commercial Repainting",
+      "desc": "Offices, retail spaces, and commercial buildings benefit from our project management and speed. We minimise disruption and maintain your brand look."
+    }
+  ],
+  "about_pullquote": "I take pride in work that lasts, not shortcuts that fade.",
+  "about_para_1": "H.G.A Property Services was established over 15 years ago in Southampton by a painter who got tired of seeing poor-quality finish work and customers left out of pocket. We've grown steadily on word-of-mouth and repeat business, completing over 2,000 residential and commercial projects across the city. Every job gets the same level of care and attention to detail.",
+  "about_para_2": "Our reputation is built on honest quoting, showing up on time, and leaving your home looking immaculate. We don't rush jobs or cut corners with cheap materials \u2014 we use premium paints, prepare surfaces correctly, and guarantee a finish you'll be proud of. Many of our customers have called us back year after year for maintenance work.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2,000+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "Southampton",
+      "label": "Local Family Firm"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About H.G.A",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had the whole house redecorated \u2014 living room, bedrooms, hallway. Tony and the lads were brilliant. Very tidy, worked efficiently, and the finish is immaculate. They moved furniture, protected everything, and tidied up at the end of each day. Would absolutely use them again.",
+      "author": "Michael T.",
+      "loc": "Sholing, Southampton \u2014 September 2024"
+    },
+    {
+      "text": "Got a quote from H.G.A for external painting and rendering prep. Price was fair, no hidden extras, and they stuck to the timeline. The work quality is excellent \u2014 can already tell it'll hold up well through the winters. Highly recommend them.",
+      "author": "Claire W.",
+      "loc": "Totton, Southampton \u2014 June 2024"
+    },
+    {
+      "text": "Needed the kitchen and bathroom redecorating. Nightmare finding someone reliable, but H.G.A came recommended by a friend. Professional from start to finish. They matched the existing woodwork perfectly and cleaned up meticulously. Fair price too. Will be calling them back for the upstairs.",
+      "author": "David M.",
+      "loc": "Millbrook, Southampton \u2014 March 2025"
+    }
+  ],
+  "address_sub": "Serving Southampton and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Free quotes available seven days a week",
+  "emergency_banner_text": "Need a quick quote or advice on your decorating project? Call us today \u2014",
+  "footer_description": "H.G.A Property Services is Southampton's choice for professional interior and exterior painting. Expert finishing, honest pricing, trusted locally.",
+  "footer_copyright": "\u00a9 2026 H.G.A Property Services. Registered in England & Wales."
+}
