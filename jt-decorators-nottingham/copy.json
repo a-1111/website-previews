@@ -1,0 +1,107 @@
+{
+  "slug": "jt-decorators-nottingham",
+  "meta_title": "JT Decorators | Painter & Decorator Nottingham",
+  "meta_description": "JT Decorators is your Nottingham painter and decorator. Interior and exterior work, free quotes, professional finish. Call 07876 753724 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Professional Painter & Decorator \u2014 Free Quotes",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Painter & Decorator",
+  "hero_subhead": "Interior and exterior decorating that transforms your home. From feature walls to full room makeovers, we deliver a professional finish on time, every time.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "1000+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Quote Turnaround"
+    }
+  ],
+  "services_heading": "Complete Decorating Services Across Nottingham",
+  "services_subhead": "Whether you need a quick refresh or a complete room transformation, we handle every decorating project with care and precision.",
+  "services": [
+    {
+      "title": "Interior Painting & Decorating",
+      "desc": "Fresh walls, woodwork, and ceilings that brighten your living spaces. We prepare, prime, and paint to a professional standard using quality materials."
+    },
+    {
+      "title": "Exterior Painting & Rendering",
+      "desc": "Protect and refresh your home's exterior with expert masonry and rendering work. Weatherproof coatings that last, from fascias to full house repaints."
+    },
+    {
+      "title": "Feature Walls & Wallpapering",
+      "desc": "Create impact with bold colours, textures, or bespoke wallpaper. Precise hanging and finishing that makes a real statement in any room."
+    },
+    {
+      "title": "Prep & Surface Treatment",
+      "desc": "The foundation of flawless decoration. We strip, sand, fill, and prepare every surface properly \u2014 no shortcuts, no peeling paint after six months."
+    },
+    {
+      "title": "Commercial Painting",
+      "desc": "Shops, offices, and rental properties finished to professional standards. Scheduled work with minimal disruption, and competitive rates for larger projects."
+    },
+    {
+      "title": "Specialist Finishes",
+      "desc": "Textured coatings, faux effects, and bespoke colour matching. We work with premium paints and techniques to achieve the exact look you want."
+    }
+  ],
+  "about_pullquote": "I treat every home like it's my own \u2014 no shortcuts, just honest work and a fair price.",
+  "about_para_1": "JT Decorators was founded on a simple idea: deliver expert, reliable painting and decorating without the inflated bills. Over 15 years, we've built our reputation on thorough preparation, quality materials, and a finish that lasts. We're based in Stapleford and know Nottingham inside out.",
+  "about_para_2": "Our customers return because we listen, we're punctual, and we genuinely care about the result. No rushed jobs or cut corners \u2014 whether it's a single room or a full exterior respray, we approach every project with the same attention to detail. We're proud to be the decorator families in Nottingham trust.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "1000+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "Nottingham",
+      "label": "Local & Reliable"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had the entire downstairs painted during lockdown. JT was professional, tidy, and the work was immaculate. He spotted damp issues we didn't know about and gave honest advice without trying to upsell us. Couldn't ask for better. Recommend him without hesitation.",
+      "author": "Michael T.",
+      "loc": "Beeston, Nottingham \u2014 September 2024"
+    },
+    {
+      "text": "Came to do our kitchen and dining room. Preparation was thorough \u2014 he filled cracks, sanded everything properly. The finish is crisp and clean, exactly what we wanted. Fair price and he was in and out on schedule. Booking him again for the bedrooms.",
+      "author": "Claire M.",
+      "loc": "Mapperley, Nottingham \u2014 July 2024"
+    },
+    {
+      "text": "Needed the outside of the house done before winter. JT quoted quickly, started on time, and weatherproofed everything properly. No mess left behind, and he's already back to do the interior. Reliable bloke, honest prices. Five stars.",
+      "author": "David P.",
+      "loc": "Stapleford, Nottingham \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham and surrounding areas \u2014 local, reliable, professional.",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Free quotes available",
+  "emergency_banner_text": "Need a quick quote or advice? Get in touch today. Call \u2014",
+  "footer_description": "JT Decorators is Nottingham's trusted painter and decorator. Interior, exterior, and specialist finishes with 15+ years of experience.",
+  "footer_copyright": "\u00a9 2026 JT Decorators. All rights reserved."
+}
