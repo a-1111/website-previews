@@ -1,0 +1,107 @@
+{
+  "slug": "new-design-manchester",
+  "meta_title": "New Design | Painter & Decorator Manchester",
+  "meta_description": "New Design is your trusted painter and decorator in Manchester. Interior and exterior painting, decorating, and colour consultancy. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Professional Painters & Decorators \u2014 Manchester",
+  "hero_headline": "Transform Your Space With",
+  "hero_highlight": "Expert Decorating",
+  "hero_subhead": "Interior and exterior painting that revitalises your home or business, completed on time and within budget.",
+  "badge_4": "Free No-Obligation Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "2,000+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical Quote Turnaround"
+    }
+  ],
+  "services_heading": "Complete Painting & Decorating Services Across Manchester",
+  "services_subhead": "From interior wall finishes to exterior repainting and bespoke colour schemes, we handle every detail.",
+  "services": [
+    {
+      "title": "Interior Painting & Decorating",
+      "desc": "Refresh living spaces with expert preparation, primer, and finish coats. We colour-match and offer advice on trending palettes to suit your style."
+    },
+    {
+      "title": "Exterior House Painting",
+      "desc": "Weather-resistant exterior work including woodwork, render, and masonry. We use premium exterior paints that protect against Manchester's elements."
+    },
+    {
+      "title": "Colour Consultancy & Design",
+      "desc": "Unsure what colour scheme works? We provide professional colour advice and mood boards to help you visualise the finished result before any brush touches paint."
+    },
+    {
+      "title": "Commercial & Office Redecorating",
+      "desc": "Minimal disruption scheduling for offices and retail spaces. We work around your business hours and leave sites clean and ready to use."
+    },
+    {
+      "title": "Woodwork & Joinery Finishing",
+      "desc": "Doors, skirting boards, ceilings, and fitted furniture painted and stained to a high finish. All surfaces properly prepared for long-lasting results."
+    },
+    {
+      "title": "Wallpapering & Feature Walls",
+      "desc": "Bespoke wallpaper installation and feature wall creation. Whether textured, patterned, or accent-coloured, we ensure seamless application and perfect alignment."
+    }
+  ],
+  "about_pullquote": "We treat every room like it's our own home\u2014that's the standard.",
+  "about_para_1": "New Design was founded on the principle that painting and decorating should be reliable, transparent, and leave your space transformed. With over 15 years' experience across Manchester's homes and commercial properties, we've built a reputation for meticulous preparation, attention to detail, and honest pricing. Every project\u2014whether a single bedroom or a whole office\u2014receives the same level of care and professionalism.",
+  "about_para_2": "Customers return to us because we listen, communicate clearly throughout the job, and deliver exactly what we promise. We pride ourselves on leaving sites immaculate and finishing on schedule. Whether you need a complete redecoration or specialist colour advice, you'll work with friendly, skilled professionals who understand that your space matters.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Established"
+    },
+    {
+      "num": "2,000+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat & Referral Rate"
+    },
+    {
+      "num": "Greater Manchester",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Manchester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "New Design repainted our lounge and hallway during lockdown. The team was tidy, professional, and finished two days early. They colour-matched the existing woodwork perfectly without us asking. Highly recommend.",
+      "author": "Emma T.",
+      "loc": "Stockport, Manchester \u2014 February 2025"
+    },
+    {
+      "text": "Had our entire house exterior done before winter. Really impressed with the prep work\u2014they didn't cut corners. Paint is holding up brilliantly and the quote they gave matched the final bill exactly. No surprises.",
+      "author": "David M.",
+      "loc": "Wilmslow, Manchester \u2014 December 2024"
+    },
+    {
+      "text": "Small bedroom refresh, but they made it feel like a complete transformation. The colour consultant helped us pick something we'd never have chosen ourselves and it's perfect. Will definitely use again for the rest of the house.",
+      "author": "Sophie K.",
+      "loc": "Manchester City Centre \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving all of Greater Manchester and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Call anytime for a free quote",
+  "emergency_banner_text": "Need your space transformed quickly? Contact us for a free quote and colour consultation \u2014",
+  "footer_description": "New Design specialises in interior and exterior painting and decorating across Manchester. Expert colour advice, timely completion, and meticulous finish on every job.",
+  "footer_copyright": "\u00a9 2026 New Design. Registered in England & Wales."
+}
