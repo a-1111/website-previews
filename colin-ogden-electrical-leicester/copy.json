@@ -1,0 +1,107 @@
+{
+  "slug": "colin-ogden-electrical-leicester",
+  "meta_title": "Colin Ogden Electrical | Electrician Leicester",
+  "meta_description": "Colin Ogden Electrical Services in Leicester. Domestic and commercial electrical work, rewires, fault finding, and installations. Call 07971 115355.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "NICEIC Registered \u2014 Same-Day Callouts Available",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault at home or business in Leicester? Fast diagnosis, honest pricing, and work you can rely on.",
+  "badge_4": "No Hidden Charges",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "1000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "Under 2hrs",
+      "label": "Callout Response"
+    }
+  ],
+  "services_heading": "Electrical Services Across Leicester",
+  "services_subhead": "From emergency repairs to full rewires, Colin handles domestic and commercial work with precision and care.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown circuits, faulty sockets, or lighting issues? We diagnose and fix faults fast, keeping downtime to a minimum."
+    },
+    {
+      "title": "Complete House Rewires",
+      "desc": "Full rewiring brings older homes up to current building regs and cuts fire risk. We plan the work carefully to minimise disruption."
+    },
+    {
+      "title": "New Installations & Upgrades",
+      "desc": "EV chargers, additional sockets, kitchen circuits, or consumer unit replacements \u2014 installed safely and certified."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Shops, offices, and warehouses need reliable electrics. We handle installations, maintenance, and compliance testing."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Intermittent faults, high electricity bills, or safety concerns? We test, diagnose, and fix the root cause."
+    },
+    {
+      "title": "Portable Appliance Testing (PAT)",
+      "desc": "Workplaces and rental properties need regular PAT compliance. We test and certify equipment quickly and thoroughly."
+    }
+  ],
+  "about_pullquote": "I built this business on doing the job right, first time, without the fluff.",
+  "about_para_1": "Colin Ogden started in electrical contracting 18 years ago after becoming frustrated with overpriced, rushed jobs. Today, Colin's reputation is built on honest diagnostic work, clear quotes, and reliable service. Every job is treated with the same care whether it's a quick repair or a full rewire.",
+  "about_para_2": "Customers choose Colin because he listens, explains what needs doing, and won't recommend work you don't need. He's fully NICEIC registered, keeps his knowledge current, and takes pride in leaving every job clean and properly tested. A third of his work comes from repeat customers and their neighbours.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "1000+",
+      "label": "Domestic & Commercial Jobs"
+    },
+    {
+      "num": "70%",
+      "label": "Repeat & Referral Customers"
+    },
+    {
+      "num": "5yrs",
+      "label": "Guarantee on New Work"
+    }
+  ],
+  "reviews_heading": "What Leicester Customers Say",
+  "rating": 4.8,
+  "review_count": 94,
+  "reviews": [
+    {
+      "text": "Had a dodgy socket and power cut to half the kitchen. Colin came out same day, found the problem in minutes, and sorted it safely. Didn't try to sell me work I didn't need. Honest tradesman \u2014 will definitely use again.",
+      "author": "Martin T.",
+      "loc": "Belgrave, Leicester \u2014 January 2025"
+    },
+    {
+      "text": "Rewired our 1970s terrace before we moved in. Colin explained everything clearly, worked methodically, and the house feels so much safer now. Fair price, no mess left behind. Top bloke.",
+      "author": "Rebecca L.",
+      "loc": "Knighton, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Emergency call late on a Friday when our shop went dark. Colin answered, arrived within 90 minutes, and had us back up and running. Professional and efficient. Highly recommend to any business owner.",
+      "author": "David M.",
+      "loc": "City Centre, Leicester \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Leicester and surrounding areas within 15 miles",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency call-outs available",
+  "emergency_banner_text": "Electrical emergency in Leicester? Colin aims to be with you in under 2 hours. Call now \u2014",
+  "footer_description": "Colin Ogden Electrical Services. NICEIC registered electrician in Leicester. Domestic and commercial work, rewires, fault finding, and installations.",
+  "footer_copyright": "\u00a9 2026 Colin Ogden Electrical Services. Registered in England & Wales."
+}
