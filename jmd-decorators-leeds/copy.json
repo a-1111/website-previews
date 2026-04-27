@@ -1,0 +1,107 @@
+{
+  "slug": "jmd-decorators-leeds",
+  "meta_title": "JMD Decorators | Painter & Decorator Leeds",
+  "meta_description": "JMD Decorators is a painter and decorator serving Leeds and Bradford. Interior and exterior work, free quotes, fully insured. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Fully Insured \u2014 Interior & Exterior Specialists",
+  "hero_headline": "Leeds and Bradford's",
+  "hero_highlight": "Trusted Decorators",
+  "hero_subhead": "Professional painting and decorating that transforms your home. Free quotes, no obligation, reliable service every time.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "12+yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Happy customers"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Reputation"
+    },
+    {
+      "num": "48hrs",
+      "label": "Quote turnaround"
+    }
+  ],
+  "services_heading": "Decorating Services Across Leeds and Bradford",
+  "services_subhead": "From interior refreshes to exterior transformations, we handle every aspect of residential and commercial decorating with care and precision.",
+  "services": [
+    {
+      "title": "Interior Decorating",
+      "desc": "Complete interior redecorating including walls, ceilings, woodwork, and feature walls. We prepare surfaces properly so your new finish lasts."
+    },
+    {
+      "title": "Exterior Painting",
+      "desc": "Weatherproof exterior work including fascias, soffits, windows, and doors. Weather-resistant finishes protect your home for years."
+    },
+    {
+      "title": "Feature Walls & Accent Colours",
+      "desc": "Add personality to any room with carefully chosen feature walls and bold accent colours. We help you choose shades that work with your space."
+    },
+    {
+      "title": "Woodwork & Joinery",
+      "desc": "Professional painting and staining of doors, skirting boards, staircases, and built-in joinery. Expert preparation ensures a flawless finish."
+    },
+    {
+      "title": "Commercial Decorating",
+      "desc": "Office refurbishment and commercial interior work completed to schedule, with minimal disruption to your business."
+    },
+    {
+      "title": "Preparation & Problem Solving",
+      "desc": "We don't cut corners on prep work. Damp issues, cracked plaster, and old finishes are tackled properly before painting begins."
+    }
+  ],
+  "about_pullquote": "I started decorating because I wanted to do it right \u2014 properly prepared, no shortcuts, fair price.",
+  "about_para_1": "JMD Decorators has been transforming homes and businesses across Leeds and Bradford for over a decade. We specialise in interior and exterior painting, from small single-room refreshes to complete house renovations. Every job starts with honest preparation and finishes with a result you'll be proud of.",
+  "about_para_2": "We're fully insured, reliable, and we stand behind our work. Our customers return to us time and again because we listen, we communicate, and we deliver on our promises. No high-pressure sales, no hidden costs \u2014 just straightforward, professional decorating.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years trading"
+    },
+    {
+      "num": "500+",
+      "label": "Projects completed"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "2",
+      "label": "Fully insured staff"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About JMD Decorators",
+  "rating": 4.8,
+  "review_count": 47,
+  "reviews": [
+    {
+      "text": "Had my lounge and hallway redecorated by JMD. The whole place looks completely different. They were tidy, professional, and finished on time. Fair price too. Highly recommend.",
+      "author": "Mark T.",
+      "loc": "Meanwood, Leeds \u2014 September 2024"
+    },
+    {
+      "text": "Brilliant job on our exterior. The woodwork needed a lot of prep work and they didn't skip it. Paint's holding up really well through the winter. Very pleased.",
+      "author": "Susan H.",
+      "loc": "Alwoodley, Leeds \u2014 November 2024"
+    },
+    {
+      "text": "Can't fault JMD. Did a feature wall in our bedroom and the finish is perfect. Clear communication from start to finish, friendly lads, and left the place spotless. Will definitely use them again.",
+      "author": "David P.",
+      "loc": "Bierley, Bradford \u2014 July 2024"
+    }
+  ],
+  "address_sub": "Serving Leeds, Bradford, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Flexible appointments available",
+  "emergency_banner_text": "Need a quick refresh or full redecoration? Get a free, no-obligation quote. Call now \u2014",
+  "footer_description": "JMD Decorators specialises in interior and exterior painting across Leeds and Bradford. Fully insured, professional, reliable.",
+  "footer_copyright": "\u00a9 2026 JMD Decorators. All rights reserved."
+}
