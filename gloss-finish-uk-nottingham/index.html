@@ -20,18 +20,12 @@
     "telephone": "07929 332166",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "
-12 Charlock Cl",
+      "streetAddress": "12 Charlock Cl",
       "addressLocality": "Nottingham",
       "postalCode": "NG5 9RY",
       "addressCountry": "GB"
     },
-    "openingHours": ["Mo-Fr 07:30-18:00", "Sa 08:00-14:00"],
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.9",
-      "reviewCount": "47"
-    }
+    "openingHours": ["Mo-Sa 08:00-18:00"]
   }
   </script>
 
@@ -941,12 +935,12 @@
       text-decoration: none;
     }
     .nav-logo img {
-      height: 48px;
-      width: 48px;
-      border-radius: 50%;
-      object-fit: cover;
+      height: 64px;
+      width: auto;
+      border-radius: 8px;
+      object-fit: contain;
       flex-shrink: 0;
-      box-shadow: 0 0 0 2px rgba(245,158,11,0.4);
+      filter: drop-shadow(0 2px 12px rgba(0,0,0,0.5));
     }
     .nav-logo-text {
       font-family: 'Poppins', sans-serif;
@@ -964,10 +958,10 @@
       margin-bottom: 12px;
     }
     .footer-nav-logo img {
-      height: 44px;
-      width: 44px;
-      border-radius: 50%;
-      object-fit: cover;
+      height: 56px;
+      width: auto;
+      border-radius: 6px;
+      object-fit: contain;
       flex-shrink: 0;
     }
     .footer-nav-logo span {
@@ -986,7 +980,7 @@
   <header>
     <nav id="nav">
       <div class="container nav-inner">
-        <a href="#" class="nav-logo"><img src="logo_cropped.png" alt="Gloss Finish UK" width="48" height="48" /><span class="nav-logo-text">Gloss Finish UK</span></a>
+        <a href="#" class="nav-logo"><img src="logo_cropped.png" alt="Gloss Finish UK" width="64" height="64" /><span class="nav-logo-text">Gloss Finish UK</span></a>
 
         <ul class="nav-links">
           <li><a href="#services">Services</a></li>
@@ -1051,7 +1045,7 @@
         </span>
         <span class="badge-pill">
           <svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
-          4.9★ on Google (47 reviews)
+          Established 2000
         </span>
         <span class="badge-pill">
           <svg viewBox="0 0 24 24" fill="currentColor"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
@@ -1067,7 +1061,7 @@
     <div class="container">
       <div class="stats-grid">
         <div class="stat-item fade-up">
-          <div class="stat-number">15+</div>
+          <div class="stat-number">25+</div>
           <div class="stat-label">Years' Trade Experience</div>
         </div>
         <div class="stat-item fade-up fade-up-delay-1">
@@ -1075,8 +1069,8 @@
           <div class="stat-label">Trades Under One Roof</div>
         </div>
         <div class="stat-item fade-up fade-up-delay-2">
-          <div class="stat-number">4.9★</div>
-          <div class="stat-label">Customer Satisfaction</div>
+          <div class="stat-number">Free</div>
+          <div class="stat-label">No-Obligation Quotes</div>
         </div>
         <div class="stat-item fade-up fade-up-delay-3">
           <div class="stat-number">NG1–NG16</div>
@@ -1162,7 +1156,7 @@
         <div class="about-right">
           <span class="section-label fade-up">Our Story</span>
           <p class="fade-up fade-up-delay-1">
-            Gloss Finish UK is run by a sole, hands-on tradesman based in Nottingham NG5, with over fifteen years working across painting, decorating, plastering, and plumbing. Every job is done personally — there are no subcontractors, no strangers in your home, and no one passing the buck when something needs sorting.
+            Gloss Finish UK is run by a sole, hands-on tradesman based in Nottingham NG5, with over 25 years working across painting, decorating, plastering, and plumbing. Every job is done personally — there are no subcontractors, no strangers in your home, and no one passing the buck when something needs sorting.
           </p>
           <p class="fade-up fade-up-delay-2">
             Customers come back because the work holds up and the communication is straight. A quote means what it says, the site is left tidy, and if a second trade is needed — plumbing before tiling, plastering before painting — it gets done in the right order by the same person who understands the full job. That's the practical advantage of a genuinely multi-skilled tradesman.
@@ -1170,7 +1164,7 @@
 
           <div class="about-stats fade-up fade-up-delay-3">
             <div class="about-stat">
-              <div class="about-stat-num">15+</div>
+              <div class="about-stat-num">25+</div>
               <div class="about-stat-lbl">Years' Experience</div>
             </div>
             <div class="about-stat">
@@ -1201,13 +1195,7 @@
           <span class="section-label fade-up">Customer Reviews</span>
           <h2 class="section-heading fade-up fade-up-delay-1">What Nottingham Homeowners Say About Gloss Finish UK</h2>
         </div>
-        <div class="reviews-rating-badge fade-up fade-up-delay-2">
-          <div class="reviews-big-num">4.9</div>
-          <div>
-            <div class="reviews-stars">★★★★★</div>
-            <div class="reviews-count">47 Google reviews</div>
-          </div>
-        </div>
+
       </div>
 
       <div class="reviews-grid">
@@ -1255,7 +1243,7 @@
           <div>
             <div class="contact-detail-label">Phone</div>
             <div class="contact-detail-value"><a href="tel:07929332166">07929 332166</a></div>
-            <div class="contact-detail-sub">Sat: 8am – 2pm • Call or message anytime for a quote</div>
+            <div class="contact-detail-sub">Call or message any time for a quote</div>
           </div>
         </div>
 
@@ -1277,8 +1265,8 @@
           </div>
           <div>
             <div class="contact-detail-label">Opening Hours</div>
-            <div class="contact-detail-value">Mon–Fri: 7:30am – 6pm</div>
-            <div class="contact-detail-sub">Sat: 8am – 2pm • Call or message anytime for a quote</div>
+            <div class="contact-detail-value">Monday – Saturday</div>
+            <div class="contact-detail-sub">Call any time for a free quote</div>
           </div>
         </div>
 
@@ -1338,7 +1326,7 @@
       <div class="footer-top">
 
         <div class="footer-brand">
-          <div class="footer-nav-logo"><img src="logo_cropped.png" alt="Gloss Finish UK" width="44" height="44" /><span>Gloss Finish UK</span></div>
+          <div class="footer-nav-logo"><img src="logo_cropped.png" alt="Gloss Finish UK" width="56" height="56" /><span>Gloss Finish UK</span></div>
           <p>Gloss Finish UK is a Nottingham-based painter, decorator, and property maintenance specialist. One reliable tradesman covering decorating, plastering, plumbing, and repairs across NG postcodes.</p>
           <a href="tel:07929332166" class="footer-phone-link">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 10.8 19.79 19.79 0 01.01 2.18 2 2 0 012 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 7.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 14.92z"/></svg>
