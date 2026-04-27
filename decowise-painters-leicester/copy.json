@@ -1,0 +1,107 @@
+{
+  "slug": "decowise-painters-leicester",
+  "meta_title": "DecoWise Painters | Decorator Leicester",
+  "meta_description": "DecoWise Painters in Leicester delivers interior and exterior decorating with precision and care. Free quotes, fully insured. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:30-18:00",
+    "Sa 08:00-16:00"
+  ],
+  "hero_eyebrow": "Fully Insured \u2022 Interior & Exterior Specialists",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Painter and Decorator",
+  "hero_subhead": "Transform your home with expert painting and decorating. Free quotes, no mess, on-time every time.",
+  "badge_4": "Free Quotations",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "850+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "7 Days",
+      "label": "Typical Turnaround"
+    }
+  ],
+  "services_heading": "Complete Painting & Decorating Services Across Leicester",
+  "services_subhead": "From interior refreshes to full exterior transformations, we handle every job with precision and professionalism.",
+  "services": [
+    {
+      "title": "Interior Painting & Decorating",
+      "desc": "Fresh walls, ceilings, and woodwork that transform living spaces. We prepare surfaces properly and use premium paints for a finish that lasts."
+    },
+    {
+      "title": "Exterior Painting & Weatherproofing",
+      "desc": "Protect and beautify your property's frontage. Masonry, render, and timber painted to withstand Leicester's weather with colour that won't fade."
+    },
+    {
+      "title": "Feature Walls & Accent Colours",
+      "desc": "Create focal points that bring character to any room. We advise on colour psychology and execute flawless applications, including textured finishes."
+    },
+    {
+      "title": "Woodwork & Joinery Painting",
+      "desc": "Doors, skirting, architraves, and kitchen units restored to showroom condition. Multi-step sanding and priming ensures professional, durable results."
+    },
+    {
+      "title": "Commercial Repainting & Maintenance",
+      "desc": "Keep office, retail, and industrial spaces looking fresh and inviting. Fast turnaround, minimal disruption, and scheduled maintenance plans available."
+    },
+    {
+      "title": "Wallpapering & Wall Coverings",
+      "desc": "Straight seams, pattern matching, and flawless finishes on all wall types. We strip old paper, prepare walls, and hang new coverings with precision."
+    }
+  ],
+  "about_pullquote": "I paint every wall like I'm preparing my own home for a special occasion.",
+  "about_para_1": "DecoWise Painters was founded on a simple idea: decorating should be stress-free and affordable. Over 12 years, we've built a reputation across Leicester for turning tired rooms into spaces families love. We take pride in understanding what our customers want and delivering it on time, every time.",
+  "about_para_2": "Our customers return because we're reliable, tidy, and honest about pricing. We don't cut corners\u2014proper surface prep, quality materials, and attention to detail are non-negotiable. Whether it's a single bedroom or a full commercial refresh, we treat every project as our own.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years Experience"
+    },
+    {
+      "num": "850+",
+      "label": "Homes Transformed"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "Leicester & Suburbs",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About DecoWise",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had the lounge redecorated and couldn't be happier. The team were professional, tidy, and finished on schedule. Colour advice was spot on. Will definitely use them again.",
+      "author": "Margaret T.",
+      "loc": "Oadby, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Needed exterior work done before winter. DecoWise quoted fairly and got the job done in good time despite the weather. No faffing about, just good honest work.",
+      "author": "David P.",
+      "loc": "Stoneygate, Leicester \u2014 September 2024"
+    },
+    {
+      "text": "They wallpapered three rooms and the kitchen. Pattern matching was flawless and there's not a single bubble or wrinkle. Highly recommended. Great lads.",
+      "author": "Rachel H.",
+      "loc": "Clarendon Park, Leicester \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving Leicester, Oadby, Stoneygate, Clarendon Park, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7:30am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 Emergency decorating by arrangement",
+  "emergency_banner_text": "Need a quick redecoration before guests arrive? Get your free quote today. Call \u2014",
+  "footer_description": "DecoWise Painters transforms Leicester homes and businesses with expert interior and exterior decorating. Fully insured, free quotes, reliable service.",
+  "footer_copyright": "\u00a9 2026 DecoWise Painters Ltd. All rights reserved."
+}
