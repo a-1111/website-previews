@@ -1,0 +1,107 @@
+{
+  "slug": "painter4u-southampton",
+  "meta_title": "Painter4u | Painter & Decorator Southampton",
+  "meta_description": "Painter4u Southampton offers interior and exterior painting, decorating, and wallpapering. Local painter with free quotes and attention to detail.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local Painter & Decorator \u2014 Southampton",
+  "hero_headline": "Your Home Deserves",
+  "hero_highlight": "Better Paintwork",
+  "hero_subhead": "Professional interior and exterior painting across Southampton. Free quotes, no mess, stunning results.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "500+",
+      "label": "Properties painted"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    },
+    {
+      "num": "24hr",
+      "label": "Response time"
+    }
+  ],
+  "services_heading": "Complete Painting & Decorating Services in Southampton",
+  "services_subhead": "From room refreshes to full exterior transformations, we handle every paintwork project with precision and care.",
+  "services": [
+    {
+      "title": "Interior Painting",
+      "desc": "Bedroom, lounge, kitchen, and bathroom painting using premium finishes. We prep properly, protect your furniture, and leave no mess behind."
+    },
+    {
+      "title": "Exterior Painting",
+      "desc": "Weatherproof exterior paint for fascias, soffits, doors, and walls. We use trade-grade paints that last, even in Southampton's damp climate."
+    },
+    {
+      "title": "Wallpapering",
+      "desc": "Pattern matching, feature walls, and full-room papering. We remove old paper cleanly and hang new with precision for a polished finish."
+    },
+    {
+      "title": "Woodwork & Staining",
+      "desc": "Doors, skirting boards, and window frames painted or stained to bring out natural wood grain or match your colour scheme exactly."
+    },
+    {
+      "title": "Textured Coatings",
+      "desc": "Artex removal, polished plaster, and decorative finishes to add character and hide imperfections in aging walls."
+    },
+    {
+      "title": "Maintenance Repaints",
+      "desc": "Regular repaints to refresh tired rooms or protect exterior surfaces. We assess damage, prepare surfaces, and apply lasting colour."
+    }
+  ],
+  "about_pullquote": "We treat every home like it's our own. That's how we work.",
+  "about_para_1": "Painter4u has been transforming Southampton homes for over a decade. Started by a tradesperson frustrated with sloppy finish work, we've grown on the back of meticulous surface prep, quality paints, and customers who recommend us to their neighbours. We're based locally on Beechmount Road and pride ourselves on showing up on time, working clean, and leaving your home looking like you've just moved in.",
+  "about_para_2": "Repeat customers make up over 70% of our work \u2014 a sign that we deliver on our promises. You won't get rushed paint jobs or cut corners here. We take time to understand your vision, source the right finishes for your space, and ensure every wall, door, and trim is finished to gallery standards.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "Experience in Southampton"
+    },
+    {
+      "num": "70%+",
+      "label": "Repeat & referral clients"
+    },
+    {
+      "num": "500+",
+      "label": "Homes completed"
+    },
+    {
+      "num": "Same-day",
+      "label": "Free quote on request"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Had the hallway and stairs redecorated. The lads were brilliant \u2014 minimal fuss, protective sheets everywhere, and the finish is flawless. Looks like a brand-new house. Highly recommend.",
+      "author": "Michael T.",
+      "loc": "Shirley, Southampton \u2014 January 2025"
+    },
+    {
+      "text": "We needed our kitchen repainted and weren't sure about colour. James spent time explaining finishes and helped us pick something that actually suits the room. Work was tidy, timely, and excellent value. Will definitely have them back.",
+      "author": "Claire M.",
+      "loc": "Totton, Southampton \u2014 November 2024"
+    },
+    {
+      "text": "Exterior of the house needed work badly. They sorted the fascias, soffits, and redecorated the front door. Three weeks later it still looks pristine. Professional outfit. No complaints whatsoever.",
+      "author": "David L.",
+      "loc": "Hedge End, Southampton \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Southampton, Totton, Hedge End, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Free quotes available on request",
+  "emergency_banner_text": "Need a quote or want to discuss your project? Get in touch today \u2014",
+  "footer_description": "Painter4u is a local Southampton painter and decorator specialising in interior and exterior work. Free quotes, professional finishes, trusted by local homeowners.",
+  "footer_copyright": "\u00a9 2026 Painter4u. All rights reserved."
+}
