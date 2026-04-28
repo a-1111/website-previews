@@ -1,0 +1,107 @@
+{
+  "slug": "saul-mitchell-interiors-southampton",
+  "meta_title": "Saul Mitchell Interiors | Interior Decorator Southampton",
+  "meta_description": "Saul Mitchell Interiors transforms homes across Southampton with bespoke interior design and decoration. Expert colour advice, styling, and project management. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 09:00-17:00",
+    "Sa 10:00-14:00"
+  ],
+  "hero_eyebrow": "Award-Winning Interior Design \u2014 Free Consultation",
+  "hero_headline": "Transform Your Home",
+  "hero_highlight": "With Expert Interiors",
+  "hero_subhead": "From colour schemes to complete room makeovers, Saul Mitchell Interiors brings your vision to life in Southampton with meticulous attention to detail.",
+  "badge_4": "Free Design Consultation",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading experience"
+    },
+    {
+      "num": "500+",
+      "label": "Projects completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer satisfaction"
+    },
+    {
+      "num": "100%",
+      "label": "Client retention rate"
+    }
+  ],
+  "services_heading": "Complete Interior Design & Decoration Services Southampton",
+  "services_subhead": "We specialise in residential interiors, from colour consultation and styling to full project management and bespoke installations.",
+  "services": [
+    {
+      "title": "Colour Consultation & Scheme Design",
+      "desc": "Expert colour advice tailored to your home's natural light, style, and personality. We create harmonious palettes that enhance every room and tie your interior together seamlessly."
+    },
+    {
+      "title": "Interior Styling & Decorating",
+      "desc": "Professional room styling, wall treatments, and decorative finishes. We source quality materials and oversee every detail, transforming spaces into homes you'll love living in."
+    },
+    {
+      "title": "Wallpaper & Wall Finishes",
+      "desc": "Bespoke wallpaper selection and expert hanging, including feature walls, textured finishes, and paint treatments. We work with premium brands to create lasting, beautiful results."
+    },
+    {
+      "title": "Soft Furnishings & Upholstery",
+      "desc": "Curated soft furnishings, made-to-measure curtains, blinds, and upholstery work. Every piece is chosen to complement your scheme and withstand daily life in a busy home."
+    },
+    {
+      "title": "Room Makeovers & Refurbishment",
+      "desc": "End-to-end room transformation from concept to completion. We manage architects, builders, and suppliers so you can sit back and watch your dream space become reality."
+    },
+    {
+      "title": "Commercial Interior Design",
+      "desc": "Professional styling for offices, retail spaces, and hospitality venues. We create branded, functional interiors that impress clients and boost your business environment."
+    }
+  ],
+  "about_pullquote": "I believe every home deserves to reflect who you are, not what magazines say you should like.",
+  "about_para_1": "Saul Mitchell established his interior design practice in Southampton over 18 years ago, driven by a passion for transforming ordinary spaces into extraordinary homes. With a keen eye for colour, texture, and spatial flow, Saul has built a reputation for listening to clients, understanding their lifestyle, and delivering interiors that stand the test of time. His work spans residential homes across the South Coast to boutique commercial projects.",
+  "about_para_2": "Clients return to Saul again and again because he treats every project with care, manages timelines and budgets with precision, and never settles for mediocre results. He sources the finest materials, works with trusted tradespeople, and sees projects through from first sketch to final flourish. Whether you're refreshing a single room or redesigning your entire home, Saul's expertise and dedication ensure a process that's enjoyable and a result that's exceptional.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "500+",
+      "label": "Happy clients"
+    },
+    {
+      "num": "40+",
+      "label": "Projects per year"
+    },
+    {
+      "num": "Southampton",
+      "label": "Local base, South Coast reach"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Saul transformed our tired 1970s lounge into something we can't stop showing friends. He listened to what we wanted, didn't push us towards anything too trendy, and the colours he suggested suit the light in the room perfectly. Professional, friendly, and fair priced. Couldn't ask for more.",
+      "author": "Margaret T.",
+      "loc": "Shirley, Southampton \u2014 November 2024"
+    },
+    {
+      "text": "We had no idea how to tackle our kitchen diner. Saul came in, spent time understanding how we live, and put together a scheme that feels both modern and timeless. The execution was flawless. He coordinated everything and kept disruption to a minimum. Highly recommend.",
+      "author": "David K.",
+      "loc": "Totton, Southampton \u2014 August 2024"
+    },
+    {
+      "text": "After three failed attempts with other designers, Saul got it right first time. He understands scale, proportion, and how to make a small space feel bigger without gimmicks. The soft furnishings are gorgeous and wearing beautifully. Best investment we've made in our home.",
+      "author": "Jessica R.",
+      "loc": "Bitterne, Southampton \u2014 February 2025"
+    }
+  ],
+  "address_sub": "Based in Southampton, serving the South Coast and beyond",
+  "opening_hours_main": "Mon\u2013Fri: 9am \u2013 5pm",
+  "opening_hours_sub": "Sat: 10am \u2013 2pm \u2022 Evening and weekend appointments by arrangement",
+  "emergency_banner_text": "Ready to start your interior transformation? Get a free design consultation \u2014",
+  "footer_description": "Saul Mitchell Interiors specialises in bespoke interior design and decoration across Southampton and the South Coast. 18 years of expert colour advice, styling, and project management.",
+  "footer_copyright": "\u00a9 2026 Saul Mitchell Interiors. All rights reserved."
+}
