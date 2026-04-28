@@ -1,0 +1,107 @@
+{
+  "slug": "winfields-painter-decorator-leicester",
+  "meta_title": "Winfields | Painter & Decorator Leicester",
+  "meta_description": "Winfields is a Leicester painter and decorator specialising in interior and exterior work. Professional finishes, competitive quotes. Call 07800 878276.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:30",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Professional Painter & Decorator \u2014 Leicester & Surrounding Areas",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Painter and Decorator",
+  "hero_subhead": "From feature walls to full house redecorating, we deliver pristine finishes on time and within budget.",
+  "badge_4": "Free Detailed Quotes",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading experience"
+    },
+    {
+      "num": "2,000+",
+      "label": "Properties decorated"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical quote turnaround"
+    }
+  ],
+  "services_heading": "Complete Painting & Decorating Services in Leicester",
+  "services_subhead": "Whether you need a quick refresh or a complete redecoration, we handle interior and exterior projects with care and attention to detail.",
+  "services": [
+    {
+      "title": "Interior Painting",
+      "desc": "Full room repaints, woodwork, ceilings, and accent walls. We prep properly, use quality paints, and leave your home spotless."
+    },
+    {
+      "title": "Exterior Painting",
+      "desc": "Weather-resistant exterior work including fascias, soffits, doors, and garden fencing. Built to last through Leicester winters."
+    },
+    {
+      "title": "Feature Walls & Wallpapering",
+      "desc": "Bold colour schemes, textured finishes, and professional wallpaper hanging. Transform a room in days, not weeks."
+    },
+    {
+      "title": "Domestic Redecoration",
+      "desc": "Complete house updates from hall to kitchen. We schedule work around your life and protect your furniture and floors."
+    },
+    {
+      "title": "Commercial Painting",
+      "desc": "Shops, offices, and rental properties repainted to specification. Quick turnarounds and minimal disruption to your business."
+    },
+    {
+      "title": "Preparation & Repairs",
+      "desc": "Crack filling, surface prep, and minor plasterwork. We never cut corners \u2014 a good finish starts beneath the paint."
+    }
+  ],
+  "about_pullquote": "I started this business because I hated seeing rushed, sloppy painting jobs.",
+  "about_para_1": "Winfields was founded in 2006 by a painter who believed Leicester homeowners deserved better than cowboys and cowboys' mates. Over 18 years, we've built a reputation for showing up on time, doing the job right, and leaving your home cleaner than we found it. We've decorated over 2,000 homes and commercial properties across Leicestershire.",
+  "about_para_2": "Our customers come back because we listen to what you actually want, not what we think you should have. We prep surfaces properly, use premium paints, and we're honest about timescales and cost. Repeat work and word-of-mouth referrals make up most of our jobs \u2014 that tells you everything you need to know.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "2,000+",
+      "label": "Properties completed"
+    },
+    {
+      "num": "78%",
+      "label": "Repeat & referral work"
+    },
+    {
+      "num": "Leicestershire",
+      "label": "Service area"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Winfields",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Had the whole lounge and hallway done. Dave turned up exactly when he said he would, got the colour spot on, and the finish is immaculate. No mess, no faffing about, just a professional job. Honestly can't fault him.",
+      "author": "Michael T.",
+      "loc": "Blaby, Leicester \u2014 October 2024"
+    },
+    {
+      "text": "We needed our exterior painted before selling. Got three quotes, Winfields came in competitive and they delivered early. The work is brilliant quality and they left the garden tidy. Highly recommend if you want it done properly.",
+      "author": "Sarah K.",
+      "loc": "Oadby, Leicester \u2014 August 2024"
+    },
+    {
+      "text": "Painted three bedrooms and the kitchen. Communication was great, tidied up every day, and the finish is so crisp. Worth every penny. Will definitely call them again when we need the downstairs doing.",
+      "author": "James P.",
+      "loc": "Wigston, Leicester \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving Leicester, Blaby, Oadby, Wigston, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5:30pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Site visits by arrangement",
+  "emergency_banner_text": "Need your home redecorated? Get a free, no-obligation quote today. Call \u2014",
+  "footer_description": "Winfields paints and decorates homes across Leicester and beyond. 18 years of professional interior and exterior work, delivered on time and on budget.",
+  "footer_copyright": "\u00a9 2026 Winfields Painting & Decorating. All rights reserved."
+}
