@@ -1,0 +1,106 @@
+{
+  "slug": "the-lock-dr-southampton",
+  "meta_title": "The Lock Dr | Emergency Locksmith Southampton",
+  "meta_description": "The Lock Dr is Southampton's trusted emergency locksmith. Locked out? We arrive fast, 24/7. Fair prices, no call-out charge. Call now.",
+  "schema_opening_hours": [
+    "Mo-Su 00:00-23:59"
+  ],
+  "hero_eyebrow": "24/7 Emergency Response \u2014 Under 60 Minutes",
+  "hero_headline": "Locked out in",
+  "hero_highlight": "Southampton?",
+  "hero_subhead": "Locked out of your home or car in Southampton? We arrive fast, any time of day or night, with fair prices and no hidden charges.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "24/7",
+      "label": "Always available"
+    },
+    {
+      "num": "Under 60 mins",
+      "label": "Average response time"
+    },
+    {
+      "num": "500+",
+      "label": "Callouts per year"
+    },
+    {
+      "num": "10+ yrs",
+      "label": "Local experience"
+    }
+  ],
+  "services_heading": "Emergency Locksmith Services Across Southampton",
+  "services_subhead": "From locked-out homes and cars to broken locks and emergency access, we handle every locksmith job quickly and fairly.",
+  "services": [
+    {
+      "title": "Emergency Lockout",
+      "desc": "Locked out of your home or flat? We arrive within the hour, non-destructively open your door, and get you back inside. No call-out charge."
+    },
+    {
+      "title": "Car Unlocking",
+      "desc": "Keys locked in your car? We open vehicles quickly without damage, whether you're in the city centre or the suburbs."
+    },
+    {
+      "title": "Lock Repair & Replacement",
+      "desc": "Broken or jammed locks repaired or replaced the same day. We fit high-security locks and multipoint systems to keep you safe."
+    },
+    {
+      "title": "Boarding Up & Emergency Access",
+      "desc": "Break-in or forced entry? We secure your property with temporary boarding and arrange permanent repairs, available 24/7."
+    },
+    {
+      "title": "Lock Installation",
+      "desc": "New locks fitted for new homes, rentals, or security upgrades. We supply and install BS3621 locks and modern smart locks."
+    },
+    {
+      "title": "Landlord & Inventory Services",
+      "desc": "Fast, reliable lock checks and changes for rental properties. Ideal for lettings agencies and portfolio landlords across Southampton."
+    }
+  ],
+  "about_pullquote": "I answer the phone myself because every locked-out customer deserves a real person, not a call centre.",
+  "about_para_1": "The Lock Dr started over a decade ago when I got tired of seeing customers overcharged for emergency locksmith work. I wanted to offer honest pricing, fast response, and the kind of personal service that builds trust. Today, we're Southampton's go-to emergency locksmith \u2014 handling hundreds of call-outs every year, from locked-out homeowners to commercial clients who need urgent access.",
+  "about_para_2": "What sets us apart is our speed and fairness. We don't charge call-out fees, we turn up on time, and we give you the price before we start work. Our customers come back because we treat every job with respect and solve problems without the drama. Whether it's 3am on a Sunday or Tuesday morning, we're here for you.",
+  "about_stats": [
+    {
+      "num": "10+ yrs",
+      "label": "Operating in Southampton"
+    },
+    {
+      "num": "500+",
+      "label": "Callouts annually"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat & referral clients"
+    }
+  ],
+  "reviews_heading": "What Southampton Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Locked myself out at half eleven at night. Called The Lock Dr thinking I'd be waiting hours, but the lad was here in 40 minutes. Sorted me out, fair price, and didn't make me feel like an idiot. Top job.",
+      "author": "Marcus T.",
+      "loc": "Shirley, Southampton \u2014 November 2024"
+    },
+    {
+      "text": "Had a break-in on the Friday evening. Called at 9pm expecting to be waiting till Monday. The Lock Dr boarded me up the same night and came back Saturday morning to fit new locks. Professional, fast, and honest pricing. Really impressed.",
+      "author": "Jennifer K.",
+      "loc": "Totton, Southampton \u2014 February 2025"
+    },
+    {
+      "text": "Our letting agent recommended The Lock Dr for an emergency lockout. Agent wasn't picking up, keys were lost somewhere, and our tenants were stuck outside. They got there in under an hour, no fuss, no call-out charge. Will definitely use them again.",
+      "author": "David P.",
+      "loc": "Redbridge, Southampton \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Southampton and surrounding areas, 24 hours a day",
+  "opening_hours_main": "24 hours a day, 7 days a week",
+  "opening_hours_sub": "Emergency response \u2014 no time is too late, no location too far",
+  "emergency_banner_text": "Locked out right now? We arrive in under 60 minutes, day or night. Call now \u2014",
+  "footer_description": "The Lock Dr is Southampton's trusted 24/7 emergency locksmith. Fast response, fair pricing, no call-out charge.",
+  "footer_copyright": "\u00a9 2026 The Lock Dr. All rights reserved."
+}
