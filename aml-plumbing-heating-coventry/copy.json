@@ -1,0 +1,107 @@
+{
+  "slug": "aml-plumbing-heating-coventry",
+  "meta_title": "AML Plumbing & Heating | Emergency Plumber Coventry",
+  "meta_description": "AML Plumbing & Heating Coventry provides emergency plumbing, boiler repair, and heating installation. Gas Safe registered. Same-day service available. Call now.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Callouts",
+  "hero_headline": "Coventry's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe at 2am? We arrive within an hour, any time of day or night, across Coventry and beyond.",
+  "badge_4": "Same-Day Repairs",
+  "stats": [
+    {
+      "num": "20+",
+      "label": "Years' Experience"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average Response Time"
+    },
+    {
+      "num": "500+",
+      "label": "Local Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Coventry",
+  "services_subhead": "From emergency burst pipes to full boiler installations, we handle every plumbing and heating job with speed and expertise.",
+  "services": [
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, flooding, or blocked drains at any hour. We arrive equipped to diagnose and fix the problem the same day, minimising water damage to your home."
+    },
+    {
+      "title": "Boiler Repair & Servicing",
+      "desc": "Fast boiler repairs with parts carried on the van. Annual servicing keeps your heating efficient and safe, reducing breakdowns during winter."
+    },
+    {
+      "title": "Boiler Installation",
+      "desc": "New combi, system, and conventional boiler installations. We handle all pipework, controls, and testing, with a 10-year parts and labour warranty."
+    },
+    {
+      "title": "Heating System Design",
+      "desc": "Bespoke heating solutions for homes of all sizes. We survey your property, calculate the right boiler capacity, and install radiators and controls tailored to your needs."
+    },
+    {
+      "title": "Radiator Installation & Repair",
+      "desc": "Adding or replacing radiators to balance your heating. We balance systems to ensure every room heats evenly and efficiently."
+    },
+    {
+      "title": "Pipework & Leak Detection",
+      "desc": "Hidden leaks found and repaired without unnecessary wall damage. We use modern detection methods and carry a full range of copper, plastic, and compression fittings."
+    }
+  ],
+  "about_pullquote": "I started this business because I was tired of seeing homeowners overcharged by cowboys.",
+  "about_para_1": "AML Plumbing & Heating was founded on the principle that honest work and fair pricing should go hand in hand. Over two decades, we've built a loyal customer base across Coventry and the surrounding areas by turning up on time, doing the job right, and explaining everything as we go. We're Gas Safe registered and fully insured for all plumbing and heating work.",
+  "about_para_2": "Our customers trust us because we don't oversell. If a radiator valve can be repaired, we repair it. If a boiler needs replacing, we'll explain why and give you the options. Repeat bookings and word-of-mouth referrals make up most of our work \u2014 a testament to the service we've delivered year after year.",
+  "about_stats": [
+    {
+      "num": "20+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "Gas Safe",
+      "label": "Registered Engineer"
+    },
+    {
+      "num": "Coventry & Beyond",
+      "label": "Coverage Area"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat Customers"
+    }
+  ],
+  "reviews_heading": "What Coventry Homeowners Say About AML",
+  "rating": 4.8,
+  "review_count": 47,
+  "reviews": [
+    {
+      "text": "Called AML at 11pm on a Sunday with a burst pipe under the kitchen. Mark arrived within 45 minutes, found the problem straight away, and had the water off and pipe capped before midnight. Came back Monday morning and replaced the section properly. Couldn't ask for better service. Highly recommend.",
+      "author": "David T.",
+      "loc": "Keresley, Coventry \u2014 January 2025"
+    },
+    {
+      "text": "My boiler kept cutting out. I'd had three other engineers out and nobody could fix it. AML came round, diagnosed a dodgy valve within 20 minutes, and replaced it for \u00a3180. System's been running perfectly for three months now. Fair price, no faffing about. Will use them again.",
+      "author": "Christine W.",
+      "loc": "Stoke, Coventry \u2014 November 2024"
+    },
+    {
+      "text": "Had a full heating system install \u2014 new boiler, new radiators, new pipework. The lads were tidy, professional, and explained everything. Very impressed with the workmanship. Been warm all winter and the boiler's remarkably quiet. Worth every penny.",
+      "author": "James H.",
+      "loc": "Coventry City Centre \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Coventry, Keresley, and surrounding areas within a 15-mile radius.",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Burst pipe or boiler breakdown? We aim to be with you in under an hour. Call now \u2014",
+  "footer_description": "AML Plumbing & Heating provides emergency plumbing, boiler repair, and heating installation across Coventry. Gas Safe registered, same-day service available.",
+  "footer_copyright": "\u00a9 2026 AML Plumbing & Heating Ltd. Registered in England & Wales."
+}
