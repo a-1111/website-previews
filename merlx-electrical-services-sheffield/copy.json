@@ -1,0 +1,107 @@
+{
+  "slug": "merlx-electrical-services-sheffield",
+  "meta_title": "Merlx Electrical | Electrician Sheffield",
+  "meta_description": "Merlx Electrical Services in Sheffield. Domestic and commercial electrical work, rewires, testing and inspections. Fast, reliable, fully certified. Call 07493 113103.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Fully Certified \u2022 24/7 Emergency Support",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Electrical Experts",
+  "hero_subhead": "Blown fuse or faulty wiring in Sheffield? We diagnose and fix electrical faults fast, with no hidden charges.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "In business"
+    },
+    {
+      "num": "800+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "60 mins",
+      "label": "Avg response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Sheffield",
+  "services_subhead": "From emergency repairs to full rewires, we handle domestic and commercial electrical work with precision and care.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Power cuts, faulty sockets, and burning smells demand immediate action. We attend call-outs within the hour and carry full diagnostic equipment on the van."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Old wiring poses fire and safety risks. We replace outdated systems with modern, compliant installations and test every circuit before completion."
+    },
+    {
+      "title": "Periodic Electrical Testing",
+      "desc": "Annual inspections protect your home and satisfy insurance requirements. We produce a detailed report and flag any work needed."
+    },
+    {
+      "title": "New Circuit Installation",
+      "desc": "Adding circuits for kitchens, bathrooms, or outdoor spaces. We design layouts for safety and convenience, then install to Building Regulations."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Old fuse boards are dangerous. We install modern consumer units with RCD protection, giving you safer power distribution and peace of mind."
+    },
+    {
+      "title": "Commercial Electrical Work",
+      "desc": "Businesses rely on uninterrupted power. We handle installations, maintenance, and emergency call-outs with minimal disruption to your operations."
+    }
+  ],
+  "about_pullquote": "We show up on time, fix it right, and don't take shortcuts.",
+  "about_para_1": "Merlx Electrical Services has been serving Sheffield homes and businesses for over 12 years. We started because we believe electrical work should be straightforward: clear pricing, skilled hands, and no jargon. Every engineer carries full diagnostic kit and parts, so most faults are fixed the same day.",
+  "about_para_2": "Our reputation rests on reliability and honesty. We turn up when we say we will, explain what's wrong in plain English, and only charge for work we actually do. Repeat customers and personal referrals make up the bulk of our work\u2014that's how we know we're doing it right.",
+  "about_stats": [
+    {
+      "num": "12yrs",
+      "label": "Years trading"
+    },
+    {
+      "num": "800+",
+      "label": "Installations & repairs"
+    },
+    {
+      "num": "87%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "All Sheffield",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Sheffield Customers Say About Merlx",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Had a scary moment when lights started flickering all over the house. Called Merlx at 9pm and they were here by 10. Turned out a loose connection in the consumer unit. Fixed it on the spot, explained everything clearly, and didn't overcharge. Really professional outfit.",
+      "author": "David H.",
+      "loc": "Ecclesall, Sheffield \u2014 February 2025"
+    },
+    {
+      "text": "We needed a full rewire before selling. Mike and his team were brilliant\u2014they kept disruption to a minimum, cleaned up after themselves, and the testing was thorough. Got our EICR certificate on the day. Highly recommend.",
+      "author": "Jennifer P.",
+      "loc": "Ranmoor, Sheffield \u2014 January 2025"
+    },
+    {
+      "text": "Kitchen renovation nightmare until Merlx stepped in. They worked with the builder, ran new circuits to exactly where we needed them, and everything passed inspection first time. Fair price, no mess. Will use them again when we do the bathroom.",
+      "author": "Marcus B.",
+      "loc": "Crookes, Sheffield \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving all of Sheffield and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Electrics gone wrong? We aim to attend emergencies within 60 minutes. Call now \u2014",
+  "footer_description": "Merlx Electrical Services: 12 years fixing Sheffield's homes and businesses. Same-day repairs, full rewires, testing. Honest pricing, skilled engineers.",
+  "footer_copyright": "\u00a9 2026 Merlx Electrical Services. Registered in England & Wales."
+}
