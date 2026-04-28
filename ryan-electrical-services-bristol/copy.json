@@ -1,0 +1,107 @@
+{
+  "slug": "ryan-electrical-services-bristol",
+  "meta_title": "Ryan Electrical Services | Electrician Bristol",
+  "meta_description": "Ryan Electrical Services Bristol. NICEIC-approved electrician offering domestic rewires, fault finding, and emergency repairs across Bristol. Same-day callouts available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 24/7 Emergency Callouts",
+  "hero_headline": "Bristol's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault or broken socket in Bristol? We arrive same day, diagnose the problem, and fix it right.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Established"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1 hour",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Bristol",
+  "services_subhead": "From emergency repairs to full house rewires, we handle all domestic and small commercial electrical work.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Trip switches, blown circuits, dead sockets \u2014 we diagnose faults fast and fix them same day. Available 24/7 for genuine emergencies."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Old wiring putting your home at risk? We install modern, safe cabling throughout, with rewiring certificates for insurance and resale."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Replace outdated fuse boxes with modern RCD-protected consumer units. Safer, compliant, and protects your appliances from damage."
+    },
+    {
+      "title": "Testing & Electrical Certificates",
+      "desc": "Landlord certificates (EICR) and new installation testing for property sales, mortgages, and peace of mind. Fully compliant reports."
+    },
+    {
+      "title": "Fault Finding & Problem Solving",
+      "desc": "Intermittent trips, flickering lights, or mystery electrical issues? We trace the root cause and fix it properly, not just the symptom."
+    },
+    {
+      "title": "Socket & Switch Installation",
+      "desc": "New sockets, light switches, and outlets installed safely in walls or surface-mounted. We route cables neatly and finish to a high standard."
+    }
+  ],
+  "about_pullquote": "I started because I was tired of seeing customers ripped off by cowboys.",
+  "about_para_1": "Ryan Electrical Services has been serving Bristol for over 15 years. Founded on the principle that honest work and fair pricing should go hand in hand, we've built a solid reputation fixing electrical problems for homeowners, landlords, and small businesses across the city. We're NICEIC approved and all our work carries a guarantee.",
+  "about_para_2": "We don't rush jobs or cut corners. Every customer gets a proper diagnosis, a clear explanation of what needs doing, and a fixed price before we start. That's why so many people in Bristol call us back \u2014 and recommend us to their neighbours.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2000+",
+      "label": "Homes & Businesses Served"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat & Referral Customers"
+    },
+    {
+      "num": "NICEIC Approved",
+      "label": "Safety Standard"
+    }
+  ],
+  "reviews_heading": "What Bristol Customers Say",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Called Ryan at 11pm on a Saturday because our kitchen had no power. He was with us by midnight and had it sorted in 20 minutes \u2014 turned out a dodgy socket had blown the circuit. Charged us less than the estimate. Absolute legend.",
+      "author": "Mark T.",
+      "loc": "Southville, Bristol \u2014 January 2025"
+    },
+    {
+      "text": "Had a full rewire done while we were getting the house ready to sell. Very thorough, tidy work, and he left us with all the certificates we needed. The new owners were impressed. Would definitely use again.",
+      "author": "Patricia M.",
+      "loc": "Redland, Bristol \u2014 October 2024"
+    },
+    {
+      "text": "Ryan diagnosed a fault our other electrician missed \u2014 flickering lights in the upstairs that were driving us mad. Proper diagnosis, fair price, fixed it properly. Recommended him to three friends already. Top bloke.",
+      "author": "David C.",
+      "loc": "Clifton, Bristol \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving all of Bristol and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Electrics down? We aim to be with you in under an hour, day or night. Call now \u2014",
+  "footer_description": "NICEIC-approved electrician in Bristol. Emergency repairs, rewires, and testing. Same-day response, fair prices, work guaranteed.",
+  "footer_copyright": "\u00a9 2026 Ryan Electrical Services Bristol. Registered in England & Wales."
+}
