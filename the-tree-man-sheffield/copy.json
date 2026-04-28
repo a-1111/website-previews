@@ -1,0 +1,107 @@
+{
+  "slug": "the-tree-man-sheffield",
+  "meta_title": "The Tree Man | Arborist Sheffield",
+  "meta_description": "The Tree Man Sheffield offers professional tree surgery, crown reduction, felling and stump removal. Fully insured, same-day quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 09:00-15:00"
+  ],
+  "hero_eyebrow": "Certified Arborist \u2014 Safe, Professional Tree Care",
+  "hero_headline": "Sheffield's Trusted",
+  "hero_highlight": "Tree Surgeon",
+  "hero_subhead": "Overgrown branches damaging your property? We safely fell, trim and remove trees across Sheffield \u2014 fully insured, same-day site visits.",
+  "badge_4": "Same-Day Quotes Available",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience in tree care"
+    },
+    {
+      "num": "500+",
+      "label": "Trees felled & trimmed"
+    },
+    {
+      "num": "24hrs",
+      "label": "Emergency response time"
+    },
+    {
+      "num": "Fully insured",
+      "label": "Public liability cover"
+    }
+  ],
+  "services_heading": "Complete Tree Surgery Services Across Sheffield",
+  "services_subhead": "From crown reduction to emergency felling, we handle every aspect of tree care with safety and precision.",
+  "services": [
+    {
+      "title": "Tree Felling",
+      "desc": "Safe, controlled removal of diseased, dead or hazardous trees. We handle difficult access and ensure minimal disruption to your garden and neighbours."
+    },
+    {
+      "title": "Crown Reduction & Pruning",
+      "desc": "Thin out overgrown crowns to restore shape, improve light and reduce wind damage. Promotes healthy regrowth and protects your property."
+    },
+    {
+      "title": "Stump Removal & Grinding",
+      "desc": "Complete stump extraction or grinding below ground level. Clears space for replanting or new landscaping without the mess."
+    },
+    {
+      "title": "Emergency Tree Work",
+      "desc": "Storm damage, fallen branches or hazardous limbs? We respond 24/7 to make your property safe and clear debris quickly."
+    },
+    {
+      "title": "Tree Surveys & Reports",
+      "desc": "Professional assessment of tree health, safety concerns and risk. Written reports for insurance claims, planning applications or peace of mind."
+    },
+    {
+      "title": "Hedge Trimming & Maintenance",
+      "desc": "Regular cutting, shaping and overgrowth removal keeps hedges neat, strong and within boundary lines. Seasonal schedules available."
+    }
+  ],
+  "about_pullquote": "I believe in doing the job right first time, with no shortcuts and no mess left behind.",
+  "about_para_1": "The Tree Man has been caring for Sheffield's gardens, parks and properties for over 18 years. We started with one van and a passion for safe, skilled arboriculture \u2014 and we've grown to become the neighbourhood's first choice for tree work. Every member of the team is trained in modern cutting techniques and safety protocols.",
+  "about_para_2": "Our customers return because we turn up on time, finish cleanly, and explain every step along the way. We're not the cheapest, but we're the most careful. Whether you need a one-off crown reduction or regular hedge maintenance, you'll work with people who genuinely care about your trees and your home.",
+  "about_stats": [
+    {
+      "num": "18+yrs",
+      "label": "In business"
+    },
+    {
+      "num": "500+",
+      "label": "Properties served"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat or referred clients"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency availability"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Had a massive oak taking over half the garden. The Tree Man gave a detailed quote, explained the risks, and felled it safely in just one day. Left the site spotless. Couldn't fault them. Brilliant job.",
+      "author": "David C.",
+      "loc": "Dronfield, Sheffield \u2014 September 2024"
+    },
+    {
+      "text": "Storm knocked a big branch onto our garage roof. Called them at 9pm on a Saturday, they were here by 11am next morning. Made the area safe, tidied everything up, and helped with our insurance claim. Proper professionals.",
+      "author": "Helen M.",
+      "loc": "Endcliffe, Sheffield \u2014 July 2024"
+    },
+    {
+      "text": "Used them for hedge trimming twice now. Punctual, skilled, and they leave zero mess. Not the cheapest quote I got, but worth every penny for the quality and reliability. Will be using them again.",
+      "author": "Robert T.",
+      "loc": "Totley, Sheffield \u2014 May 2024"
+    }
+  ],
+  "address_sub": "Serving Sheffield and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 3pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Storm damage or dangerous limbs? We respond round the clock to make your property safe. Call now \u2014",
+  "footer_description": "The Tree Man is Sheffield's trusted arborist. We safely fell, trim and remove trees for homeowners and businesses across South Yorkshire.",
+  "footer_copyright": "\u00a9 2026 The Tree Man Sheffield. Registered in England & Wales."
+}
