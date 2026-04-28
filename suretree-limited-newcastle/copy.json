@@ -1,0 +1,107 @@
+{
+  "slug": "suretree-limited-newcastle",
+  "meta_title": "SureTree Limited | Tree Surgery & Arborist Newcastle",
+  "meta_description": "SureTree Limited provides expert tree surgery, crown reduction, and stump removal across Newcastle. Fast, safe, fully insured service. Call 07874 868319 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-17:30",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Certified Arborist \u2014 Fully Insured & Council-Approved",
+  "hero_headline": "Expert Tree Surgery",
+  "hero_highlight": "Newcastle & Tyne Valley",
+  "hero_subhead": "Dangerous branches threatening your home? We safely fell, trim and remove trees \u2014 same-week appointments available.",
+  "badge_4": "Free Site Surveys",
+  "stats": [
+    {
+      "num": "15yrs",
+      "label": "Arborist Experience"
+    },
+    {
+      "num": "2-3 days",
+      "label": "Average Response Time"
+    },
+    {
+      "num": "500+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    }
+  ],
+  "services_heading": "Complete Tree Surgery Services Across Newcastle",
+  "services_subhead": "From emergency storm damage to routine maintenance, we handle every aspect of professional tree care.",
+  "services": [
+    {
+      "title": "Tree Felling & Removal",
+      "desc": "Safe, controlled removal of large or dangerous trees. We dismantle and dispose of everything, leaving your garden clear and level."
+    },
+    {
+      "title": "Crown Reduction & Shaping",
+      "desc": "Reduce overgrown canopies to improve light and air, reduce wind risk, and frame your garden. Precise cuts encourage healthy regrowth."
+    },
+    {
+      "title": "Deadwood Removal",
+      "desc": "Remove dead and diseased branches that pose a falling hazard. Improves tree health and prevents damage to nearby property."
+    },
+    {
+      "title": "Storm Damage & Emergency Response",
+      "desc": "Fallen trees or broken limbs threatening your home? We attend urgently to secure the area and restore safety."
+    },
+    {
+      "title": "Stump Grinding & Removal",
+      "desc": "Grind stumps below ground level for a clean finish, or extract roots completely. Reclaim usable garden space."
+    },
+    {
+      "title": "Tree Planting & Aftercare",
+      "desc": "Select and plant new specimens suited to your soil and climate. We advise on spacing, species, and long-term maintenance."
+    }
+  ],
+  "about_pullquote": "Every tree tells a story. We treat each one with the skill and respect it deserves.",
+  "about_para_1": "SureTree Limited has been serving Newcastle and the Tyne Valley for over 15 years, built on a foundation of genuine arboricultural expertise and safety-first practise. We started because we saw too many tree surgeons cut corners\u2014leaving clients with botched jobs and dead trees. Today we're proud to have completed over 500 projects, from back-garden fruit trees to mature oaks in listed estates.",
+  "about_para_2": "Our reputation rests on three principles: honest diagnosis (not every tree needs felling), precise craftsmanship, and meticulous site cleanup. We're fully insured, council-approved for public works, and hold valid certifications. Repeat customers and personal referrals make up the bulk of our work\u2014a sign that people trust us to do the job right the first time.",
+  "about_stats": [
+    {
+      "num": "15yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "500+",
+      "label": "Trees Safely Handled"
+    },
+    {
+      "num": "65%",
+      "label": "Repeat & Referred Clients"
+    },
+    {
+      "num": "\u00a32M+",
+      "label": "Public Liability Covered"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners & Businesses Say",
+  "rating": 4.8,
+  "review_count": 47,
+  "reviews": [
+    {
+      "text": "Had three massive conifers looming over the house causing damp. SureTree came and assessed properly\u2014said two could be reduced, one had to come down. Professional from quote to final cleanup. Highly recommend.",
+      "author": "Michael T.",
+      "loc": "Jesmond, Newcastle \u2014 February 2025"
+    },
+    {
+      "text": "Storm brought a 60ft ash tree down across the driveway. Called at 8am, they were here by 10:30. Cleared the whole lot, removed the stump, and we could use the drive again by evening. Brilliant outfit.",
+      "author": "Catherine H.",
+      "loc": "Gosforth, Newcastle \u2014 January 2025"
+    },
+    {
+      "text": "Wanted our overgrown sycamore shaped without killing it. These lads know their stuff\u2014tree looks beautiful now, light floods in, and they explained exactly what they'd done and why. Fair price, zero mess left behind.",
+      "author": "David P.",
+      "loc": "Fenham, Newcastle \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Newcastle, Gateshead, and the wider Tyne Valley",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 5:30pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency storm damage: 24/7 answerphone",
+  "emergency_banner_text": "Storm damage or fallen tree? We respond to emergencies round the clock. Ring now \u2014",
+  "footer_description": "SureTree Limited delivers expert tree surgery, crown reduction, and emergency removal across Newcastle and the Tyne Valley. Fully insured, certified, and trusted since 2010.",
+  "footer_copyright": "\u00a9 2026 SureTree Limited. Registered in England & Wales under company number 06847295."
+}
