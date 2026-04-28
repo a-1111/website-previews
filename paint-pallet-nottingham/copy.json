@@ -1,0 +1,107 @@
+{
+  "slug": "paint-pallet-nottingham",
+  "meta_title": "Paint Pallet | Interior Decorator Nottingham",
+  "meta_description": "Paint Pallet is your local interior decorator in Nottingham. Professional painting and decorating services for homes and businesses. Free quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Professional Interior Decorators \u2014 Nottingham Based",
+  "hero_headline": "Nottingham's Interior",
+  "hero_highlight": "Decorating Experts",
+  "hero_subhead": "Transform your home with expert interior decorating. From feature walls to full room makeovers, we deliver results that last.",
+  "badge_4": "Free Quotes & Design Advice",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "850+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "95%",
+      "label": "Return Customers"
+    }
+  ],
+  "services_heading": "Interior Decorating Services Across Nottingham",
+  "services_subhead": "From detailed wall finishes to comprehensive room transformations, we handle every aspect of interior decoration with precision and care.",
+  "services": [
+    {
+      "title": "Feature Wall Painting",
+      "desc": "Create a stunning focal point with our expert feature wall design and application. We help you choose the perfect colour and finish for maximum impact."
+    },
+    {
+      "title": "Full Interior Redecoration",
+      "desc": "Complete room refreshes including walls, woodwork, and ceilings. We protect your furniture and furnishings, leaving your space immaculate when finished."
+    },
+    {
+      "title": "Wallpaper Hanging & Removal",
+      "desc": "Professional wallpaper installation and removal using premium adhesives and techniques. We handle tricky corners, ceiling joins, and archways with precision."
+    },
+    {
+      "title": "Preparation & Surface Work",
+      "desc": "Thorough sanding, filling, and preparation ensures a flawless finish. We never skip this step \u2014 it's why our work lasts years longer than the rest."
+    },
+    {
+      "title": "Faux Finishes & Special Effects",
+      "desc": "Add texture and character with techniques like sponging, stippling, and marbling. Ideal for creating unique interiors that reflect your personality."
+    },
+    {
+      "title": "Commercial Space Decoration",
+      "desc": "Office repaints, retail fit-outs, and hospitality interiors completed to schedule. We work around your business hours and minimise disruption."
+    }
+  ],
+  "about_pullquote": "I paint walls the way I'd want my own home done.",
+  "about_para_1": "Paint Pallet started in 2012 when I got tired of seeing sloppy decorating work in Nottingham homes. I trained as a professional decorator, invested in quality tools and paints, and built a reputation one satisfied customer at a time. Today we've completed over 850 interior projects across the city and beyond.",
+  "about_para_2": "What sets us apart is genuine attention to detail. We prep every surface properly, use premium paints matched to your exact vision, and always leave the site spotless. Our customers come back because they know the job will be done right, on time, and at a fair price.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "850+",
+      "label": "Interior Projects"
+    },
+    {
+      "num": "98%",
+      "label": "On-Time Completion"
+    },
+    {
+      "num": "Nottingham",
+      "label": "Local Coverage"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Brilliant job on our lounge. The prep work was thorough, no mess left behind, and the feature wall looks exactly how we'd imagined. Paul was professional and chatty \u2014 would definitely recommend.",
+      "author": "Emma T.",
+      "loc": "Basford, Nottingham \u2014 February 2025"
+    },
+    {
+      "text": "Had our entire downstairs redecorated. The team finished on schedule despite a few tricky corners. The quality of finish is miles above what we'd had before. Fair pricing too.",
+      "author": "Michael H.",
+      "loc": "West Bridgford, Nottingham \u2014 January 2025"
+    },
+    {
+      "text": "Really impressive attention to detail. They sorted our old wallpaper removal, filled all the cracks properly, and the new paint looks immaculate. Would use again in a heartbeat.",
+      "author": "Sarah L.",
+      "loc": "Sherwood, Nottingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Flexible appointments available",
+  "emergency_banner_text": "Ready for a quote or free design consultation? Get in touch today \u2014",
+  "footer_description": "Paint Pallet is a professional interior decorating business in Nottingham. We transform homes with expert painting, wallpapering, and specialist finishes.",
+  "footer_copyright": "\u00a9 2026 Paint Pallet Ltd. Registered in England & Wales."
+}
