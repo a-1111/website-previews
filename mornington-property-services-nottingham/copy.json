@@ -1,0 +1,107 @@
+{
+  "slug": "mornington-property-services-nottingham",
+  "meta_title": "Mornington Property Services | Electrician Nottingham",
+  "meta_description": "Mornington Property Services is a trusted electrician in Nottingham. Professional electrical installations, repairs and maintenance. Call 07914 377246 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 Fully Insured & Certified",
+  "hero_headline": "Nottingham's Reliable",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Electrical fault? We diagnose and fix problems fast, with upfront pricing and no hidden charges.",
+  "badge_4": "Same-Day Emergency Callouts",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "1hr",
+      "label": "Average Response Time"
+    }
+  ],
+  "services_heading": "Complete Electrical Services Across Nottingham",
+  "services_subhead": "From emergency repairs to new installations, we handle all domestic and small commercial electrical work to the highest standards.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Blown fuses, tripped electrics, dead outlets? We diagnose and fix faults on the same day. Available 24/7 for genuine emergencies."
+    },
+    {
+      "title": "Boiler & Heating Wiring",
+      "desc": "Full installation and repair of electrical connections for boilers, underfloor heating, and heat pumps. Safe, compliant, and certified."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Modern fuse box replacement and electrical panel upgrades. We ensure your home meets current Building Regulations and safety standards."
+    },
+    {
+      "title": "Socket & Switch Installation",
+      "desc": "Add new sockets, USB outlets, or dimmer switches throughout your home. We test and certify all work with an EICR certificate."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Intermittent tripping? Strange burning smells? We use specialist equipment to pinpoint electrical faults before they cause damage or danger."
+    },
+    {
+      "title": "Landlord Safety Certificates",
+      "desc": "Full EICR testing and certification for buy-to-let properties. We identify risks and provide a detailed report for your records."
+    }
+  ],
+  "about_pullquote": "I got into this business because I wanted to be the electrician I'd want in my own home.",
+  "about_para_1": "Mornington Property Services has been serving Nottingham homeowners and small businesses since 2009. We're based in Old Basford and pride ourselves on turning up on time, doing the job right the first time, and leaving your home cleaner than we found it. All our work is certified and fully insured.",
+  "about_para_2": "We've built a loyal customer base because we're honest about what needs doing and what doesn't. Whether it's a faulty outlet or a complete rewire, you'll get a fair quote and no pressure to upsell. Most of our work comes from repeat customers and personal referrals \u2014 that's how we know we're doing something right.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "98%",
+      "label": "Customer Retention Rate"
+    },
+    {
+      "num": "2,000+",
+      "label": "Certified Jobs"
+    },
+    {
+      "num": "Nottingham",
+      "label": "Local & Trusted"
+    }
+  ],
+  "reviews_heading": "What Nottingham Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a nightmare with tripping lights and couldn't work out what was wrong. Rang Mornington and they were round within an hour. Traced it to a faulty socket, fixed it, and gave me a proper certificate. Really professional bloke, fair price, and actually explained what had gone wrong. Will use again for sure.",
+      "author": "David H.",
+      "loc": "Old Basford, Nottingham \u2014 January 2025"
+    },
+    {
+      "text": "We needed our kitchen rewired as part of a renovation. Got quotes from three different electricians but went with Mornington because they didn't try to oversell us. Finished the job bang on schedule, clean, and the workmanship is brilliant. Highly recommend if you're in Nottingham.",
+      "author": "Emma T.",
+      "loc": "Mapperley, Nottingham \u2014 November 2024"
+    },
+    {
+      "text": "Called them about an emergency at 11pm \u2014 boiler electrics had gone down. They answered, came out within the hour, and sorted it. Brilliant response time, knew exactly what they were doing. Won't be going anywhere else for electrical work.",
+      "author": "Michael K.",
+      "loc": "Sherwood, Nottingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency callouts available 24/7",
+  "emergency_banner_text": "Electrical emergency in Nottingham? We aim to arrive within the hour. Call now \u2014",
+  "footer_description": "Mornington Property Services is a trusted electrician in Nottingham. Emergency repairs, installations, and safety testing. Fully insured and NICEIC approved.",
+  "footer_copyright": "\u00a9 2026 Mornington Property Services Ltd. Registered in England & Wales."
+}
