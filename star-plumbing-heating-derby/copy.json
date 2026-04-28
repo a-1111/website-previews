@@ -1,0 +1,108 @@
+{
+  "slug": "star-plumbing-heating-derby",
+  "meta_title": "Star Plumbing & Heating | Plumber Derby",
+  "meta_description": "Star Plumbing & Heating in Derby. Emergency repairs, boiler installation, and heating maintenance. Fast response, honest pricing. Call us today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-19:00",
+    "Sa 08:00-17:00",
+    "Su 09:00-13:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Callouts",
+  "hero_headline": "Derby's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe at 2am in Derby? We arrive fast, diagnose on the spot, and fix it right.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Derby",
+  "services_subhead": "From emergency repairs to full system installations, we handle every aspect of your plumbing and heating needs.",
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "desc": "Burst pipes, leaking taps, blocked drains \u2014 we respond fast and carry full parts stock on the van. Most faults fixed same day, 24/7."
+    },
+    {
+      "title": "Boiler Installation & Replacement",
+      "desc": "New boiler fitted with full warranty and certification. We help you choose the right model for your home and budget, then handle the whole job."
+    },
+    {
+      "title": "Central Heating Maintenance",
+      "desc": "Annual servicing keeps your system running efficiently and catches small problems before they become expensive. We'll flush, balance, and test everything."
+    },
+    {
+      "title": "Radiator Repairs & Installation",
+      "desc": "Cold spots, leaks, or noisy radiators? We repair what you have or fit new ones throughout your home. Honest diagnosis, no upsell."
+    },
+    {
+      "title": "Bathroom & Kitchen Plumbing",
+      "desc": "New taps, shower installations, toilet repairs, and full bathroom replumbing. We work neatly and tidy up after ourselves."
+    },
+    {
+      "title": "Unvented Cylinder Installation",
+      "desc": "Modern, efficient hot water without the tank. We survey your home, advise on the best option, and install with all necessary safety certification."
+    }
+  ],
+  "about_pullquote": "We started because we saw too many cowboys charging too much. That's not us.",
+  "about_para_1": "Star Plumbing & Heating has been serving Derby households for 18 years. We began as a one-man operation and have grown into a team of four experienced engineers, each trained to Gas Safe standard. Over that time we've completed more than 2,500 jobs \u2014 from midnight emergency call-outs to planned boiler replacements \u2014 and we've built a reputation for turning up when we say we will, and delivering honest work at fair prices.",
+  "about_para_2": "Most of our new work comes from referrals and repeat customers. We don't use pressure sales tactics or quote inflated prices. You'll get a straightforward diagnosis, a realistic quote, and a tradesperson who respects your home. If something's not urgent, we'll tell you. If it is, we'll be there fast.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Operating in Derby"
+    },
+    {
+      "num": "4",
+      "label": "Qualified engineers"
+    },
+    {
+      "num": "2,500+",
+      "label": "Heating & plumbing jobs"
+    },
+    {
+      "num": "70%",
+      "label": "Repeat & referral business"
+    }
+  ],
+  "reviews_heading": "What Derby Homeowners Say About Star Plumbing",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Called at half-nine on a Sunday night with a leaking pipe under the kitchen. Mark was here by 10:15, diagnosed it straight away, and had it sorted by 11. Didn't try to sell us anything we didn't need. Fair price and left the place spotless. Will definitely use again.",
+      "author": "Michael T.",
+      "loc": "Mackworth, Derby \u2014 November 2024"
+    },
+    {
+      "text": "Had our boiler serviced and they also spotted a problem with the flue that could have been dangerous. Fixed it same day and explained everything clearly. No hard sell, just honest advice. Brilliant lads.",
+      "author": "Patricia W.",
+      "loc": "Littleover, Derby \u2014 September 2024"
+    },
+    {
+      "text": "Emergency call-out for a burst radiator. Arrived within 50 minutes, fixed it properly, and the charge was exactly what they quoted. Much better than the last plumber we used. Highly recommend.",
+      "author": "David K.",
+      "loc": "Allestree, Derby \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving Derby and surrounding areas including Littleover, Allestree, and Mickleover",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 7pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Emergency? We aim to be on your doorstep in under an hour. Call now \u2014",
+  "footer_description": "Star Plumbing & Heating: Gas Safe registered plumbers in Derby. Emergency repairs, boiler installation, heating maintenance. Fast, honest, fair.",
+  "footer_copyright": "\u00a9 2026 Star Plumbing & Heating. Registered in England & Wales."
+}
