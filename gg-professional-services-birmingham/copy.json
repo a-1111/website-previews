@@ -1,0 +1,107 @@
+{
+  "slug": "gg-professional-services-birmingham",
+  "meta_title": "G&G Professional Services | Painter & Decorator Birmingham",
+  "meta_description": "G&G Professional Services is a trusted painter and decorator in Birmingham. Expert interior and exterior work, competitive rates, free quotes. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-16:00"
+  ],
+  "hero_eyebrow": "Fully Insured \u2014 Interior & Exterior Specialists",
+  "hero_headline": "Birmingham's Trusted",
+  "hero_highlight": "Painter and Decorator",
+  "hero_subhead": "Transform your home with expert decorating. From fresh walls to complete room makeovers in Smethwick and across Birmingham.",
+  "badge_4": "Free Quotes & No Pressure",
+  "stats": [
+    {
+      "num": "12yrs",
+      "label": "Established in trade"
+    },
+    {
+      "num": "800+",
+      "label": "Homes decorated"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Average turnaround"
+    }
+  ],
+  "services_heading": "Professional Decorating Services Across Birmingham",
+  "services_subhead": "We handle every decorating project, from single-room updates to full commercial refurbishments with precision and care.",
+  "services": [
+    {
+      "title": "Interior Decorating",
+      "desc": "Complete wall and ceiling decoration for living spaces, kitchens, and bedrooms. We prepare, prime, and paint to a finish that lasts."
+    },
+    {
+      "title": "Exterior Painting",
+      "desc": "Weather-resistant exterior work on fascias, soffits, and masonry. Protects your home and boosts kerb appeal for years."
+    },
+    {
+      "title": "Wallpapering",
+      "desc": "Expert hanging of all wallpaper types, from traditional to modern. Perfectly aligned seams and a professional finish every time."
+    },
+    {
+      "title": "Woodwork & Glazing",
+      "desc": "Professional painting of doors, windows, skirting boards, and fitted furniture. Durable finishes that resist wear and weather."
+    },
+    {
+      "title": "Commercial Redecorating",
+      "desc": "Office, retail, and hospitality spaces redecorated to your brand standards. Minimal downtime, maximum professionalism."
+    },
+    {
+      "title": "Preparation & Repairs",
+      "desc": "Thorough surface prep, crack filling, and repairs before any paint touches your walls. A solid base means a flawless finish."
+    }
+  ],
+  "about_pullquote": "Good decorating starts with proper preparation and honest pricing, no cutting corners.",
+  "about_para_1": "G&G Professional Services has been transforming homes and businesses across Birmingham since 2012. We specialise in interior and exterior decorating, from small refresh projects to large commercial contracts. Every job is backed by our commitment to clean work, punctuality, and quality finishes that last.",
+  "about_para_2": "Our customers return to us because we listen, we prepare properly, and we treat your home with the same care we'd give our own. We're fully insured, respectful of your space, and proud of the relationships we build with families and businesses across Smethwick and the wider Birmingham area.",
+  "about_stats": [
+    {
+      "num": "12",
+      "label": "Years trading"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat & referral clients"
+    },
+    {
+      "num": "3",
+      "label": "Person team"
+    },
+    {
+      "num": "\u00a30",
+      "label": "Call-out fee for quotes"
+    }
+  ],
+  "reviews_heading": "What Birmingham Homeowners Say About G&G",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had G&G paint our lounge and hallway. The preparation was brilliant\u2014filled cracks, sanded everything smooth. The finish is flawless and they cleaned up after themselves. Fair price, quick job. Highly recommend them.",
+      "author": "David P.",
+      "loc": "Smethwick, Birmingham \u2014 January 2025"
+    },
+    {
+      "text": "Needed urgent exterior work before winter. These lads got us in quickly, painted our fascia and soffits to a high standard. Professional team, no messing about. Will use them again when we redecorate inside.",
+      "author": "Margaret T.",
+      "loc": "Harborne, Birmingham \u2014 October 2024"
+    },
+    {
+      "text": "Very impressed. They quoted us fairly, turned up on time, and completed the job in the timeframe promised. Really careful with furniture and floors. The wallpapering in our kitchen is perfect\u2014not a bubble in sight.",
+      "author": "James L.",
+      "loc": "Edgbaston, Birmingham \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving Smethwick, Harborne, Edgbaston, and across Greater Birmingham",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Need a quick quote or have an urgent decorating job? Get in touch today \u2014",
+  "footer_description": "G&G Professional Services is a trusted painter and decorator in Birmingham, delivering expert interior and exterior work with 12 years of proven experience.",
+  "footer_copyright": "\u00a9 2026 G&G Professional Services. Established 2012."
+}
