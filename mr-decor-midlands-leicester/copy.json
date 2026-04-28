@@ -1,0 +1,107 @@
+{
+  "slug": "mr-decor-midlands-leicester",
+  "meta_title": "Mr Decor Midlands | Painter & Decorator Leicester",
+  "meta_description": "Mr Decor Midlands is Leicester's trusted painter and decorator. Interior and exterior work, free estimates, reliable local service. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local, Reliable, Fully Insured \u2014 Interior & Exterior",
+  "hero_headline": "Leicester's Trusted",
+  "hero_highlight": "Painter and Decorator",
+  "hero_subhead": "Professional interior and exterior painting that transforms your home. Free quotes, no hidden charges, work you can trust.",
+  "badge_4": "Free Estimates",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Decorating"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "48hrs",
+      "label": "Quote Turnaround"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    }
+  ],
+  "services_heading": "Complete Decorating Services Across Leicester",
+  "services_subhead": "From full interior redecorations to exterior refresh, we handle residential and commercial projects with care and precision.",
+  "services": [
+    {
+      "title": "Interior Painting & Decoration",
+      "desc": "Transform living spaces with expert interior painting. We prepare surfaces properly, use quality finishes, and leave your home spotless."
+    },
+    {
+      "title": "Exterior Painting & Cladding",
+      "desc": "Weather-resistant exterior work that protects and enhances your property. Fascias, soffits, doors, and garden walls finished to last."
+    },
+    {
+      "title": "Wallpapering & Feature Walls",
+      "desc": "Precision wallpapering on feature walls or whole rooms. Modern and traditional patterns expertly hung with straight seams and perfect finish."
+    },
+    {
+      "title": "Commercial Decorating",
+      "desc": "Offices, shops, and hospitality venues need fast turnaround and minimal disruption. We schedule work around your business hours."
+    },
+    {
+      "title": "Woodwork & Joinery Finishing",
+      "desc": "Skirting boards, architraves, doors, and fitted furniture painted and varnished to showcase the natural grain or a flawless colour coat."
+    },
+    {
+      "title": "Preparation & Repairs",
+      "desc": "Proper surface prep is everything. We repair cracks, sand, prime, and fill so your new finish looks professional and lasts longer."
+    }
+  ],
+  "about_pullquote": "We do the job right the first time, because we work for our neighbours.",
+  "about_para_1": "Mr Decor Midlands has been serving Leicester and the surrounding areas for over 15 years. We started with a simple mission: deliver honest, professional decorating work at fair prices. Today, we've completed over 2,000 residential and commercial projects, built on repeat business and word-of-mouth recommendation.",
+  "about_para_2": "Our customers trust us because we show up on time, explain the work clearly, and leave sites clean and tidy. We don't rush jobs to chase the next quote \u2014 every project gets the prep and finish it deserves. That's why so many Leicester homeowners and business owners come back to us, year after year.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2,000+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat & Referral Work"
+    },
+    {
+      "num": "Leicester & Beyond",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Leicester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Had the living room and hallway redecorated. The lads turned up on time, got the job done to a high standard, and cleaned up after themselves properly. No fuss, no mess. Highly recommend.",
+      "author": "David T.",
+      "loc": "Clarendon Park, Leicester \u2014 February 2025"
+    },
+    {
+      "text": "We've used Mr Decor for three jobs now \u2014 kitchen, bedroom, and exterior fascias. Always reliable, gives honest quotes, and the finish is excellent. Paul and the team know exactly what they're doing.",
+      "author": "Margaret W.",
+      "loc": "Stoneygate, Leicester \u2014 December 2024"
+    },
+    {
+      "text": "Our office needed a complete redecorate in tight timeframe. They scheduled it perfectly around our hours, finished on time, and it looks fantastic. Professional crew, fair pricing, will be back.",
+      "author": "James K.",
+      "loc": "City Centre, Leicester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Leicester, Stoughton, and surrounding Leicestershire areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Weekday and weekend visits available",
+  "emergency_banner_text": "Need a quote or want to book your project? Get in touch now \u2014",
+  "footer_description": "Mr Decor Midlands delivers professional interior and exterior painting throughout Leicester. Trusted for 15+ years, fully insured, free quotes.",
+  "footer_copyright": "\u00a9 2026 Mr Decor Midlands Ltd. Registered in England & Wales."
+}
