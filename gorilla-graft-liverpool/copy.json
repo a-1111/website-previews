@@ -1,0 +1,107 @@
+{
+  "slug": "gorilla-graft-liverpool",
+  "meta_title": "Gorilla Graft | Painter & Decorator Liverpool",
+  "meta_description": "Gorilla Graft is your Liverpool painter and decorator. Interior and exterior painting, wallpapering, and decorating. Free quotes, fully insured. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Fully Insured Painter & Decorator \u2014 Liverpool & Surrounding Areas",
+  "hero_headline": "Liverpool's Trusted",
+  "hero_highlight": "Painter & Decorator",
+  "hero_subhead": "From interior repaints to complete exterior makeovers, we transform your home with precision and care. Free quotes within 24 hours.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "800+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "2-3 days",
+      "label": "Typical Turnaround"
+    }
+  ],
+  "services_heading": "Complete Painting & Decorating Services Across Liverpool",
+  "services_subhead": "Whether it's a single room refresh or a full house transformation, we handle interior and exterior projects with equal skill and attention to detail.",
+  "services": [
+    {
+      "title": "Interior Painting",
+      "desc": "Walls, ceilings, and woodwork painted to a flawless finish. We prep thoroughly, choose the right paint for each surface, and leave your rooms looking brand new."
+    },
+    {
+      "title": "Exterior Painting",
+      "desc": "Weather-resistant exterior paints protect your home whilst enhancing kerb appeal. We handle soffits, fascias, doors, and weathered brickwork with professional-grade finishes."
+    },
+    {
+      "title": "Wallpapering",
+      "desc": "Precise hanging of patterned or textured wallpaper, feature walls, and lining paper. We prepare walls properly to ensure a smooth, lasting result."
+    },
+    {
+      "title": "Woodwork & Staining",
+      "desc": "Doors, skirting boards, and furniture painted or stained to match your d\u00e9cor. We sand, prime, and finish for a durable, professional appearance."
+    },
+    {
+      "title": "Damp & Mould Treatment",
+      "desc": "We prep and paint over treated damp and mould growth, using anti-fungal primers to prevent recurrence and restore affected areas safely."
+    },
+    {
+      "title": "Decorative Finishes",
+      "desc": "Feature walls, faux effects, and specialist paint techniques add character to any room. We bring creative ideas to life with precision and flair."
+    }
+  ],
+  "about_pullquote": "We paint homes the way we'd paint our own \u2014 no shortcuts, no mess left behind.",
+  "about_para_1": "Gorilla Graft was founded over a decade ago by a painter frustrated with cowboys and inconsistent work. We've built our reputation on showing up on time, doing the job right the first time, and leaving your home cleaner than we found it. Every project, from a small bedroom repaint to a full exterior transformation, gets the same level of care and attention.",
+  "about_para_2": "Our customers return to us because they know what they'll get: honest pricing, skilled craftsmanship, and tradespeople who respect your home and your time. We're fully insured, use quality materials, and stand behind our work. That's why families across Liverpool have trusted us for over 12 years.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "800+",
+      "label": "Homes Decorated"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "L17\u2013L25",
+      "label": "Areas Served"
+    }
+  ],
+  "reviews_heading": "What Liverpool Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Had Gorilla Graft in to repaint my lounge and hallway. Turned up bang on time, worked quickly without any fuss, and the finish is absolutely perfect. Moved all the furniture themselves, covered everything, and cleaned up at the end. Brilliant job and really fair price. Will definitely have them back.",
+      "author": "Michael T.",
+      "loc": "Aigburth, Liverpool \u2014 February 2025"
+    },
+    {
+      "text": "Our kitchen was looking tired so we asked them for a free quote on new paint and wallpaper. They came back with sensible suggestions, didn't push us to spend more than we needed, and the work was flawless. Two days later and it's like a new kitchen. Friendly lads, professional, honest. Can't fault them.",
+      "author": "Claire H.",
+      "loc": "Wavertree, Liverpool \u2014 January 2025"
+    },
+    {
+      "text": "Exterior of the house needed doing badly. Rain damage, peeling paint, the lot. Gorilla Graft assessed it properly, explained what needed doing, and got it done in three days. Quality materials, no cutting corners. House looks 10 years younger now. Proper job.",
+      "author": "David M.",
+      "loc": "Woolton, Liverpool \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Liverpool and surrounding areas (L17\u2013L25 postcodes)",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Evening quotes by arrangement",
+  "emergency_banner_text": "Need a quick makeover or urgent touch-ups? We fit rush jobs around our schedule. Ring us today \u2014",
+  "footer_description": "Gorilla Graft: painters and decorators serving Liverpool for over 12 years. Interior, exterior, wallpapering. Fully insured, free quotes.",
+  "footer_copyright": "\u00a9 2026 Gorilla Graft. All rights reserved."
+}
