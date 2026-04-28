@@ -1,0 +1,107 @@
+{
+  "slug": "tree-services-liverpool",
+  "meta_title": "Tree Services | Arborist Liverpool",
+  "meta_description": "Tree Services Liverpool. Professional arborist providing tree surgery, pruning, removal and stump grinding across Merseyside. Same-day quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-16:00"
+  ],
+  "hero_eyebrow": "Certified Arborist \u2014 Fully Insured Tree Surgery",
+  "hero_headline": "Expert Tree Care for",
+  "hero_highlight": "Liverpool Homes",
+  "hero_subhead": "Dangerous branches hanging over your roof? We fell, prune and remove trees safely, often the same week you call.",
+  "badge_4": "Same-Day Site Visits",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience in tree surgery"
+    },
+    {
+      "num": "2000+",
+      "label": "Trees professionally removed"
+    },
+    {
+      "num": "24-48hrs",
+      "label": "Typical response time"
+    },
+    {
+      "num": "All of Merseyside",
+      "label": "Service coverage area"
+    }
+  ],
+  "services_heading": "Complete Tree Surgery Services Across Liverpool",
+  "services_subhead": "From routine pruning and hedge work to emergency felling and stump removal, we handle every aspect of tree care with precision and safety.",
+  "services": [
+    {
+      "title": "Tree Felling & Removal",
+      "desc": "Safe removal of hazardous, diseased or unwanted trees, including site clearance and waste chipping. We work in confined spaces and sensitive locations."
+    },
+    {
+      "title": "Crown Reduction & Pruning",
+      "desc": "Improve light and reduce weight safely. Crown thinning, lifting and shaping to enhance tree health and protect your property from storm damage."
+    },
+    {
+      "title": "Emergency Tree Work",
+      "desc": "Storm damage, fallen branches or trees threatening your home? We attend emergency call-outs quickly to secure the area and prevent further harm."
+    },
+    {
+      "title": "Stump Grinding & Removal",
+      "desc": "Grind stumps flush to ground level or remove completely, leaving your garden clear and ready to use. Ideal after tree felling."
+    },
+    {
+      "title": "Hedge Trimming & Maintenance",
+      "desc": "Regular hedge cutting to keep boundaries neat and healthy. We maintain domestic and commercial hedgerows to any height or shape."
+    },
+    {
+      "title": "Tree Health Assessment",
+      "desc": "Professional survey to identify disease, structural weakness or pest infestation. We advise on treatment, pruning or removal to protect your landscape."
+    }
+  ],
+  "about_pullquote": "I started this business because I was tired of seeing trees butchered by cowboys.",
+  "about_para_1": "Tree Services was founded 18 years ago to bring proper arboricultural standards to Liverpool and Merseyside. We've felled over 2,000 trees safely, from mature oaks to problem pines threatening homes. Every job is planned with safety and the health of your landscape in mind \u2014 we're not just here to cut; we're here to do it right.",
+  "about_para_2": "Our reputation is built on turning up when we say we will, doing what we quote, and leaving your garden cleaner than we found it. Homeowners and property managers call us back because we listen to what you actually want \u2014 not just what we think you need. We carry full public liability insurance and work to the highest British Standards.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading in Merseyside"
+    },
+    {
+      "num": "2000+",
+      "label": "Trees removed safely"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "\u00a35m",
+      "label": "Public liability cover"
+    }
+  ],
+  "reviews_heading": "What Liverpool Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a massive oak looming over the garage after last winter's storm. Called up expecting weeks of waiting, but they came out for a free assessment two days later. Felled it safely, ground the stump, and cleaned up completely. Brilliant work, sensible price, and the bloke knew exactly what he was doing. Would definitely use again.",
+      "author": "Mark T.",
+      "loc": "Crosby, Liverpool \u2014 November 2024"
+    },
+    {
+      "text": "Our boundary hedge was a complete mess and starting to die off. These lads came, gave me honest advice about what could be saved, trimmed it back hard, and it's already looking twice as good. No hard sell, no fuss. Fair pricing and they cleaned up after themselves. Very impressed.",
+      "author": "Linda M.",
+      "loc": "Aigburth, Liverpool \u2014 September 2024"
+    },
+    {
+      "text": "Emergency call-out when a branch came down in the storm and blocked the drive. They made it safe and tidy in a couple of hours, even though it was a Saturday. Reasonable emergency fee, proper insurance, and friendly throughout. This is how tree surgeons should operate.",
+      "author": "David S.",
+      "loc": "Wavertree, Liverpool \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Liverpool, Merseyside and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 Emergency call-outs available 24/7",
+  "emergency_banner_text": "Storm damage or fallen tree blocking your drive? We attend emergencies rapidly, day or night. Call now \u2014",
+  "footer_description": "Tree Services is Liverpool's trusted arborist. Safe felling, pruning, stump removal and emergency work across Merseyside. Fully insured, 18 years' experience.",
+  "footer_copyright": "\u00a9 2026 Tree Services Liverpool. Registered in England & Wales."
+}
