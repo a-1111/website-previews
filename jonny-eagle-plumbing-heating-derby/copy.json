@@ -1,0 +1,108 @@
+{
+  "slug": "jonny-eagle-plumbing-heating-derby",
+  "meta_title": "Jonny Eagle Plumbing | Gas Engineer Derby",
+  "meta_description": "Jonny Eagle Plumbing & Heating is your trusted Gas Safe registered engineer in Derby. Emergency repairs, boiler installation, and heating maintenance. Call now.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-19:00",
+    "Sa 08:00-17:00",
+    "Su 09:00-16:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Callouts Available",
+  "hero_headline": "Derby's Trusted",
+  "hero_highlight": "Gas Engineer",
+  "hero_subhead": "Burst pipe or broken boiler in Derby? We're out within the hour, any time of day or night.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency Response Time"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Derby",
+  "services_subhead": "From emergency burst pipes to full boiler installations, we handle every heating and plumbing job with speed and expertise.",
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "desc": "Burst pipes, leaks, and blockages fixed fast \u2014 we're on call 24/7. Most jobs completed same day with no hidden charges."
+    },
+    {
+      "title": "Boiler Repairs & Servicing",
+      "desc": "Annual boiler servicing keeps your heating efficient and reliable. We diagnose faults quickly and repair or replace boilers the same day whenever possible."
+    },
+    {
+      "title": "Boiler Installation",
+      "desc": "New gas boilers fitted by a qualified Gas Safe engineer. We handle the lot: removal, installation, commissioning, and a 10-year parts warranty."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "Full system design and installation for new builds or upgrades. We ensure even warmth throughout your home with efficient, modern radiators and pipework."
+    },
+    {
+      "title": "Radiator Repairs & Bleeding",
+      "desc": "Cold radiators and leaking valves sorted quickly. We repair, bleed, and balance systems to restore full heating to every room."
+    },
+    {
+      "title": "Powerflush & System Cleaning",
+      "desc": "Powerflush removes sludge and debris from your heating system, boosting efficiency and cutting fuel bills by up to 20%."
+    }
+  ],
+  "about_pullquote": "I started this business because I was sick of seeing neighbours ripped off by cowboys.",
+  "about_para_1": "Jonny Eagle Plumbing & Heating was founded on the simple idea that Derby homeowners deserve honest, fast, and fair-priced plumbing and heating work. With over 15 years' experience and Gas Safe registration, we've built our reputation on turning up on time, diagnosing problems properly, and fixing them right the first time.",
+  "about_para_2": "We're not the cheapest, but we're the most reliable. Repeat customers make up 70% of our work because we treat every job \u2014 whether it's a frozen pipe at 2am or a full system overhaul \u2014 with the same care and attention. You get a tradesman who listens, explains what's wrong, and leaves your home as clean as he found it.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "70%",
+      "label": "Repeat & Referral Customers"
+    },
+    {
+      "num": "Gas Safe",
+      "label": "Registered & Certified"
+    },
+    {
+      "num": "Derby",
+      "label": "Local Family Business"
+    }
+  ],
+  "reviews_heading": "What Derby Homeowners Say About Jonny Eagle",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Had a nightmare with a burst pipe on Boxing Day \u2014 couldn't get anyone to answer. Jonny came out within an hour, had it sorted by evening, and didn't even charge an extra call-out fee. Legend. Will use him again.",
+      "author": "Michael T.",
+      "loc": "Allestree, Derby \u2014 December 2024"
+    },
+    {
+      "text": "Boiler packed in during the cold snap. Jonny diagnosed a faulty valve, ordered the part, and came back the next day to fit it. Professional, friendly, and his quote was spot on with no surprises. Definitely recommend.",
+      "author": "Sarah K.",
+      "loc": "Littleover, Derby \u2014 January 2025"
+    },
+    {
+      "text": "We've used Jonny for servicing and a radiator repair over two years. He's always reliable, explains what he's doing, and keeps costs fair. Not the flashiest, but genuinely the best tradesman I've worked with.",
+      "author": "David W.",
+      "loc": "Chaddesden, Derby \u2014 February 2025"
+    }
+  ],
+  "address_sub": "Serving Derby and surrounding areas including Allestree, Littleover, Chaddesden, and Spondon",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 7pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Sun: 9am \u2013 4pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Emergency? Burst pipe or broken boiler? We aim to be with you in under an hour, any time of day or night. Call now \u2014",
+  "footer_description": "Jonny Eagle Plumbing & Heating is a Gas Safe registered engineer in Derby. Emergency repairs, boiler installation, and heating maintenance 24/7.",
+  "footer_copyright": "\u00a9 2026 Jonny Eagle Plumbing & Heating. Registered in England & Wales."
+}
