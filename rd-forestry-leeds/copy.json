@@ -1,0 +1,107 @@
+{
+  "slug": "rd-forestry-leeds",
+  "meta_title": "RD Forestry | Tree Surgery & Arborist Leeds",
+  "meta_description": "RD Forestry in Leeds provides expert tree surgery, crown reduction, felling and stump removal. Fully insured. Free quotes available today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "NPTC Qualified \u2014 Fully Insured Tree Surgery",
+  "hero_headline": "Leeds' Trusted",
+  "hero_highlight": "Tree Surgeon",
+  "hero_subhead": "Overgrown trees damaging your property? We safely fell, prune and remove trees across Leeds \u2014 with same-week appointments.",
+  "badge_4": "Free Site Survey",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "500+",
+      "label": "Trees Removed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "2-3 days",
+      "label": "Typical Response"
+    }
+  ],
+  "services_heading": "Complete Tree Surgery Services Across Leeds",
+  "services_subhead": "From routine pruning to emergency storm damage, we handle every aspect of tree care with certified expertise and full insurance cover.",
+  "services": [
+    {
+      "title": "Tree Felling & Removal",
+      "desc": "Safe, controlled felling of large or problem trees. We handle site clearance and haul away all waste, leaving your garden ready to use again."
+    },
+    {
+      "title": "Crown Reduction & Pruning",
+      "desc": "Reduce overgrown canopies to restore light and air. Improves tree health and prevents damage to roofs, gutters and neighbouring properties."
+    },
+    {
+      "title": "Stump Grinding & Removal",
+      "desc": "Grind out unsightly stumps below ground level so you can replant or reclaim garden space. We handle disposal of all debris."
+    },
+    {
+      "title": "Emergency Storm Damage",
+      "desc": "Storm brought down a tree? We respond quickly to fallen branches and damaged limbs threatening your home or safety."
+    },
+    {
+      "title": "Dead Wood Removal",
+      "desc": "Safely remove dead or diseased limbs that pose a fall risk. Regular inspection keeps your trees healthy and safe year-round."
+    },
+    {
+      "title": "Tree Reports & Surveys",
+      "desc": "Detailed tree health assessments and risk surveys for insurance claims or planning permission. Written reports provided within 48 hours."
+    }
+  ],
+  "about_pullquote": "I started this business because I hated seeing tree cowboys overcharge homeowners for shoddy work.",
+  "about_para_1": "RD Forestry was founded in 2006 by Rob Davis, a qualified arborist with over 18 years' hands-on experience in tree surgery across Yorkshire. We've built our reputation on honest pricing, safe practice, and leaving every garden cleaner than we found it. Today, we're the go-to arborists for hundreds of Leeds homeowners and businesses who trust us with their most valuable green assets.",
+  "about_para_2": "Our strength lies in combining technical skill with real customer care. We're NPTC qualified, fully insured, and we never push unnecessary work. Every job\u2014whether a simple tidy-up or a complex multi-tree removal\u2014gets the same level of attention to detail and safety. Customers come back to us because we listen, we're transparent about costs, and we turn potentially dangerous situations into tidy, manageable outcomes.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading Since 2006"
+    },
+    {
+      "num": "NPTC",
+      "label": "Certified Arborist"
+    },
+    {
+      "num": "\u00a35m+",
+      "label": "Public Liability Cover"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About RD Forestry",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a massive oak tree hanging over the garage after the storm last month. Rob came out, assessed it properly, quoted fair, and removed it safely without a scratch on the house. Cleared the whole lot away the same day. Couldn't ask for better.",
+      "author": "Michael T.",
+      "loc": "Headingley, Leeds \u2014 October 2024"
+    },
+    {
+      "text": "Three quotes for the same job. Rob's was the most honest\u2014he talked us out of removing one tree we didn't need to, which saved us money. That's why we trust him. Professional crew, tidy finish, very pleased.",
+      "author": "Sarah P.",
+      "loc": "Chapel Allerton, Leeds \u2014 August 2024"
+    },
+    {
+      "text": "Emergency call on a Saturday morning\u2014tree blocking the driveway after heavy snow. Rob was here by mid-afternoon with two crew and had it sorted by evening. Real professionals, and didn't overcharge for the weekend work. Recommended to all my neighbours.",
+      "author": "James W.",
+      "loc": "Moortown, Leeds \u2014 February 2025"
+    }
+  ],
+  "address_sub": "Serving Leeds, Gildersome and surrounding areas within 15 miles",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency call-outs available 7 days",
+  "emergency_banner_text": "Emergency tree down? We respond to storm damage and urgent hazards within hours. Call now \u2014",
+  "footer_description": "RD Forestry provides expert tree surgery, felling and stump removal across Leeds. NPTC qualified, fully insured, honest pricing. Free surveys.",
+  "footer_copyright": "\u00a9 2026 RD Forestry. All rights reserved."
+}
