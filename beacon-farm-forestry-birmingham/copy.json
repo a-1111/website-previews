@@ -1,0 +1,107 @@
+{
+  "slug": "beacon-farm-forestry-birmingham",
+  "meta_title": "Beacon Farm Forestry | Tree Surgery Birmingham",
+  "meta_description": "Beacon Farm Forestry provides expert tree surgery, crown reduction, and stump removal across Birmingham and Walsall. Local arborists, fully insured. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-17:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Qualified Arborists \u2014 Fully Insured & Licensed",
+  "hero_headline": "Expert Tree Care for",
+  "hero_highlight": "Birmingham & Walsall",
+  "hero_subhead": "Safe tree surgery, pruning, and removal when you need it. Same-week appointments available.",
+  "badge_4": "Free Site Assessment",
+  "stats": [
+    {
+      "num": "18 yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "2,000+",
+      "label": "Trees managed"
+    },
+    {
+      "num": "48 hrs",
+      "label": "Typical response time"
+    },
+    {
+      "num": "100%",
+      "label": "Waste recycled"
+    }
+  ],
+  "services_heading": "Complete Tree Surgery Services Across Birmingham",
+  "services_subhead": "From hazard assessment to full removal, we handle every aspect of tree care safely and sustainably.",
+  "services": [
+    {
+      "title": "Tree Felling & Removal",
+      "desc": "Safe, controlled felling of dead, diseased, or unwanted trees. We handle difficult access and tight gardens with precision machinery and experienced crews."
+    },
+    {
+      "title": "Crown Reduction & Pruning",
+      "desc": "Reduce height and spread without harming the tree. Improves light to your garden and reduces storm damage risk, with a finished shape in one visit."
+    },
+    {
+      "title": "Stump Grinding",
+      "desc": "Complete below-ground removal leaves your garden clear and ready for replanting. Faster and neater than chemical stump removal."
+    },
+    {
+      "title": "Tree Inspection & Risk Assessment",
+      "desc": "Professional surveys identify hazardous branches or weak growth before they become expensive problems. Fully documented reports for insurance claims."
+    },
+    {
+      "title": "Storm Damage & Emergency Response",
+      "desc": "Fallen trees blocking access or threatening your property? We prioritise emergency call-outs and make the site safe the same day."
+    },
+    {
+      "title": "Hedge Cutting & Maintenance",
+      "desc": "Regular trimming keeps hedges healthy and attractive. We respect nesting seasons and local wildlife while keeping your boundaries neat."
+    }
+  ],
+  "about_pullquote": "We treat every tree like it belongs to a neighbour we respect.",
+  "about_para_1": "Beacon Farm Forestry has been caring for trees across Birmingham and Walsall for 18 years. Founded by experienced arborists who started out doing contract work for local councils and estates, we've built our reputation on honest advice and meticulous safety. Every team member is fully qualified and insured, with specialist training in hazardous tree work and wildlife protection.",
+  "about_para_2": "Our customers come back because we explain what a tree needs \u2014 not just what we can sell them. Whether you're dealing with a storm-damaged oak or a overgrown garden hedge, we give free no-pressure assessments and get the work done right. We recycle 100% of waste as wood chip and logs, keeping our environmental footprint small.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years trading"
+    },
+    {
+      "num": "2,000+",
+      "label": "Trees managed"
+    },
+    {
+      "num": "8",
+      "label": "Qualified staff"
+    },
+    {
+      "num": "100%",
+      "label": "Fully insured"
+    }
+  ],
+  "reviews_heading": "What Birmingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a huge oak leaning over the house. Beacon Farm sent someone round for a free look, explained everything clearly, and the crew made light work of it. Cost less than the other quotes, and they cleaned up properly after. Wouldn't hesitate to use them again.",
+      "author": "David T.",
+      "loc": "Aldridge, Walsall \u2014 November 2024"
+    },
+    {
+      "text": "Emergency call after the storm \u2014 they came out same day, made the fallen beech safe, and got it removed within 48 hours. Professional, quick, and reasonable on price. Really impressed with how they handled it.",
+      "author": "Helen M.",
+      "loc": "Sutton Coldfield, Birmingham \u2014 September 2024"
+    },
+    {
+      "text": "Regular hedge trim twice a year keeps our boundary looking smart. They know exactly when to cut to protect the birds nesting in spring. Top service, very reliable, and they always turn up on time.",
+      "author": "Peter K.",
+      "loc": "Four Oaks, Birmingham \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving Birmingham, Walsall, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 5pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency callouts available",
+  "emergency_banner_text": "Storm damage or fallen tree? We respond to emergencies within 48 hours. Call now \u2014",
+  "footer_description": "Beacon Farm Forestry provides expert tree surgery, felling, and stump removal across Birmingham and Walsall. Qualified arborists, fully insured, 100% waste recycled.",
+  "footer_copyright": "\u00a9 2026 Beacon Farm Forestry Ltd. All rights reserved."
+}
