@@ -1,0 +1,107 @@
+{
+  "slug": "andy-coggins-painter-decorator-bristol",
+  "meta_title": "Andy Coggins | Painter & Decorator Bristol",
+  "meta_description": "Andy Coggins is a trusted painter and decorator in Bristol. Interior and exterior work, free quotes, reliable service. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Fully Insured \u2014 20+ Years' Experience",
+  "hero_headline": "Bristol's Trusted",
+  "hero_highlight": "Painter and Decorator",
+  "hero_subhead": "Interior and exterior painting done right. Free quotes, no mess, work you'll be proud of.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "20+",
+      "label": "Years in business"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical quote turnaround"
+    }
+  ],
+  "services_heading": "Complete Painting & Decorating Services Across Bristol",
+  "services_subhead": "From feature walls to full house repaints, we handle every job with precision and care.",
+  "services": [
+    {
+      "title": "Interior Painting",
+      "desc": "Walls, ceilings, woodwork and feature walls painted to a flawless finish. We prep properly, use quality paint, and leave your home spotless."
+    },
+    {
+      "title": "Exterior Painting",
+      "desc": "Weatherproof coatings for fascias, soffits, doors and brickwork. We work in all seasons and protect your home against rain and frost damage."
+    },
+    {
+      "title": "Wallpaper Hanging",
+      "desc": "Pattern-matched hanging and expert removal of old paper. We take time to get corners and seams perfect, even on textured surfaces."
+    },
+    {
+      "title": "Woodwork Restoration",
+      "desc": "Strip, sand and repaint skirting, doors, frames and shutters. Bring tired woodwork back to life with hard-wearing finishes that last."
+    },
+    {
+      "title": "Commercial Redecorating",
+      "desc": "Office and retail spaces painted to schedule, with minimal disruption. We work evenings and weekends to fit your business timetable."
+    },
+    {
+      "title": "Property Preparation",
+      "desc": "Pre-sale or rental spruce-ups that add real appeal. We focus on the details that buyers and tenants notice first."
+    }
+  ],
+  "about_pullquote": "Good decorating shouldn't break the bank or leave your home in chaos.",
+  "about_para_1": "I started decorating over 20 years ago after watching my own home get ruined by a cowboys outfit. I vowed to do things properly \u2014 honest prices, quality materials, and work I'd be happy to show my own family. Since then, I've built a reputation across Bristol for turning homes into spaces people actually love.",
+  "about_para_2": "Repeat customers make up more than half my work, which tells you everything. I take pride in being reliable, tidy and straightforward \u2014 no hidden costs, no rushed job, no excuses. Whether it's a single bedroom or a five-bedroom family home, I approach every project the same way: right the first time.",
+  "about_stats": [
+    {
+      "num": "20+",
+      "label": "Years trading"
+    },
+    {
+      "num": "60%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "Bristol & South Glos",
+      "label": "Service area"
+    },
+    {
+      "num": "Fully insured",
+      "label": "Public liability"
+    }
+  ],
+  "reviews_heading": "What Bristol Homeowners Say About Andy",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Had Andy paint the whole interior of our house before we moved in. Really professional bloke, turned up on time, and the finish is brilliant. Couldn't find a drip anywhere. Would definitely recommend.",
+      "author": "Mark T.",
+      "loc": "Southville, Bristol \u2014 November 2024"
+    },
+    {
+      "text": "We were dreading getting someone in because of the mess, but Andy was incredibly tidy. Put dust sheets down, cleaned up every day, and left our lounge looking spotless. Great price too, no surprises on the bill.",
+      "author": "Claire M.",
+      "loc": "Bedminster, Bristol \u2014 September 2024"
+    },
+    {
+      "text": "Had external work done on a Victorian property. Andy understood what needed doing and didn't try to oversell us anything. The preparation was thorough and the paint job has held up beautifully through winter. Very happy.",
+      "author": "David S.",
+      "loc": "Clifton, Bristol \u2014 July 2024"
+    }
+  ],
+  "address_sub": "Serving Bristol and South Gloucestershire",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Free quotes by phone or site visit",
+  "emergency_banner_text": "Get a free quote today. Call Andy for a no-pressure chat about your project \u2014",
+  "footer_description": "Andy Coggins is a painter and decorator based in Bristol with 20+ years' experience. Interior and exterior work, fully insured, free quotes.",
+  "footer_copyright": "\u00a9 2026 Andy Coggins Painting & Decorating. Sole trader."
+}
