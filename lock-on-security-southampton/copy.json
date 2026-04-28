@@ -1,0 +1,107 @@
+{
+  "slug": "lock-on-security-southampton",
+  "meta_title": "Lock-On Security | Locksmith Southampton",
+  "meta_description": "Lock-On Security is your trusted Southampton locksmith. Emergency callouts, lock repairs, and key cutting. Fast response, 24/7 availability.",
+  "schema_opening_hours": [
+    "Mo-Su 07:00-23:00",
+    "Emergency callouts available 24/7"
+  ],
+  "hero_eyebrow": "24/7 Emergency Locksmith \u2022 Rapid Response",
+  "hero_headline": "Southampton's Trusted",
+  "hero_highlight": "Emergency Locksmith",
+  "hero_subhead": "Locked out in Southampton? Our team arrives within 45 minutes, any time of day or night.",
+  "badge_4": "Same-Day Service",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "45 mins",
+      "label": "Average Response Time"
+    },
+    {
+      "num": "1000+",
+      "label": "Jobs Completed Annually"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Locksmith Services Across Southampton",
+  "services_subhead": "From emergency lockouts to security upgrades, we handle every lock-related challenge with speed and expertise.",
+  "services": [
+    {
+      "title": "Emergency Lockout",
+      "desc": "Locked out of your home or business? We arrive fast with non-destructive entry techniques. No hidden charges\u2014transparent pricing upfront."
+    },
+    {
+      "title": "Lock Repair & Replacement",
+      "desc": "Broken, damaged, or worn locks repaired or replaced same day. We fit British Standard mortice locks and modern cylinder locks to suit your budget."
+    },
+    {
+      "title": "Key Cutting",
+      "desc": "Spare keys cut while you wait at our workshop or on-site. We programme and cut all types\u2014from traditional pin locks to modern digital systems."
+    },
+    {
+      "title": "UPVC Door Lock Repair",
+      "desc": "UPVC handles and locks wear out. We repair or replace them quickly, restoring your door's security and smooth operation."
+    },
+    {
+      "title": "Security Upgrades",
+      "desc": "Fit high-security locks, anti-snap cylinders, and reinforced frames to boost your home or business security. Expert advice included."
+    },
+    {
+      "title": "Padlock & Barrel Services",
+      "desc": "We cut and master-key padlocks for domestic and commercial use. Ideal for garages, sheds, gates, and storage areas."
+    }
+  ],
+  "about_pullquote": "I started this business to put honest locksmiths back on the map.",
+  "about_para_1": "Lock-On Security has served Southampton and the surrounding area for over 15 years. Founded on the principle that locksmith work should be transparent, fair, and fast, we've built a reputation for turning up when we say we will and fixing the problem right first time. Every member of our team is trained to the highest standards and carries full public liability cover.",
+  "about_para_2": "We're not a call centre routing you to random engineers miles away\u2014you get a local locksmith who knows Southampton and responds like it matters. That's why over 80% of our work comes from repeat customers and word-of-mouth referrals. Whether it's 3am on a Sunday or a straightforward key cut, we treat every job with the same care and urgency.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "80%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "45 mins",
+      "label": "Average Callout Time"
+    },
+    {
+      "num": "Southampton & Surrounds",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Southampton Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Got locked out of my flat on a Friday night. Called Lock-On at 8pm and the locksmith was here by 8:45. Professional, didn't damage the door, and the bill was exactly what he quoted on the phone. Brilliant service.",
+      "author": "Michael T.",
+      "loc": "Shirley, Southampton \u2014 November 2024"
+    },
+    {
+      "text": "My UPVC back door lock was broken and I couldn't lock up properly. Called first thing Monday morning, he came out same day, replaced the mechanism, and sorted the handle that was sticking too. Very thorough and fair pricing.",
+      "author": "Linda P.",
+      "loc": "Totton, Southampton \u2014 September 2024"
+    },
+    {
+      "text": "Needed several spare keys cut and the lock looked worn. The team at the workshop cut the keys quickly and gave me honest advice about replacing the lock soon. No pressure, just straightforward help. Will use again.",
+      "author": "David K.",
+      "loc": "Itchen, Southampton \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Southampton, Totton, and surrounding areas across Hampshire",
+  "opening_hours_main": "Mon\u2013Sun: 7am \u2013 11pm",
+  "opening_hours_sub": "24/7 emergency callouts available \u2022 Weekend and holiday work at standard rates",
+  "emergency_banner_text": "Locked out or security emergency? We arrive in under 45 minutes. Call now \u2014",
+  "footer_description": "Lock-On Security is a trusted Southampton locksmith offering emergency callouts, lock repairs, and security upgrades. Fast, honest, local service.",
+  "footer_copyright": "\u00a9 2026 Lock-On Security. All rights reserved."
+}
