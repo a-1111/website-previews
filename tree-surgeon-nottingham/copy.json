@@ -1,0 +1,107 @@
+{
+  "slug": "tree-surgeon-nottingham",
+  "meta_title": "Tree Surgeon | Professional Arborist Nottingham",
+  "meta_description": "Tree Surgeon Nottingham offers expert tree surgery, felling, pruning and stump removal. Fully insured. Local arborist serving Nottingham and surrounding areas.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-16:00"
+  ],
+  "hero_eyebrow": "Fully Insured Arborist \u2014 Emergency Tree Work Available",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Tree Surgery Experts",
+  "hero_subhead": "Dead limbs hanging over your house? We safely remove, prune and fell trees, then dispose of the lot.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Tree surgery experience"
+    },
+    {
+      "num": "2,400+",
+      "label": "Trees felled & managed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "Fully insured",
+      "label": "Public liability \u00a36m+"
+    }
+  ],
+  "services_heading": "Complete Tree Surgery Services Across Nottingham",
+  "services_subhead": "From routine pruning to emergency storm damage removal, we handle every aspect of tree care safely and professionally.",
+  "services": [
+    {
+      "title": "Tree Felling & Removal",
+      "desc": "Safe removal of dead, diseased or unwanted trees. We use modern rigging techniques to fell trees in tight spaces, then chip or remove all waste."
+    },
+    {
+      "title": "Crown Thinning & Pruning",
+      "desc": "Improve light and air circulation through your garden by thinning crowns, or shape mature trees to keep them healthy and manageable."
+    },
+    {
+      "title": "Hedge Cutting & Maintenance",
+      "desc": "Regular hedge trims to tidy boundaries and encourage dense growth. We handle overgrown hedges safely with all rubbish cleared."
+    },
+    {
+      "title": "Stump Grinding & Removal",
+      "desc": "Grind out awkward stumps flush to ground level or remove them entirely. Leaves your garden level and ready to replant."
+    },
+    {
+      "title": "Storm Damage & Emergency Work",
+      "desc": "Broken branches and fallen trees? We respond quickly to clear hazardous limbs and fallen timber, 24/7."
+    },
+    {
+      "title": "Tree Care Surveys & Advice",
+      "desc": "Professional assessment of tree health and safety. We identify problem trees early and recommend the best action to protect your property."
+    }
+  ],
+  "about_pullquote": "I started this business because trees matter \u2014 and shoddy work leaves them dying.",
+  "about_para_1": "We've been climbing and felling trees across Nottingham for nearly two decades. Built on a reputation for honest advice and meticulous workmanship, we've helped thousands of homeowners and businesses manage their trees safely. All our arborists are trained to the highest standards and fully insured.",
+  "about_para_2": "Customers come back because we don't over-sell. We assess every tree properly, give you straight advice, and only recommend what's genuinely needed. Whether it's a routine prune or emergency storm damage, you'll find us punctual, tidy, and thorough.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "4 staff",
+      "label": "Qualified arborists"
+    },
+    {
+      "num": "89%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "Nottingham",
+      "label": "& 12-mile radius"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had three massive overhanging branches that were keeping light out of the kitchen. Came out same day, assessed the job properly, and felled them without a scratch to the fence. All the chips cleared away. Really professional outfit.",
+      "author": "David P.",
+      "loc": "Beeston, Nottingham \u2014 February 2025"
+    },
+    {
+      "text": "After the storm knocked a huge oak branch into the shed, I rang expecting to wait weeks. They were here within four hours and had everything safe and cleared by end of day. Fair price too, no hidden extras.",
+      "author": "Margaret S.",
+      "loc": "Sherwood, Nottingham \u2014 January 2025"
+    },
+    {
+      "text": "Absolute lifesaver. The stump in our garden was impossible to get out. They ground it and levelled the whole lot. Garden's usable again. Would definitely recommend.",
+      "author": "Tom H.",
+      "loc": "Lenton, Nottingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Nottingham and surrounding areas within 12 miles",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 4pm \u2022 Emergency callouts 24/7",
+  "emergency_banner_text": "Tree emergency? Storm damage or a dangerous branch threatening your home? We respond same-day, any time. Call now \u2014",
+  "footer_description": "Tree Surgeon Nottingham provides expert felling, pruning, stump removal and emergency tree work. Fully insured. Rapid response. Local arborists.",
+  "footer_copyright": "\u00a9 2026 Tree Surgeon Nottingham. All rights reserved."
+}
