@@ -1,0 +1,107 @@
+{
+  "slug": "r-j-tree-services-birmingham",
+  "meta_title": "R&J Tree Services | Arborist Birmingham",
+  "meta_description": "R&J Tree Services Birmingham offers expert tree surgery, felling, and maintenance. Fully insured, qualified arborists. Free quotes \u2014 call us today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-17:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Certified Arborists \u2014 Local Birmingham Tree Experts",
+  "hero_headline": "Birmingham's Trusted",
+  "hero_highlight": "Tree Surgery Specialists",
+  "hero_subhead": "Dangerous branch hanging over your home? We assess, plan, and remove safely \u2014 same-week appointments available.",
+  "badge_4": "Free Site Survey",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years In Business"
+    },
+    {
+      "num": "2,000+",
+      "label": "Trees Treated"
+    },
+    {
+      "num": "24hrs",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "Fully Insured",
+      "label": "Public Liability Cover"
+    }
+  ],
+  "services_heading": "Complete Tree Care Services Across Birmingham",
+  "services_subhead": "From routine pruning to complex felling, we handle every aspect of tree management with safety and precision.",
+  "services": [
+    {
+      "title": "Tree Felling & Removal",
+      "desc": "Safe, planned removal of dead, diseased, or unwanted trees. We handle large specimens and awkward locations, clearing debris throughout."
+    },
+    {
+      "title": "Crown Reduction & Shaping",
+      "desc": "Reduce weight and improve tree shape to restore vigour and light. Perfect for overhanging branches and storm-damaged trees."
+    },
+    {
+      "title": "Hedge Trimming & Maintenance",
+      "desc": "Regular hedge cutting keeps boundaries neat and promotes healthy growth. We work to your preferred height and density."
+    },
+    {
+      "title": "Emergency Storm Damage",
+      "desc": "Fallen trees, split limbs, and storm debris cleared quickly and safely. We're available 24/7 for urgent callouts."
+    },
+    {
+      "title": "Tree Health Assessment",
+      "desc": "Expert inspection identifies disease, structural faults, and pest damage. We advise on treatment or safe removal options."
+    },
+    {
+      "title": "Stump Grinding & Removal",
+      "desc": "Complete stump extraction below ground level. Clears the site and removes regrowth risk \u2014 perfect for new landscaping projects."
+    }
+  ],
+  "about_pullquote": "We climb every tree like it's in our own garden.",
+  "about_para_1": "R&J Tree Services was founded over 15 years ago by two climbers who were tired of seeing poor, unsafe work in the Birmingham area. We've grown into a trusted team of certified arborists and ground staff, completing over 2,000 tree jobs across the West Midlands. Every member holds current qualifications in arboriculture and rigorous safety training.",
+  "about_para_2": "Our reputation is built on honesty and attention. We turn up on time, explain what we're doing in plain English, and leave your garden spotless. Repeat customers make up 60% of our work \u2014 because once you've seen us handle a tricky removal or storm damage, you know you can rely on us.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "6",
+      "label": "Certified Climbers"
+    },
+    {
+      "num": "60%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "West Midlands",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Birmingham Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Massive oak tree was leaning towards the house after the storm. R&J came out same day, assessed it properly, and got it down safely without damaging anything. Professional crew, knew exactly what they were doing. Really pleased with the job.",
+      "author": "David P.",
+      "loc": "Edgbaston, Birmingham \u2014 November 2024"
+    },
+    {
+      "text": "Been using them for three years now for our hedge. They're reliable, always turn up when promised, and the price is fair. The garden looks brilliant after they've been. Highly recommend.",
+      "author": "Margaret T.",
+      "loc": "Harborne, Birmingham \u2014 February 2025"
+    },
+    {
+      "text": "Emergency callout at 10pm because a branch came down on the fence. They were here within an hour, cleared it all, and sorted everything before we had to pay a fortune. Absolutely top service. Will definitely call them again.",
+      "author": "James M.",
+      "loc": "Kings Heath, Birmingham \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Birmingham, Solihull, Dudley, and the wider West Midlands",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 5pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency callouts 24/7",
+  "emergency_banner_text": "Tree down or branch hazard in Birmingham? We respond to emergencies within the hour, day or night. Call now \u2014",
+  "footer_description": "R&J Tree Services is a certified arborist team based in Birmingham, delivering expert tree felling, pruning, and storm damage clearance across the West Midlands.",
+  "footer_copyright": "\u00a9 2026 R&J Tree Services Ltd. Registered in England & Wales."
+}
