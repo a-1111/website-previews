@@ -1,0 +1,107 @@
+{
+  "slug": "canopy-craft-sheffield",
+  "meta_title": "Canopy Craft | Tree Surgery & Arborist Sheffield",
+  "meta_description": "Canopy Craft is your trusted arborist in Sheffield. Expert tree surgery, felling, pruning and stump removal. Free quotes, fully insured. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "NPTC Certified Arborist \u2014 Safe, Professional Tree Care",
+  "hero_headline": "Sheffield's Expert",
+  "hero_highlight": "Tree Surgeons",
+  "hero_subhead": "Dangerous trees, overgrown branches, storm damage in Sheffield? We remove the risk safely and leave your garden looking better.",
+  "badge_4": "Free Site Assessment",
+  "stats": [
+    {
+      "num": "15+yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "800+",
+      "label": "Trees Felled"
+    },
+    {
+      "num": "48hrs",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "Fully Insured",
+      "label": "Public Liability"
+    }
+  ],
+  "services_heading": "Complete Tree Surgery Services Across Sheffield",
+  "services_subhead": "From routine pruning to emergency felling, we handle every aspect of professional arboriculture with safety and care.",
+  "services": [
+    {
+      "title": "Tree Felling & Removal",
+      "desc": "Safe, controlled removal of dangerous or unwanted trees. We manage access, site clearance, and chip all waste on-site to minimise disruption to your Sheffield property."
+    },
+    {
+      "title": "Crown Reduction & Pruning",
+      "desc": "Reduce height and spread without harming the tree. Expert pruning improves light, air flow, and health while keeping your garden balanced and safe."
+    },
+    {
+      "title": "Stump Grinding",
+      "desc": "Complete stump removal below ground level using specialist grinding equipment. Reclaim garden space and eliminate regrowth in one visit."
+    },
+    {
+      "title": "Storm Damage & Emergency Work",
+      "desc": "Fallen branches, split trunks, uprooted trees\u2014we respond within 48 hours to secure your property and make the site safe again."
+    },
+    {
+      "title": "Tree Planting & Aftercare",
+      "desc": "We advise on species selection, soil preparation, and establishing new trees. Ongoing support ensures healthy, vigorous growth for years to come."
+    },
+    {
+      "title": "Hedge Cutting & Maintenance",
+      "desc": "Regular trimming keeps hedges dense and attractive. We handle any height or density, and dispose of all clippings responsibly."
+    }
+  ],
+  "about_pullquote": "Good tree care should respect the tree and the neighbourhood. That's what we do.",
+  "about_para_1": "Canopy Craft has been caring for Sheffield's trees for over 15 years. We started because we saw too many trees butchered by cowboys with a chainsaw and no knowledge. Today, we're a fully qualified, insured team working to arboricultural standards\u2014NPTC certified, and backed by public liability insurance up to \u00a310 million. Every job, from a small prune to emergency storm clearance, is planned with the tree's long-term health and your safety in mind.",
+  "about_para_2": "You'll find us on domestic gardens, conservation areas, and commercial sites across South Yorkshire. Customers trust us because we listen, we explain our work, and we leave your garden cleaner than we found it. Many of our jobs come from word-of-mouth recommendation\u2014the best compliment an arborist can get.",
+  "about_stats": [
+    {
+      "num": "15yrs+",
+      "label": "Trading in Sheffield"
+    },
+    {
+      "num": "NPTC Certified",
+      "label": "Qualified Arborists"
+    },
+    {
+      "num": "\u00a310m",
+      "label": "Public Liability Cover"
+    },
+    {
+      "num": "48hrs",
+      "label": "Emergency Response"
+    }
+  ],
+  "reviews_heading": "What Sheffield Homeowners Say About Canopy Craft",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had three massive conifers taken down that were blocking the light from the back garden. The lads were professional, tidy, and they chipped everything on the spot. Fair price and finished in a day. Brilliant job.",
+      "author": "Mark T.",
+      "loc": "Broomhill, Sheffield \u2014 November 2024"
+    },
+    {
+      "text": "Emergency call after the storm brought down a branch through our fence. They came out the same afternoon, made it safe, and gave us advice on the damaged tree. Really reassuring when you're worried. Highly recommend.",
+      "author": "Claire W.",
+      "loc": "Ranmoor, Sheffield \u2014 October 2024"
+    },
+    {
+      "text": "Dave explained exactly what he was doing with our old oak and why. It needed work but he pruned it beautifully instead of just chopping it down. You can tell he actually cares about trees, not just the invoice. Worth every penny.",
+      "author": "Robert H.",
+      "loc": "Ecclesall, Sheffield \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Sheffield City Centre, South Yorkshire, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency callouts available outside hours",
+  "emergency_banner_text": "Storm damage or dangerous tree? We aim to respond within 48 hours. Call now \u2014",
+  "footer_description": "Canopy Craft is Sheffield's trusted arborist. NPTC-certified tree surgery, felling, pruning, and stump removal. Fully insured, safety-first approach.",
+  "footer_copyright": "\u00a9 2026 Canopy Craft Ltd. Registered in England & Wales."
+}
