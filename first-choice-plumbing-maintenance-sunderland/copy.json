@@ -1,0 +1,108 @@
+{
+  "slug": "first-choice-plumbing-maintenance-sunderland",
+  "meta_title": "First Choice Plumbing | Emergency Plumber Sunderland",
+  "meta_description": "First Choice Plumbing and Maintenance in Sunderland. Emergency repairs, boiler installations, and maintenance. Same-day service available. Call now.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "24/7 Emergency Callouts \u2014 Rapid Response Sunderland",
+  "hero_headline": "Your Trusted Local",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe or blocked drain in Sunderland? We arrive fast, diagnose accurately, and fix it right first time.",
+  "badge_4": "Same-Day Emergency Service",
+  "stats": [
+    {
+      "num": "15yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Sunderland",
+  "services_subhead": "From emergency repairs to full system installations, we handle every plumbing challenge in your home or business.",
+  "services": [
+    {
+      "title": "Emergency Burst Pipes",
+      "desc": "Pipe burst at 2am? We're on call 24/7. Our engineers locate the leak, stop the damage, and repair it \u2014 usually the same day."
+    },
+    {
+      "title": "Boiler Repairs & Servicing",
+      "desc": "Annual boiler services keep your heating running safely and efficiently. Repairs diagnosed on the van mean fewer trips and lower costs."
+    },
+    {
+      "title": "Bathroom & Kitchen Installations",
+      "desc": "New suite or upgrade? We handle pipework, fitting, and testing. Your bathroom or kitchen is finished to standard and on budget."
+    },
+    {
+      "title": "Blocked Drains & Unblocking",
+      "desc": "Slow drain or backed-up system? We use CCTV to pinpoint the blockage and clear it with minimal mess or disruption."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "New system or full replacement. We design layouts, install to Building Regulations, and test everything before we leave."
+    },
+    {
+      "title": "Radiator Repairs & Replacements",
+      "desc": "Cold radiators, leaks, or noisy pipes? We repair or fit new radiators and balance your system for even heat throughout."
+    }
+  ],
+  "about_pullquote": "I started this business because I hate cowboys overcharging people.",
+  "about_para_1": "First Choice Plumbing was founded 15 years ago on a simple promise: arrive fast, work cleanly, and charge fair prices. We've grown from a one-man operation to a trusted team that handles everything from burst pipes to full central heating installations across Sunderland and the North East. Every engineer carries parts on the van and the experience to solve most problems before they leave your home.",
+  "about_para_2": "Our reputation is built on turning up on time, finishing the job properly, and treating your home with respect. We're not the cheapest, but we're the fastest and most reliable \u2014 which is why 70% of our work comes from repeat customers and word-of-mouth referrals. When you call First Choice, you get a local engineer who knows Sunderland's properties and won't oversell you work you don't need.",
+  "about_stats": [
+    {
+      "num": "15yrs",
+      "label": "Established in Sunderland"
+    },
+    {
+      "num": "70%",
+      "label": "Work from repeat customers"
+    },
+    {
+      "num": "12",
+      "label": "Vans, all fully stocked"
+    },
+    {
+      "num": "500+",
+      "label": "5-star reviews"
+    }
+  ],
+  "reviews_heading": "What Sunderland Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 487,
+  "reviews": [
+    {
+      "text": "Had a burst pipe on a Sunday morning \u2014 absolute nightmare. Called First Choice at 8am and Mark was here by 9.15. Had the leak found and fixed by 10.30. Brilliant service, fair price, and he even cleaned up the mess. Can't ask for more than that.",
+      "author": "David P.",
+      "loc": "Roker, Sunderland \u2014 November 2024"
+    },
+    {
+      "text": "New boiler installation. The engineer turned up on time, explained everything clearly, and got it fitted and tested same day. Came in on budget. Why are other plumbers so hard to deal with? Cheers lads.",
+      "author": "Lisa T.",
+      "loc": "Grangetown, Sunderland \u2014 September 2024"
+    },
+    {
+      "text": "Blocked drain was driving me mad. They sent someone out within the hour, used a camera to see exactly where the problem was, cleared it without digging up the garden. Honest lot. Will use them again.",
+      "author": "Chris H.",
+      "loc": "Thornholme, Sunderland \u2014 February 2025"
+    }
+  ],
+  "address_sub": "Serving Sunderland and the surrounding North East",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Burst pipe, no heating, or blocked drain in Sunderland? We aim to be with you within the hour. Call now \u2014",
+  "footer_description": "First Choice Plumbing and Maintenance in Sunderland. 15 years of emergency repairs, boiler servicing, and installations across the North East.",
+  "footer_copyright": "\u00a9 2026 First Choice Plumbing and Maintenance Ltd. All rights reserved."
+}
