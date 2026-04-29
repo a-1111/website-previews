@@ -1,0 +1,108 @@
+{
+  "slug": "bansals-plumber-derby",
+  "meta_title": "Bansals | Emergency Plumber Derby",
+  "meta_description": "Bansals is a trusted emergency plumber in Derby. Fast response times, honest pricing, and expert repairs. Call now for same-day service.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "24/7 Emergency Callouts \u2014 Derby's Trusted Plumber",
+  "hero_headline": "Derby's Most Reliable",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe or broken boiler in Derby? We arrive within the hour, any time of day or night.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Experience"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "Under 1 hour",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Derby",
+  "services_subhead": "From emergency burst pipes to routine boiler maintenance, we handle all plumbing jobs with speed and precision.",
+  "services": [
+    {
+      "title": "Emergency Burst Pipes",
+      "desc": "Discover a burst pipe at 2am? We're there fast. We locate the leak, stop the water, and repair or replace the damaged section \u2014 minimising water damage to your home."
+    },
+    {
+      "title": "Boiler Repair & Installation",
+      "desc": "Boiler broken down? We diagnose faults quickly and carry common parts on the van. We also fit new boilers and arrange power flushing to keep your system running efficiently."
+    },
+    {
+      "title": "Radiator & Heating",
+      "desc": "Cold radiators, leaking valves, or noisy pipes? We balance systems, replace faulty thermostatic valves, and repair or install new radiators to restore warmth to every room."
+    },
+    {
+      "title": "Bathroom & Kitchen Plumbing",
+      "desc": "Fitting new taps, replacing bath panels, installing showers, or moving pipes for a kitchen refit \u2014 we handle all domestic plumbing with minimal disruption to your home."
+    },
+    {
+      "title": "Drain Unblocking",
+      "desc": "Slow drains or complete blockages? We use professional drain rods and high-pressure jetting to clear debris, hair, and tree roots without damaging your pipes."
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "desc": "Hidden leaks costing you money? We track down water leaks behind walls and under floors, then repair them properly to prevent future damage and damp."
+    }
+  ],
+  "about_pullquote": "I started this business to give Derby honest plumbing at a fair price.",
+  "about_para_1": "Bansals has been serving Derby and the surrounding area for over 15 years. We've built our reputation on turning up on time, diagnosing problems correctly, and charging a fair price \u2014 no hidden extras or cowboy tactics. Every job, whether it's a midnight emergency or a planned installation, gets the same care and attention.",
+  "about_para_2": "Our customers trust us because we answer the phone, we listen to what's wrong, and we fix it properly the first time. We're based right here in Derby, we know the area well, and we're genuinely proud of the repeat business and word-of-mouth referrals we've earned over the years.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Derby"
+    },
+    {
+      "num": "2000+",
+      "label": "Happy Customers"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average Rating"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat & Referral"
+    }
+  ],
+  "reviews_heading": "What Derby Homeowners Say About Bansals",
+  "rating": 4.8,
+  "review_count": 267,
+  "reviews": [
+    {
+      "text": "Had a burst pipe at 11pm on a Sunday. Called Bansals and they were here by midnight. Fixed it properly, left the place clean, and the bill was reasonable. Couldn't ask for better service.",
+      "author": "David P.",
+      "loc": "Allestree, Derby \u2014 November 2024"
+    },
+    {
+      "text": "Replaced our boiler and fitted new radiators in the bedrooms. The lads were professional, polite, and finished on time. They even explained how to bleed the radiators properly. Will definitely call them again.",
+      "author": "Margaret T.",
+      "loc": "Mickleover, Derby \u2014 September 2024"
+    },
+    {
+      "text": "Came out to look at a dodgy tap that was leaking all night. Found the problem, sorted it in 20 minutes, and didn't overcharge. Honest and reliable \u2014 that's what I'd tell anyone looking for a plumber in Derby.",
+      "author": "Simon H.",
+      "loc": "City Centre, Derby \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Derby and surrounding areas including Allestree, Mickleover, Spondon, and beyond",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Burst pipe or boiler down? We aim to be with you in under an hour. Call now \u2014",
+  "footer_description": "Bansals is a trusted emergency plumber in Derby offering fast response times, honest pricing, and professional repairs for boilers, leaks, and heating.",
+  "footer_copyright": "\u00a9 2026 Bansals Plumbing. Trading in Derby, England."
+}
