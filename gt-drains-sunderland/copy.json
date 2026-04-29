@@ -1,0 +1,108 @@
+{
+  "slug": "gt-drains-sunderland",
+  "meta_title": "GT Drains | Emergency Plumber Sunderland",
+  "meta_description": "GT Drains is your trusted emergency plumber in Sunderland. Fast response, drain clearance, burst pipes & heating repairs. Call now for same-day service.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "24/7 Emergency Response \u2014 Rapid Drain & Plumbing Fixes",
+  "hero_headline": "Sunderland's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Blocked drain at 3am or burst pipe on Sunday? We're here within the hour, any time of day or night.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in plumbing"
+    },
+    {
+      "num": "Under 1 hour",
+      "label": "Average response time"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed annually"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Drainage Services Across Sunderland",
+  "services_subhead": "From emergency call-outs to planned installations, we handle every plumbing job with speed and expertise.",
+  "services": [
+    {
+      "title": "Emergency Drain Clearance",
+      "desc": "Blocked drain causing backups? We locate the blockage with CCTV cameras and clear it fast\u2014no mess left behind. Available 24/7 for urgent jobs."
+    },
+    {
+      "title": "Burst Pipe Repairs",
+      "desc": "Water pouring from a burst pipe? Our team isolates the leak, makes the repair, and restores your water supply. We carry emergency parts on the van."
+    },
+    {
+      "title": "Boiler Installation & Repair",
+      "desc": "New boiler or existing system on the fritz? We install high-efficiency models and fix faults fast, keeping your home warm and reducing energy bills."
+    },
+    {
+      "title": "Radiator Replacement",
+      "desc": "Cold radiators or old models wasting heat? We remove, install, and balance your heating system for even warmth throughout your home."
+    },
+    {
+      "title": "Tap & Leak Repairs",
+      "desc": "Dripping taps costing you money and sleep? We fix or replace taps, repair under-sink leaks, and stop water waste before it ruins your bills."
+    },
+    {
+      "title": "Bathroom & Kitchen Plumbing",
+      "desc": "Planning a new bathroom or kitchen? We handle pipework, supply lines, waste disposal, and ensure everything passes inspection."
+    }
+  ],
+  "about_pullquote": "I started GT Drains because I couldn't stand watching neighbours charged over the odds for simple fixes.",
+  "about_para_1": "GT Drains was founded on the principle that emergency plumbing shouldn't mean a massive bill or a long wait. With over 15 years' experience across Sunderland, we've built our reputation on arriving fast, fixing right the first time, and treating your home with respect. Every job\u2014whether a blocked drain at midnight or a planned boiler install\u2014gets the same level of care.",
+  "about_para_2": "Our customers return because we don't overcharge, we don't pressure you into unnecessary work, and we show up when we say we will. Word-of-mouth keeps us busy, and that's exactly how we like it. If something needs a proper fix, we'll tell you straight; if it can wait until morning, we'll say so.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years serving Sunderland"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs per year"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency availability"
+    },
+    {
+      "num": "95%",
+      "label": "Return customer rate"
+    }
+  ],
+  "reviews_heading": "What Sunderland Homeowners Say About GT Drains",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a blocked toilet at 11pm on a Friday. Called GT Drains expecting the worst, but they had someone round by midnight. Clean job, fair price, no faffing about. Absolute lifesaver.",
+      "author": "Mark T.",
+      "loc": "Roker, Sunderland \u2014 February 2025"
+    },
+    {
+      "text": "Burst pipe in the kitchen last month. Rang them in a panic and they were here in 45 minutes. Fixed it properly, not a bodge. Best \u00a3180 I've spent. Will use them again without hesitation.",
+      "author": "Claire W.",
+      "loc": "Grindon, Sunderland \u2014 January 2025"
+    },
+    {
+      "text": "New boiler install went smoothly. They explained everything clearly, finished on time, and the paperwork was sorted. No dramas. Heating's brilliant now and bills are noticeably lower.",
+      "author": "David M.",
+      "loc": "Pennywell, Sunderland \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving all of Sunderland and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 Emergency line 24/7",
+  "emergency_banner_text": "Burst pipe, blocked drain, or boiler failure? We aim to reach you within one hour. Call now \u2014",
+  "footer_description": "GT Drains is Sunderland's trusted emergency plumber. Fast response, expert repairs, honest pricing. Available 24/7 for all plumbing and drainage jobs.",
+  "footer_copyright": "\u00a9 2026 GT Drains. All rights reserved."
+}
