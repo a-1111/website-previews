@@ -1,0 +1,107 @@
+{
+  "slug": "drip-doctor-derby",
+  "meta_title": "Drip Doctor | Plumber Derby",
+  "meta_description": "Drip Doctor is your trusted local plumber in Derby. Emergency repairs, installations, and maintenance. Fast response times, fair prices. Call us today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-19:00",
+    "Sa 08:00-17:00"
+  ],
+  "hero_eyebrow": "Emergency Plumber \u2014 Fast Response, Fair Prices",
+  "hero_headline": "Derby's Trusted",
+  "hero_highlight": "Local Plumber",
+  "hero_subhead": "Burst pipe or leaking tap keeping you up at night? We're here fast, with solutions that work and prices that won't shock you.",
+  "badge_4": "Same-Day Emergency Callouts",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average Response"
+    },
+    {
+      "num": "Derby & Surrounds",
+      "label": "Coverage Area"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Derby",
+  "services_subhead": "From emergency callouts to planned installations, we handle everything your home or business needs.",
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "desc": "Burst pipes, leaks, and blockages sorted fast\u2014usually the same day. We carry common parts on the van to minimise disruption."
+    },
+    {
+      "title": "Boiler Repairs & Servicing",
+      "desc": "Annual boiler checks keep your heating running safely and efficiently. Repairs carried out quickly to get you warm again."
+    },
+    {
+      "title": "Tap & Radiator Installation",
+      "desc": "Modern taps, radiators, and heating upgrades installed to your exact spec. We remove the old and leave your space clean."
+    },
+    {
+      "title": "Bathroom & Kitchen Plumbing",
+      "desc": "Full refit or single fixture installation\u2014we handle water supply, waste pipes, and all connections with precision."
+    },
+    {
+      "title": "Pipe Freezing & Thawing",
+      "desc": "Winter freeze-up? We thaw frozen pipes safely without damage, then advise on prevention for next season."
+    },
+    {
+      "title": "Drain Cleaning & Unblocking",
+      "desc": "Stubborn blockages cleared using proven techniques. We locate the cause and fix it so it doesn't come back."
+    }
+  ],
+  "about_pullquote": "We treat every home like it's our own\u2014honest work, fair pricing, done right first time.",
+  "about_para_1": "Drip Doctor has been fixing plumbing across Derby for nearly two decades. Started from frustration with cowboys overcharging and taking shortcuts, we built this business on simple rules: arrive on time, diagnose properly, and charge fairly. Our reputation speaks for itself\u2014most of our work now comes from repeat customers and personal recommendations.",
+  "about_para_2": "We specialise in emergency callouts because we know how stressful a burst pipe or heating failure can be. Whether it's 2am on a Sunday or mid-morning on a Tuesday, we're there. You'll deal with experienced plumbers who get the job done right, not apprentices learning on your dime.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years Trading"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat & Referral Customers"
+    },
+    {
+      "num": "4",
+      "label": "Full-Time Plumbers"
+    },
+    {
+      "num": "Derby & 15mi Radius",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Derby Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a nightmare leak in the kitchen at 11pm on a Friday. Called Drip Doctor and Mark was here by midnight. Had it sorted within the hour. Charged a fair rate too\u2014no inflated emergency pricing. Brilliant service, will definitely use again.",
+      "author": "Claire M.",
+      "loc": "Allestree, Derby \u2014 November 2024"
+    },
+    {
+      "text": "Needed a new boiler and full heating system overhaul. The lads were professional, explained everything clearly, and finished on time. System's running beautifully and the warranty gives real peace of mind. Can't fault them.",
+      "author": "David K.",
+      "loc": "Mickleover, Derby \u2014 September 2024"
+    },
+    {
+      "text": "Frozen pipes in January\u2014thought we were in for a nightmare. Rang Drip Doctor and they came out same day, thawed everything safely, and gave us tips to prevent it happening again. Proper friendly and knowledgeable. Highly recommend.",
+      "author": "Sarah P.",
+      "loc": "Chaddesden, Derby \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Derby and surrounding areas within a 15-mile radius",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 7pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Emergency callouts available 24/7",
+  "emergency_banner_text": "Emergency plumbing in Derby? We aim to be with you in under an hour, any day of the week. Call now \u2014",
+  "footer_description": "Drip Doctor is Derby's trusted emergency plumber. Fast response times, honest pricing, and 18 years' experience fixing homes across the city.",
+  "footer_copyright": "\u00a9 2026 Drip Doctor Limited. Registered in England & Wales."
+}
