@@ -1,0 +1,108 @@
+{
+  "slug": "fielding-gas-services-preston",
+  "meta_title": "Fielding Gas Services | Plumber Preston",
+  "meta_description": "Fielding Gas Services in Preston. Emergency plumbing, boiler repairs, and gas installations. Fast response, reliable work. Call us today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 08:00-14:00",
+    "Su closed"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Response",
+  "hero_headline": "Preston's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe or boiler breakdown in Preston? We're here within the hour, any time of day or night.",
+  "badge_4": "Same-Day Fixes Available",
+  "stats": [
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "12 yrs",
+      "label": "In Business"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs Completed"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Gas Services Across Preston",
+  "services_subhead": "From emergency burst pipes to full boiler installations, we handle every plumbing challenge with speed and skill.",
+  "services": [
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, leaks, and blockages fixed fast. Our vans carry parts for most common faults, so we solve problems the same day you call."
+    },
+    {
+      "title": "Boiler Repairs & Installation",
+      "desc": "Gas boiler repairs, replacements, and annual servicing. We keep you warm all year round with reliable, efficient heating."
+    },
+    {
+      "title": "Central Heating Systems",
+      "desc": "Full system installations, power flushing, and radiator replacements. We'll upgrade your heating to cut bills and improve comfort."
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "desc": "Hidden leaks found fast with modern detection equipment. We locate the problem and repair it before damage spreads."
+    },
+    {
+      "title": "Tap & Fitting Installation",
+      "desc": "New taps, showers, and water fittings fitted to your specification. Quality products installed by experienced hands."
+    },
+    {
+      "title": "Bathroom & Kitchen Plumbing",
+      "desc": "Full pipework and supply line work for new bathrooms and kitchens. We coordinate seamlessly with your builders and decorators."
+    }
+  ],
+  "about_pullquote": "I started this to be the plumber I'd want in my own home.",
+  "about_para_1": "Fielding Gas Services has been serving Preston families and businesses for over 12 years. We're Gas Safe Registered and handle everything from emergency call-outs to planned installations. Our founder built the business on a simple belief: turn up on time, do the job right, charge a fair price.",
+  "about_para_2": "We're known in Preston for honest advice and work that lasts. Most of our customers come back to us, or recommend us to neighbours, because we don't oversell jobs or rush through repairs. You get a plumber who listens and solves the real problem, not the most expensive one.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2,500+",
+      "label": "Satisfied Customers"
+    },
+    {
+      "num": "98%",
+      "label": "Would Recommend Us"
+    },
+    {
+      "num": "All of Preston",
+      "label": "Service Area"
+    }
+  ],
+  "reviews_heading": "What Preston Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had a nightmare with a burst pipe at 11pm on a Tuesday. Fielding answered straight away, got here by midnight, and had the leak stopped and cleaned up within an hour. Fair price for an emergency call too. Brilliant service.",
+      "author": "Mark D.",
+      "loc": "Ashton-on-Ribble, Preston \u2014 November 2024"
+    },
+    {
+      "text": "Boiler completely failed just before Christmas. Thought we'd be freezing, but Dave diagnosed it same afternoon and fitted a new one the next day. Installation was tidy, no mess left behind. Heating's been perfect since.",
+      "author": "Jennifer T.",
+      "loc": "Fulwood, Preston \u2014 December 2024"
+    },
+    {
+      "text": "Doesn't try to sell you work you don't need. Called for a leaking tap and he arrived, fixed it, explained what was wrong, and didn't fob us off with unnecessary repairs. Professional and honest. Recommended him to three neighbours already.",
+      "author": "Paul H.",
+      "loc": "Grimsargh, Preston \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving all of Preston and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Burst pipe or boiler down? We aim to be with you in under an hour, day or night. Call now \u2014",
+  "footer_description": "Fielding Gas Services is Preston's trusted emergency plumber. Gas Safe registered, fast response, honest advice. Same-day fixes available.",
+  "footer_copyright": "\u00a9 2026 Fielding Gas Services. Registered in England & Wales."
+}
