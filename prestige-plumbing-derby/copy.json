@@ -1,0 +1,108 @@
+{
+  "slug": "prestige-plumbing-derby",
+  "meta_title": "Prestige Plumbing | Emergency Plumber Derby",
+  "meta_description": "Prestige Plumbing Derby offers fast emergency plumbing, boiler repairs, and installations. Same-day service across Derby. Call now for rapid assistance.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 10:00-16:00"
+  ],
+  "hero_eyebrow": "Emergency Response \u2014 60-Minute Target Callouts",
+  "hero_headline": "Derby's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe, leaking boiler, or blocked drain in Derby? We arrive fast and fix it right, any time of day or night.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Under 60 mins",
+      "label": "Average Response Time"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Derby",
+  "services_subhead": "From emergency callouts to planned maintenance, we handle every plumbing need with speed and expertise.",
+  "services": [
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, leaks, and blockages fixed fast. We're on call 24/7 to keep water damage at bay and restore your home to normal."
+    },
+    {
+      "title": "Boiler Repairs & Installation",
+      "desc": "Fast diagnosis and repair of broken boilers, plus full installation of new high-efficiency models with warranty cover and annual servicing plans."
+    },
+    {
+      "title": "Drain Cleaning & Unblocking",
+      "desc": "Stubborn drains cleared using modern techniques. We locate the problem, clear the blockage, and leave your pipes flowing freely again."
+    },
+    {
+      "title": "Radiator Repairs & Bleeding",
+      "desc": "Cold spots on your radiators? We bleed, repair, or replace them to restore even heat throughout your home and improve efficiency."
+    },
+    {
+      "title": "Bathroom & Kitchen Installation",
+      "desc": "Professional fitting of suites, taps, and appliances. We handle the plumbing work so you get a finished, leak-free installation first time."
+    },
+    {
+      "title": "Landlord Safety Checks",
+      "desc": "Annual gas safety inspections and plumbing compliance checks for rental properties. Full documentation provided for peace of mind and peace with regulations."
+    }
+  ],
+  "about_pullquote": "We treat every home like it's our own \u2014 fast, honest, and no hidden charges.",
+  "about_para_1": "Prestige Plumbing has served Derby and the surrounding area for over 15 years. We started because we were tired of seeing local homeowners and landlords charged eye-watering prices for simple fixes by cowboys. From burst pipes at midnight to annual boiler servicing, we've built our reputation on turning up when we say we will, diagnosing problems quickly, and charging fair rates with no surprises.",
+  "about_para_2": "Our customers keep coming back because we answer the phone, we listen, and we fix things properly. We carry parts on the van, we work late, and we don't leave until the job is done. Whether you're a homeowner dealing with an emergency or a landlord managing a portfolio, you'll find us reliable, straightforward, and genuinely interested in solving your plumbing problem.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Serving Derby"
+    },
+    {
+      "num": "2000+",
+      "label": "Completed Jobs"
+    },
+    {
+      "num": "94%",
+      "label": "Customer Return Rate"
+    },
+    {
+      "num": "All of Derby",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Derby Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had a burst pipe on a Sunday morning and thought I'd be in for a long wait. Called Prestige and they were here in 50 minutes. Fixed it properly, no mess, and the cost was way less than I expected. Brilliant service. Will be using them again.",
+      "author": "Michael T.",
+      "loc": "Allestree, Derby \u2014 November 2024"
+    },
+    {
+      "text": "Our boiler broke down just before Christmas. The lads came out same day, replaced the part, and got us heating again by evening. They were polite, explained everything, and didn't try to sell us an unnecessary new boiler like the last lot. Highly recommend.",
+      "author": "Jennifer L.",
+      "loc": "Spondon, Derby \u2014 December 2024"
+    },
+    {
+      "text": "Used Prestige for a full bathroom refit. From start to finish, they were professional and tidy. Finished on time, pipes don't leak, and they cleaned up properly after themselves. Good price, no nonsense. Will be calling them back for our kitchen next year.",
+      "author": "David K.",
+      "loc": "Mickleover, Derby \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving all of Derby and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 10am \u2013 4pm \u2022 24/7 Emergency Line",
+  "emergency_banner_text": "Emergency plumbing in Derby? We aim to be with you in under 60 minutes, any time of day or night. Call now \u2014",
+  "footer_description": "Prestige Plumbing Derby. Fast emergency repairs, boiler services, and installations across Derby. Same-day response, fair prices, no hidden charges.",
+  "footer_copyright": "\u00a9 2026 Prestige Plumbing Derby. All rights reserved."
+}
