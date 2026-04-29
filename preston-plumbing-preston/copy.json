@@ -1,0 +1,108 @@
+{
+  "slug": "preston-plumbing-preston",
+  "meta_title": "Preston Plumbing | Emergency Plumber Preston",
+  "meta_description": "Preston Plumbing offers fast emergency plumbing repairs across Preston and Ribbleton. Same-day service, no call-out charge. Call 07940 329798 now.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 10:00-16:00"
+  ],
+  "hero_eyebrow": "Same-Day Repairs \u2022 No Call-Out Charge",
+  "hero_headline": "Preston's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe or boiler failure in Preston? We arrive within the hour, day or night, and fix it fast.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "15+ years",
+      "label": "Local experience"
+    },
+    {
+      "num": "Under 1 hour",
+      "label": "Average response time"
+    },
+    {
+      "num": "500+",
+      "label": "Homes and businesses served"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Preston",
+  "services_subhead": "From emergency callouts to planned installations, we handle every plumbing job with speed and care.",
+  "services": [
+    {
+      "title": "Emergency Burst Pipes",
+      "desc": "Water pouring out? We locate the leak, isolate the supply, and repair or replace the damaged section \u2014 usually within two hours. No panic, no mess."
+    },
+    {
+      "title": "Boiler Repairs & Servicing",
+      "desc": "Cold radiators, loss of pressure, or no hot water? We diagnose faults fast and get your heating back on. Annual services keep breakdowns at bay."
+    },
+    {
+      "title": "Leaking Radiators & Valves",
+      "desc": "Spot stains under radiators or pooling water? We replace faulty valves, bleed air locks, and reseal joints to stop the leak for good."
+    },
+    {
+      "title": "Bathroom & Kitchen Plumbing",
+      "desc": "Blocked drains, leaking taps, or fitting new sinks and toilets \u2014 we handle new installations and repair work with minimal disruption."
+    },
+    {
+      "title": "Pipe Freezing & Thaw",
+      "desc": "Frozen pipes cutting off your water in winter? We thaw frozen sections safely and insulate pipes to prevent it happening again next year."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "Planning a new boiler or complete system? We design, install, and commission systems to keep your home warm and bills down."
+    }
+  ],
+  "about_pullquote": "I started this because I hated waiting all day for a plumber who never showed.",
+  "about_para_1": "Preston Plumbing has been serving Ribbleton and across Preston for over 15 years. We've built our reputation on showing up fast \u2014 usually within an hour \u2014 and fixing the problem the first time. Whether it's a midnight burst pipe or a planned boiler swap, we treat your home with the same care we'd give our own.",
+  "about_para_2": "Hundreds of Preston families and small businesses trust us because we don't hide behind jargon or surprise you with hidden charges. No call-out fee, transparent pricing, and a guarantee on all work mean you can rely on us when things go wrong \u2014 and when you need them done right.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years serving Preston"
+    },
+    {
+      "num": "500+",
+      "label": "Emergency callouts completed"
+    },
+    {
+      "num": "94%",
+      "label": "Jobs fixed first visit"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency line open"
+    }
+  ],
+  "reviews_heading": "What Preston Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had a burst pipe on a Sunday morning \u2014 called Preston Plumbing at 9am and the guy was here by 10. Fixed it in an hour, explained what happened, and charged a fair price. Can't ask for better than that.",
+      "author": "David M.",
+      "loc": "Ribbleton, Preston \u2014 February 2025"
+    },
+    {
+      "text": "Boiler completely died in November. They came out the next day, quoted honestly, and fitted a new system without any fuss. It's been running perfectly and the house is warmer than it's ever been. Highly recommend.",
+      "author": "Christine W.",
+      "loc": "Ashton-on-Ribble, Preston \u2014 November 2024"
+    },
+    {
+      "text": "Called at 11pm with a leaking radiator dripping onto the kitchen floor. They answered straight away, arrived before midnight, and had it sorted by 1am. Professional, polite, and didn't break the bank. Will definitely use again.",
+      "author": "Mark T.",
+      "loc": "Fulwood, Preston \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Preston, Ribbleton, Ashton-on-Ribble, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 10am \u2013 4pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Burst pipe or boiler failure? We're here 24/7 and aim to reach you within the hour. Call now \u2014",
+  "footer_description": "Preston Plumbing provides fast emergency plumbing repairs and installations across Preston. Same-day response, no call-out charge, guaranteed work.",
+  "footer_copyright": "\u00a9 2026 Preston Plumbing. All rights reserved."
+}
