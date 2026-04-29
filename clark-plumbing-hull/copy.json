@@ -1,0 +1,108 @@
+{
+  "slug": "clark-plumbing-hull",
+  "meta_title": "Clark Plumbing | Emergency Plumber Hull",
+  "meta_description": "Clark Plumbing Hull provides emergency plumbing, repairs, and installations across Kingston upon Hull. Fast response, fair prices. Call now for same-day service.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "Emergency Plumber \u2014 24/7 Callouts Available",
+  "hero_headline": "Hull's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipes, no hot water, blocked drains? Clark Plumbing arrives fast across Hull and responds to emergencies any time of day or night.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in business"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1 hour",
+      "label": "Average response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Hull",
+  "services_subhead": "From emergency repairs to full system installations, Clark Plumbing handles every plumbing need in Kingston upon Hull and the surrounding area.",
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "desc": "Burst pipes, leaks, and blockages fixed fast \u2014 often on the same day. Our engineers carry parts on the van to minimise disruption to your home."
+    },
+    {
+      "title": "Boiler Installation & Repairs",
+      "desc": "New boiler fitted with a 10-year warranty, or rapid repair of your existing system. We diagnose faults quickly and get your heating back on."
+    },
+    {
+      "title": "Central Heating Systems",
+      "desc": "Full system design, installation, and maintenance. We balance radiators, upgrade pipework, and ensure your home stays warm and efficient all winter."
+    },
+    {
+      "title": "Drain Unblocking",
+      "desc": "Blocked sink, toilet, or main drain? We use high-pressure jetting and CCTV inspection to clear blockages and identify root causes without unnecessary digging."
+    },
+    {
+      "title": "Bathroom Installation",
+      "desc": "Complete bathroom overhauls from design to finish \u2014 new suites, showers, tiling, and plumbing all handled by our skilled team."
+    },
+    {
+      "title": "Leaks & Water Damage",
+      "desc": "Pinpoint leaks behind walls and under floors using thermal imaging, then repair and restore. Fast action prevents costly water damage to your property."
+    }
+  ],
+  "about_pullquote": "I started this business because I was fed up seeing cowboys overcharge my neighbours.",
+  "about_para_1": "Clark Plumbing was founded 15 years ago by local plumber Mark Clark, who wanted to bring honest, reliable plumbing to Hull residents. Starting as a one-man operation, the business has grown to a team of four fully qualified engineers who handle everything from emergency callouts to complete system installations. Every technician is trained to the highest standard and carries the tools and spare parts needed to fix most problems on the first visit.",
+  "about_para_2": "We've built our reputation the hard way \u2014 one satisfied customer at a time. Repeat bookings and word-of-mouth referrals make up over 60% of our work, which tells you how seriously we take every job. We believe in fair pricing with no hidden costs, transparent quotes, and getting the work done right the first time so you're not calling us back in six months.",
+  "about_stats": [
+    {
+      "num": "15",
+      "label": "Years trading in Hull"
+    },
+    {
+      "num": "4",
+      "label": "Qualified engineers"
+    },
+    {
+      "num": "60%+",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "All of Hull",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Hull Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Brilliant service from Mark and the team. Radiator was leaking on Boxing Day and I thought I'd have to wait until the new year. Mark picked up the phone, came out the same afternoon, and had it sorted for a reasonable price. Can't fault them really.",
+      "author": "David K.",
+      "loc": "West Hull, Hull \u2014 December 2024"
+    },
+    {
+      "text": "Had a nightmare burst pipe at midnight. Called Clark Plumbing in a panic and Mark arrived within 45 minutes. Capped it off, came back the next morning to do the repair properly. Honest lad, didn't try to sell me unnecessary work. Will definitely use again.",
+      "author": "Jennifer M.",
+      "loc": "Hessle, Hull \u2014 November 2024"
+    },
+    {
+      "text": "New boiler installation took a day. The engineers were respectful, explained everything, and left the place spotless. System's been running perfectly since. No complaints whatsoever.",
+      "author": "Robert H.",
+      "loc": "Anlaby, Hull \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving Kingston upon Hull and all surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Pipe burst or heating down? We aim to reach you in under an hour, any time of day. Call now \u2014",
+  "footer_description": "Clark Plumbing is Hull's trusted emergency plumber with 15 years of experience. Fast response, fair prices, honest advice.",
+  "footer_copyright": "\u00a9 2026 Clark Plumbing Hull. All rights reserved."
+}
