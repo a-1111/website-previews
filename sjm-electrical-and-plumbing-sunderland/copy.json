@@ -1,0 +1,107 @@
+{
+  "slug": "sjm-electrical-and-plumbing-sunderland",
+  "meta_title": "SJM Electrical & Plumbing | Electrician Sunderland",
+  "meta_description": "SJM Electrical and Plumbing in Sunderland. Expert electrical installations, repairs, and emergency callouts. Fast, reliable service. Call now for a quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Part P Certified \u2014 24/7 Emergency Response",
+  "hero_headline": "Sunderland's Trusted",
+  "hero_highlight": "Electrician",
+  "hero_subhead": "Electrical fault at home or work in Sunderland? We're out to you fast\u2014same day in most cases.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "Under 1 Hour",
+      "label": "Emergency Response"
+    }
+  ],
+  "services_heading": "Electrical Services Across Sunderland & Whitburn",
+  "services_subhead": "From urgent fault diagnosis to full rewires and installation work, we handle all domestic and small commercial electrical needs.",
+  "services": [
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Power cuts, blown circuits, or faulty sockets? We diagnose and fix faults on the spot, with spares carried on every van. Available 24/7."
+    },
+    {
+      "title": "Full House Rewires",
+      "desc": "Older wiring causing concern? We replace outdated electrics to modern safety standards, minimising disruption and leaving you with a fully tested installation."
+    },
+    {
+      "title": "Boiler & Heating Installation",
+      "desc": "Gas boiler replacement and installation, complete with flue testing and safety certification. We handle the paperwork and all guaranteed work."
+    },
+    {
+      "title": "Consumer Unit & Fuse Board Upgrades",
+      "desc": "Outdated fuse boxes? We replace with modern MCB consumer units that improve safety, reduce trip-outs, and meet current building regulations."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Can't find the source of an electrical fault? We locate hidden problems using diagnostic equipment and advise on the safest, most cost-effective fix."
+    },
+    {
+      "title": "Landlord Safety Certificates (EICR)",
+      "desc": "Five-yearly electrical condition reports for rental properties. We test all circuits and provide a formal certificate for your lettings agent or local authority."
+    }
+  ],
+  "about_pullquote": "I started this because cowboys were charging my mates a fortune for simple jobs.",
+  "about_para_1": "SJM Electrical and Plumbing was founded on a simple promise: honest pricing, no hidden charges, and work done right the first time. With over 15 years' experience across Sunderland and the surrounding area, we've built a reputation for showing up when we say we will, and leaving customers' homes safer and warmer than we found them.",
+  "about_para_2": "We're Part P certified electricians and fully insured. Whether it's a midnight emergency or a planned rewire, our engineers carry most parts and tools on the van\u2014meaning fewer return trips and lower costs for you. Word-of-mouth referrals make up the bulk of our work, which tells you everything you need to know about how our customers feel about us.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2,000+",
+      "label": "Satisfied Homes & Businesses"
+    },
+    {
+      "num": "95%",
+      "label": "Repeat or Referred Customers"
+    },
+    {
+      "num": "Sunderland & Whitburn",
+      "label": "Main Service Areas"
+    }
+  ],
+  "reviews_heading": "What Sunderland Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Had a blown circuit board and no heating in the middle of winter. Called SJM at 6pm on a Tuesday, and they were here by 7. Got the heating back on and fitted a new consumer unit the next day. Fair price, no messing about. Highly recommend.",
+      "author": "Mark T.",
+      "loc": "Whitburn, Sunderland \u2014 January 2025"
+    },
+    {
+      "text": "Needed a full house rewire before we could get a mortgage. They quoted honestly, stuck to the timeline, and the whole job was clean and professional. Got our electrical certificate straight away. Couldn't ask for better service.",
+      "author": "Claire W.",
+      "loc": "Monkwearmouth, Sunderland \u2014 November 2024"
+    },
+    {
+      "text": "Emergency call-out at 11pm for a fault in the loft. The engineer was friendly, found the problem in minutes, and explained exactly what needed doing. Cost less than I expected. Will use them again and have already recommended them to three neighbours.",
+      "author": "David M.",
+      "loc": "Ryhope, Sunderland \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Sunderland, Whitburn, and surrounding areas within a 10-mile radius",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 24/7 emergency line available",
+  "emergency_banner_text": "Electrical emergency in Sunderland? We aim to respond within 60 minutes, day or night. Call now \u2014",
+  "footer_description": "SJM Electrical and Plumbing: Part P certified electricians covering Sunderland and Whitburn. Same-day repairs, rewires, and boiler installations. Insured and reliable.",
+  "footer_copyright": "\u00a9 2026 SJM Electrical and Plumbing. All rights reserved."
+}
