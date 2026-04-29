@@ -1,0 +1,107 @@
+{
+  "slug": "igas-uk-sunderland",
+  "meta_title": "iGas UK | Gas Engineer Sunderland",
+  "meta_description": "iGas UK is a Gas Safe registered engineer in Sunderland. Fast boiler repairs, installations, and servicing. Call 07377 909503 for urgent help.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Same-Day Emergency Callouts",
+  "hero_headline": "Sunderland's Trusted",
+  "hero_highlight": "Gas Engineer",
+  "hero_subhead": "Boiler breakdown at 11pm in Sunderland? We're here within the hour, any day of the week.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "15+ yrs",
+      "label": "Gas heating experience"
+    },
+    {
+      "num": "1000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    }
+  ],
+  "services_heading": "Gas Engineering Services Across Sunderland",
+  "services_subhead": "From emergency repairs to full system installations, we handle every aspect of gas heating and appliance safety.",
+  "services": [
+    {
+      "title": "Emergency Boiler Repair",
+      "desc": "Your boiler's stopped working mid-winter. We diagnose and fix most faults the same day, with all parts guaranteed and fully tested before we leave."
+    },
+    {
+      "title": "Boiler Servicing & Safety Checks",
+      "desc": "Annual Gas Safety Certificates keep your boiler efficient and legal. We inspect, clean, and test every component so you can heat your home with confidence."
+    },
+    {
+      "title": "Boiler Installation",
+      "desc": "Upgrading to a new condensing boiler cuts your heating bills and comes with a 10-year manufacturer warranty. We handle the entire installation, decommissioning, and paperwork."
+    },
+    {
+      "title": "Landlord Gas Safety Inspections",
+      "desc": "We carry out mandatory five-yearly safety checks on rental properties and issue Gas Safety Certificates recognised by local authorities across Sunderland."
+    },
+    {
+      "title": "Radiator & Heating System Repairs",
+      "desc": "Leaking radiators, cold spots, or noisy pipes? We bleed, repair, and balance your heating system to restore warmth and efficiency throughout your home."
+    },
+    {
+      "title": "Cooker & Appliance Safety Checks",
+      "desc": "Gas cookers and appliances need regular inspection to prevent dangerous leaks. We test for safety and advise on repairs or replacement."
+    }
+  ],
+  "about_pullquote": "I started iGas because I hated seeing people ripped off with dodgy repair quotes.",
+  "about_para_1": "iGas UK was founded on a simple principle: honest, fast gas engineering at a fair price. With over 15 years' experience and more than 1,000 jobs completed across Sunderland, we've built a reputation for turning up on time, diagnosing problems properly, and finishing the work the same day whenever possible. Every engineer on our team is Gas Safe Registered and fully insured.",
+  "about_para_2": "Customers call us back because we don't oversell. If a repair is simple, we say so. If a new boiler makes sense, we explain why and show you the savings. We're based locally, we answer our phones, and we take pride in leaving your home warmer and safer than we found it.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in gas heating"
+    },
+    {
+      "num": "1000+",
+      "label": "Homes served"
+    },
+    {
+      "num": "100%",
+      "label": "Gas Safe registered"
+    },
+    {
+      "num": "Sunderland & surrounding",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Sunderland Homeowners Say About iGas",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Boiler packed in on Christmas Eve. Phoned iGas and they were here by 6pm same day. Mark diagnosed a faulty valve, replaced it and tested everything. Fair price, no faffing about. Lifesaver.",
+      "author": "David P.",
+      "loc": "Roker, Sunderland \u2014 December 2024"
+    },
+    {
+      "text": "Had my landlord certificate done. Very professional bloke, explained everything clearly, and sent the certificate by email within two hours. Will use them again when my boiler needs servicing.",
+      "author": "Jennifer T.",
+      "loc": "Millfield, Sunderland \u2014 October 2024"
+    },
+    {
+      "text": "Needed a new boiler and was dreading being sold something I didn't need. The engineer listened, explained the options honestly, and we chose a mid-range Baxi. Installation was clean and tidy, finished in one day. Really impressed.",
+      "author": "Michael L.",
+      "loc": "Grangetown, Sunderland \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Sunderland and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency line 24/7",
+  "emergency_banner_text": "Boiler down or gas leak? We aim to be with you in under an hour. Call now \u2014",
+  "footer_description": "iGas UK is a Gas Safe registered engineer serving Sunderland with fast, honest boiler repairs, installations, and safety certificates.",
+  "footer_copyright": "\u00a9 2026 iGas UK. All rights reserved."
+}
