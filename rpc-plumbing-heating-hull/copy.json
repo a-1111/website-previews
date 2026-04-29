@@ -1,0 +1,108 @@
+{
+  "slug": "rpc-plumbing-heating-hull",
+  "meta_title": "RPC Plumbing & Heating | Emergency Plumber Hull",
+  "meta_description": "RPC Plumbing and Heating in Hull. Emergency plumbing, boiler repairs, and heating installations. Fast response, fully insured. Call 07581 276607 for help today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Response",
+  "hero_headline": "Hull's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe or boiler breakdown in Hull? We're on your doorstep in under an hour, day or night.",
+  "badge_4": "Same-Day Repairs Available",
+  "stats": [
+    {
+      "num": "18+ yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed annually"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer satisfaction"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average emergency response"
+    }
+  ],
+  "services_heading": "Complete Plumbing and Heating Services Across Hull",
+  "services_subhead": "From emergency callouts to planned heating upgrades, we handle every aspect of your plumbing and heating needs.",
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "desc": "Burst pipes, leaks, and blockages fixed fast, any time of day. We carry parts on the van to get you sorted without delay."
+    },
+    {
+      "title": "Boiler Repairs and Servicing",
+      "desc": "Gas Safe engineers diagnose and repair faults quickly. Annual servicing keeps your boiler running safely and efficiently."
+    },
+    {
+      "title": "Boiler Installation and Replacement",
+      "desc": "New boiler fitted with a 10-year guarantee. We handle the lot \u2014 removal, installation, and system balancing."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "Full system design and installation, including radiators, pipework, and controls. Cut your heating bills and stay warm year-round."
+    },
+    {
+      "title": "Bathroom Installation",
+      "desc": "Complete bathroom overhauls \u2014 new suites, tiling, plumbing, and drainage. Finished to a high standard, on time and on budget."
+    },
+    {
+      "title": "Drain Unblocking and Repair",
+      "desc": "Blocked sinks, toilets, and main drains cleared using CCTV and high-pressure jetting. We identify the root cause and fix it properly."
+    }
+  ],
+  "about_pullquote": "We fix the problem right, first time, without the nonsense or inflated bills.",
+  "about_para_1": "RPC Plumbing and Heating has been serving Hull and surrounding areas for over 18 years. What started as a one-man operation has grown into a trusted local team, handling everything from emergency callouts to large-scale heating installations. Every engineer is Gas Safe registered and fully insured, with the knowledge and tools to tackle whatever your home throws at us.",
+  "about_para_2": "Our reputation is built on speed, honesty, and fair pricing. We turn up when we say we will, explain the job clearly, and get the work done without fuss. Hundreds of Hull homeowners and landlords rely on us for their plumbing and heating \u2014 and many call us back year after year because we treat their home with the same care we'd give our own.",
+  "about_stats": [
+    {
+      "num": "18+",
+      "label": "Years in business"
+    },
+    {
+      "num": "95%",
+      "label": "Same-day completion rate"
+    },
+    {
+      "num": "8",
+      "label": "Gas Safe engineers"
+    },
+    {
+      "num": "Hull & Cottingham",
+      "label": "Service area"
+    }
+  ],
+  "reviews_heading": "What Hull Customers Say About RPC",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a burst pipe at 11pm on a Tuesday. Called RPC and they were here by midnight. Gary sorted it in less than an hour and didn't overcharge us. Top bloke. Will definitely use again.",
+      "author": "Mark T.",
+      "loc": "Cottingham, Hull \u2014 November 2024"
+    },
+    {
+      "text": "Needed a new boiler before winter. They gave a fair quote, fitted it cleanly, and explained everything as they went. System's working perfectly and the paperwork was all sorted. Brilliant service.",
+      "author": "Claire M.",
+      "loc": "West Hull \u2014 October 2024"
+    },
+    {
+      "text": "Called them for a leaking radiator on a Saturday morning. Engineer arrived by 11, found a dodgy valve, replaced it, and flushed the system. Polite, professional, and honest about the cost. Highly recommend.",
+      "author": "David R.",
+      "loc": "Hessle, Hull \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Hull, Cottingham, and surrounding East Yorkshire areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat\u2013Sun: 8am \u2013 6pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Pipe burst? Boiler down? We aim to reach you in under an hour, any time of day. Call now \u2014",
+  "footer_description": "RPC Plumbing and Heating in Hull \u2014 Gas Safe registered emergency plumber, boiler repairs, and heating installation. 18+ years, fair prices, fast response.",
+  "footer_copyright": "\u00a9 2026 RPC Plumbing and Heating Ltd. Registered in England & Wales."
+}
