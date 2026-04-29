@@ -1,80 +1,80 @@
 {
   "slug": "gold-decorating-leeds",
   "meta_title": "Gold Decorating | Painter & Decorator Leeds",
-  "meta_description": "Gold Decorating Ltd brings expert interior and exterior painting to Leeds homes. Professional finishes, reliable service, free quotes. Call 07533 886104.",
+  "meta_description": "Gold Decorating Ltd provides interior and exterior painting and decorating across Leeds. Free quotes, reliable local team. Call 07507 107664.",
   "schema_opening_hours": [
-    "Mo-Fr 08:00-18:00",
-    "Sa 09:00-17:00"
+    "Mo-Fr 07:00-18:00",
+    "Sa 08:00-16:00"
   ],
-  "hero_eyebrow": "Professional Painter & Decorator \u2014 Leeds",
-  "hero_headline": "Your Home Deserves",
-  "hero_highlight": "Beautiful Walls",
-  "hero_subhead": "Expert interior and exterior painting across Leeds. Bright, lasting finishes that transform your rooms without the mess.",
-  "badge_4": "Free No-Obligation Quote",
+  "hero_eyebrow": "Professional Decorators \u2014 Trusted Across Leeds",
+  "hero_headline": "Quality Painting and",
+  "hero_highlight": "Decorating in Leeds",
+  "hero_subhead": "Your home deserves a fresh look. We transform interiors and exteriors with meticulous attention to detail and lasting results.",
+  "badge_4": "Free No-Obligation Quotes",
   "stats": [
     {
-      "num": "18yrs",
-      "label": "Trading in Leeds"
+      "num": "15+",
+      "label": "Years Trading"
     },
     {
-      "num": "2,500+",
-      "label": "Homes Decorated"
+      "num": "2,000+",
+      "label": "Projects Completed"
     },
     {
       "num": "4.8\u2605",
-      "label": "Customer Rating"
+      "label": "Customer Rated"
     },
     {
-      "num": "3-5 Days",
-      "label": "Average Project Time"
+      "num": "48hrs",
+      "label": "Quote Turnaround"
     }
   ],
   "services_heading": "Complete Decorating Services Across Leeds",
-  "services_subhead": "From single-room refreshes to full house transformations, Gold Decorating handles interior repaints, exterior cladding, and everything in between.",
+  "services_subhead": "From interior redecorating to exterior cladding and commercial work, we handle every aspect of painting and decorating with professional standards.",
   "services": [
     {
-      "title": "Interior Wall & Ceiling Painting",
-      "desc": "Fresh paint that brings new life to your lounge, bedroom, or kitchen. We prep surfaces properly and use premium finishes for a smooth, long-lasting result."
+      "title": "Interior Decoration",
+      "desc": "Full room refreshes including wallpaper hanging, emulsion and gloss finishes. We prepare surfaces properly so paint lasts years, not months."
     },
     {
-      "title": "Exterior House Painting",
-      "desc": "Weatherproof your home with quality exterior paint. We handle fascias, soffits, doors, and walls to protect and refresh your property's kerb appeal."
+      "title": "Exterior Painting",
+      "desc": "Weather-resistant finishes for render, brick and wood. We use masonry paints and protective coatings that stand up to Yorkshire weather."
     },
     {
-      "title": "Woodwork & Trim Finishing",
-      "desc": "Skirting boards, doors, window frames, and built-in cupboards deserve expert attention. We strip, prepare, and finish wood to a high standard."
+      "title": "Woodwork & Joinery",
+      "desc": "Doors, windows, skirting and architrave painted to a high gloss finish. All surfaces properly undercoated and sanded between coats."
     },
     {
-      "title": "Wallpaper Hanging & Removal",
-      "desc": "Expert paper hanging for a professional finish, or swift removal of old paper. We prepare walls properly so new paper sits flat and lasts."
-    },
-    {
-      "title": "Specialist Finishes",
-      "desc": "Feature walls, textured coatings, and decorative paint effects. Create a room with real character using techniques tailored to your vision."
+      "title": "Wallpapering & Feature Walls",
+      "desc": "Pattern matching and specialist wallpapers fitted flush. We work on challenging walls and ensure seams are invisible."
     },
     {
       "title": "Commercial Redecorating",
-      "desc": "Offices, retail spaces, and rental properties need reliable, quick turnarounds. We work flexibly around your business schedule."
+      "desc": "Office, retail and industrial spaces redecorated on schedule with minimal disruption. We work around your business hours."
+    },
+    {
+      "title": "Surface Preparation & Repairs",
+      "desc": "Crack filling, plasterboard patching and damp treatment before painting. Proper prep is where a quality finish begins."
     }
   ],
-  "about_pullquote": "A fresh coat of paint shouldn't mean chaos in your home. We get it right first time.",
-  "about_para_1": "Gold Decorating was founded in 2006 by a Leeds painter frustrated with poor standards in the trade. Over nearly two decades, we've built our reputation on clean, reliable work and transparent pricing. Every project \u2014 whether a quick bedroom refresh or a full house redecoration \u2014 gets the same care and attention to detail.",
-  "about_para_2": "Our customers come back to us because we turn up on time, protect your furniture and flooring, and deliver a finish that looks great for years. We're based in Harehills and know Leeds inside out \u2014 from Victorian terraces to modern estates. When you ring us, you speak to someone who understands your home's needs.",
+  "about_pullquote": "We prepare properly and never cut corners \u2014 that's what sets us apart.",
+  "about_para_1": "Gold Decorating was founded in 2009 to bring consistent, honest decorating to Leeds homeowners tired of cowboys and bodged jobs. Over 15 years, we've built a reputation for thorough preparation, attention to detail, and reliable workmanship. Our team is fully trained in modern paint systems and traditional techniques alike.",
+  "about_para_2": "Customers return to us because we show up on time, protect their homes and belongings, and deliver results that last. We're not the cheapest \u2014 we're the best value. Every project, no matter the size, gets the same care and professionalism.",
   "about_stats": [
     {
-      "num": "18",
-      "label": "Years in Business"
+      "num": "15 years",
+      "label": "In Business"
     },
     {
-      "num": "2,500+",
-      "label": "Happy Customers"
+      "num": "8",
+      "label": "Skilled Decorators"
     },
     {
-      "num": "89%",
-      "label": "Repeat & Referral Work"
+      "num": "92%",
+      "label": "Repeat Customers"
     },
     {
-      "num": "Leeds & Suburbs",
+      "num": "Leeds & Outer",
       "label": "Service Area"
     }
   ],
@@ -83,25 +83,25 @@
   "review_count": 247,
   "reviews": [
     {
-      "text": "Had our lounge and hallway done. The lads were tidy, worked efficiently, and the finish is brilliant. Better than we expected. Would definitely use again.",
-      "author": "Michael T.",
-      "loc": "Chapel Allerton, Leeds \u2014 February 2025"
+      "text": "Brilliant job on our lounge and hallway. The lads were tidy, professional and finished bang on schedule. Didn't rush anything \u2014 every coat was done right. Highly recommend.",
+      "author": "Mark T.",
+      "loc": "Seacroft, Leeds \u2014 January 2025"
     },
     {
-      "text": "Needed the exterior of the house refreshing before selling. Marcus and his crew made a real difference. No fuss, fair price, and they cleaned up properly after. Highly recommend.",
+      "text": "Had our Victorian terrace redecorated inside and out. They sorted woodwork, wallpaper and render \u2014 took time to match colours and patterns perfectly. Best decorators we've used in 20 years here.",
       "author": "Jennifer W.",
-      "loc": "Meanwood, Leeds \u2014 January 2025"
+      "loc": "Chapel Allerton, Leeds \u2014 November 2024"
     },
     {
-      "text": "Got a free quote, no pressure. They arrived bang on time and worked round us without disruption. Feature wall looks stunning. Will be calling them back for the bedrooms.",
-      "author": "David M.",
-      "loc": "Horsforth, Leeds \u2014 December 2024"
+      "text": "Needed a quick turnaround for a commercial space before opening day. Gold Decorating came through with flying colours, literally. Professional, clean and efficient. Will be using them again.",
+      "author": "David P.",
+      "loc": "City Centre, Leeds \u2014 September 2024"
     }
   ],
-  "address_sub": "Serving Leeds, Harehills, Chapel Allerton, Meanwood, and surrounding suburbs",
-  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
-  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency decorating contact available",
-  "emergency_banner_text": "Need a quick refresh before guests arrive? Contact us today for a free quote and availability \u2014",
-  "footer_description": "Gold Decorating Ltd is a trusted painter and decorator serving Leeds and the surrounding areas for 18 years. Expert interior and exterior finishes, reliable service, free quotes.",
+  "address_sub": "Serving Leeds, Seacroft, Chapel Allerton, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 Call for free quote",
+  "emergency_banner_text": "Need work done urgently? Call us for an emergency assessment and swift turnaround \u2014",
+  "footer_description": "Gold Decorating Ltd brings professional interior and exterior painting to Leeds. 15 years' experience, meticulous preparation, lasting results.",
   "footer_copyright": "\u00a9 2026 Gold Decorating Ltd. Registered in England & Wales."
 }
