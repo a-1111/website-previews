@@ -1,0 +1,108 @@
+{
+  "slug": "rapid-fix-plumbing-gas-preston",
+  "meta_title": "Rapid Fix Plumbing & Gas | Gas Engineer Preston",
+  "meta_description": "Rapid Fix Plumbing & Gas provides emergency gas repairs, boiler servicing, and heating installations across Preston. Fast response, Gas Safe registered. Call now.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Response",
+  "hero_headline": "Preston's Fast Boiler & Gas",
+  "hero_highlight": "Specialists",
+  "hero_subhead": "Burst pipe or broken boiler in Preston? We arrive within the hour, any time of day or night.",
+  "badge_4": "Same-Day Repairs Available",
+  "stats": [
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "12+ yrs",
+      "label": "Trading since 2012"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average response time"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Gas Services Across Preston",
+  "services_subhead": "From emergency burst pipes to planned boiler upgrades, we handle every job with speed and care.",
+  "services": [
+    {
+      "title": "Emergency Burst Pipes",
+      "desc": "Burst pipes demand immediate action. We locate the fault and make temporary or permanent repairs the same day to prevent water damage to your home."
+    },
+    {
+      "title": "Boiler Repairs & Service",
+      "desc": "Faulty boilers leave you without heating and hot water. We diagnose faults quickly, carry common parts on the van, and repair most boilers same day."
+    },
+    {
+      "title": "Boiler Installation",
+      "desc": "New boiler installations come with full commissioning, safety checks, and a 10-year warranty. We'll discuss fuel efficiency and running costs upfront."
+    },
+    {
+      "title": "Central Heating Systems",
+      "desc": "Cold spots in your home or noisy radiators? We balance systems, replace faulty valves, and improve efficiency to cut your heating bills."
+    },
+    {
+      "title": "Gas Safety Checks",
+      "desc": "Annual gas safety certificates are a legal requirement for rental properties. We inspect all appliances, test for leaks, and issue your official certificate."
+    },
+    {
+      "title": "Radiator Replacements",
+      "desc": "Leaking or inefficient radiators? We remove old units, install new TRV-equipped models, and commission your heating system to maximise warmth and control."
+    }
+  ],
+  "about_pullquote": "I started this business to give Preston a plumber they could actually trust at midnight.",
+  "about_para_1": "Rapid Fix Plumbing & Gas was founded in 2012 by a Gas Safe\u2013registered engineer frustrated with cowboys charging extortionate call-out fees and leaving customers in the lurch. Over the past 12 years, we've completed more than 2,400 jobs across Preston and the surrounding areas, building a reputation for honest pricing, fast response times, and repairs that stay fixed.",
+  "about_para_2": "What sets us apart is simple: we answer the phone 24/7, we carry parts on the van so most jobs finish same day, and we never charge a call-out fee. Our customers come back to us because we treat every burst pipe or broken boiler like it's an emergency in our own home.",
+  "about_stats": [
+    {
+      "num": "2,400+",
+      "label": "Repairs completed"
+    },
+    {
+      "num": "12 yrs",
+      "label": "Local experience"
+    },
+    {
+      "num": "Under 1 hr",
+      "label": "Average response"
+    },
+    {
+      "num": "94%",
+      "label": "Customer return rate"
+    }
+  ],
+  "reviews_heading": "What Preston Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Had a burst pipe in the middle of winter and was panicking about flooding. Called Rapid Fix and they were at my house in 45 minutes. Fixed it properly and didn't rip me off on price. Absolute lifesaver. Would recommend to anyone.",
+      "author": "Marcus T.",
+      "loc": "Fulwood, Preston \u2014 January 2025"
+    },
+    {
+      "text": "Needed a new boiler urgently and was dreading the cost. The engineer explained everything clearly, didn't push me into anything fancy, and the installation was done in a day. Works a treat and I'm saving about \u00a320 a month on heating. Great local firm.",
+      "author": "Diane H.",
+      "loc": "Ashton, Preston \u2014 November 2024"
+    },
+    {
+      "text": "Called at 11pm on a Saturday night when our heating went out. Engineer arrived by midnight, diagnosed a faulty valve, had it sorted and back to warmth by 1am. No fuss, no huge bill, no complaints. These are the sort of people you want on speed dial.",
+      "author": "Robert W.",
+      "loc": "City Centre, Preston \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Preston, Fulwood, Ashton, Moor Park, and surrounding areas within 15 miles",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat\u2013Sun: 8am \u2013 6pm \u2022 Emergency line open 24/7",
+  "emergency_banner_text": "Emergency burst pipe or broken boiler? We aim to be with you in under an hour. Call now \u2014",
+  "footer_description": "Gas Safe\u2013registered plumbing and heating engineers serving Preston 24/7. Emergency repairs, boiler installation, and servicing with honest pricing and same-day fixes.",
+  "footer_copyright": "\u00a9 2026 Rapid Fix Plumbing & Gas Ltd. Registered in England & Wales."
+}
