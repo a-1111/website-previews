@@ -1,0 +1,107 @@
+{
+  "slug": "john-handyman-electrician-guildford",
+  "meta_title": "John the Handyman | Electrician Guildford",
+  "meta_description": "John the Handyman provides electrical work and handyman services in Guildford. Fast, reliable trades at fair prices. Call 07762 107270 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 08:00-16:00"
+  ],
+  "hero_eyebrow": "Local Electrician & Handyman \u2014 Same-Day Service Available",
+  "hero_headline": "Your Local Guildford",
+  "hero_highlight": "Electrician & Handyman",
+  "hero_subhead": "From faulty sockets to full rewires, John fixes electrical problems fast and treats every job with care.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Experience"
+    },
+    {
+      "num": "1000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Same Day",
+      "label": "Emergency Response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    }
+  ],
+  "services_heading": "Electrical and Handyman Services Across Guildford",
+  "services_subhead": "From rewires and consumer unit upgrades to small repairs and installations, John handles all your electrical and general handyman needs.",
+  "services": [
+    {
+      "title": "Full House Rewires",
+      "desc": "Complete electrical rewiring to modern safety standards. We handle the lot \u2014 new wiring, sockets, lighting, and consumer units \u2014 all tested and certified."
+    },
+    {
+      "title": "Consumer Unit Upgrades",
+      "desc": "Outdated fuse box? We'll replace it with a modern consumer unit for better safety and performance. Work complies with current Building Regulations."
+    },
+    {
+      "title": "Socket and Switch Installation",
+      "desc": "New sockets, switches, and USB charging points installed exactly where you need them. Fast, tidy work with cables routed neatly out of sight."
+    },
+    {
+      "title": "Emergency Electrical Repairs",
+      "desc": "Trip switches, blown fuses, flickering lights, or faulty appliances? We diagnose and fix the problem the same day, often within hours."
+    },
+    {
+      "title": "Lighting Design & Installation",
+      "desc": "Kitchen downlights, bathroom fans, outdoor security lighting, and dimmer switches. We design layouts that work and handle all the installation."
+    },
+    {
+      "title": "Handyman Repairs & Maintenance",
+      "desc": "Leaky taps, loose door hinges, shelf fitting, painting, and minor carpentry. The jobs electricians don't do \u2014 John does them all."
+    }
+  ],
+  "about_pullquote": "I fix things properly, charge fairly, and never oversell a customer.",
+  "about_para_1": "John started in the trades over 15 years ago, learning electrical work from the ground up. After years of working on site, he set up as an independent electrician and handyman in Guildford \u2014 offering the same reliability and fair pricing his neighbours and regular customers depend on. He's trained to handle everything from domestic rewires to emergency call-outs.",
+  "about_para_2": "Guildford locals return to John because he turns up on time, explains what needs doing, and charges a sensible price. He's not interested in cutting corners or pushing jobs that aren't needed. Whether it's a one-off repair or a full house electrical upgrade, John's reputation rests on doing the job right and keeping his word.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "1000+",
+      "label": "Local Jobs Done"
+    },
+    {
+      "num": "92%",
+      "label": "Return Customers"
+    },
+    {
+      "num": "Guildford",
+      "label": "Main Service Area"
+    }
+  ],
+  "reviews_heading": "What Guildford Customers Say About John",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a dodgy socket that was sparking. John came out same afternoon, found the problem straight away, and fixed it for a fair price. No faffing about, just honest work. Really impressed.",
+      "author": "Mark T.",
+      "loc": "Worplesdon, Guildford \u2014 January 2025"
+    },
+    {
+      "text": "We needed a full kitchen rewire before the new units went in. John organised everything, kept us updated, and finished on time. The electrician we used before wanted nearly twice as much. Definitely recommend.",
+      "author": "Susan M.",
+      "loc": "Stoke Park, Guildford \u2014 November 2024"
+    },
+    {
+      "text": "Called John at 6pm on a Friday because our lights kept tripping. He came out within the hour, sorted the consumer unit, and we were back to normal by evening. That's the kind of service you don't often find.",
+      "author": "David C.",
+      "loc": "Guildford Town Centre \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Guildford and surrounding areas including Worplesdon, Send, and the local villages",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 8am \u2013 4pm \u2022 Emergency call-outs available outside hours",
+  "emergency_banner_text": "Electrical emergency in Guildford? John aims to arrive within an hour. Call now \u2014",
+  "footer_description": "John the Handyman is a local electrician and general handyman in Guildford. Fast, reliable, fair-priced work for homes and small businesses.",
+  "footer_copyright": "\u00a9 2026 John the Handyman & Electrician. Trading in Guildford, Surrey."
+}
