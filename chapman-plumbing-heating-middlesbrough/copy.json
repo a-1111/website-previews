@@ -1,0 +1,108 @@
+{
+  "slug": "chapman-plumbing-heating-middlesbrough",
+  "meta_title": "Chapman Plumbing & Heating | Plumber Middlesbrough",
+  "meta_description": "Chapman Plumbing & Heating in Middlesbrough. Emergency plumber, boiler repairs, installations, and heating services. Fast response, local expertise. Call now.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Response",
+  "hero_headline": "Middlesbrough's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe or broken boiler? We're out to you in under an hour, any time of day or night.",
+  "badge_4": "Same-Day Repairs",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "60 mins",
+      "label": "Average Response"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Middlesbrough",
+  "services_subhead": "From emergency callouts to full central heating installations, we handle every plumbing and heating need.",
+  "services": [
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, leaks, and blockages fixed fast. We attend most emergencies within 60 minutes and carry parts on the van to get you sorted the same day."
+    },
+    {
+      "title": "Boiler Repairs & Servicing",
+      "desc": "Keep your heating efficient and safe. Annual servicing catches problems early; our repairs restore full heat output and cut your bills."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "New system or upgrade? We design, install, and commission complete heating systems with 10-year warranties and energy-efficient controls."
+    },
+    {
+      "title": "Radiator Installation & Balancing",
+      "desc": "Cold spots gone. We install new radiators, balance your system, and bleed air to ensure even warmth throughout your home."
+    },
+    {
+      "title": "Bathroom & Kitchen Plumbing",
+      "desc": "Tap replacements, new suite installation, and pipework upgrades. We work neatly, leave no mess, and connect everything to code."
+    },
+    {
+      "title": "Power Flushing & System Cleaning",
+      "desc": "Sludge and debris reduce efficiency and cause breakdowns. Power flushing clears your system, improves heating, and extends boiler life."
+    }
+  ],
+  "about_pullquote": "I started this to do plumbing the right way\u2014honest prices, no surprises, done properly.",
+  "about_para_1": "Chapman Plumbing & Heating has served Middlesbrough, Stockton, and the surrounding areas for 18 years. We've built our reputation on turning up on time, fixing it first time, and charging fair prices. Whether it's a midnight emergency or a planned boiler installation, we treat your home with the same care we'd give our own.",
+  "about_para_2": "Our customers trust us because we're local, we answer our phone, and we don't charge a call-out fee. We're Gas Safe Registered and fully insured, and we've completed over 2,000 jobs across the Tees Valley. Most of our new work comes from repeat customers and word-of-mouth\u2014that's how you know we're doing something right.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years trading"
+    },
+    {
+      "num": "2,000+",
+      "label": "Homes served"
+    },
+    {
+      "num": "Gas Safe",
+      "label": "Registered & insured"
+    },
+    {
+      "num": "60 mins",
+      "label": "Emergency response"
+    }
+  ],
+  "reviews_heading": "What Middlesbrough Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a burst pipe at 11pm on a Sunday. Phoned Chapman's in a panic and they picked up straight away. Bloke was round within an hour, fixed it properly, and didn't charge me extra for being out of hours. Brilliant service. Will use again.",
+      "author": "Mark T.",
+      "loc": "Middlesbrough town \u2014 November 2024"
+    },
+    {
+      "text": "Replaced our old boiler and radiators. The lads were tidy, explained everything, and the new system heats the whole house properly for the first time. Price was fair and they gave us a 10-year guarantee in writing. Can't fault them.",
+      "author": "Julie W.",
+      "loc": "Stockton-on-Tees \u2014 September 2024"
+    },
+    {
+      "text": "Leaking tap turned out to be a bigger job than expected. Instead of ripping us off, they quoted honestly and got the work done quickly. No hidden costs. That's why I've used them three times now.",
+      "author": "David P.",
+      "loc": "Thornaby, Middlesbrough \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Middlesbrough, Stockton-on-Tees, and surrounding areas across Teesside",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Emergency? We aim to be with you in under an hour, any time of day or night. Call now \u2014",
+  "footer_description": "Chapman Plumbing & Heating is your local emergency plumber and heating engineer across Middlesbrough and Teesside. Gas Safe Registered, 24/7 callouts, fair prices.",
+  "footer_copyright": "\u00a9 2026 Chapman Plumbing & Heating. Trading since 2008."
+}
