@@ -1,0 +1,107 @@
+{
+  "slug": "tree-solutions-leeds",
+  "meta_title": "Tree Solutions Leeds | Arborist & Tree Surgery",
+  "meta_description": "Tree Solutions Leeds provides professional tree surgery, pruning, and removal across Leeds. Expert arborists, competitive rates, free quotes. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Qualified Arborists \u2014 Tree Surgery & Removal",
+  "hero_headline": "Expert Tree Care",
+  "hero_highlight": "Leeds",
+  "hero_subhead": "Dangerous branches threatening your garden? We handle tree surgery, felling, and stump removal across Leeds\u2014safely and professionally.",
+  "badge_4": "Free Quotations",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "2000+",
+      "label": "Trees managed"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical quote turnaround"
+    },
+    {
+      "num": "All Leeds",
+      "label": "Service area"
+    }
+  ],
+  "services_heading": "Tree Surgery & Removal Services Across Leeds",
+  "services_subhead": "From routine pruning to emergency storm damage, we deliver the full range of arboricultural work for homeowners and businesses.",
+  "services": [
+    {
+      "title": "Tree Felling",
+      "desc": "Safe, controlled removal of hazardous or unwanted trees. We manage the entire process\u2014from permits through to stump grinding and site clearance."
+    },
+    {
+      "title": "Crown Reduction & Pruning",
+      "desc": "Thin out overgrown canopies to restore light and air to your garden. Improves tree health and prevents branches damaging your property or neighbours' fences."
+    },
+    {
+      "title": "Stump Grinding",
+      "desc": "Remove tree stumps completely below ground level. Prevents regrowth and restores your garden for replanting or landscaping."
+    },
+    {
+      "title": "Emergency Storm Damage",
+      "desc": "Broken branches, fallen trees, or storm-damaged limbs? We respond quickly to make your property safe and clear debris."
+    },
+    {
+      "title": "Tree Surveys & Reports",
+      "desc": "Professional assessment for subsidence risk, insurance claims, or planning disputes. Detailed reports for your insurer or solicitor."
+    },
+    {
+      "title": "Hedge Cutting & Maintenance",
+      "desc": "Tidy overgrown hedges and maintain seasonal growth. We work to your preferred height and shape, leaving clean, healthy plants."
+    }
+  ],
+  "about_pullquote": "We treat every garden like it's our own\u2014safe, tidy, and done right.",
+  "about_para_1": "Tree Solutions Leeds was founded by qualified arborists frustrated with cowboys charging inflated prices for poor work. Over 18 years, we've built a reputation for honest pricing, skilled workmanship, and genuine care for your trees. We're based in Moortown and have managed over 2,000 trees across Leeds and beyond.",
+  "about_para_2": "Our team holds professional qualifications in arboriculture and stays current with industry standards. Customers return because we listen, we're transparent about what's needed (and what isn't), and we clean up properly. We're not the flashiest operation\u2014we're the one your neighbours trust.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Professional experience"
+    },
+    {
+      "num": "2000+",
+      "label": "Trees successfully managed"
+    },
+    {
+      "num": "100%",
+      "label": "Customer satisfaction"
+    },
+    {
+      "num": "3-5 days",
+      "label": "Average completion time"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About Tree Solutions",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Had a massive oak that was leaning toward the house. Got quotes from three other firms\u2014all were trying to charge a fortune. Tree Solutions came out, explained what was really needed, and did the job for less than half the price. Work was spotless. Really pleased.",
+      "author": "Michael P.",
+      "loc": "Moortown, Leeds \u2014 February 2025"
+    },
+    {
+      "text": "Storm blew down two trees in our back garden. Called them on Sunday afternoon, they came out Monday morning, removed everything, stumps ground, site swept clean. No fuss, fair price, professional throughout. Couldn't have asked for better.",
+      "author": "Judith H.",
+      "loc": "Chapel Allerton, Leeds \u2014 November 2024"
+    },
+    {
+      "text": "Been using them for hedge trimming and tree work for four years now. They're reliable, tidy, and honest about what needs doing. No high-pressure upsell tactics. Definitely recommend to anyone in Leeds.",
+      "author": "David T.",
+      "loc": "Headingley, Leeds \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Leeds and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency enquiries by phone",
+  "emergency_banner_text": "Storm damage or urgent tree work? Call us now for rapid response \u2014",
+  "footer_description": "Tree Solutions Leeds: professional arborists delivering tree surgery, felling, and stump removal. Qualified, reliable, honest pricing.",
+  "footer_copyright": "\u00a9 2026 Tree Solutions Leeds. All rights reserved."
+}
