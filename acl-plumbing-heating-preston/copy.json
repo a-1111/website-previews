@@ -1,0 +1,108 @@
+{
+  "slug": "acl-plumbing-heating-preston",
+  "meta_title": "ACL Plumbing & Heating | Gas Engineer Preston",
+  "meta_description": "ACL Plumbing & Heating in Preston. Gas Safe registered heating engineer. Emergency boiler repairs, installations & servicing. Call 07740 964827.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Callouts",
+  "hero_headline": "Preston's Trusted",
+  "hero_highlight": "Gas Engineer",
+  "hero_subhead": "Burst boiler, no heat, or a leaking pipe? ACL reaches you in under an hour, any time of day or night.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "18+",
+      "label": "years experience"
+    },
+    {
+      "num": "2,000+",
+      "label": "jobs completed"
+    },
+    {
+      "num": "under 60 mins",
+      "label": "emergency response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "customer rating"
+    }
+  ],
+  "services_heading": "Complete Heating & Plumbing Services Across Preston",
+  "services_subhead": "From emergency repairs to full system installations and annual safety checks, we handle everything your home needs.",
+  "services": [
+    {
+      "title": "Emergency Boiler Repair",
+      "desc": "Boiler down in winter? We diagnose and repair most faults same day, with parts in the van. Available 24/7 across Preston and Ashton-on-Ribble."
+    },
+    {
+      "title": "Boiler Installation & Upgrade",
+      "desc": "Modern, efficient boilers that cut your heating bills and come with a 10-year manufacturer guarantee. We handle all the paperwork and disposal."
+    },
+    {
+      "title": "Central Heating Servicing",
+      "desc": "Annual boiler and system health checks keep your warranty valid and catch small problems before they become big bills. Includes safety certification."
+    },
+    {
+      "title": "Burst Pipe & Leak Repairs",
+      "desc": "Overnight leaks can damage your home fast. We're on call to isolate water, repair pipework, and dry affected areas quickly and thoroughly."
+    },
+    {
+      "title": "Radiator Installation & Repair",
+      "desc": "Cold radiators or planning a full heating overhaul? We balance systems, replace failed units, and upgrade to modern thermostatic controls."
+    },
+    {
+      "title": "Power Flushing & System Cleaning",
+      "desc": "Dirty systems reduce efficiency and cause noise. Power flushing removes sludge and debris, restoring heat flow and extending boiler life."
+    }
+  ],
+  "about_pullquote": "I started this business because I hated seeing Preston families left in the cold by cowboys charging ridiculous emergency rates.",
+  "about_para_1": "ACL Plumbing & Heating was founded on a simple principle: get to your home fast, fix the problem right, and never overcharge. Over 18 years, we've built a reputation across Preston and Ashton-on-Ribble as the engineer you can trust \u2014 whether it's midnight on a Sunday or a routine annual service.",
+  "about_para_2": "Our customers come back because we answer the phone, we arrive on time, and we explain what's wrong before we start work. Every job is Gas Safe certified, and we guarantee our labour for 12 months. We're local, we know Preston's older Victorian pipes and modern new-builds, and we treat your home with the same care we'd give our own.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "years in business"
+    },
+    {
+      "num": "2,000+",
+      "label": "local families served"
+    },
+    {
+      "num": "Gas Safe",
+      "label": "registered & certified"
+    },
+    {
+      "num": "12 months",
+      "label": "labour guarantee"
+    }
+  ],
+  "reviews_heading": "What Preston Homeowners Say About ACL",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a nightmare with our boiler dying just before Christmas. Phoned ACL on a Saturday afternoon and Jamie came out within the hour. He diagnosed a failed pump, had the right part on the van, and had us back to normal by evening. Fair price, no faffing about. Would use again without hesitation.",
+      "author": "David H.",
+      "loc": "Ashton-on-Ribble, Preston \u2014 December 2024"
+    },
+    {
+      "text": "We needed a new boiler fitted and were dreading the cost and disruption. The guys from ACL were professional, tidy, and explained everything clearly. System's been perfect for months now and the energy bills have definitely dropped. Really pleased with the job.",
+      "author": "Margaret W.",
+      "loc": "Fulwood, Preston \u2014 September 2024"
+    },
+    {
+      "text": "Woke up to a burst pipe dripping through the ceiling. Called ACL at 11pm and they arrived before midnight. Fixed the leak, dried everything off, and boarded it up until we could get a plasterer in. Lifesaver. The kind of service you hope never to need but are so grateful for when you do.",
+      "author": "Tom R.",
+      "loc": "Ribbleton, Preston \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Based in Ashton-on-Ribble, serving Preston and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Emergency? Boiler down or burst pipe? We aim to be with you in under 60 minutes. Call now \u2014",
+  "footer_description": "ACL Plumbing & Heating: Gas Safe registered boiler repairs, heating installations and 24/7 emergency plumbing across Preston. Fast, honest, local.",
+  "footer_copyright": "\u00a9 2026 ACL Plumbing & Heating. All rights reserved."
+}
