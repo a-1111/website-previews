@@ -1,0 +1,108 @@
+{
+  "slug": "enviro-heating-plumbing-bolton",
+  "meta_title": "Enviro Heating & Plumbing | Gas Engineer Bolton",
+  "meta_description": "Enviro Heating and Plumbing Services in Bolton. 20+ years' experience. Gas Safe registered. Emergency boiler repairs, installations, and heating services. Call now.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 20+ Years' Experience",
+  "hero_headline": "Bolton's Trusted",
+  "hero_highlight": "Heating Engineer",
+  "hero_subhead": "Broken boiler? Our gas engineers arrive fast and fix most faults the same day, keeping your home warm and your bills fair.",
+  "badge_4": "Same-Day Emergency Service",
+  "stats": [
+    {
+      "num": "20+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1 hour",
+      "label": "Average Response Time"
+    }
+  ],
+  "services_heading": "Complete Heating and Plumbing Services Across Bolton",
+  "services_subhead": "From emergency boiler repairs to new system installations, we handle every aspect of your heating and plumbing needs.",
+  "services": [
+    {
+      "title": "Emergency Boiler Repairs",
+      "desc": "Boiler broken down? We diagnose and fix most faults on the spot, with parts carried on the van. No job too urgent \u2014 we're available 24/7."
+    },
+    {
+      "title": "Boiler Installation and Replacement",
+      "desc": "New boiler fitted quickly and installed to Building Regulations. We help you choose the right system for your home and budget, with a 10-year warranty on most installations."
+    },
+    {
+      "title": "Central Heating Service and Maintenance",
+      "desc": "Annual boiler servicing and heating system checks keep your system running efficiently and safely. Catch problems before they cost you money."
+    },
+    {
+      "title": "Radiator Repairs and Installation",
+      "desc": "Leaking radiator or cold spots? We repair, bleed, and install new radiators. Balanced heating means lower energy bills and a warmer home."
+    },
+    {
+      "title": "Pipe and Leak Repairs",
+      "desc": "Burst pipes and water leaks fixed fast to prevent damage. We locate the problem quickly and repair it properly, from small drips to major breaks."
+    },
+    {
+      "title": "Power Flushing and System Cleaning",
+      "desc": "Over time, sludge builds up in heating systems and slows them down. Power flushing clears blockages and improves heating efficiency significantly."
+    }
+  ],
+  "about_pullquote": "I started this business because I was tired of seeing people ripped off by cowboys.",
+  "about_para_1": "Enviro Heating and Plumbing Services was founded on a simple idea: do honest work at fair prices. With over 20 years in the heating and plumbing trade, we've built a reputation across Bolton for turning up on time, fixing things right, and being straight with our customers about what they need and what they don't.",
+  "about_para_2": "We're Gas Safe registered and fully insured. Every job comes with a clear quote upfront \u2014 no surprises when the invoice arrives. Repeat customers make up the bulk of our work, which tells you we do what we promise.",
+  "about_stats": [
+    {
+      "num": "20+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "Gas Safe",
+      "label": "Registered & Insured"
+    },
+    {
+      "num": "70%",
+      "label": "Repeat Customer Rate"
+    },
+    {
+      "num": "Bolton & Area",
+      "label": "Service Radius"
+    }
+  ],
+  "reviews_heading": "What Bolton Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a nightmare with our boiler in December \u2014 wouldn't fire up and it was freezing. Called Enviro and they came out within the hour. Turned out to be a failed pump, but the engineer explained everything as he went along. Fixed it properly and charged a fair price. Top marks.",
+      "author": "Michael T.",
+      "loc": "Breightmet, Bolton \u2014 December 2024"
+    },
+    {
+      "text": "Replaced our old boiler last spring. The team were tidy, efficient, and the new system is brilliant \u2014 heating bills have dropped noticeably. They sorted out a couple of dodgy radiators at the same time without faffing about. Would definitely recommend.",
+      "author": "Jennifer K.",
+      "loc": "Westhoughton, Bolton \u2014 May 2024"
+    },
+    {
+      "text": "Leak from upstairs radiator was running down the wall. Rang on a Saturday afternoon, they answered straight away, and came round the same day. No fuss, no drama, just fixed it. These lads are exactly what you want \u2014 reliable, honest, and they know their stuff.",
+      "author": "David P.",
+      "loc": "Tonge Moor, Bolton \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Bolton, Westhoughton, Breightmet, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat\u2013Sun: 8am \u2013 6pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Heating emergency? We aim to arrive within the hour, any time of day or night. Call now \u2014",
+  "footer_description": "Enviro Heating and Plumbing Services: 20+ years of honest, reliable gas and plumbing work across Bolton. Gas Safe registered. Emergency repairs and new installations.",
+  "footer_copyright": "\u00a9 2026 Enviro Heating and Plumbing Services. All rights reserved."
+}
