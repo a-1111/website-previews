@@ -1,0 +1,107 @@
+{
+  "slug": "johnsons-gas-heating-sunderland",
+  "meta_title": "Johnson's Gas & Heating | Central Heating Sunderland",
+  "meta_description": "Johnson's Gas & Heating in Sunderland. Gas Safe registered boiler repairs, installations and servicing. Same-day emergency callouts available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Callouts",
+  "hero_headline": "Sunderland's Trusted",
+  "hero_highlight": "Central Heating Specialists",
+  "hero_subhead": "Boiler broken in winter? We're Gas Safe registered and aim to have you warm within hours, any time of day.",
+  "badge_4": "Same-Day Repairs",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "2,400+",
+      "label": "Boilers serviced"
+    },
+    {
+      "num": "Under 2hrs",
+      "label": "Average response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Complete Central Heating Services Across Sunderland",
+  "services_subhead": "From annual boiler servicing to emergency repairs and full system installations, we keep Sunderland homes warm and efficient.",
+  "services": [
+    {
+      "title": "Boiler Repairs & Servicing",
+      "desc": "Annual servicing keeps your boiler running safely and efficiently, cutting fuel costs and extending its life. Emergency breakdowns attended same day."
+    },
+    {
+      "title": "Boiler Installation",
+      "desc": "Expert fitting of modern A-rated condensing boilers. We handle the lot \u2014 pipework, flue, controls \u2014 and leave your home heating in perfect working order."
+    },
+    {
+      "title": "Radiator Installation & Repair",
+      "desc": "Cold spots? We balance your system, repair leaks, and fit new radiators to improve heat distribution and comfort throughout your home."
+    },
+    {
+      "title": "System Commissioning",
+      "desc": "New heating system? We thoroughly test every component, set the controls, and make sure everything performs as it should before we leave."
+    },
+    {
+      "title": "Landlord Safety Certificates",
+      "desc": "Annual Gas Safety Certificates for rental properties \u2014 legally required and completed to the highest standard. We email reports direct to you."
+    },
+    {
+      "title": "Power Flushing",
+      "desc": "Built-up sludge and corrosion make boilers work harder and cost more to run. We power flush your system to restore efficiency and reliability."
+    }
+  ],
+  "about_pullquote": "I started this because I wanted to be the engineer I'd want in my own home.",
+  "about_para_1": "Johnson's Gas & Heating has served Sunderland homeowners and landlords for 18 years. We're Gas Safe registered, APHC members, and pride ourselves on turning up on time, fixing the problem right, and charging a fair price. From routine servicing to complex breakdowns, we've built our reputation one satisfied customer at a time.",
+  "about_para_2": "Our vans are fully stocked with parts, so most repairs are completed in a single visit \u2014 no return trips, no surprise bills. We listen to what you need, explain the work clearly, and only recommend upgrades if they'll genuinely improve your home's comfort or cut your heating costs.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Sunderland experience"
+    },
+    {
+      "num": "2,400+",
+      "label": "Systems maintained"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "Gas Safe",
+      "label": "Registered & insured"
+    }
+  ],
+  "reviews_heading": "What Sunderland Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Boiler packed up on a Sunday morning in January. Called Johnson's at 9am, engineer was here by 11, diagnosed a faulty pump, had a spare and fitted it same day. Couldn't ask for better service. Will definitely use them again.",
+      "author": "Michael T.",
+      "loc": "Pennywell, Sunderland \u2014 January 2025"
+    },
+    {
+      "text": "Been using them for my landlord certificates for three years now. Always professional, turn up when they say they will, and send the paperwork through promptly. Fair pricing too. Highly recommend.",
+      "author": "David P.",
+      "loc": "Roker, Sunderland \u2014 December 2024"
+    },
+    {
+      "text": "Had a radiator leak and didn't know who to call. A friend recommended Johnson's. The engineer was brilliant \u2014 explained what had gone wrong, fixed it properly, and even showed me how to bleed the others. Will be ringing them for my boiler service next month.",
+      "author": "Emma W.",
+      "loc": "Barnes, Sunderland \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving Sunderland and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Heating emergency? We aim to be with you in under two hours, any time of day or night. Call now \u2014",
+  "footer_description": "Gas Safe registered central heating specialist in Sunderland. Boiler repairs, servicing, installations and landlord certificates. Same-day emergency response.",
+  "footer_copyright": "\u00a9 2026 Johnson's Gas & Heating Ltd. Registered in England & Wales."
+}
