@@ -1,0 +1,108 @@
+{
+  "slug": "boilerwizz-bolton",
+  "meta_title": "BoilerWizz Bolton | Gas Engineer Bolton",
+  "meta_description": "BoilerWizz Bolton provides expert heating and electrical services across Bolton. Fast boiler repairs, installations and maintenance. Call us today.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Response",
+  "hero_headline": "Bolton's Trusted",
+  "hero_highlight": "Heating Experts",
+  "hero_subhead": "Boiler broken in Bolton? We diagnose and fix most faults same day, any time of day or night.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed annually"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Average response time"
+    },
+    {
+      "num": "15yrs",
+      "label": "Trading in Bolton"
+    }
+  ],
+  "services_heading": "Complete Heating and Electrical Services Across Bolton",
+  "services_subhead": "From emergency boiler repairs to full system installations, we handle every aspect of your home heating and electrical needs.",
+  "services": [
+    {
+      "title": "Emergency Boiler Repair",
+      "desc": "No hot water? Pilot light out? We attend most emergencies within the hour and carry parts on the van to fix it fast."
+    },
+    {
+      "title": "Boiler Installation",
+      "desc": "Installing a new combi, system, or heat-only boiler? We handle the full job, from removal to certification and handover."
+    },
+    {
+      "title": "Boiler Servicing and Maintenance",
+      "desc": "Annual servicing keeps your boiler efficient, safe, and under warranty. We'll spot problems before they become breakdowns."
+    },
+    {
+      "title": "Central Heating Repairs",
+      "desc": "Cold radiators, leaks, or noisy pipes? We diagnose and repair faults to get your heating running smoothly again."
+    },
+    {
+      "title": "Electrical Installation and Repair",
+      "desc": "From rewiring and lighting upgrades to fault-finding and safety testing, we provide reliable electrical work for homes and small businesses."
+    },
+    {
+      "title": "Power Flushing and System Cleaning",
+      "desc": "Improve heating efficiency and extend boiler life by flushing sludge and debris from your central heating system."
+    }
+  ],
+  "about_pullquote": "I started this business to give Bolton residents honest, fast heating help at fair prices.",
+  "about_para_1": "BoilerWizz Bolton was founded on the simple principle that heating emergencies shouldn't mean sky-high call-out charges or long waits. With 15 years' experience across Bolton, we've built a reputation for turning up quickly, diagnosing problems correctly, and fixing them without fuss. We're Gas Safe Registered and fully insured, and we treat every job\u2014whether it's a midnight emergency or a routine service\u2014with the same professionalism.",
+  "about_para_2": "Our customers come back because we listen, explain what's wrong, and give you honest advice about repair versus replacement. We don't use scare tactics or oversell unnecessary work. Whether you're a homeowner with a temperamental boiler or a landlord managing multiple properties, we're here to keep your heating reliable and your costs down.",
+  "about_stats": [
+    {
+      "num": "15yrs",
+      "label": "Established in Bolton"
+    },
+    {
+      "num": "Gas Safe",
+      "label": "Fully Registered"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "All areas",
+      "label": "Serving Greater Bolton"
+    }
+  ],
+  "reviews_heading": "What Bolton Homeowners Say About BoilerWizz",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Boiler went down on a Sunday afternoon in December. Called BoilerWizz expecting to wait weeks. They came out within an hour, found a broken pump seal, and fitted a new one on the spot. Cost was reasonable and the lad was friendly and professional. Can't fault them.",
+      "author": "David M.",
+      "loc": "Tonge Moor, Bolton \u2014 December 2024"
+    },
+    {
+      "text": "Had the boiler serviced every year for the last 3 years now. They always spot something small before it becomes expensive. The engineer is thorough, doesn't rush, and explains everything clearly. Best \u00a3150 I spend each year.",
+      "author": "Christine T.",
+      "loc": "Horwich, Bolton \u2014 October 2024"
+    },
+    {
+      "text": "New boiler installation from start to finish. They removed the old one, fitted the new combi, handled the gas testing and paperwork. Everything by the book. 10-year warranty on the unit and they even came back to check it was running OK a month later. Very impressed.",
+      "author": "Michael K.",
+      "loc": "Breightmet, Bolton \u2014 August 2024"
+    }
+  ],
+  "address_sub": "Serving all of Greater Bolton and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 24/7 emergency line",
+  "emergency_banner_text": "Boiler down or heating gone out? We aim to reach you within the hour. Call now \u2014",
+  "footer_description": "BoilerWizz Bolton: Gas Safe heating engineer providing emergency repairs, installations, and maintenance across Bolton for 15 years.",
+  "footer_copyright": "\u00a9 2026 BoilerWizz Bolton Ltd. Registered in England & Wales."
+}
