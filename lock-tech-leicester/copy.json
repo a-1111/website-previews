@@ -1,0 +1,106 @@
+{
+  "slug": "lock-tech-leicester",
+  "meta_title": "Lock Tech | Emergency Locksmith Leicester",
+  "meta_description": "Lock Tech Leicester \u2014 emergency locksmith service. Locked out? We arrive fast, any time of day. No call-out charge. Call now.",
+  "schema_opening_hours": [
+    "Mo-Su 00:00-23:59"
+  ],
+  "hero_eyebrow": "24/7 Emergency Response \u2014 Under 60 Minutes",
+  "hero_headline": "Locked Out in",
+  "hero_highlight": "Leicester?",
+  "hero_subhead": "Locked out at 2am? Our emergency locksmiths arrive within the hour, any day of the week.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "24/7",
+      "label": "Round-the-clock service"
+    },
+    {
+      "num": "60 mins",
+      "label": "Average response time"
+    },
+    {
+      "num": "15+ yrs",
+      "label": "Serving Leicester & area"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Emergency Locksmith Services Across Leicester",
+  "services_subhead": "From locked-out homes to commercial security, we handle domestic and business lockouts fast, with no damage to your property.",
+  "services": [
+    {
+      "title": "Emergency Lockouts",
+      "desc": "Locked out of your home or car? We're trained to open most locks without damage. Average response time under one hour, 24/7."
+    },
+    {
+      "title": "Lock Repair & Replacement",
+      "desc": "Worn, broken or jammed locks fixed or replaced same day. We fit high-security British Standard locks to keep your property safe."
+    },
+    {
+      "title": "Commercial Lockouts",
+      "desc": "Business locked out? We understand the cost of downtime. Fast, discreet access with minimal disruption to your operations."
+    },
+    {
+      "title": "Burglary Repairs",
+      "desc": "Door or lock damaged in a break-in? We secure your property urgently and fit new locks to restore your peace of mind."
+    },
+    {
+      "title": "Key Cutting",
+      "desc": "On-site key duplication using precision cutting equipment. Spare keys made while you wait, at competitive rates."
+    },
+    {
+      "title": "Lock Upgrades & Security",
+      "desc": "Upgrade to modern, high-security locks with anti-pick and anti-bump technology. We assess your property and recommend the right solution."
+    }
+  ],
+  "about_pullquote": "I started this because nobody likes being locked out at midnight.",
+  "about_para_1": "Lock Tech has been serving Leicester and the surrounding area for over 15 years. We specialise in emergency lockouts \u2014 the calls nobody wants to make at 2am on a Sunday. Our locksmiths are fully trained and insured, and we've built our reputation on getting to you fast, fixing the problem with minimal fuss, and charging a fair price with no surprise extras.",
+  "about_para_2": "We're not the biggest locksmith in the Midlands, but we care about doing the job right the first time. Families and business owners come back to us because they know we answer the phone, we turn up when we say we will, and we treat their home or office with respect. Whether it's a jammed lock or a full security upgrade, you get the same professional attention.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in business"
+    },
+    {
+      "num": "2000+",
+      "label": "Callouts completed"
+    },
+    {
+      "num": "100%",
+      "label": "No-damage guarantee"
+    },
+    {
+      "num": "24/7",
+      "label": "Always available"
+    }
+  ],
+  "reviews_heading": "What Leicester Residents & Businesses Say",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Got locked out of my flat at midnight on a Tuesday. Rang Lock Tech and they were here in 45 minutes. Lovely lad, sorted it in minutes without damaging anything. Fair price too. Highly recommend.",
+      "author": "David T.",
+      "loc": "City Centre, Leicester \u2014 November 2024"
+    },
+    {
+      "text": "Our shop was broken into and the door frame was destroyed. Lock Tech came out the same day, made it secure, and fitted a new commercial lock. Really professional and didn't overcharge us. Five stars.",
+      "author": "Priya M.",
+      "loc": "Belgrave, Leicester \u2014 September 2024"
+    },
+    {
+      "text": "Third time I've used them in five years. Always quick, always reliable. They don't make a mess or fuss about it. Just do the job and move on. Best locksmith in Leicester.",
+      "author": "Michael R.",
+      "loc": "Stoneygate, Leicester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Leicester and surrounding areas, 24 hours a day, 7 days a week",
+  "opening_hours_main": "24/7 \u2014 Always available",
+  "opening_hours_sub": "Emergency line open day and night, every single day of the year",
+  "emergency_banner_text": "Locked out right now? We aim to reach you in under 60 minutes, any time of day. Call immediately \u2014",
+  "footer_description": "Lock Tech \u2014 Leicester's trusted 24/7 emergency locksmith. Fast response, no call-out charge, no damage guarantee.",
+  "footer_copyright": "\u00a9 2026 Lock Tech. All rights reserved."
+}
