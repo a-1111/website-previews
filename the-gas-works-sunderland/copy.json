@@ -1,0 +1,108 @@
+{
+  "slug": "the-gas-works-sunderland",
+  "meta_title": "The Gas Works | Emergency Plumber Sunderland",
+  "meta_description": "The Gas Works in Sunderland offers rapid emergency plumbing, boiler repairs, and heating installation. Same-day response, 24/7 availability. Call now for fast help.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Response",
+  "hero_headline": "Sunderland's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipes, boiler breakdowns, or heating faults in Sunderland? We arrive fast and fix it right, day or night.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience in plumbing"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Emergency response time"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed annually"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average customer rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Sunderland",
+  "services_subhead": "From emergency burst pipes to full system installations, we handle every plumbing and heating challenge for homes and businesses.",
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "desc": "Burst pipes, leaks, and blockages fixed fast. We carry parts on the van and aim to resolve most faults the same day, any time."
+    },
+    {
+      "title": "Boiler Repairs & Servicing",
+      "desc": "Keep your heating running safely. Annual gas boiler servicing, emergency fault diagnosis, and repairs \u2014 all Gas Safe certified."
+    },
+    {
+      "title": "Boiler Installation & Replacement",
+      "desc": "New boiler fitted with a 10-year warranty and full system commissioning. We advise on efficiency and help with grant schemes where available."
+    },
+    {
+      "title": "Radiator Installation & Bleeding",
+      "desc": "Cold radiators repaired or replaced. System balancing and power flushing included to restore full heat output."
+    },
+    {
+      "title": "Pipe Work & System Installation",
+      "desc": "Central heating system design, installation, and upgrades. Includes pressure testing and full compliance certification."
+    },
+    {
+      "title": "Drain Cleaning & Blockage Clearance",
+      "desc": "Stubborn drain blockages cleared fast using high-pressure jetting. We locate the problem and fix it without unnecessary digging."
+    }
+  ],
+  "about_pullquote": "I started The Gas Works to give Sunderland honest, fast plumbing without the cowboys' inflated bills.",
+  "about_para_1": "The Gas Works has been serving Sunderland homes and businesses for 18 years. Founded on the principle that good plumbing should be reliable, affordable, and fast, we've built our reputation by turning up on time, diagnosing faults clearly, and fixing them properly \u2014 without unnecessary upsells. Every engineer is Gas Safe registered and fully trained in modern heating systems.",
+  "about_para_2": "Our customers come back because we answer the phone 24/7, arrive within an hour for emergencies, and stand behind our work with written guarantees. We're local, we know Sunderland inside out, and we treat every job \u2014 whether a simple tap washer or a full system overhaul \u2014 with the same care and attention.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Serving Sunderland"
+    },
+    {
+      "num": "7",
+      "label": "Gas Safe engineers"
+    },
+    {
+      "num": "94%",
+      "label": "Customer retention rate"
+    },
+    {
+      "num": "Thorney Close",
+      "label": "Local Sunderland base"
+    }
+  ],
+  "reviews_heading": "What Sunderland Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a nightmare leak in the kitchen on a Sunday evening. Called The Gas Works in desperation and they were at the door in 50 minutes. Fixed the burst pipe, dried everything down, and even gave me advice on preventing it happening again. Brilliant service, very fair price. Can't ask for better.",
+      "author": "Mark T.",
+      "loc": "Thorney Close, Sunderland \u2014 December 2024"
+    },
+    {
+      "text": "My old boiler finally gave up. Phoned around for quotes and The Gas Works came out next day. The engineer explained exactly what I needed, helped me understand the options, and didn't push me towards the most expensive model. Installation was smooth, paperwork sorted, and the new boiler is running perfectly. Highly recommend.",
+      "author": "Jennifer L.",
+      "loc": "Roker, Sunderland \u2014 October 2024"
+    },
+    {
+      "text": "Annual boiler service, routine stuff really, but the engineer was thorough and spotted a small issue with the controls that could have become a problem. Fixed it on the spot, no extra charge. That's the kind of attention to detail that keeps me calling them back.",
+      "author": "David H.",
+      "loc": "Monkwearmouth, Sunderland \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving all of Sunderland and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 Emergency line open 24/7",
+  "emergency_banner_text": "Burst pipe or boiler breakdown? We aim to reach you within the hour, any time of day \u2014",
+  "footer_description": "The Gas Works is a Gas Safe registered plumbing and heating business serving Sunderland for 18 years. Fast emergency response, no call-out charge, same-day repairs.",
+  "footer_copyright": "\u00a9 2026 The Gas Works. Registered in England & Wales."
+}
