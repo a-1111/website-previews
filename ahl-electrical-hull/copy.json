@@ -1,0 +1,107 @@
+{
+  "slug": "ahl-electrical-hull",
+  "meta_title": "AHL Electrical | Electrician Hull",
+  "meta_description": "AHL Electrical in Hull delivers reliable domestic and commercial electrical work. Fast, certified, and honest. Call 07875 080098 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:30",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "NICEIC Approved \u2014 20+ Years in Hull",
+  "hero_headline": "Hull's Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "From rewires to emergency call-outs, we fix faults fast and keep your home safe.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "20yrs",
+      "label": "Trading in Hull"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 2hrs",
+      "label": "Average Response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Electrical Services Across Hull",
+  "services_subhead": "We handle everything from emergency repairs and fault-finding to complete rewires and installations.",
+  "services": [
+    {
+      "title": "Emergency Callouts",
+      "desc": "Blown circuits, no power, or burning smells \u2014 we respond fast, any time of day or night. Most faults fixed on the spot."
+    },
+    {
+      "title": "Fault-Finding & Repairs",
+      "desc": "Flickering lights, faulty sockets, or tripped switches? We diagnose the problem quickly and repair it right first time."
+    },
+    {
+      "title": "Full Rewires",
+      "desc": "Bring old wiring up to modern safety standards with a full house rewire. Improves safety, adds outlets, and future-proofs your home."
+    },
+    {
+      "title": "Boiler & Heating Electrics",
+      "desc": "Installation and repair of electric heating systems, immersion heaters, and related electrical work for your heating."
+    },
+    {
+      "title": "Commercial & Industrial",
+      "desc": "Reliable electrical maintenance, upgrades, and new installations for shops, offices, and light industrial premises."
+    },
+    {
+      "title": "Testing & Certification",
+      "desc": "EICR (Electrical Installation Condition Report) and periodic testing to meet your legal safety obligations."
+    }
+  ],
+  "about_pullquote": "I started this firm because I got fed up with cowboys charging over the odds.",
+  "about_para_1": "AHL Electrical has been serving Hull for over two decades. Born and bred locally, we've built our reputation on straightforward honest work \u2014 no surprises, no inflated bills, just reliable electrical expertise.",
+  "about_para_2": "Our customers come back because we turn up on time, explain what we're doing, and charge a fair price. Whether it's a midnight emergency or a planned rewire, you'll get the same professional standard every time.",
+  "about_stats": [
+    {
+      "num": "20+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "500+",
+      "label": "Happy Households"
+    },
+    {
+      "num": "NICEIC",
+      "label": "Approved Electrician"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency Available"
+    }
+  ],
+  "reviews_heading": "What Hull Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Called AHL on a Sunday morning with no power in half the house. Lee arrived within an hour, found a loose connection in the consumer unit, and had us back up and running by lunch. Couldn't ask for better service, and the price was more than fair.",
+      "author": "Michael P.",
+      "loc": "Hessle, Hull \u2014 November 2024"
+    },
+    {
+      "text": "We needed our old bungalow rewired before selling. AHL did the whole job in a week with minimal fuss. Neat work, tidy site, proper certification. Very pleased and would definitely recommend them.",
+      "author": "Sandra T.",
+      "loc": "West Hull \u2014 September 2024"
+    },
+    {
+      "text": "Emergency call to fix our immersion heater switch \u2014 they turned up same evening, diagnosed it straight away, and had it working again. Professional bloke, honest pricing. Will use them again for sure.",
+      "author": "David M.",
+      "loc": "Beverley Road, Hull \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Hull and the surrounding areas including Hessle, Cottingham, and Beverley",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5:30pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Emergency? We aim to respond within 2 hours. Call now \u2014",
+  "footer_description": "AHL Electrical is a NICEIC-approved electrician in Hull. Fast emergency response, honest pricing, and 20 years of local expertise.",
+  "footer_copyright": "\u00a9 2026 AHL Electrical \u2014 Abbey Hull Ltd. Registered in England & Wales."
+}
