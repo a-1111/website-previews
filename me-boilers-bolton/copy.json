@@ -1,0 +1,107 @@
+{
+  "slug": "me-boilers-bolton",
+  "meta_title": "M.E Boilers | Gas Engineer Bolton",
+  "meta_description": "M.E Boilers is a Gas Safe registered engineer serving Bolton. Fast boiler repairs, installations and servicing. Emergency callouts available 24/7.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Callouts",
+  "hero_headline": "Bolton's Trusted",
+  "hero_highlight": "Gas Engineer",
+  "hero_subhead": "Boiler broken in Bolton? We diagnose and fix most faults the same day, with no hidden charges.",
+  "badge_4": "Same-Day Repairs Available",
+  "stats": [
+    {
+      "num": "12+ yrs",
+      "label": "Experience in gas"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency callouts"
+    },
+    {
+      "num": "500+",
+      "label": "Boilers serviced annually"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average customer rating"
+    }
+  ],
+  "services_heading": "Complete Gas & Boiler Services Across Bolton",
+  "services_subhead": "From emergency repairs to full system installations, we handle every aspect of your heating with care and expertise.",
+  "services": [
+    {
+      "title": "Emergency Boiler Repairs",
+      "desc": "No heat in winter? We aim to attend Bolton callouts within the hour. Most faults \u2014 leaks, no ignition, pressure loss \u2014 diagnosed and fixed on the spot."
+    },
+    {
+      "title": "Annual Boiler Servicing",
+      "desc": "Keep your boiler running efficiently and safely with an annual gas safety check. We'll clean components, test controls, and spot issues before they become costly."
+    },
+    {
+      "title": "New Boiler Installation",
+      "desc": "Upgrading your heating? We install condensing boilers that cut fuel bills by up to 30%. Full removal of the old unit, system balancing, and a 10-year manufacturer's warranty included."
+    },
+    {
+      "title": "Heating System Upgrades",
+      "desc": "Uneven heating across rooms? We design and fit bespoke heating systems \u2014 radiator additions, underfloor heating, and smart controls \u2014 tailored to your home."
+    },
+    {
+      "title": "Gas Leak Detection & Repair",
+      "desc": "Smell gas? We locate leaks safely using specialist equipment and repair them quickly. All work completed to Gas Safe standards."
+    },
+    {
+      "title": "Landlord Certificates & Inspections",
+      "desc": "Stay compliant with annual landlord gas safety inspections and receive your official certificate. Essential for lettings."
+    }
+  ],
+  "about_pullquote": "I started M.E Boilers because I hated seeing customers overcharged for simple fixes.",
+  "about_para_1": "M.E Boilers was founded over 12 years ago by a frustrated plumber tired of watching Bolton homeowners get ripped off by call centres and cowboys. Today, we're the engineer neighbours trust when their heating fails \u2014 whether that's a frozen condensate pipe at 2am or a boiler that's finally given up the ghost. Every job is treated as if we're fixing our own home.",
+  "about_para_2": "Our reputation is built on speed, honesty, and fair pricing. We carry parts on the van, diagnose jobs properly before quoting, and never charge a callout fee. Repeat customers make up over 60% of our work \u2014 that's not luck, it's because we show up when we say we will and we actually fix the problem.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years in business"
+    },
+    {
+      "num": "60%+",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "500+",
+      "label": "Annual boiler services"
+    },
+    {
+      "num": "All Bolton areas",
+      "label": "Service coverage"
+    }
+  ],
+  "reviews_heading": "What Bolton Customers Say About M.E Boilers",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Boiler packed in on Boxing Day morning. Phoned M.E Boilers and they were here by midday. Parts were on the van, job done by 2pm. Fair price, no drama, exactly what you want at Christmas. Top bloke.",
+      "author": "David P.",
+      "loc": "Halliwell, Bolton \u2014 December 2024"
+    },
+    {
+      "text": "Been using them for annual servicing for 5 years now. They're reliable, always turn up on time, explain what they're doing, and the price hasn't jumped. Genuine local business you can trust.",
+      "author": "Margaret T.",
+      "loc": "Horwich, Bolton \u2014 November 2024"
+    },
+    {
+      "text": "Called after my radiators went cold. New boiler wasn't an option I could afford, so I asked if it could be fixed. They spent time checking it properly and got it running again for a fraction of the cost. Proper honest service.",
+      "author": "James W.",
+      "loc": "Farnworth, Bolton \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving all of Bolton and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Heating emergency in Bolton? We typically respond within the hour. Call now \u2014",
+  "footer_description": "M.E Boilers is a Gas Safe registered engineer serving Bolton with fast boiler repairs, installations and servicing. Available 24/7 for emergencies.",
+  "footer_copyright": "\u00a9 2026 M.E Boilers. Gas Safe Registered."
+}
