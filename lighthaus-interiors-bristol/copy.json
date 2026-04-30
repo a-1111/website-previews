@@ -1,0 +1,107 @@
+{
+  "slug": "lighthaus-interiors-bristol",
+  "meta_title": "LightHaus Interiors | Painter & Decorator Bristol",
+  "meta_description": "LightHaus Interiors in Bristol specialises in interior and exterior painting and decorating. Professional finishes, free quotes, and attention to detail.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Fully Insured \u2014 Free Quotes Within 24 Hours",
+  "hero_headline": "Bristol's Interior",
+  "hero_highlight": "Painting Experts",
+  "hero_subhead": "Transform your home with expert decoration. From feature walls to full room makeovers, we deliver flawless finishes every time.",
+  "badge_4": "Same-Week Service Available",
+  "stats": [
+    {
+      "num": "12+ years",
+      "label": "Trading in Bristol"
+    },
+    {
+      "num": "500+",
+      "label": "Projects Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average Rating"
+    },
+    {
+      "num": "48hrs",
+      "label": "Typical Quote Turnaround"
+    }
+  ],
+  "services_heading": "Complete Painting & Decorating Services Across Bristol",
+  "services_subhead": "Whether it's a bedroom refresh or a full commercial repaint, we handle every job with precision and care.",
+  "services": [
+    {
+      "title": "Interior Painting",
+      "desc": "Full room repaints using premium paints and professional techniques. We move furniture, protect floors, and leave your home spotless."
+    },
+    {
+      "title": "Feature Walls & Accent Colours",
+      "desc": "Create visual impact with expert feature wall installation. Bold colours, wallpaper, or textured finishes that transform any space."
+    },
+    {
+      "title": "Exterior Painting & Cladding",
+      "desc": "Weather-resistant exterior finishes for your home's fa\u00e7ade, soffits, and fascias. We use trade-grade materials built to last in Bristol's climate."
+    },
+    {
+      "title": "Wallpaper Hanging",
+      "desc": "Precise wallpaper installation on any surface, from traditional paste to modern vinyl. Pattern matching and seamless finishes guaranteed."
+    },
+    {
+      "title": "Woodwork & Trim Finishing",
+      "desc": "Expert painting of doors, skirting boards, architrave, and windows. We prep, prime, and apply multiple coats for a lasting, professional look."
+    },
+    {
+      "title": "Commercial Redecorating",
+      "desc": "Office, retail, and hospitality repainting with minimal disruption to your business. We schedule around your operating hours."
+    }
+  ],
+  "about_pullquote": "We treat every home like it's our own. That's how we've built our reputation.",
+  "about_para_1": "LightHaus Interiors was founded in 2012 by a team of painters frustrated with the inconsistency and poor communication they saw in the Bristol decorating market. Over the past twelve years, we've grown from a two-person outfit to a trusted local name, completing over 500 projects across Southville, Bedminster, Stokes Croft, and beyond. We're fully insured and always meticulous about preparation and detail.",
+  "about_para_2": "Our customers trust us because we turn up on time, finish when we say we will, and stand behind our work. We invest in quality materials and don't cut corners on prep\u2014that's why our finishes last. Most of our business comes from word-of-mouth and repeat clients who've seen the difference a proper paint job makes to their home.",
+  "about_stats": [
+    {
+      "num": "12+ years",
+      "label": "Established in Bristol"
+    },
+    {
+      "num": "500+",
+      "label": "Homes & Businesses Redecorated"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat & Referred Customers"
+    },
+    {
+      "num": "5-day",
+      "label": "Average Project Turnaround"
+    }
+  ],
+  "reviews_heading": "What Bristol Homeowners Say About LightHaus Interiors",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Absolutely brilliant. Mark and his team completely transformed our lounge. They were tidy, professional, and finished a day early. The paint work is flawless. Can't recommend them enough.",
+      "author": "David P.",
+      "loc": "Southville, Bristol \u2014 October 2024"
+    },
+    {
+      "text": "Had them repaint our kitchen and hallway. Free quote was spot-on with no hidden costs. They moved everything, protected the floors, and did a really thorough job. Very happy with the results.",
+      "author": "Claire M.",
+      "loc": "Bedminster, Bristol \u2014 July 2024"
+    },
+    {
+      "text": "Needed my bedroom done quickly before a house viewing. They squeezed us in and delivered in two days. Looks like a show home now. Best money I've spent on the house. Will use them again.",
+      "author": "James T.",
+      "loc": "Stokes Croft, Bristol \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving all of Bristol and surrounding areas, including Southville, Bedminster, and Stokes Croft",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Sunday by appointment \u2022 Emergency calls welcome",
+  "emergency_banner_text": "Need a quick repaint before a deadline? We offer same-week availability on most projects. Call us now \u2014",
+  "footer_description": "LightHaus Interiors is a Bristol-based painter and decorator specialising in interior and exterior finishes, feature walls, and commercial redecorating. Fully insured, free quotes, and twelve years of trusted local service.",
+  "footer_copyright": "\u00a9 2026 LightHaus Interiors. Registered in England & Wales."
+}
