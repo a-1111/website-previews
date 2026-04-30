@@ -1,0 +1,107 @@
+{
+  "slug": "nt-decorators-southampton",
+  "meta_title": "N.T Decorators | Painter & Decorator Southampton",
+  "meta_description": "N.T Decorators is your trusted painter and decorator in Southampton. Interior and exterior work, free quotes, fully insured. Call 07717 216227 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Fully Insured \u2014 Interior & Exterior Specialists",
+  "hero_headline": "Southampton's Trusted",
+  "hero_highlight": "Painter and Decorator",
+  "hero_subhead": "Transform your home with expert interior and exterior decoration. Free quotes, no obligation.",
+  "badge_4": "Free Quotes",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "48 hrs",
+      "label": "Quote Turnaround"
+    }
+  ],
+  "services_heading": "Professional Decorating Services Across Southampton",
+  "services_subhead": "From interior wall painting to exterior cladding, we handle every decorating project with precision and care.",
+  "services": [
+    {
+      "title": "Interior Painting & Decorating",
+      "desc": "Refresh any room with expert preparation, priming, and finish painting. We use premium paints and protect your furniture and flooring throughout."
+    },
+    {
+      "title": "Exterior Painting & Rendering",
+      "desc": "Weather-resistant exterior finishes that protect and enhance your home's appearance. Includes masonry preparation and high-quality external paints."
+    },
+    {
+      "title": "Wallpaper Hanging & Removal",
+      "desc": "Professional wallpaper installation, pattern matching, and careful removal of old coverings. We handle tricky corners and feature walls with precision."
+    },
+    {
+      "title": "Woodwork & Joinery Finishing",
+      "desc": "Expertly painted doors, skirting boards, architraves, and window frames. We strip, sand, and finish to bring out the best in timber."
+    },
+    {
+      "title": "Ceiling Work",
+      "desc": "Smooth ceiling painting, artex removal, and popcorn texture finishing. We use dust-control methods to keep mess out of your home."
+    },
+    {
+      "title": "Commercial Redecorating",
+      "desc": "Office, retail, and industrial painting with minimal disruption. We work early mornings, evenings, or weekends to fit around your business."
+    }
+  ],
+  "about_pullquote": "Every job is done as if we're decorating our own home.",
+  "about_para_1": "N.T Decorators has been transforming homes and businesses across Southampton for over 15 years. We started with a simple commitment: to deliver high-quality paintwork and decorating without the premium price tag. Our reputation is built on careful preparation, attention to detail, and honest communication from the first quote to the final coat.",
+  "about_para_2": "What sets us apart is our approach to each project. We don't cut corners on prep work\u2014that's where durability and finish quality are decided. Our customers trust us to protect their homes, respect their space, and turn up when we say we will. Many come back year after year, and their referrals form the heart of our business.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years Trading"
+    },
+    {
+      "num": "90%",
+      "label": "Repeat Customers"
+    },
+    {
+      "num": "Fully Insured",
+      "label": "Public Liability"
+    },
+    {
+      "num": "Southampton & Totton",
+      "label": "Local Coverage"
+    }
+  ],
+  "reviews_heading": "What Southampton Homeowners Say About N.T Decorators",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Had our lounge and hallway completely redecorated. The prep work was thorough, and the finish is immaculate. Arrived on time, left the place spotless, and the price was fair. Would definitely recommend.",
+      "author": "David M.",
+      "loc": "Totton, Southampton \u2014 November 2024"
+    },
+    {
+      "text": "Brilliant job on our exterior. The render prep took longer than we expected, but Nick explained why it mattered and it's held up brilliantly. Very professional outfit.",
+      "author": "Claire T.",
+      "loc": "Shirley, Southampton \u2014 August 2024"
+    },
+    {
+      "text": "Used N.T for wallpapering a tricky feature wall with matching patterns. Couldn't have gone better. Quick turnaround on the quote, fair pricing, and no mess left behind. Will definitely use again.",
+      "author": "Emma J.",
+      "loc": "Bassett, Southampton \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Southampton, Totton, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Free quotes by phone or email",
+  "emergency_banner_text": "Need work done urgently? We can often fit in emergency or short-notice jobs. Ring us \u2014",
+  "footer_description": "N.T Decorators is a trusted painter and decorator serving Southampton and surrounding areas. Interior and exterior work, fully insured, free quotes.",
+  "footer_copyright": "\u00a9 2026 N.T Decorators. All rights reserved."
+}
