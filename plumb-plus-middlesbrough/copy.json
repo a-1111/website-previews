@@ -1,0 +1,108 @@
+{
+  "slug": "plumb-plus-middlesbrough",
+  "meta_title": "Plumb Plus | Emergency Plumber Middlesbrough",
+  "meta_description": "Plumb Plus (Dave the Plumber) is your trusted emergency plumber in Middlesbrough. Fast response, honest pricing, no call-out charge. Call 07956 572412.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "Local Emergency Plumber \u2014 24/7 Rapid Response",
+  "hero_headline": "Middlesbrough's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe or boiler breakdown in Middlesbrough? Dave arrives fast, fixes it right, and keeps costs fair.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Trading locally"
+    },
+    {
+      "num": "1500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "60 mins",
+      "label": "Typical response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Middlesbrough",
+  "services_subhead": "From emergency burst pipes to routine maintenance, Dave handles every job with the same care and attention.",
+  "services": [
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, leaks, and blockages fixed fast, day or night. We attend most emergency calls within the hour and carry parts to fix jobs on the spot."
+    },
+    {
+      "title": "Boiler Repair & Installation",
+      "desc": "Expert diagnosis and repair of broken boilers, plus full installation of new systems with warranty. Keep your home warm without the stress."
+    },
+    {
+      "title": "Central Heating",
+      "desc": "System flushing, radiator installation, pump repairs, and bleeding. We ensure your heating runs efficiently and reliably through winter."
+    },
+    {
+      "title": "Bathroom & Kitchen Plumbing",
+      "desc": "Tap installation, sink replacement, and full bathroom pipework. We work around your schedule and leave your space clean and tidy."
+    },
+    {
+      "title": "Pipe Repairs & Replacement",
+      "desc": "Frozen pipes, corroded copper, or leaking joints \u2014 we locate the problem and fix it properly, with no shortcuts or bodges."
+    },
+    {
+      "title": "Drain Cleaning & Clearance",
+      "desc": "Blocked drains cleared fast using high-pressure jetting and manual tools. We clear the blockage and identify the root cause to prevent it happening again."
+    }
+  ],
+  "about_pullquote": "I started Dave the Plumber because I got tired of seeing locals ripped off.",
+  "about_para_1": "Dave set up Plumb Plus nearly two decades ago after too many years watching neighbours get fleeced by cowboy plumbers. What started as one van and a handshake has grown into a trusted name across Middlesbrough, built entirely on honest work and fair pricing. Every job \u2014 whether an emergency at 2am or a routine boiler service \u2014 gets the same level of care and expertise.",
+  "about_para_2": "Customers keep calling back because Dave turns up when he says he will, explains what's wrong in plain English, and quotes a fair price before touching your pipes. He's not interested in upselling or cutting corners. Middlesbrough homeowners trust him because he's been here 18 years and he treats every job like it's his own home.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Local family business"
+    },
+    {
+      "num": "1500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "Middlesbrough & surrounding",
+      "label": "Coverage area"
+    }
+  ],
+  "reviews_heading": "What Middlesbrough Homeowners Say About Plumb Plus",
+  "rating": 4.8,
+  "review_count": 147,
+  "reviews": [
+    {
+      "text": "Had a burst pipe under the kitchen at 11pm on a Saturday. Called Dave and he was here by midnight. Fixed it straightaway, didn't charge an arm and a leg, and even cleaned up after himself. Brilliant service. Will definitely use again.",
+      "author": "Mark T.",
+      "loc": "Coulby Newham, Middlesbrough \u2014 November 2024"
+    },
+    {
+      "text": "Our boiler packed in during the cold snap. Dave came out the same morning, diagnosed a faulty valve, and had us back on heat by early afternoon. No hidden charges, no faffing about. What you're quoted is what you pay. Top bloke.",
+      "author": "Jennifer P.",
+      "loc": "Linthorpe, Middlesbrough \u2014 January 2025"
+    },
+    {
+      "text": "New radiators fitted in the bathroom and bedroom. Dave was professional, tidy, and finished on time. He explained everything clearly and didn't rush the job. Been recommending him to all our mates.",
+      "author": "Robert C.",
+      "loc": "Hemlington, Middlesbrough \u2014 February 2025"
+    }
+  ],
+  "address_sub": "Serving Middlesbrough, Coulby Newham, Stockton, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Emergency? We aim to be with you in under 60 minutes. Call now \u2014",
+  "footer_description": "Plumb Plus (Dave the Plumber) is Middlesbrough's trusted emergency plumber. 18 years local, honest pricing, no call-out charge.",
+  "footer_copyright": "\u00a9 2026 Plumb Plus. All rights reserved."
+}
