@@ -1,0 +1,107 @@
+{
+  "slug": "whitleys-tree-services-newcastle",
+  "meta_title": "Whitley's Tree Services | Arborist Newcastle",
+  "meta_description": "Whitley's Tree Services in Newcastle offers professional tree surgery, felling, and crown work. Fully insured. Call 07467 452993 for a free quote.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-17:30",
+    "Sa 08:00-14:00"
+  ],
+  "hero_eyebrow": "Fully Insured Arborists \u2014 Local to Newcastle",
+  "hero_headline": "Professional Tree Care",
+  "hero_highlight": "You Can Trust",
+  "hero_subhead": "Dangerous branch hanging over your home? Our certified arborists safely fell, trim, and maintain trees across Newcastle and surrounding areas.",
+  "badge_4": "Same-Day Quotes Available",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience in arboriculture"
+    },
+    {
+      "num": "500+",
+      "label": "Trees safely felled and trimmed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer satisfaction rating"
+    },
+    {
+      "num": "24hrs",
+      "label": "Emergency response time"
+    }
+  ],
+  "services_heading": "Complete Tree Services Across Newcastle",
+  "services_subhead": "From routine pruning to complex crown reductions, we handle every aspect of professional tree care with safety and precision.",
+  "services": [
+    {
+      "title": "Tree Felling & Removal",
+      "desc": "Safe, controlled removal of dead, diseased, or unwanted trees. We handle everything from planning and council liaison to stump grinding and site clearance."
+    },
+    {
+      "title": "Crown Reduction & Shaping",
+      "desc": "Reduce overgrown canopies to restore light and balance. Perfect for trees that block views or threaten nearby structures."
+    },
+    {
+      "title": "Pruning & Maintenance",
+      "desc": "Regular pruning keeps trees healthy and extends their life. We work to British Standard 3998 to promote growth and structural integrity."
+    },
+    {
+      "title": "Storm Damage & Emergency Work",
+      "desc": "Storm brought down branches or threatening limbs? We respond 24/7 to make trees safe and remove hazardous debris quickly."
+    },
+    {
+      "title": "Stump Grinding & Removal",
+      "desc": "Grind stumps flush with the ground or remove them entirely, leaving your garden tidy and ready for replanting or landscaping."
+    },
+    {
+      "title": "Hedge Trimming & Cutting",
+      "desc": "Keep boundary hedges neat and healthy with regular professional trimming. We also remove overgrown hedges and dispose of arisings."
+    }
+  ],
+  "about_pullquote": "We climb every tree as if it's in our own back garden.",
+  "about_para_1": "Whitley's Tree Services was founded on the principle that tree work should be done right, not rushed. With nearly two decades of experience in arboriculture, we've safely felled and maintained hundreds of trees across Newcastle and the surrounding Tyne Valley. We hold full public liability insurance and operate to British Standard 3998, ensuring every job\u2014from a simple trim to a complex crown reduction\u2014meets the highest safety and care standards.",
+  "about_para_2": "Customers return to us because we listen. We explain what a tree needs, why, and what it will cost\u2014no surprises. We take pride in leaving every garden cleaner than we found it, and we always dispose of arisings responsibly. Whether you need routine maintenance or emergency work after a storm, you can rely on us to show up on time, do the job properly, and treat your property with respect.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "Established in arboriculture"
+    },
+    {
+      "num": "500+",
+      "label": "Trees safely managed"
+    },
+    {
+      "num": "100%",
+      "label": "Fully insured & certified"
+    },
+    {
+      "num": "BS 3998",
+      "label": "British Standard compliant"
+    }
+  ],
+  "reviews_heading": "What Newcastle Homeowners Say",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Had a massive sycamore threatening to drop branches on the house. Whitley's quoted fairly and got the job done in a morning. Careful, professional, and left the garden spotless. Can't recommend highly enough.",
+      "author": "David P.",
+      "loc": "Gosforth, Newcastle \u2014 November 2024"
+    },
+    {
+      "text": "Storm damage had us worried. Called Whitley's at 8am and they were here by noon, removing a dangerous limb safely. Very responsive and priced reasonably. Will use them for routine maintenance now.",
+      "author": "Helen M.",
+      "loc": "Fenham, Newcastle \u2014 October 2024"
+    },
+    {
+      "text": "Been using them for hedge cutting for three years. Always turn up when promised, do a neat job, and tidy up properly. You don't find service like that often. Worth every penny.",
+      "author": "Margaret T.",
+      "loc": "Burnopfield, Newcastle \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Based in Burnopfield, serving Newcastle and the wider Tyne Valley",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 5:30pm",
+  "opening_hours_sub": "Sat: 8am \u2013 2pm \u2022 Emergency callouts 24/7",
+  "emergency_banner_text": "Storm damage or dangerous branch? We respond 24/7 to make trees safe. Call now \u2014",
+  "footer_description": "Whitley's Tree Services: professional arborists in Newcastle with 18 years' experience. Fully insured, British Standard compliant tree felling, pruning, and emergency work.",
+  "footer_copyright": "\u00a9 2026 Whitley's Tree Services. Established 2006."
+}
