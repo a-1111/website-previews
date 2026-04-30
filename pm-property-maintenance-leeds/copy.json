@@ -1,0 +1,107 @@
+{
+  "slug": "pm-property-maintenance-leeds",
+  "meta_title": "P&M Property Maintenance | Painter & Decorator Leeds",
+  "meta_description": "P&M Property Maintenance is your trusted painter and decorator in Leeds. Interior and exterior work, free quotes, reliable service. Call today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Professional Painters & Decorators \u2014 Leeds & Surrounding Areas",
+  "hero_headline": "Transform Your Home with",
+  "hero_highlight": "Expert Painting & Decorating",
+  "hero_subhead": "From fresh interior walls to complete exterior repaints, we deliver professional results on time and on budget in Leeds.",
+  "badge_4": "Free Quotes & Site Surveys",
+  "stats": [
+    {
+      "num": "12+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "1000+",
+      "label": "Homes Transformed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "24-48hrs",
+      "label": "Typical Response Time"
+    }
+  ],
+  "services_heading": "Complete Painting & Decorating Services Across Leeds",
+  "services_subhead": "Whether you need a quick refresh or a full room transformation, we handle interior and exterior projects of all sizes with care and attention to detail.",
+  "services": [
+    {
+      "title": "Interior Painting & Decorating",
+      "desc": "Fresh walls, ceilings, and woodwork inside your home. We prep surfaces properly, use premium paints, and protect your furniture and flooring throughout."
+    },
+    {
+      "title": "Exterior Repaints & Cladding",
+      "desc": "Weatherproof your home with expert exterior painting. We tackle fascias, soffits, doors, and render work to protect and freshen your property's curb appeal."
+    },
+    {
+      "title": "Wallpapering & Feature Walls",
+      "desc": "Create impact with professional wallpapering, including feature walls and textured finishes. We measure, cut, and hang with precision for a flawless look."
+    },
+    {
+      "title": "Woodwork & Trim Finishing",
+      "desc": "Skirting boards, door frames, and window surrounds deserve expert care. We sand, prime, and finish all woodwork to a showroom standard."
+    },
+    {
+      "title": "Commercial Redecoration",
+      "desc": "Refresh your office, shop, or caf\u00e9 with minimal disruption. We work to your schedule, manage waste responsibly, and leave sites clean daily."
+    },
+    {
+      "title": "Preparation & Surface Treatment",
+      "desc": "Proper prep is the secret to lasting results. We strip old paint, fill cracks, sand surfaces, and treat damp issues before any topcoat goes on."
+    }
+  ],
+  "about_pullquote": "I started P&M because I believe corners should never be cut \u2014 prep work makes all the difference.",
+  "about_para_1": "P&M Property Maintenance was founded over a decade ago by a team frustrated with sloppy paintwork and poor customer communication in Leeds. We set out to prove that decorating could be done properly: meticulous prep, quality materials, honest timescales, and no hidden costs. Today, we've redecorated hundreds of homes across Leeds and the surrounding areas, from Victorian terraces to modern family properties.",
+  "about_para_2": "We're known for turning up on time, respecting your home, and leaving spaces that customers genuinely love. Our reputation is built on repeat business and word-of-mouth referrals \u2014 people trust us because we deliver. Whether it's a small bedroom refresh or a full-house repaint, we approach every job with the same professionalism and pride.",
+  "about_stats": [
+    {
+      "num": "12+",
+      "label": "Years Operating"
+    },
+    {
+      "num": "1000+",
+      "label": "Properties Decorated"
+    },
+    {
+      "num": "85%",
+      "label": "Repeat & Referral Customers"
+    },
+    {
+      "num": "Leeds & Beyond",
+      "label": "Coverage Area"
+    }
+  ],
+  "reviews_heading": "What Leeds Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 287,
+  "reviews": [
+    {
+      "text": "Fantastic work from start to finish. Paul and the team completely redecorated our lounge \u2014 moved all the furniture, protected everything, and left us with a beautiful space. Very tidy workers, no mess. Would definitely use them again.",
+      "author": "Margaret T.",
+      "loc": "Headingley, Leeds \u2014 February 2025"
+    },
+    {
+      "text": "Had our exterior painted last summer. They sorted the damaged fascias, repaired the render, and the whole house looks fresh again. Fair price, did what they said they'd do, and finished on schedule. Highly recommend.",
+      "author": "David K.",
+      "loc": "Chapel Allerton, Leeds \u2014 November 2024"
+    },
+    {
+      "text": "Came in for a free quote, no pressure. They explained what needed doing and why. The actual work was spot-on \u2014 the wallpaper in my hallway is perfect. Professional, friendly, and reasonably priced. Top marks.",
+      "author": "Jennifer P.",
+      "loc": "Meanwood, Leeds \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving all of Leeds and surrounding areas including Harrogate, Wetherby, and Castleford",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Free quotes available 7 days a week",
+  "emergency_banner_text": "Need a quick paint refresh or emergency redecoration? Ring us now and we'll arrange a convenient time \u2014",
+  "footer_description": "P&M Property Maintenance is a professional painter and decorator in Leeds. Interior and exterior work, meticulous prep, free quotes. Over 12 years' experience.",
+  "footer_copyright": "\u00a9 2026 P&M Property Maintenance. Registered in England & Wales."
+}
