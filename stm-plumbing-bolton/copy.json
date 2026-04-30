@@ -1,0 +1,108 @@
+{
+  "slug": "stm-plumbing-bolton",
+  "meta_title": "STM Plumbing | Emergency Plumber Bolton",
+  "meta_description": "STM Plumbing is your trusted emergency plumber in Bolton. Fast response, honest pricing, and expert repairs. Call now for same-day service.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Response",
+  "hero_headline": "Bolton's Trusted Local",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe at 3am? We're here. Emergency plumbing in Bolton with fast callouts and honest upfront pricing.",
+  "badge_4": "Same-Day Callouts Available",
+  "stats": [
+    {
+      "num": "Under 60 mins",
+      "label": "Average response time"
+    },
+    {
+      "num": "12+ years",
+      "label": "Local expertise"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rated"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Bolton and Greater Manchester",
+  "services_subhead": "From emergency callouts to planned installations, we handle all your plumbing needs with speed and professionalism.",
+  "services": [
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, leaks, and blockages fixed fast. We attend emergencies 24/7 and carry parts on the van to get the job done same day."
+    },
+    {
+      "title": "Boiler Installation & Repair",
+      "desc": "New boiler installations with 10-year warranties, plus emergency repairs to keep your heating running. Gas Safe certified throughout."
+    },
+    {
+      "title": "Central Heating",
+      "desc": "System upgrades, radiator installation, and power flushing to improve efficiency and cut your heating bills."
+    },
+    {
+      "title": "Bathroom & Kitchen Installation",
+      "desc": "Full bathroom redesigns and kitchen plumbing from concept to completion. We work with your timeline and budget."
+    },
+    {
+      "title": "Drain Clearance & Repair",
+      "desc": "Blocked drains cleared fast with CCTV inspection to diagnose root causes. We fix the problem, not just the symptom."
+    },
+    {
+      "title": "Maintenance & Servicing",
+      "desc": "Annual boiler servicing and planned maintenance visits prevent costly breakdowns and keep warranties valid."
+    }
+  ],
+  "about_pullquote": "We show up on time, fix it right, and charge what we quote. That's it.",
+  "about_para_1": "STM Plumbing has been serving Bolton and the surrounding areas for over 12 years. Started by a local plumber fed up with cowboys overcharging neighbours, we've built our reputation on honest pricing, rapid response, and workmanship that lasts. Every engineer is Gas Safe registered and trained to the highest standards.",
+  "about_para_2": "We answer our phone \u2014 not an automated queue. Our customers call us back because we turn up when we say, diagnose the real problem, and fix it without unnecessary extras. Whether it's 2pm on a Tuesday or 2am on a Sunday, you get the same professional service and fair pricing.",
+  "about_stats": [
+    {
+      "num": "12+ years",
+      "label": "Serving Bolton"
+    },
+    {
+      "num": "500+",
+      "label": "Plumbing jobs completed"
+    },
+    {
+      "num": "92%",
+      "label": "Repeat and referral customers"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency availability"
+    }
+  ],
+  "reviews_heading": "What Bolton Homeowners Say About STM Plumbing",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a burst pipe on a Sunday morning \u2014 phoned STM and someone was here within 45 minutes. Fixed it properly, not a temporary patch. Fair quote, no hidden charges. Brilliant service, will use again.",
+      "author": "Michael T.",
+      "loc": "Little Lever, Bolton \u2014 February 2025"
+    },
+    {
+      "text": "New boiler installation last month. The lads were professional, tidy, and finished on time. Explained everything clearly and the paperwork was all sorted. 10-year warranty gives me real peace of mind.",
+      "author": "Sandra K.",
+      "loc": "Westhoughton, Bolton \u2014 January 2025"
+    },
+    {
+      "text": "Called for an emergency blockage on a Friday night. They got someone out same evening, cleared it properly with CCTV inspection, and showed me what the problem was. No panic, no overcharging. Exactly what you want from a plumber.",
+      "author": "David R.",
+      "loc": "Tonge Fold, Bolton \u2014 December 2024"
+    }
+  ],
+  "address_sub": "Serving Bolton, Little Lever, Westhoughton, and surrounding areas across Greater Manchester",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Burst pipe or boiler breakdown? We attend emergencies 24/7 and aim to be with you within the hour. Call now \u2014",
+  "footer_description": "STM Plumbing is a Gas Safe registered local plumber in Bolton. Emergency callouts, boiler installation, and heating repairs available 24/7.",
+  "footer_copyright": "\u00a9 2026 STM Plumbing. Registered in England & Wales."
+}
