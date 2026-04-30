@@ -1,0 +1,106 @@
+{
+  "slug": "ajs-autolocks-birmingham",
+  "meta_title": "AJ's Autolocks | Emergency Locksmith Birmingham",
+  "meta_description": "AJ's Autolocks Birmingham offers 24/7 emergency lockout services, lock repairs, and key cutting. Fast response, competitive rates. Call now.",
+  "schema_opening_hours": [
+    "Mo-Su 00:00-23:59"
+  ],
+  "hero_eyebrow": "24/7 Emergency Response \u2014 Lock Outs, Repairs & Fitting",
+  "hero_headline": "Locked out in",
+  "hero_highlight": "Birmingham?",
+  "hero_subhead": "We arrive within the hour, any time of day or night. No call-out charge if we can't help.",
+  "badge_4": "No Call-Out Charge",
+  "stats": [
+    {
+      "num": "28yrs",
+      "label": "Trading in Birmingham"
+    },
+    {
+      "num": "2000+",
+      "label": "Lock-outs resolved"
+    },
+    {
+      "num": "Under 1hr",
+      "label": "Typical response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    }
+  ],
+  "services_heading": "Complete Locksmith Services Across Birmingham",
+  "services_subhead": "From emergency lock-outs to new installations and repairs, we handle every lock problem.",
+  "services": [
+    {
+      "title": "Emergency Lock-Out",
+      "desc": "Locked yourself out? We arrive within an hour, any time of day or night. No damage to your door \u2014 we use professional non-destructive entry methods."
+    },
+    {
+      "title": "Locks Repaired & Fitted",
+      "desc": "Worn locks, broken keys, or damaged mechanisms? We repair on the spot or fit new high-security locks to your home or business."
+    },
+    {
+      "title": "Cylinder & Mortice Locks",
+      "desc": "Specialise in fitting mortice locks and replacing cylinders. All work guaranteed \u2014 we use only quality locks that last."
+    },
+    {
+      "title": "Key Cutting",
+      "desc": "Need spare keys quickly? We cut keys on the spot for most domestic and commercial locks. Same-day service, competitive pricing."
+    },
+    {
+      "title": "Broken Key Extraction",
+      "desc": "Snapped key stuck in the lock? We remove it safely without damaging the mechanism and can cut you a new key on site."
+    },
+    {
+      "title": "Business Lock-Out",
+      "desc": "Locked out of your shop or office? Rapid response to get you trading again. We handle chains, shutters, and fire-exit doors."
+    }
+  ],
+  "about_pullquote": "I started this business solving the lockouts that frustrated me. That's still our mission today.",
+  "about_para_1": "AJ's Autolocks has been serving Birmingham and the surrounding areas for nearly three decades. We began as a one-man operation and have grown into a trusted team of fully qualified locksmiths, all trained to tackle emergencies calmly and quickly. Every member carries the tools needed to get you back inside without damage or fuss.",
+  "about_para_2": "We've built our reputation on being there when you need us most \u2014 at midnight or midday \u2014 and charging fairly for it. Customers choose us because we don't inflate our prices just because it's an emergency. We're local, we're honest, and we work around the clock so you don't have to.",
+  "about_stats": [
+    {
+      "num": "28yrs",
+      "label": "Serving Birmingham"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "2000+",
+      "label": "Emergency call-outs"
+    },
+    {
+      "num": "100%",
+      "label": "Non-destructive entry"
+    }
+  ],
+  "reviews_heading": "What Birmingham Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Locked out of my flat at 2am on a Saturday. Rang AJ's thinking I'd be waiting hours. Bloke was here in 40 minutes, got me in without any damage to the door, and didn't charge a fortune. Brilliant service.",
+      "author": "Marcus T.",
+      "loc": "Edgbaston, Birmingham \u2014 November 2024"
+    },
+    {
+      "text": "Used them for a broken lock on my shop door. They came out same day, fitted a new mortice lock, and left me with two spare keys. Professional job, fair price, and they cleaned up after themselves. Highly recommend.",
+      "author": "Sophie K.",
+      "loc": "Jewellery Quarter, Birmingham \u2014 September 2024"
+    },
+    {
+      "text": "Had a snapped key stuck in my front door. Thought I'd need the door forced open. They extracted it cleanly and cut me a new key on the spot. Couldn't fault them. Will definitely call AJ's again.",
+      "author": "David R.",
+      "loc": "Selly Park, Birmingham \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving all of Birmingham and surrounding areas",
+  "opening_hours_main": "24 hours, 7 days a week",
+  "opening_hours_sub": "Emergency response available at any time \u2014 including nights and weekends",
+  "emergency_banner_text": "Locked out right now? We aim to arrive within the hour, day or night. Call \u2014",
+  "footer_description": "AJ's Autolocks is Birmingham's trusted 24/7 locksmith. Emergency lock-outs, repairs, and key cutting with fast response and no call-out charges.",
+  "footer_copyright": "\u00a9 2026 AJ's Autolocks. All rights reserved."
+}
