@@ -1,0 +1,108 @@
+{
+  "slug": "greenstar-powerflushing-colchester",
+  "meta_title": "GreenStar Powerflushing | Plumber Colchester",
+  "meta_description": "GreenStar Powerflushing in Colchester offers expert plumbing, heating, and powerflushing services. Fast response, Gas Safe registered. Call now for emergency help.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Callouts",
+  "hero_headline": "Colchester's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe at 3am? We arrive within the hour, any day of the year. Fixed right, first time.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Serving Colchester"
+    },
+    {
+      "num": "2,500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rated"
+    },
+    {
+      "num": "60mins",
+      "label": "Average Response Time"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Colchester",
+  "services_subhead": "From emergency burst pipes to full central heating installations, we handle every plumbing and heating job with speed and precision.",
+  "services": [
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, leaks, and blockages fixed fast \u2014 any time of day or night. We carry parts on the van to get you back to normal quickly."
+    },
+    {
+      "title": "Boiler Repairs & Installation",
+      "desc": "Fast boiler diagnosis and repair, or a full new system install with a 10-year guarantee. Cuts heating bills and keeps your family warm all winter."
+    },
+    {
+      "title": "Powerflushing",
+      "desc": "Clear sludge and rust from your heating system to restore efficiency and stop radiators running cold. Restores heating performance and extends boiler life."
+    },
+    {
+      "title": "Central Heating Services",
+      "desc": "System design, installation, and maintenance to keep your home warm. We handle upgrades, repairs, and annual servicing for maximum efficiency."
+    },
+    {
+      "title": "Radiator Repairs & Bleeding",
+      "desc": "Fix leaking radiators, bleed air from the system, and balance heat throughout your home. Same-day service on most repairs."
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "desc": "Pinpoint hidden leaks with minimal disruption, then repair them properly. Saves money on water bills and prevents structural damage."
+    }
+  ],
+  "about_pullquote": "I started this because I was tired of seeing people overcharged for simple fixes.",
+  "about_para_1": "GreenStar Powerflushing was founded in 2006 with a simple mission: deliver honest, skilled plumbing and heating work at fair prices. Over 18 years, we've built a reputation across Colchester for turning up on time, diagnosing problems right, and finishing the job without surprise charges. Our team holds Gas Safe registration and completed over 2,500 jobs, from midnight burst pipes to full heating system replacements.",
+  "about_para_2": "We're known locally for straight talking and no nonsense. Whether you need an emergency callout or a planned heating upgrade, you get the same quality work and fair pricing. Nine in ten of our customers come back to us or recommend us to neighbours \u2014 that's because we treat your home like it matters, because it does.",
+  "about_stats": [
+    {
+      "num": "18",
+      "label": "Years in business"
+    },
+    {
+      "num": "2,500+",
+      "label": "Heating & plumbing jobs"
+    },
+    {
+      "num": "Gas Safe",
+      "label": "Registered"
+    },
+    {
+      "num": "90%",
+      "label": "Customer return rate"
+    }
+  ],
+  "reviews_heading": "What Colchester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a radiator leak on a Sunday morning \u2014 thought we'd be without heat for days. Called GreenStar and they had someone round by noon. Sorted it out in under an hour and the price was honest. Brilliant service, would definitely use them again.",
+      "author": "Michael T.",
+      "loc": "Colchester Town Centre \u2014 February 2025"
+    },
+    {
+      "text": "New boiler installation. The lads were professional, tidy, and explained everything as they went. System's running perfectly and they gave us a 10-year warranty. Can't fault them. Highly recommend.",
+      "author": "Karen L.",
+      "loc": "Wivenhoe, Colchester \u2014 December 2024"
+    },
+    {
+      "text": "Powerflushing job to get our heating working properly again. Cold radiators sorted, house warm again. Fair price, no messing about. These are the kind of tradesmen you actually want to see in your home.",
+      "author": "David P.",
+      "loc": "Colchester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Colchester, Wivenhoe, Tiptree, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 24/7 Emergency line",
+  "emergency_banner_text": "Emergency? Our team aims to be with you in under 60 minutes. Call now \u2014",
+  "footer_description": "GreenStar Powerflushing: Gas Safe\u2013registered plumbers and heating engineers in Colchester. Fast emergency response, honest prices, over 18 years' experience.",
+  "footer_copyright": "\u00a9 2026 GreenStar Powerflushing Ltd. All rights reserved."
+}
