@@ -1,0 +1,107 @@
+{
+  "slug": "tidy-trees-nottingham",
+  "meta_title": "Tidy Trees | Tree Surgery & Arborist Nottingham",
+  "meta_description": "Tidy Trees is your trusted arborist in Nottingham. Professional tree surgery, pruning, and removal. Fully insured, same-day quotes available.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-17:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "Fully Insured Arborists \u2014 Safe, Professional Tree Care",
+  "hero_headline": "Nottingham's Trusted",
+  "hero_highlight": "Tree Surgeons",
+  "hero_subhead": "Overgrown branches threatening your property? We remove hazardous trees and prune safely, same day where possible.",
+  "badge_4": "Free Site Surveys",
+  "stats": [
+    {
+      "num": "18+",
+      "label": "Years' experience"
+    },
+    {
+      "num": "500+",
+      "label": "Trees cleared"
+    },
+    {
+      "num": "24hrs",
+      "label": "Emergency response"
+    },
+    {
+      "num": "100%",
+      "label": "Waste recycled"
+    }
+  ],
+  "services_heading": "Complete Tree Surgery Services Across Nottingham",
+  "services_subhead": "From routine pruning to emergency storm damage clearance, we handle every tree job with care and expertise.",
+  "services": [
+    {
+      "title": "Tree Removal",
+      "desc": "Safe felling of dead, diseased, or unwanted trees of any size. We handle everything from the careful dismantling to complete stump removal and ground restoration."
+    },
+    {
+      "title": "Crown Reduction & Pruning",
+      "desc": "Strategic pruning to reduce branch weight, improve light, and promote healthy growth. Perfect for overgrown trees near buildings or power lines."
+    },
+    {
+      "title": "Emergency Storm Damage",
+      "desc": "Fallen branches or uprooted trees after bad weather? We attend emergencies 24/7 and clear hazards fast, leaving your garden safe."
+    },
+    {
+      "title": "Deadwood & Disease Removal",
+      "desc": "Identification and removal of dead wood and disease-affected branches, protecting the health of remaining trees and your family below."
+    },
+    {
+      "title": "Hedge Cutting & Shaping",
+      "desc": "Neat, professional hedge maintenance and topiary work to enhance your garden's appearance and structure."
+    },
+    {
+      "title": "Stump Grinding",
+      "desc": "Complete removal of tree stumps below ground level, leaving your garden level and usable with no regrowth."
+    }
+  ],
+  "about_pullquote": "We treat every garden like it's our own\u2014careful, safe, and done right first time.",
+  "about_para_1": "Tidy Trees has been caring for Nottinghamshire gardens for over 18 years. We started because we were frustrated by arborists who left chaos behind or charged over the odds. Today, we're known across the city for honest advice, meticulous work, and leaving gardens cleaner than we found them. All our team hold full arboricultural qualifications and up-to-date insurance.",
+  "about_para_2": "Your trees and garden matter to us. Whether it's a routine prune or an urgent storm callout, we turn up on time, explain what we're doing, and clean up every last twig. Most of our work now comes from repeat customers and their neighbours\u2014that's how we know we're getting it right.",
+  "about_stats": [
+    {
+      "num": "18+",
+      "label": "Years in business"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    },
+    {
+      "num": "30 mins",
+      "label": "Average response time"
+    }
+  ],
+  "reviews_heading": "What Nottingham Homeowners Say About Tidy Trees",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a massive oak tree that was shading our whole garden and dropping branches everywhere. Tidy Trees came out, gave us a fair quote without any hard sell, and got it down safely within a week. They chipped everything on-site and left the garden spotless. Really impressed. Highly recommend.",
+      "author": "Marcus T.",
+      "loc": "Clifton, Nottingham \u2014 February 2025"
+    },
+    {
+      "text": "Storm brought down a big branch onto our fence last November. Called Tidy Trees and they were here the same afternoon. Quick, professional, sorted it out and even fixed part of the fence. Saved us a lot of hassle. Will definitely use them again.",
+      "author": "Jennifer W.",
+      "loc": "Wollaton, Nottingham \u2014 November 2024"
+    },
+    {
+      "text": "Friendly lads, proper arborists. They pruned back three overgrown trees and explained everything they were doing. Not the cheapest quote we got, but they knew what they were talking about and the work's been done to a really high standard. Our garden looks brilliant now.",
+      "author": "David K.",
+      "loc": "Basford, Nottingham \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Nottingham, Clifton, Wollaton, Basford, and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 5pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 24-hour emergency line for storm damage",
+  "emergency_banner_text": "Emergency tree damage? Storm callouts 24/7. We aim to attend within the hour. Call now \u2014",
+  "footer_description": "Tidy Trees: professional arborists and tree surgeons in Nottingham. Full site surveys, same-day quotes, and complete tree care with 100% waste recycled.",
+  "footer_copyright": "\u00a9 2026 Tidy Trees Ltd. Registered in England & Wales."
+}
