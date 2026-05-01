@@ -1,0 +1,107 @@
+{
+  "slug": "dh-gas-services-colchester",
+  "meta_title": "DH Gas Services | Gas Engineer Colchester",
+  "meta_description": "DH Gas Services is your trusted Gas Safe registered engineer in Colchester. Fast boiler repairs, installations & maintenance. Call now for same-day service.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-14:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 Same-Day Callouts Available",
+  "hero_headline": "Colchester's Trusted",
+  "hero_highlight": "Gas Engineer",
+  "hero_subhead": "Boiler breakdown in Colchester? We arrive within 2 hours. Emergency repairs, installations, and annual servicing you can rely on.",
+  "badge_4": "Same-Day Appointments",
+  "stats": [
+    {
+      "num": "18yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "2hrs",
+      "label": "Typical Response Time"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Complete Gas & Heating Services in Colchester",
+  "services_subhead": "From emergency boiler repairs to full system installations, we handle every aspect of your gas and heating needs with speed and expertise.",
+  "services": [
+    {
+      "title": "Emergency Boiler Repairs",
+      "desc": "Your boiler has stopped working \u2014 we diagnose and fix most faults the same day. We carry common parts on the van to minimise downtime and cost."
+    },
+    {
+      "title": "Boiler Installation & Replacement",
+      "desc": "New combi, conventional, or system boiler installed by a Gas Safe engineer. We'll advise on the right model for your home and budget, with a 10-year warranty included."
+    },
+    {
+      "title": "Annual Boiler Servicing",
+      "desc": "Keep your boiler running safely and efficiently with an annual service. We spot problems early, extend appliance life, and maintain your warranty."
+    },
+    {
+      "title": "Radiator & Heating System Repairs",
+      "desc": "Leaking radiators, cold spots, or noisy pipes? We repair and balance your heating system to restore warmth throughout your home."
+    },
+    {
+      "title": "Gas Safety Certificates",
+      "desc": "Landlords and letting agents: we issue annual Gas Safety Certificates for rental properties across Colchester, with documentation sent directly to your tenant."
+    },
+    {
+      "title": "Cooker & Appliance Installation",
+      "desc": "Safe, compliant installation of gas cookers, hobs, and other appliances. All work carries the Gas Safe seal and our 12-month guarantee."
+    }
+  ],
+  "about_pullquote": "I started this business because tenants and homeowners deserved honesty and fair prices.",
+  "about_para_1": "DH Gas Services was established to provide Colchester and the surrounding areas with reliable, honest gas engineering. With 18 years' experience and Gas Safe registration, we've built our reputation on turning up on time, diagnosing problems fairly, and fixing them right the first time. Every engineer on our team is fully qualified and carries the right certifications.",
+  "about_para_2": "We pride ourselves on answering the phone when customers call \u2014 not pushing them to a website form. Many of our customers are repeat clients or referrals because they know we won't overcharge or push unnecessary work. Whether you're a homeowner with a broken boiler or a landlord managing multiple properties, we treat your home with the same care we'd give our own.",
+  "about_stats": [
+    {
+      "num": "18yrs",
+      "label": "In business"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "98%",
+      "label": "Repeat customers"
+    },
+    {
+      "num": "All",
+      "label": "Gas Safe registered"
+    }
+  ],
+  "reviews_heading": "What Colchester Customers Say About Us",
+  "rating": 4.8,
+  "review_count": 87,
+  "reviews": [
+    {
+      "text": "Boiler packed in on a Sunday afternoon. Called DH Gas and they were here by 5pm. New pump fitted, system bled, and we had heating again before supper. Fair price, no messing about. Would definitely call again.",
+      "author": "Michael T.",
+      "loc": "Wivenhoe, Colchester \u2014 November 2024"
+    },
+    {
+      "text": "Had the annual service done on our rental property. The engineer was thorough, explained what he was checking, and provided the certificate straight away. That's the kind of professionalism you want as a landlord.",
+      "author": "Emma R.",
+      "loc": "Colchester town centre \u2014 October 2024"
+    },
+    {
+      "text": "Needed a new boiler installed. They gave me honest advice about what would work for our semi, quoted a fair price, and the job was done neatly in a day. No hidden charges. Highly recommend.",
+      "author": "David P.",
+      "loc": "Dedham, near Colchester \u2014 September 2024"
+    }
+  ],
+  "address_sub": "Serving Colchester, Wivenhoe, Dedham, and surrounding villages",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 2pm \u2022 Emergency callouts available outside these hours",
+  "emergency_banner_text": "Boiler down? We aim to arrive within 2 hours across Colchester. Call now \u2014",
+  "footer_description": "DH Gas Services: Gas Safe registered engineer in Colchester. Fast boiler repairs, installations, and servicing. Same-day appointments available.",
+  "footer_copyright": "\u00a9 2026 DH Gas Services Ltd. All rights reserved."
+}
