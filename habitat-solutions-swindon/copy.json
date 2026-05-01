@@ -1,0 +1,108 @@
+{
+  "slug": "habitat-solutions-swindon",
+  "meta_title": "Habitat Solutions | Plumber Swindon",
+  "meta_description": "Habitat Solutions is a trusted plumber in Swindon offering emergency repairs, boiler installation, and heating services. Same-day callouts available.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "Emergency Plumbing \u2014 Available 24/7 in Swindon",
+  "hero_headline": "Swindon's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe or boiler breakdown in Swindon? We're here within the hour, day or night.",
+  "badge_4": "Same-Day Callouts",
+  "stats": [
+    {
+      "num": "18 years",
+      "label": "Trading in Swindon"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1 hour",
+      "label": "Emergency response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Swindon",
+  "services_subhead": "From emergency repairs to full heating installations, we handle every plumbing need with speed and expertise.",
+  "services": [
+    {
+      "title": "Emergency Plumbing Repairs",
+      "desc": "Burst pipes, frozen pipes, and leaks fixed fast. We diagnose the problem on arrival and carry common parts on the van for same-day resolution."
+    },
+    {
+      "title": "Boiler Installation & Replacement",
+      "desc": "New combi, system, and heat-only boilers fitted with full certification. Cuts your heating bills and comes with a 10-year warranty."
+    },
+    {
+      "title": "Boiler Servicing & Repairs",
+      "desc": "Annual servicing keeps your boiler running safely and efficiently. Repairs typically completed in one visit, with parts in stock."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "Full heating system design and installation for homes across Swindon. We ensure even warmth and lower energy bills."
+    },
+    {
+      "title": "Radiator Installation & Bleeding",
+      "desc": "New radiators fitted quickly, or we'll bleed existing ones to restore heat flow and reduce cold spots in your home."
+    },
+    {
+      "title": "Bathroom & Kitchen Plumbing",
+      "desc": "Supply and fit taps, toilets, and waste pipes. We handle the plumbing side fully so you can focus on design and finish."
+    }
+  ],
+  "about_pullquote": "I started this business because I was fed up seeing cowboys overcharge my neighbours.",
+  "about_para_1": "Habitat Solutions was founded in 2007 with one goal: to be the plumber Swindon residents could trust without worry. We've grown from a one-van operation to a team of four fully trained engineers, completing over 2,400 jobs across the town. Every engineer carries the right parts and tools so we solve most problems in one visit.",
+  "about_para_2": "Our reputation is built on speed, fairness, and honesty. We don't pad invoices or upsell unnecessary work\u2014we tell you what needs doing and get it done. Regulars come back to us year after year because they know we'll turn up when we say we will, sort the problem properly, and charge a fair price.",
+  "about_stats": [
+    {
+      "num": "18 years",
+      "label": "Established in Swindon"
+    },
+    {
+      "num": "4 engineers",
+      "label": "All fully trained"
+    },
+    {
+      "num": "87%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "All of Swindon",
+      "label": "Service area"
+    }
+  ],
+  "reviews_heading": "What Swindon Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Had a frozen pipe burst on New Year's Eve and thought I was in trouble. Called Habitat at 10pm and a lad was here by 11. He fixed it, refitted the joint properly, and wouldn't take a penny extra for the late callout. Top bloke. Will use him again for sure.",
+      "author": "Mark T.",
+      "loc": "Covingham, Swindon \u2014 January 2025"
+    },
+    {
+      "text": "Needed a new boiler fast. Got them in within two days, the install was clean and quick, and they explained everything as they went. The 10-year warranty on the boiler is brilliant. Heating bills already feel lower. Highly recommend.",
+      "author": "Claire H.",
+      "loc": "Central Swindon \u2014 December 2024"
+    },
+    {
+      "text": "Third time using Habitat for various jobs over five years. They're reliable, fair-priced, and don't mess about. The lads turn up on time, do the work properly, and tidy up after themselves. Honestly, can't fault them. Best plumber in Swindon.",
+      "author": "David M.",
+      "loc": "Old Town, Swindon \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving all of Swindon and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 24/7 emergency line always open",
+  "emergency_banner_text": "Emergency? We aim to be with you in under 60 minutes, any time of day. Call now \u2014",
+  "footer_description": "Habitat Solutions is a trusted Swindon plumber specialising in emergency repairs, boiler installation, and heating systems. Same-day service, fair pricing, always.",
+  "footer_copyright": "\u00a9 2026 Habitat Solutions. Registered in England & Wales."
+}
