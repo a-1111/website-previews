@@ -1,0 +1,107 @@
+{
+  "slug": "matthew-electrical-heating-st-albans",
+  "meta_title": "Matthew Electrical & Heating | Electrician St Albans",
+  "meta_description": "Matthew Electrical & Heating in St Albans. Qualified electrician offering repairs, installations and maintenance. Same-day service available. Call now.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-17:00"
+  ],
+  "hero_eyebrow": "Fully Qualified \u2014 Same-Day Emergency Callouts",
+  "hero_headline": "St Albans' Trusted",
+  "hero_highlight": "Local Electrician",
+  "hero_subhead": "Faulty electrics or a tripped circuit in St Albans? We diagnose and fix the problem fast, with no hidden charges.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in business"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    },
+    {
+      "num": "Under 1 hour",
+      "label": "Typical response time"
+    }
+  ],
+  "services_heading": "Electrical Services Across St Albans",
+  "services_subhead": "From emergency repairs to full rewires, we handle domestic and commercial electrical work with speed and precision.",
+  "services": [
+    {
+      "title": "Emergency Repairs",
+      "desc": "Blown fuses, tripped circuits, or dead sockets? We arrive fast and get the power back on. Available 24/7 for urgent jobs."
+    },
+    {
+      "title": "Boiler Installation & Repair",
+      "desc": "New combi boiler fitted or your existing system serviced and repaired. We ensure reliable heating and hot water all year round."
+    },
+    {
+      "title": "Rewiring & Upgrades",
+      "desc": "Old wiring causing concern? We replace outdated electrics and install modern consumer units to keep your home safe."
+    },
+    {
+      "title": "Heating System Maintenance",
+      "desc": "Annual boiler servicing and heating repairs keep your system running efficiently and catch problems before they become expensive."
+    },
+    {
+      "title": "Fault Finding & Testing",
+      "desc": "Strange electrical behaviour? We diagnose intermittent faults, test circuits, and identify safety risks quickly."
+    },
+    {
+      "title": "Socket & Switch Installation",
+      "desc": "Adding new sockets, switches, or USB charging points. Neatly installed, properly tested, and to current building standards."
+    }
+  ],
+  "about_pullquote": "I started this business to give St Albans a fair, honest electrician.",
+  "about_para_1": "Matthew Electrical & Heating was founded on the principle that local families and businesses deserve straightforward, reliable electrical work without the inflated bills. For over 15 years, we've built our reputation by showing up on time, fixing the problem right, and explaining what we've done in plain English. Every member of our team is properly qualified and insured.",
+  "about_para_2": "Our customers come back because we don't cut corners or upsell unnecessary work. Whether it's an emergency call-out at 10pm or a planned rewire, we treat your home with the same care we'd give our own. We're based right here in St Albans, so we know the area and our neighbours know us.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years local experience"
+    },
+    {
+      "num": "2000+",
+      "label": "St Albans homes served"
+    },
+    {
+      "num": "98%",
+      "label": "Customer satisfaction"
+    },
+    {
+      "num": "Full insurance",
+      "label": "& qualifications"
+    }
+  ],
+  "reviews_heading": "What St Albans Customers Say",
+  "rating": 4.8,
+  "review_count": 156,
+  "reviews": [
+    {
+      "text": "Boiler packed up in December and I panicked. Matthew came out the same day, diagnosed a dead pump, and had us back on heating in two hours. No faffing about, no silly prices. Top bloke.",
+      "author": "David T.",
+      "loc": "Verulam, St Albans \u2014 January 2025"
+    },
+    {
+      "text": "Had dodgy wiring in an old cottage we'd just bought. Matthew did a full survey, explained what needed doing, and then rewired two rooms without any mess. Very professional and actually cheaper than the first two quotes.",
+      "author": "Emma R.",
+      "loc": "Harpenden Road, St Albans \u2014 November 2024"
+    },
+    {
+      "text": "Called on a Friday evening with a tripped electrics problem. Matthew turned up within 45 minutes, found a faulty appliance, and sorted it straight away. Will definitely use again. Exactly what you want from a local tradesman.",
+      "author": "Paul M.",
+      "loc": "Holywell Hill, St Albans \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving St Albans and surrounding areas",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 5pm \u2022 Emergency callouts available 24/7",
+  "emergency_banner_text": "Emergency electrics or heating failure? We're on our way within an hour. Call now \u2014",
+  "footer_description": "Matthew Electrical & Heating is a trusted, fully qualified electrician in St Albans. Same-day repairs, installations, and heating services for homes and businesses.",
+  "footer_copyright": "\u00a9 2026 Matthew Electrical & Heating. All rights reserved."
+}
