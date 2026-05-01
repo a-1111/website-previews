@@ -1,0 +1,108 @@
+{
+  "slug": "plumbtec-plymouth",
+  "meta_title": "PlumbTec | Emergency Plumber Plymouth",
+  "meta_description": "PlumbTec is your trusted emergency plumber in Plymouth. Fast response, same-day repairs, and honest pricing. Call now for urgent plumbing help.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "24/7 Emergency Response \u2014 Plymouth's Local Plumber",
+  "hero_headline": "Plymouth's Most Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe or boiler breakdown in Plymouth? We arrive fast and fix it right, any time of day or night.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years in Plymouth"
+    },
+    {
+      "num": "Under 1 hour",
+      "label": "Emergency response time"
+    },
+    {
+      "num": "500+",
+      "label": "Local jobs completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing Services Across Plymouth",
+  "services_subhead": "From emergency callouts to planned maintenance, we handle every aspect of residential and commercial plumbing.",
+  "services": [
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, leaks, and blockages need fast action. We're on call 24/7 to stop water damage before it spreads. Most jobs finished the same day."
+    },
+    {
+      "title": "Boiler Repair & Installation",
+      "desc": "Gas boiler repairs, replacements, and commissioning. We fit quality condensing boilers that cut heating bills and come with 10-year guarantees."
+    },
+    {
+      "title": "Drain Cleaning & Unblocking",
+      "desc": "Slow drains, foul smells, or complete blockages? We use CCTV surveys and high-pressure jetting to clear the problem and prevent it returning."
+    },
+    {
+      "title": "Radiator & Heating System Work",
+      "desc": "Bleeding radiators, power flushing, thermostatic valve fitting, and full system upgrades. We ensure your heating runs efficiently all winter."
+    },
+    {
+      "title": "Bathroom & Kitchen Plumbing",
+      "desc": "Tap repairs and replacement, toilet cistern work, shower valve fitting, and waste pipe installation. We handle the plumbing for your renovation project."
+    },
+    {
+      "title": "Leak Detection & Repair",
+      "desc": "Hidden leaks waste water and money. We locate the source using professional equipment and repair it properly, with minimal disruption to your home."
+    }
+  ],
+  "about_pullquote": "I started this business because homeowners deserve honest pricing and a plumber who shows up when they say they will.",
+  "about_para_1": "PlumbTec was founded on a simple principle: fix plumbing properly the first time, and treat every customer's home with the same care we'd give our own. Over 15 years, we've built a reputation across Plymouth for reliability, fair pricing, and emergency response that actually arrives on time. Our van is stocked with common parts so most repairs finish in one visit.",
+  "about_para_2": "We're not a call centre \u2014 you speak to a real plumber who understands your problem. Repeat customers make up over 60% of our work because people trust us to do the job right and tell them the truth. Whether it's midnight on a Sunday or a planned boiler install, we show up ready to work.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years serving Plymouth"
+    },
+    {
+      "num": "60%",
+      "label": "Repeat customer rate"
+    },
+    {
+      "num": "500+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency availability"
+    }
+  ],
+  "reviews_heading": "What Plymouth Homeowners Say About PlumbTec",
+  "rating": 4.8,
+  "review_count": 127,
+  "reviews": [
+    {
+      "text": "Had a burst pipe on Christmas Eve and thought I'd be waiting days for a plumber. PlumbTec answered the phone straight away and had someone out within the hour. They found where the pipe had cracked, replaced the section, and tested the whole system. Honest price, no faffing about. Brilliant service.",
+      "author": "David K.",
+      "loc": "Devonport, Plymouth \u2014 December 2024"
+    },
+    {
+      "text": "My boiler had packed in at the worst possible time. Rang PlumbTec and they came out the same afternoon. The engineer explained what was wrong without talking down to me, quoted a fair price, and had a replacement fitted and working by evening. Even sorted out my radiator thermostat while he was at it. Really impressed.",
+      "author": "Margaret T.",
+      "loc": "Mutley, Plymouth \u2014 January 2025"
+    },
+    {
+      "text": "Been using PlumbTec for nearly 10 years now. Every time I ring they remember me, never overcharge, and always do a proper job. Just had them out to clear a blocked drain and power flush the system before winter. Would recommend them to anyone in Plymouth without hesitation.",
+      "author": "Simon R.",
+      "loc": "Plympton, Plymouth \u2014 November 2024"
+    }
+  ],
+  "address_sub": "Serving Plymouth and surrounding areas including Tavistock, Okehampton, and South Hams",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Emergency? We aim to be with you in under an hour, any time of day or night. Call now \u2014",
+  "footer_description": "PlumbTec is Plymouth's trusted emergency plumber. Fast response, same-day repairs, honest pricing. 24/7 availability.",
+  "footer_copyright": "\u00a9 2026 PlumbTec. All rights reserved."
+}
