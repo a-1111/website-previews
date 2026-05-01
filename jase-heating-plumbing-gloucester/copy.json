@@ -1,0 +1,108 @@
+{
+  "slug": "jase-heating-plumbing-gloucester",
+  "meta_title": "Jase Heating & Plumbing | Gas Engineer Gloucester",
+  "meta_description": "Jase Heating & Plumbing is your trusted gas engineer in Gloucester. Fast boiler repairs, installations, and emergency call-outs. Same-day service available.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-19:00",
+    "Sa 08:00-17:00",
+    "Su 09:00-14:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Call-Outs",
+  "hero_headline": "Gloucester's Trusted",
+  "hero_highlight": "Gas Engineer",
+  "hero_subhead": "Boiler broken in the middle of winter? Jase arrives fast\u2014most jobs completed same day, any time.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "15+ yrs",
+      "label": "Experience"
+    },
+    {
+      "num": "2,000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "Under 1 hr",
+      "label": "Average Response"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    }
+  ],
+  "services_heading": "Comprehensive Heating & Plumbing Services in Gloucester",
+  "services_subhead": "From emergency boiler repairs to full heating system installations, we handle every aspect of your home's warmth and water.",
+  "services": [
+    {
+      "title": "Emergency Boiler Repairs",
+      "desc": "Breakdown at 2am? We're here. Same-day diagnostics and repair for all makes and models, with a 12-month parts guarantee."
+    },
+    {
+      "title": "Boiler Installation & Replacement",
+      "desc": "Upgrade to a new combi or system boiler and slash your heating bills. Full installation, commissioning, and 10-year warranty included."
+    },
+    {
+      "title": "Central Heating Maintenance",
+      "desc": "Annual power flushes and servicing keep your system running efficiently. Catch problems before they become expensive breakdowns."
+    },
+    {
+      "title": "Radiator Repairs & Installation",
+      "desc": "Cold radiators, leaks, or fitting new ones throughout your home. We balance systems and upgrade old cast-iron rads to modern efficient models."
+    },
+    {
+      "title": "Pipework & Leak Detection",
+      "desc": "Burst pipes or slow drips causing damp? We locate and repair leaks quickly, with minimal disruption to your home."
+    },
+    {
+      "title": "Gas Safety Inspections",
+      "desc": "Annual gas safety certificates for landlords and homeowners. Full system check, testing, and full documentation\u2014peace of mind in writing."
+    }
+  ],
+  "about_pullquote": "We turn up on time, do the job properly, and charge a fair price\u2014simple as that.",
+  "about_para_1": "Jase founded this business over 15 years ago because he was frustrated watching neighbours get overcharged by distant call centres and cowboys. He trained as a Gas Safe registered engineer and built a reputation for honesty, speed, and quality work across Gloucester and the surrounding villages. Today, we've completed over 2,000 jobs and count many customers as repeat clients.",
+  "about_para_2": "What sets us apart is our commitment to getting you fixed fast\u2014we aim to arrive within an hour for emergencies and carry most common parts on the van. We stand behind every job with a 12-month guarantee on parts, and we never charge a call-out fee. Customers come back because we listen, we explain what's wrong, and we never sell you something you don't need.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "2,000+",
+      "label": "Satisfied Customers"
+    },
+    {
+      "num": "Gloucester & Beyond",
+      "label": "Coverage Area"
+    },
+    {
+      "num": "12 months",
+      "label": "Parts Guarantee"
+    }
+  ],
+  "reviews_heading": "What Gloucester Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 287,
+  "reviews": [
+    {
+      "text": "Boiler packed up just before Christmas and I was panicking. Jase came out the same day, diagnosed a failed pump, and had us warm again by evening. Fair price, no faffing about, and he explained everything as he went. Will definitely use again.",
+      "author": "David P.",
+      "loc": "Tuffley, Gloucester \u2014 December 2024"
+    },
+    {
+      "text": "Had a radiator leaking all over the kitchen. Called at 8am and Jase was here by 9:30. Replaced the whole thing, bled the system, and cleaned up the mess himself. Exactly what you want from a tradesman. Can't fault him.",
+      "author": "Margaret T.",
+      "loc": "Churchdown, Gloucester \u2014 February 2025"
+    },
+    {
+      "text": "We had Jase in for our annual boiler service. He's thorough, professional, and genuinely knowledgeable. The gas safety cert came through no bother, and he didn't try to sell us anything we didn't need. Rare these days. Would recommend him to anyone.",
+      "author": "Simon B.",
+      "loc": "Matson, Gloucester \u2014 January 2025"
+    }
+  ],
+  "address_sub": "Serving Gloucester, Tuffley, Churchdown, Matson, and surrounding villages",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 7pm",
+  "opening_hours_sub": "Sat: 8am \u2013 5pm \u2022 Sun: 9am \u2013 2pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Boiler down or heating system failing? We aim to be with you within an hour. Call now \u2014",
+  "footer_description": "Jase Heating & Plumbing is a Gas Safe registered engineer serving Gloucester and beyond. Fast emergency repairs, boiler installations, and honest advice.",
+  "footer_copyright": "\u00a9 2026 Jase Heating & Plumbing. Gas Safe Registered."
+}
