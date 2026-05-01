@@ -1,0 +1,107 @@
+{
+  "slug": "platinum-gas-preston",
+  "meta_title": "Platinum Gas | Gas Engineer Preston",
+  "meta_description": "Platinum Gas provides expert gas engineering and boiler services across Preston. Gas Safe registered, emergency callouts available. Call 07854 718827 today.",
+  "schema_opening_hours": [
+    "Mo-Fr 08:00-18:00",
+    "Sa 09:00-13:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Callouts",
+  "hero_headline": "Preston's Trusted",
+  "hero_highlight": "Gas Engineer",
+  "hero_subhead": "Boiler breakdown at the weekend? Platinum Gas responds to emergencies across Preston within the hour, any time of day or night.",
+  "badge_4": "Same-Day Service Available",
+  "stats": [
+    {
+      "num": "15+",
+      "label": "Years Experience"
+    },
+    {
+      "num": "2000+",
+      "label": "Jobs Completed"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Customer Rating"
+    },
+    {
+      "num": "60 mins",
+      "label": "Average Response Time"
+    }
+  ],
+  "services_heading": "Complete Gas Engineering Services in Preston",
+  "services_subhead": "From routine servicing to emergency repairs and new installations, Platinum Gas handles all your gas and heating needs with speed and expertise.",
+  "services": [
+    {
+      "title": "Emergency Boiler Repairs",
+      "desc": "Boiler packed in? We attend emergency callouts 24/7 across Preston. Most faults diagnosed and fixed the same day, keeping your home warm and your bills under control."
+    },
+    {
+      "title": "Annual Boiler Servicing",
+      "desc": "Keep your boiler efficient and safe with a yearly check-up. We spot small problems before they become expensive, and your warranty stays valid."
+    },
+    {
+      "title": "New Boiler Installation",
+      "desc": "Modern condensing boilers cut heating costs by up to 40%. We handle the full installation, paperwork, and warranty \u2014 with no disruption to your home."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "Full heating system design and installation from pipes to radiators. We build systems that heat your home evenly and run efficiently for years."
+    },
+    {
+      "title": "Gas Safety Checks",
+      "desc": "Landlords and property managers: we carry out gas safety inspections and issue compliance certificates to protect your tenants and your liability."
+    },
+    {
+      "title": "Radiator Replacement & Repairs",
+      "desc": "Cold spots on your radiators? We replace corroded units and bleed air locks, restoring even heat throughout your home."
+    }
+  ],
+  "about_pullquote": "I started Platinum Gas because I saw homeowners being let down by cowboys who vanish after the sale.",
+  "about_para_1": "Platinum Gas was founded 15 years ago on a simple promise: turn up on time, do the job right, and charge a fair price. We've built our reputation across Preston by treating every customer's home like our own. Every engineer carries full parts inventory and diagnostic kit, so most jobs are completed the same day\u2014no follow-up visits, no surprises.",
+  "about_para_2": "Our customers come back because they trust us. We're Gas Safe registered, insured, and we stand behind our work with written guarantees. Word of mouth from satisfied homeowners is how we've grown\u2014and it's the best testimony we could ask for.",
+  "about_stats": [
+    {
+      "num": "15+",
+      "label": "Years in Business"
+    },
+    {
+      "num": "100%",
+      "label": "Gas Safe Registered"
+    },
+    {
+      "num": "2000+",
+      "label": "Preston Homes Served"
+    },
+    {
+      "num": "24/7",
+      "label": "Emergency Support"
+    }
+  ],
+  "reviews_heading": "What Preston Homeowners Say About Platinum Gas",
+  "rating": 4.8,
+  "review_count": 187,
+  "reviews": [
+    {
+      "text": "Our boiler died on a Friday evening in December\u2014nightmare timing. Called Platinum Gas at 7pm and they were here by 8. Fixed it that same night. Wouldn't be without them now.",
+      "author": "David P.",
+      "loc": "Ashton-on-Ribble, Preston \u2014 December 2024"
+    },
+    {
+      "text": "Had my annual service done last month. The engineer was thorough, explained everything clearly, and didn't try to sell me unnecessary bits. Great value and a company you can actually trust.",
+      "author": "Margaret T.",
+      "loc": "Deepdale, Preston \u2014 January 2025"
+    },
+    {
+      "text": "New boiler installation from start to finish. Professional throughout, on schedule, and the paperwork was all sorted. Three months in and the heating runs beautifully. Highly recommend.",
+      "author": "James H.",
+      "loc": "Fulwood, Preston \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving Preston and surrounding areas within a 15-mile radius",
+  "opening_hours_main": "Mon\u2013Fri: 8am \u2013 6pm",
+  "opening_hours_sub": "Sat: 9am \u2013 1pm \u2022 Emergency line available 24/7",
+  "emergency_banner_text": "Boiler emergency? We aim to attend within 60 minutes. Call now \u2014",
+  "footer_description": "Platinum Gas provides Gas Safe registered boiler repairs, servicing, and installations across Preston. Emergency callouts 24/7.",
+  "footer_copyright": "\u00a9 2026 Platinum Gas. All rights reserved."
+}
