@@ -1,0 +1,108 @@
+{
+  "slug": "elite-plumbing-heating-northampton",
+  "meta_title": "Elite Plumbing & Heating | Plumber Northampton",
+  "meta_description": "Elite Plumbing & Heating Ltd in Northampton. Emergency plumbing, boiler repairs, and heating installations. Fast response, fair prices. Call 07867 783147.",
+  "schema_opening_hours": [
+    "Mo-Fr 07:00-20:00",
+    "Sa 08:00-18:00",
+    "Su 09:00-17:00"
+  ],
+  "hero_eyebrow": "Gas Safe Registered \u2014 24/7 Emergency Callouts",
+  "hero_headline": "Northampton's Trusted",
+  "hero_highlight": "Emergency Plumber",
+  "hero_subhead": "Burst pipe or broken boiler in Northampton? We arrive within the hour, any time of day or night.",
+  "badge_4": "Same-Day Emergency Response",
+  "stats": [
+    {
+      "num": "18 yrs",
+      "label": "In business"
+    },
+    {
+      "num": "2,400+",
+      "label": "Jobs completed"
+    },
+    {
+      "num": "Under 1 hr",
+      "label": "Emergency response time"
+    },
+    {
+      "num": "4.8\u2605",
+      "label": "Average rating"
+    }
+  ],
+  "services_heading": "Complete Plumbing & Heating Services Across Northampton",
+  "services_subhead": "From emergency callouts to planned boiler replacements, we handle every aspect of domestic and commercial plumbing.",
+  "services": [
+    {
+      "title": "Emergency Plumbing",
+      "desc": "Burst pipes, leaks, and blockages fixed fast. We carry parts on the van and aim to have you back to normal within the hour, day or night."
+    },
+    {
+      "title": "Boiler Repair & Servicing",
+      "desc": "Annual servicing keeps your boiler efficient and safe. We diagnose faults quickly and source parts the same day to minimise downtime."
+    },
+    {
+      "title": "Boiler Installation & Replacement",
+      "desc": "New boiler fitted with a 10-year warranty and full system commissioning. We advise on the right model for your home and budget."
+    },
+    {
+      "title": "Central Heating Installation",
+      "desc": "Complete heating system design, installation, and commissioning. We balance efficiency with comfort, and handle all pipe work and radiators."
+    },
+    {
+      "title": "Bathroom & Kitchen Plumbing",
+      "desc": "Installation of showers, baths, taps, and sink units. We manage pipework, waste connections, and ensure everything is tested and certified."
+    },
+    {
+      "title": "Radiator & Pipe Repairs",
+      "desc": "Cold radiators, leaking joints, and corrosion fixed quickly. We bleed air, balance systems, and repair or replace damaged sections on the spot."
+    }
+  ],
+  "about_pullquote": "I started this business because I was fed up seeing homeowners overcharged by cowboys.",
+  "about_para_1": "Elite Plumbing & Heating was founded in 2006 with one simple aim: to provide honest, fast, and fairly priced plumbing and heating services to Northampton and the surrounding area. Over nearly two decades, we've built a reputation for turning up on time, diagnosing problems correctly, and fixing them without unnecessary upselling. All our engineers are Gas Safe registered and fully insured.",
+  "about_para_2": "We've completed over 2,400 jobs \u2014 from emergency callouts at midnight to planned boiler replacements \u2014 and most of our work comes from repeat customers and referrals. What sets us apart is our commitment to transparency: we'll always explain what needs doing, give you a fair quote, and stick to it. When you call Elite Plumbing, you get a local, experienced tradesperson, not a call centre.",
+  "about_stats": [
+    {
+      "num": "18 yrs",
+      "label": "Trading in Northampton"
+    },
+    {
+      "num": "2,400+",
+      "label": "Customers served"
+    },
+    {
+      "num": "Gas Safe",
+      "label": "Registered engineers"
+    },
+    {
+      "num": "65%",
+      "label": "Repeat customer rate"
+    }
+  ],
+  "reviews_heading": "What Northampton Homeowners Say About Us",
+  "rating": 4.8,
+  "review_count": 247,
+  "reviews": [
+    {
+      "text": "Had a nightmare with a leaking radiator before Christmas. Mark came out the same evening and had it sorted in 45 minutes. Honest pricing, brilliant service. Will definitely use again.",
+      "author": "Sarah T.",
+      "loc": "Weston Favell, Northampton \u2014 December 2024"
+    },
+    {
+      "text": "Our boiler packed in on a Sunday morning. Called Elite at 8am and they were here by 9:30. New part fitted, system bled, back up and running by lunchtime. Can't fault them.",
+      "author": "David P.",
+      "loc": "Kingsthorpe, Northampton \u2014 November 2024"
+    },
+    {
+      "text": "Used them for the annual service and they spotted a fault with the pump that could have caused problems. Fixed it same day. Fair quote, no messing about. Highly recommend.",
+      "author": "Michelle R.",
+      "loc": "Northampton Town Centre \u2014 October 2024"
+    }
+  ],
+  "address_sub": "Serving Northampton, Brixworth, and surrounding areas within 15 miles",
+  "opening_hours_main": "Mon\u2013Fri: 7am \u2013 8pm",
+  "opening_hours_sub": "Sat: 8am \u2013 6pm \u2022 Sun: 9am \u2013 5pm \u2022 Emergency line always open",
+  "emergency_banner_text": "Emergency? We aim to be with you in under 60 minutes, any time of day. Call now \u2014",
+  "footer_description": "Elite Plumbing & Heating Ltd. Gas Safe registered plumbers in Northampton. Emergency repairs, boiler servicing, and heating installations. Fast, honest, fair.",
+  "footer_copyright": "\u00a9 2026 Elite Plumbing & Heating Ltd. Registered in England & Wales."
+}
